@@ -2,5 +2,5 @@ collections:
   staff:
     output: true
     order:
-      - Middle Staff.md
+      - Middle Management.md
       - All Staff.md
