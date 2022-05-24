@@ -2,5 +2,6 @@ collections:
   school-information:
     output: true
     order:
+      - School Rules & School Song.md
       - School Profile.md
       - Principal's Message.md
