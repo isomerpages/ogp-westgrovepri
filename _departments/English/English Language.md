@@ -164,3 +164,23 @@ As part of the Total Defence programme, West Grove Primary School also partnered
 ![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%201.jpg)
 ![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%202.jpg)
 ![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%203.jpg)
+
+**Moo-O Competition at OGLC (9 March)**
+
+In this competition, pupils were given a reading task to complete. 3 selected P3 pupils worked in a group and chose a story from a series of stories from the Moo O software. Each group was given a task to read a story based on their chosen character. It is an interesting and engaging software as pupils are having fun in playing characters in each scene as they read. In this Moo O software, pupils are able to practise their reading in terms of accuracy and fluency. You can try this out at home too and have fun reading!
+
+![](/images/Moo-O%20Competition%20at%20OGLC%20-%201.jpg)
+![](/images/Moo-O%20Competition%20at%20OGLC%20-%202.jpg)
+![](/images/Moo-O%20Competition%20at%20OGLC%20-%203.png)
+
+**EL Bites (9 March)**
+
+Pupils participating in a series of activities during EL Bites recess activities. EL Bites offers a game based approach to learning English. Fun and interactive!
+
+
+**P5 Parent's Workshop: Using News to Teach English - How you can support (12 March)**
+
+A workshop for parents was conducted to provide a platform to help them pick up more strategies on how they can use newspapers and current affairs to improve their child's English language skills. The Straits Times or other news media was used as a learning tool to aid parents to cultivate their child's interest in newspapers and current affairs and coach their child in English. There was hands-on too so that the experience is authentic and relevant.
+
+![](/images/P5%20Parents%20Workshop%20-%201.jpg)
+![](/images/P5%20Parents%20Workshop%20-%202.jpg)
