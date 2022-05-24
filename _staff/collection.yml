@@ -2,10 +2,10 @@ collections:
   staff:
     output: true
     order:
-      - Useful Links for Staff.md
-      - EAS Suppport Staff.md
-      - Allied Educators & Teaching Support Staff.md
-      - Form Teachers.md
-      - Lead & Senior Teachers.md
-      - Middle Management.md
       - All Staff.md
+      - Middle Management.md
+      - Lead & Senior Teachers.md
+      - Form Teachers.md
+      - Allied Educators & Teaching Support Staff.md
+      - EAS Suppport Staff.md
+      - Useful Links for Staff.md
