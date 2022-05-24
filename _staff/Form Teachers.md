@@ -239,3 +239,114 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Primary 5 :**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Class</th>
+    <th class="tg-s7de" colspan="2">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv">5A</td>
+    <td class="tg-7wcr">Mrs Tang-Chew Pei Xi<br>chew_pei_xi@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Isma &amp; Dewi<br>ismawarni_isnin@moe.edu.sg<br>dewi_rosyati_sheik@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">5B</td>
+    <td class="tg-7wcr">Ms Suneeta Kaur d/o Balvinder S<br>suneeta_kaur_balvinder_s@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Lin Weijun<br>lin_weijun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">5C</td>
+    <td class="tg-7wcr">Mdm Samsia Bte Sulaiman<br>samsia_sulaiman@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Phoon Yong Kang<br>phoon_yong_kang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">5D</td>
+    <td class="tg-7wcr">Mr Ong Chee Keong<br>ong_chee_keong@moe.edu.sg</td>
+    <td class="tg-7wcr"><br>Mdm Zhuo Dandan<br><br>zhuo_dandan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">5E</td>
+    <td class="tg-7wcr">Mdm Rachael Fang Swee Sian<br>fang_swee_sian@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Liu Ning<br>liu_ning@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">5F</td>
+    <td class="tg-7wcr">Mdm Nurhuda Md Amin<br>nurhuda_mohd_amin@moe.edu.sg</td>
+    <td class="tg-7wcr"><br>Ms Foon Siew Man<br>foon_siew_man@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
+
+**Primary 6 :**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Class</th>
+    <th class="tg-s7de" colspan="2">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv">6A1</td>
+    <td class="tg-7wcr">Mdm Nithiyah Subramaniam<br>nithiyah_subramaniam@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Kartini<br>kartini_khairi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6A2</td>
+    <td class="tg-7wcr">Mdm Anisah Muna Mohamed<br>anisah_muna_mohamed@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Tee Kar Yeow<br>tee_kar_yeow@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6B</td>
+    <td class="tg-7wcr">Mdm Sarifah Azlin<br>sarifah_azlin@moe.edu.sg</td>
+    <td class="tg-7wcr"> Mr Lin Qi Yue<br>lin_qi_yue@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6C</td>
+    <td class="tg-7wcr">Mr Abdul Wahid Bin Badron<br>abdul_wahid_b_badron@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Teo Jia Jun<br>teo_jia_jun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6D</td>
+    <td class="tg-7wcr">Mrs Saleha Raj<br>saleha_raj@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Lau Yee Fun<br>lau_yee_fun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6E</td>
+    <td class="tg-7wcr">Ms Munirah Bee Bte Md Haron<br>munirah_bee_mohd_haron@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Foong Yuk Yew<br>foong_yuk_yew@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">6F</td>
+    <td class="tg-7wcr">Ms Joanne Ching Goik Ping <br>ching_goik_peng@moe.edu.sg</td>
+    <td class="tg-eohv">Mdm Shariffah Haiezian<br><br>shariffah_haiezian_syed_hu@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
