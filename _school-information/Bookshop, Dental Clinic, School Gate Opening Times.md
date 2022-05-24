@@ -48,3 +48,47 @@ Please kindly call the school to confirm the services below are available on the
   </tr>
 </tbody>
 </table>
+
+**SCHOOL SESSIONS**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Session</th>
+    <th class="tg-s7de">Time/Day</th>
+    <th class="tg-s7de">Mon<br></th>
+    <th class="tg-s7de">Tue</th>
+    <th class="tg-s7de">Wed</th>
+    <th class="tg-s7de">Thu</th>
+    <th class="tg-s7de">Fri</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv" rowspan="4">All Levels</td>
+    <td class="tg-eohv">Silent Reading</td>
+    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">7.15 a.m. – 7.25  a.m.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Start of 1st Period</span></td>
+    <td class="tg-eohv" colspan="5">7.30 a.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">Recess</td>
+    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">9.30 a.m. – 10.00 a.m. (P1)</span><br><br><span style="font-weight:400;color:#0C2733">10.00 a.m. - 10.30 a.m. (P2)</span><br><span style="font-weight:400;color:#0C2733">10.30 a.m. - 11.00 a.m. (P3)</span><br><span style="font-weight:400;color:#0C2733">9.40 a.m. - 10.00 a.m. (P4)</span><br><span style="font-weight:400;color:#0C2733">10.10 a.m. - 10.30 a.m. (P5)</span><br><span style="font-weight:400;color:#0C2733">10.40 a.m. - 11.00 a.m. (P6)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Dismissal Time<br>(End of Last Period)</td>
+    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">1.20 p.m. (P1 &amp; P4)</span><br><span style="font-weight:400;color:#0C2733">1.25 p.m. (P2 &amp; P5)</span><br><span style="font-weight:400;color:#0C2733">1.30 p.m. (P3 &amp; P6)</span></td>
+  </tr>
+</tbody>
+</table>
