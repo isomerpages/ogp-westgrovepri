@@ -181,3 +181,61 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Primary 4 :**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Class</th>
+    <th class="tg-s7de" colspan="2">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv">4A</td>
+    <td class="tg-7wcr">Mdm Noor Afizah<br>noor_afizah_rusli@moe.edu.sg<br></td>
+    <td class="tg-7wcr">Ms Tan Hui Chin<br>tan_hui_chin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4B</td>
+    <td class="tg-7wcr">Mr Saw Jin Teik<br>saw_jin_teik@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Shariffah Affinda<br>shariffah_affinda_isa@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4C</td>
+    <td class="tg-7wcr">Mrs Chen Pei Ai<br>chen_pei_ai@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Sangeeta Kaur Dhillon<br>sangeeta_kaur_dhillon@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4D</td>
+    <td class="tg-7wcr">Mr Qairul<br>qairul_izam_shali@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Tan Hui Yang<br>tan_hui_yang@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4E</td>
+    <td class="tg-7wcr">Mdm Mindy Neo<br>mindy_marie_neo@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Tang Oi Khum<br>tang_oi_khum@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4F</td>
+    <td class="tg-7wcr">Mrs Michelle Sim / Ms Tan Si Hua<br>koh_shi_hui_michelle@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Tan Poh Ching<br>tan_poh_ching@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">4G</td>
+    <td class="tg-7wcr">Mr Mohamed Nadzri Md Nasir<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Chuan Teik Ping<br>chuan_teik_ping@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
