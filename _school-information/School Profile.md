@@ -52,31 +52,6 @@ GREEN Signifies freshness of mind and body towards learning.
 Like pages of an open book, BLUE shows learning with an open mind.
 
 
-**School Song**
-
-At West Grove we march on with our peers
-
-Together we achieve through the years
-
-We build we shape we declare what we have we learn to share
-
-
-Wisdom and grace we totally embrace
-
-With wisdom and grace we’ll win the race
-
-Wisdom and grace we totally embrace
-
-With wisdom and grace we’ll win the race
-
-
-With one heart one soul and one mind
-
-With renewed faith upwards we will climb
-
-New heights new hopes and new dreams
-
-Together we achieve as a team
 
 **Milestones**
 
