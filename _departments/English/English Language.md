@@ -79,3 +79,11 @@ Here at West Grove, the English department understands the importance of integra
 * develop cognitive skills
 * develop reading and writing skills
 * enrich their language experience and imaginative powers
+
+The English curriculum comprises of:
+* STELLAR curriculum by MOE
+* STELLAR curriculum by MOE
+* school-based curriculum (spelling and dictation, Show &  Tell, Writing, Comprehension & Synthesis & Transformation Packages, NewsBuzz)
+* Assessments of Learning (AoL)
+* Assessments for Learning (AfL)
+* ICT infusion (P1 to P3 Moo-O)
