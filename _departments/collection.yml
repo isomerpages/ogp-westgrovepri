@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue/Science.md
       - Mother Tongue/Tamil.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Chinese.md
