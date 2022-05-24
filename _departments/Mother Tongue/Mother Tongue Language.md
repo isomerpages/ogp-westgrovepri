@@ -523,3 +523,215 @@ Organiser: Anglican High School, Lingzi Media
 </tbody>
 </table>
 
+**Malay External Competition**
+
+**Kartunis Cilik 2021**
+
+Organiser: White Sands Primary School
+
+ Name and Award Title: 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-pekm{background-color:#FFF;color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Danial Iqlas Bin Ermin</th>
+    <th class="tg-pekm"><span style="color:black">4B</span></th>
+    <th class="tg-7wcr">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Fahrin Bin Jazid</td>
+    <td class="tg-pekm"><span style="color:black">4D</span></td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Tamil External Competition**
+
+**1.  Thirukkural Vizha**
+
+Organiser: Tamil Language and Cultural Society
+
+ Name and Award Title: 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-pekm{background-color:#FFF;color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pekm"><span style="color:black;background-color:white">Rohinishri Tamilmani</span></th>
+    <th class="tg-pekm"><span style="color:black;background-color:white">1E</span></th>
+    <th class="tg-7wcr">1st  Prize</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Hiranyha Mahesh</td>
+    <td class="tg-7wcr">6F</td>
+    <td class="tg-7wcr">2nd  Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Kannan Lucksana</td>
+    <td class="tg-7wcr">6D</td>
+    <td class="tg-7wcr">2nd  Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Ravi Loshnavi</td>
+    <td class="tg-7wcr">5D</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Akshayanjali d/o Kalaiselvan</td>
+    <td class="tg-7wcr">5F</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+**2. Muthamizh Vizha: P3 & 4 Story Telling Contest**
+
+Organiser: Association of Singapore Tamil Writers 
+
+ Name and Award Title:
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Gowrishanker Kavin</th>
+    <th class="tg-7wcr">3G</th>
+    <th class="tg-7wcr">Top 10</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Sirasanambeti Dhaarika</td>
+    <td class="tg-7wcr">4F</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+**3. Muthamizh Vizha: P5 & 6 Oratory Contest**
+Organiser: Association of Singapore Tamil Writers
+
+ Name and Award Title: 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Ganesh Krishna Kumar</th>
+    <th class="tg-7wcr">5E</th>
+    <th class="tg-7wcr">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Kalyanasundaram Jayaprabha</td>
+    <td class="tg-7wcr">5E</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+**4. Muthamizh Vizha: P1 & 2 Fancy-Dress Contest**
+Organiser: Association of Singapore Tamil Writers 
+
+Name and Award Title: 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">V G Kirthikka</th>
+    <th class="tg-7wcr">2F</th>
+    <th class="tg-7wcr">Encouragement Prize</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Boopathi Raakesh</td>
+    <td class="tg-7wcr">1C</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+**5. Tamil Language Festival Poetry Recitation**
+Organiser: Sakthi Fine Arts (Tamil Language Festival 2021)
+
+ Name and Award Title: 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Muhammad Unais</th>
+    <th class="tg-7wcr">3E</th>
+    <th class="tg-7wcr">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Vikshana d/o Chinnadurai</td>
+    <td class="tg-7wcr">3F</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Suvikshan s/o Chinnadurai</td>
+    <td class="tg-7wcr">4E</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
+
+Useful Links:
+
+Singapore Examinations and Assessment Board Approved Dictionary
+[](/files/2017PSLEDictList.pdf)
