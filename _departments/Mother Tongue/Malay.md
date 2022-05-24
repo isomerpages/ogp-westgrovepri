@@ -300,3 +300,65 @@ All in all, pupils found the activities enriching and enjoyable!
 ![](/images/Art%20Preparation%20Present.png)
 ![](/images/Storytelling.png)
 ![](/images/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png)
+
+Bunga telur cantik sekali,
+
+Pengantin baharu kita raikan,
+
+Budaya dan Bahasa indah sekali,
+
+Daulatkan selalu jangan abaikan.
+
+Dwi-Mingguan Bahasa Ibunda merupakan satu wadah bagi mendedahkan murid-murid kepada keindahan dan kepelbagaian budaya dan tradisi masyarakat Melayu. Sejajar dengan tema Seni Pentas, seni pencak silat dan persembahan kompang, wayang kulit serta tarian Melayu adalah antara aktiviti yang diadakan bagi murid-murid pada tahun ini. Selain itu, seni lukisan batik dan permainan tradisional Melayu juga diperkenalkan bagi memberi mereka kesempatan untuk merasai pembelajaran berasaskan pengalaman.
+
+Aktiviti-aktiviti yang telah dijalankan adalah seperti berikut:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s5dh">Darjah 1</th>
+    <th class="tg-s5dh">Permainan Tradisional<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s5dh">Darjah 2</td>
+    <td class="tg-s5dh">Wayang Kulit<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">Darjah 3</td>
+    <td class="tg-s5dh">Tarian<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">Darjah 4 </td>
+    <td class="tg-s5dh">Tarian / Perkhemahan Budaya<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">Darjah 5 </td>
+    <td class="tg-s5dh">Silat </td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">Darjah 6 </td>
+    <td class="tg-s5dh">Kompang </td>
+  </tr>
+</tbody>
+</table>
+
+Selain daripada aktiviti-aktiviti ini, sesi bercerita telah diadakan bagi murid-murid darjah 1 dan 2. Murid-murid sangat terhibur dengan cerita-cerita yang dipersembahan oleh pustakawan NLB, Encik Herman Rothman.
+
+Murid-murid West Grove juga berpeluang untuk membeli buku-buku Bahasa Melayu semasa Pesta Buku yang diadakan pada 12 Julai 2017.
+
+Secara keseluruhannya, aktiviti-aktiviti yang telah disertai murid-murid ini diharapkan dapat memperkayakan lagi cinta dan minat terhadap Bahasa Melayu!
+
+![](/images/Malay%20Activities%20-%201.jpg)
+![](/images/Malay%20Activities%20-%202.jpg)
+![](/images/Malay%20Activities%20-%203.jpg)
+![](/images/Malay%20Activities%20-%204.jpg)
