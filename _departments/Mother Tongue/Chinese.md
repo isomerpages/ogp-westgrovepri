@@ -147,3 +147,13 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 * KENNETH XU YUBO （3F） 
  * BAI XINJIE（3E） 
  * KWAN HUI XIN CELESTE（3E）
+
+**Upper Primary Category  (Group) Bronze**
+ * LAI XIN YU （4F） 
+ * ONG SHI QI JOAQUIM （4F） 
+ * LIU XIHAN （4E）
+
+**Upper Primary Category (Group) Bronze** 
+ * WANG WENZHE （5F） 
+ * LEE KOON KAI (LI JUNKAI) （5F） 
+ * PENG JIRUI （5E）   
