@@ -128,3 +128,56 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Primary 3:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-z01w">Class</th>
+    <th class="tg-z01w" colspan="2">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">3A</td>
+    <td class="tg-7wcr">Mr Jackie Huang Hongwei<br>huang_hongwei@moe.edu.sg</td>
+    <td class="tg-7wcr">Mrs Diana Wan<br>tho_lee_kian_diana@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">3B</td>
+    <td class="tg-7wcr">Mdm Tay Yee Teng<br>tay_yee_teng@moe.edu.sg</td>
+    <td class="tg-7wcr">Mrs Samantha Chang<br>oh_siow_ling_samantha@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">3C</td>
+    <td class="tg-7wcr">Mrs Ng Hwee Ching<br>ong_hwee_ching@moe.edu.sg<br></td>
+    <td class="tg-7wcr">Mdm Chua Ting Ting<br>chua_ting_ting@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">3D</td>
+    <td class="tg-7wcr">Mdm Yusnita  Bte Md Taib<br>yusnita_mohd_taib@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Alagu Meenal Thamodaran<br>alagu_meenal_thamodaran@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">3E</td>
+    <td class="tg-7wcr">Mdm Shafiah<br>shafiah_syed_masood@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Er Ka Hui<br>er_ka_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">3F</td>
+    <td class="tg-7wcr">Ms Chloe Oh Wan Ling<br>oh_wan_ling@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Nicole Cheong Chia Qi<br><br>nicole_cheong_jia_qi@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
