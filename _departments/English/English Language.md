@@ -145,3 +145,22 @@ Pupils will participate in learning journeys, workshops and conversations where 
 ![](/images/Eco-Lit%20-2.jpg)
 ![](/images/Eco-Lit%20-3.jpg)
 ![](/images/Eco-Lit%20-4.jpg)
+
+**Termly Highlights:**
+
+**Item Setting Workshop for EL Teachers (14 February)**
+
+Here at West Grove, we adopt a culture of sharing. Conducting workshops for teachers and organising sharing sessions are essential as we strongly believe in learning as a continual process. As such, the English department has conducted a Phase 2 of the item sharing workshop for teachers to aid them in setting appropriate test items. Phase 1 of the item setting workshop was conducted last year.
+
+![](/images/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg)
+![](/images/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg)
+
+**Total Defence Day by EL Department (13 February)**
+
+West Grove Primary School commemorated Total Defence Day 2018 on 13th February.  The theme for this year's Total Defence Day was â€˜Together We Keep Singapore Strong'. Our school commemorated this day through a series of lessons and activities, where the students got a deeper understanding about Total Defence, particularly Social Defence.
+
+As part of the Total Defence programme, West Grove Primary School also partnered with the Housing Development Board (HDB) to set up a road show (OHYay! Roadshow) and an assembly talk to spread the message of good neighbourliness as well as eco-friendly living. Students were engaged in the interesting games and activities organised by HDB and they also took photographs with their classmates as souvenirs at the photo booth.
+
+![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%201.jpg)
+![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%202.jpg)
+![](/images/Total%20Defence%20Day%20by%20EL%20Department%20-%203.jpg)
