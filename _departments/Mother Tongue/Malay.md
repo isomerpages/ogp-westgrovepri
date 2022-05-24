@@ -362,3 +362,16 @@ Secara keseluruhannya, aktiviti-aktiviti yang telah disertai murid-murid ini dih
 ![](/images/Malay%20Activities%20-%202.jpg)
 ![](/images/Malay%20Activities%20-%203.jpg)
 ![](/images/Malay%20Activities%20-%204.jpg)
+
+**Hari Raya Celebration / Hari Raya Aidilfitri**
+
+The Hari Raya celebrations were held on 4th July 2017. The half an hour concert was put up by students and teachers from the MT department as well teachers from various departments. For the first time, we saw teachers and students putting up a melodrama which comprises of acting, singing and dancing. The audience were truly entertained by the awesome performance. Their joyous faces say it all!
+
+Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
+
+![](/images/Hari%20Raya%20Celebration%20-%201.jpg)
+![](/images/Hari%20Raya%20Celebration%20-%202.jpg)
+![](/images/Hari%20Raya%20Celebration%20-%203.jpg)
+![](/images/Hari%20Raya%20Celebration%20-%204.jpg)
+![](/images/Hari%20Raya%20Celebration%20-%205.jpg)
+![](/images/Hari%20Raya%20Celebration%20-%206.jpg)
