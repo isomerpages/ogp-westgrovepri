@@ -82,3 +82,68 @@ With the Lunar New Year coming in 2020, all teachers and students ushered in a n
 
 (学生们在专业老师的指导下，完成了自己手工作品。在这样的活动中，大家了解了中华传统文化，也对于学习华语的兴趣更加浓厚了。）  
 The students completed their own handmade works. In such activities, everyone learned about Chinese traditional culture and became more interested in learning Chinese.
+
+![](/images/MT%20FN%20classroom%20activity%201.jpg)
+![](/images/MT%20FN%20classroom%20activity%202.jpg)
+![](/images/MT%20FN%20classroom%20activity%203.jpg)
+![](/images/MT%20FN%20classroom%20activity%204.jpg)
+
+(小三学生对于手工制作的兴趣更加浓厚，在专业老师的指导下，他们在课后又进行了其他手工作品的制作，呈现出了浓浓的传统文化。） 
+ P3 students are more interested in other activities. They have made more art craft after class.
+![](/images/p3%20camp%202019%20photo1.jpg)
+![](/images/p3%20camp%202019%20photo2.jpg)
+![](/images/p3%20camp%202019%20photo3.jpg)
+
+**Hosting of Kunshan Experimental Elementary School from China**
+
+In July this year, West Grove Primary School welcomed a group of 29 P5 Chinese students and four teachers from Kunshan Experimental Primary School, China. The entourage participated in classroom activities, such as Art, Music, Science and even specially-designed PE lessons. They also had the opportunity to experience the Southeast Asia culture through batik painting and Indian Henna painting. Although the interaction only happened briefly, the friendship between the two schools was fostered.
+
+![](/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%201.jpg)
+![](/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%202.jpg)
+![](/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%203.jpg)
+![](/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%204.jpg)
+
+今年7月13日及16日，中国昆山市实验小学的4位老师带领29名学生来我校进行游学交流。第一天，在3位华文老师协助下，我校10名五年级学长带领来访的师生参观了校园。接着，昆山实验小学的师生们参加了由我校母语部、艺术部及科学部等部门提供的一系列教学体验活动。具有东南亚特色的艺术体验课，昆山的师生们学习了蜡染绘画、体验了印度手绘；与实验紧密结合的科学课，让昆山的学生当了一回小实验家，观察了水的循环过程。第二天，我校有32名五年级学生参与接待了来访的学生，与昆山的同学们一起参加了由体育部门主导的体育体验课，两校学生发扬合作精神完成了一个个活泼、有趣且很有挑战性的活动，然后我校学生陪同他们的昆山伙伴进行了普通课堂体验等等。两天时间虽短，但两校师生的友情再次得以升华。
+
+**Overseas learning journey (Beijing) 北京游学之旅**
+
+在充满夏意的美丽季节，我校文化浸儒的师生来到了中国的首都—美丽的北京。学生们参观了著名的名胜古迹故宫，游览了闻名海外的鸟巢和水立方，登上了流传千古的万里长城。更重要的是，同学们与北京友好学校的朋友们建立了良好的友谊，促进了中新两国的文化交流。 
+ 
+ In 2019, we came to the capital of China—Beijing for our overseas learning journey. The students visited the famous historical site of the Forbidden City and the Great Wall, visited the Beijing National Stadium(Bird’s Nest and Water Cube) . More importantly, the students have established a good friendship with friends from the Fengtai No.5 Elementary School of Beijing, which has promoted cultural communications between China and Singapore.
+
+![](/images/P5beijing1.jpg)
+![](/images/P5beijing2.jpg)
+![](/images/P5beijing3.jpg)
+![](/images/P5beijing4.jpg)
+![](/images/P5beijing5.jpg)
+![](/images/P5beijing6-1.jpg)
+![](/images/P5beijing7.jpg)
+![](/images/P5beijing8.jpg)
+
+**Talent Development Programmes校内外比赛项目**
+   
+ **W3 校群小学现场华文写作比赛 2019**
+ 
+W3 Cluster On-the-spot Chinese Essay Writing Competition 2019 
+* REIKO HUNGEE JING TONG 2nd  6HCL1/6G 
+ * TAN ZI JUN 3rd  6HCL1/6G 
+ * GE RUI ZHENG Outstanding Award  5HCL1/5D   
+
+**W3校群硬笔/软笔书法比赛2019**
+
+ W3 Cluster On-the-spot Chinese Calligraphy Competition 2019 
+ * LIU YISHAN Outstanding Award    5F   
+
+**第二届全国中小学课文朗读比赛 （2019）** 
+* National 2nd text recital competition for primary and secondary schools （2019）
+
+**Lower Primary Category (Group) Bronze**
+
+ * Yang Ling Xuan （2G） 
+ * LAU RONG TING, ANGIE （2E） 
+ * YU HONG ZHEN （2B）   
+
+**Lower Primary Category  (Group) Bronze** 
+* KENNETH XU YUBO （3F） 
+ * BAI XINJIE（3E） 
+ * KWAN HUI XIN CELESTE（3E）
