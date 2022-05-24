@@ -66,3 +66,16 @@ As such, we offer children a meaningful language experience by:
 * taking responsibility for the learning and progress of our pupils in the language
 * organising classroom resources to provide a positive learning environment
 * motivating our pupils to enjoy and appreciate the beauty of the English language
+
+
+**Department Framework:**
+![](/images/Department%20Framework.png)
+
+**CURRICULUM:**
+
+Here at West Grove, the English department understands the importance of integration and the development of the child in all dimensions of his or her life. Bearing this in mind, it has designed an enriching curriculum supported by programmes that are central to the development of the child's general language ability. Through such a curriculum and programmes children:
+
+* develop their ability to communicate and use language socially
+* develop cognitive skills
+* develop reading and writing skills
+* enrich their language experience and imaginative powers
