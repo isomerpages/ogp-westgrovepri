@@ -87,3 +87,34 @@ The English curriculum comprises of:
 * Assessments of Learning (AoL)
 * Assessments for Learning (AfL)
 * ICT infusion (P1 to P3 Moo-O)
+
+**The English curriculum is currently undergoing customisation to cater to the differentiated abilities and interests of pupils so as to level up and stretch the pupils.**
+
+**PROGRAMMES OVERVIEW:**
+
+Here are some of the programmes we provide for our pupils:
+
+* P1 English Language Induction Programme
+* P1 & P2 Extensive Reading Programme (ERP) initial caps in bold
+* P1 & P2 Building Academic Success in English (BASE) Programme initial caps in bold & caps in bold
+* P1 to P3 Speaker's Corner
+* P1 & P2 Spell Bee
+* P3 & P4 Reading Remediation Programme (RRP)
+* P3 & P4 School-based Dsylexia Remediation Programme (SDR)
+* P4 Eco-Literacy EL Talent Development Programme
+* P5 Writing Enrichment Programme (Writing with Style & using Mentor Texts)
+* EL Bites recess activities
+
+
+**Primary 1 English Language Induction Programme**
+
+For the two-week induction programme, pupils are taught the following:
+
+* Letter Sounds, Letter Formation
+* Big Book Reading (Choral Reading, Reading for enjoyment)
+* Penmanship
+* Communication skills
+
+At the end of the programme, a diagnostic reading assessment is used as a tool to guide teachers in pacing or pitching their lessons to the level most appropriate to their class pupils' learning needs and/or progress.
+
+
