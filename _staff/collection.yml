@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Lead & Senior Teachers.md
       - Middle Management.md
       - All Staff.md
