@@ -241,3 +241,62 @@ Kumpulan darjah 2 muncul sebagai juara. Secara keseluruhan pula, Sekolah Rendah 
 ![](/images/Malay%20Student%20Achievements%20-%202.jpg)
 ![](/images/Malay%20Student%20Achievements%20-%203.jpg)
 ![](/images/Malay%20Student%20Achievements%20-%204.jpg)
+
+**MTL Fortnight /Dwi Minggu Bahasa**
+
+![](/images/MTL%20Fortnight%20-%201.jpg)
+![](/images/MTL%20Fortnight%20-%202.jpg)
+
+The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Performing Arts, silat and kompang performances as well as wayang kulit and Malay dance were some of the activities organised for the pupils this year. In addition, traditional Malay batik painting and traditional games were also introduced to the pupils.
+
+The activities that were carried out are as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s5dh">P1</th>
+    <th class="tg-s5dh">Traditional Games<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s5dh">P2</td>
+    <td class="tg-s5dh">Wayang Kulit<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">P3</td>
+    <td class="tg-s5dh">Traditional Dance<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">P4 </td>
+    <td class="tg-s5dh">Traditional Dance / Cultural Camp<br></td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">P5 </td>
+    <td class="tg-s5dh">Silat </td>
+  </tr>
+  <tr>
+    <td class="tg-s5dh">P6 </td>
+    <td class="tg-s5dh">Kompang </td>
+  </tr>
+</tbody>
+</table>
+
+Apart from the above-mentioned activities, a storytelling session by the NLB was also held for the P1 and P2. Pupils were engaged by the stories told by NLB’s Associate Librarian, Mr Herman Rothman.
+
+Pupils of West Grove were also given the opportunity to buy ML books during the Book Fair which was held on 12th July 2017.
+
+All in all, pupils found the activities enriching and enjoyable!
+
+![](/images/Art%20Painting.png)
+![](/images/Art%20Preparation%20Present.png)
+![](/images/Storytelling.png)
+![](/images/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png)
