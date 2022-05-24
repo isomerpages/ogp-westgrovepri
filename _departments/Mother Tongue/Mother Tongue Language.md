@@ -258,3 +258,268 @@ third_nav_title: Mother Tongue
   </tr>
 </tbody>
 </table>
+
+**Other Celebrations**
+
+**1. Mother Tongue Fortnight**
+
+In support of MOE's efforts to promote students’ learning and appreciation of Mother Tongue languages (MTL) and cultures, the MTL Department organises Mother Tongue Fortnight annually. Mother Tongue Fortnight activities expose students to the interesting aspects of language learning. Students are exposed to a wide range of activities during the Mother Tongue Fortnight, seeing the practical and cultural value of their respective mother tongue languages.
+
+The theme for 2021 Mother Tongue Fortnight is ‘Innovation, Invention or Creativity’. Please follow links for more information on each language divisions: CL; ML; TL
+
+**2. Talent Development Programmes**
+
+Talent Development Programme is designed to stretch and challenge the students in the learning of the MTL. Students with special talent(s) or skill(s) are identified by their respective MTL teachers and given the opportunity to participate in competitions at the Cluster or/and National / International level. 
+
+**Chinese External Competitions**
+
+**1.  4th Text Recital Competition for Primary and Secondary Schools 2021**
+
+Organiser: CPCLL, Anderson Primary School, SCCL
+
+Name and Award Title :
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-41lb{color:#231F20;text-align:left;vertical-align:top}
+.tg .tg-85pk{background-color:#F8F9FA;color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr"><span style="color:black">Liu Xihan</span></th>
+    <th class="tg-7wcr"><span style="color:black">6CL1/6E</span></th>
+    <th class="tg-85pk"><span style="color:black">Bronze Award</span></th>
+    <th class="tg-85pk"><span style="color:black">Individual</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black"> Magdalene Lim Xin Ning</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Chiang Hui Min</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Ong Shi Qi Joaquim</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Hu Kangrui</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Lai Xin Yu</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-41lb"><span style="color:#231F20">Jaxel Neo Jiayu</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Yang Lingxuan</span></td>
+    <td class="tg-7wcr"><span style="color:black">4CL1/4F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-85pk"><span style="color:black">Individual</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Elica Chen Wan Yang</span></td>
+    <td class="tg-7wcr"><span style="color:black">2CL5</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Ng Jing Wen, Karissa</span></td>
+    <td class="tg-7wcr"><span style="color:black">3CL3</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-85pk"><span style="color:black">Individual</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Elysia Beh En Qi</span></td>
+    <td class="tg-7wcr"><span style="color:black">2CL2</span></td>
+    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
+    <td class="tg-85pk"><span style="color:black">Individual</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Zeng Tao Jin Jie</span></td>
+    <td class="tg-7wcr"><span style="color:black">2CL5</span></td>
+    <td class="tg-7wcr"><span style="color:black">Silver Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Ni BinHao</span></td>
+    <td class="tg-7wcr"><span style="color:black">2CL3</span></td>
+    <td class="tg-7wcr"><span style="color:black">Silver Award</span></td>
+    <td class="tg-7wcr"><span style="color:black">Group</span></td>
+  </tr>
+</tbody>
+</table>
+
+**2. National Chinese Calligraphy Competition 2021**
+
+Organiser: Hong Wen School & Hong Wen Alumni
+
+ Name and Award Title: 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Yang Lingxuan</th>
+    <th class="tg-0lax">4CL1/4F</th>
+    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">Participation Award</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+**3.National Chinese Challenge 2021 (Primary Category)**
+
+Organiser: Nanyang Girls’ High School
+
+ Name and Award Title: 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr"><span style="color:black">Zheng Yichun</span></th>
+    <th class="tg-7wcr"><span style="color:black">6CL1/6E</span></th>
+    <th class="tg-7wcr"><span style="color:black">Participation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Wang Ruitong</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Angel Lioh Yun Er</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Woo Yi Wei, Lucas</span></td>
+    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Sun Yuwei</span></td>
+    <td class="tg-7wcr"><span style="color:black">5CL1/5F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Li Hao Ran</span></td>
+    <td class="tg-7wcr"><span style="color:black">5CL1/5D</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr"><span style="color:black">Foo Yaojia</span></td>
+    <td class="tg-7wcr"><span style="color:black">5CL1/5F</span></td>
+    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
+  </tr>
+</tbody>
+</table>
+
+**4. National Primary Schools Chinese Story-telling Competition 2021**
+
+Organiser: Singapore Hokkien Huay Kuan, Singapore Middle School Chinese Teachers’ Association, Tao Nan School, with support from UFM100.3
+
+ Name and Award Title: 
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Sun JiaYi </th>
+    <th class="tg-7wcr">6CL1 /6E</th>
+    <th class="tg-7wcr">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+**5. 2021 National On-the-spot Chinese Story-Writing Competition**
+
+Organiser: Anglican High School, Lingzi Media
+
+ Name and Award Title: 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr">Lieu Jia Qian</th>
+    <th class="tg-7wcr">6CL1/6F</th>
+    <th class="tg-7wcr">Participation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">Chua Yu Xuan</td>
+    <td class="tg-7wcr">6CL1/6F</td>
+    <td class="tg-7wcr">Participation</td>
+  </tr>
+</tbody>
+</table>
+
