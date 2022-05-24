@@ -170,3 +170,91 @@ third_nav_title: Mother Tongue
   </tr>
 </tbody>
 </table>
+
+
+**MISSION:**
+
+(1)  To create a conducive MTL learning environment
+
+(2)  To empower pupils to become effective communicators in their MTL
+
+(3)  To inculcate a passion for heritage and culture
+
+**VISION:**
+
+ Active Mother Tongue Language Learners
+
+
+
+**Programmes Overview**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Programmes</th>
+    <th class="tg-s7de">CL</th>
+    <th class="tg-s7de">ML</th>
+    <th class="tg-s7de">TL</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">MTL Fortnight and Cultural Camps</td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Hosting of Overseas Partners/Schools </td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">e-Overseas Immersion Trips<br></td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Talent Development<br></td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Conversational Chinese Malay (CCM)<br></td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Reading and Writing Programme<br></td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y<br></td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Post Exam Activities </td>
+    <td class="tg-z01w">Y</td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7wcr">Parents’ Talk<br></td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y<br></td>
+    <td class="tg-z01w">Y</td>
+  </tr>
+</tbody>
+</table>
