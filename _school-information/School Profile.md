@@ -3,7 +3,6 @@ title: School Profile
 permalink: /school-information/school-profile
 description: ""
 ---
-
 # School Profile
 
 **School History**
@@ -78,3 +77,101 @@ With renewed faith upwards we will climb
 New heights new hopes and new dreams
 
 Together we achieve as a team
+
+**Milestones**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cqbp{background-color:#EAEAEA;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cqbp">Year</th>
+    <th class="tg-cqbp">Key Events</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cxqu">2001</td>
+    <td class="tg-cxqu">Establishment of school</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2003</td>
+    <td class="tg-cxqu">Official opening of school at 1 Jurong West Street 72 and Memory Lane by Dr John Chen, MP Hong Kah GRC</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2004</td>
+    <td class="tg-cxqu">Established Niche in Science and National Education</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2004</td>
+    <td class="tg-cxqu">School Visit by Dr Ng Eng Hen, Minister for Manpower and Second Minister for Defence</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2004</td>
+    <td class="tg-cxqu">Embarked on IDEAS (Innovative Designs for Enhancing Achievement in Schools) Programme.</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2009</td>
+    <td class="tg-cxqu">School Visit by Dr Ng Eng Hen, Minister of Education and Second Minister for Defence</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2009</td>
+    <td class="tg-cxqu">Received Palm Award for School Green Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2010</td>
+    <td class="tg-cxqu">Celebrated 10th Anniversary</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2010</td>
+    <td class="tg-cxqu">Received the GOLD award for the Green Schools @ South West Programme</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2011</td>
+    <td class="tg-cxqu">Received National Arts Education Award (NAEA) 2011 &amp; 2016</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2011</td>
+    <td class="tg-cxqu">Received NE Development Award 2011</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2012</td>
+    <td class="tg-cxqu">Received Total Defence Meritorious Award 2012</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2014</td>
+    <td class="tg-cxqu">Established LLP in ARTs</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2014</td>
+    <td class="tg-cxqu">Received the Lotus Award for School Green Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2016</td>
+    <td class="tg-cxqu">Completion of PERI upgrading and transition to Single Session School</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2016</td>
+    <td class="tg-cxqu">Received Reading Excellence Award (REA)</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2017</td>
+    <td class="tg-cxqu">Received Innergy (Schools) Awards 2017 – GOLD </td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2018</td>
+    <td class="tg-cxqu">Received Public Service Transformation Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cxqu">2018</td>
+    <td class="tg-cxqu">Conducted Ground Deployment Exercise</td>
+  </tr>
+</tbody>
+</table>
