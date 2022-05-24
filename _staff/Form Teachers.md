@@ -70,3 +70,61 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Primary 2:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-z01w">Class</th>
+    <th class="tg-z01w" colspan="2">Form Teacher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7wcr">2A</td>
+    <td class="tg-7wcr">Mdm Neliwati<br>neliwati_hamzah@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Liu Weiqin<br>liu_weiqin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2B</td>
+    <td class="tg-7wcr">Mrs Nicole Chua<br>nai_miao_pei_nicole@moe.edu.sg</td>
+    <td class="tg-7wcr">Mrs Chua Mashita<br>chua_mashita@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2C</td>
+    <td class="tg-7wcr">Mdm Hani Bte Alwi<br>Hani_alwi@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Nur Indahiryana<br>nur_indahiryana_mohamed_amran@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2D</td>
+    <td class="tg-7wcr">Mdm Sharon Teo Li Ling<br>teo_li_ling@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Aishwarya Durga d/o Nalamthamby<br>aishwarya_durga_nalamthamby@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2E</td>
+    <td class="tg-7wcr">Mrs Nancy Tan-Chan Yau Chun<br>chan_yau_chun@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Hema<br>arumugam_hemalatha@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2F</td>
+    <td class="tg-7wcr">Mdm Asziah Bte Jumaat<br>asziah_jumaat@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Hoon Hui Min<br><br>hoon_hui_min@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">2G</td>
+    <td class="tg-7wcr">Mr Matthew Sim <br><br>matthew_sim@moe.edu.sg </td>
+    <td class="tg-7wcr">Ms Ng Yang Xi<br><br>ng_yang_xi@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
