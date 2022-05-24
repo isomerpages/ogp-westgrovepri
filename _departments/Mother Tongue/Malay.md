@@ -129,3 +129,11 @@ Aktiviti-aktiviti yang telah dijalankan adalah seperti berikut:
   </tr>
 </tbody>
 </table>
+
+Selain daripada aktiviti-aktiviti di atas, murid-murid darjah 4 diberi kesempatan untuk mempelajari seni lukis Batik. Mereka melalui sesi lukisan bersama Encik Kamal Dollah di Goodman Arts Centre.
+
+![](/images/Malay%20Students%20-%201.jpg)
+![](/images/Malay%20Students%20-%203.jpg)
+![](/images/Malay%20Students%20-%204.jpg)
+![](/images/Malay%20Students%20-%205.jpg)
+![](/images/Malay%20Students%20-%206.jpg)
