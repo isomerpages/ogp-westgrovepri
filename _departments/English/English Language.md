@@ -117,4 +117,31 @@ For the two-week induction programme, pupils are taught the following:
 
 At the end of the programme, a diagnostic reading assessment is used as a tool to guide teachers in pacing or pitching their lessons to the level most appropriate to their class pupils' learning needs and/or progress.
 
+**BASE Programme**
 
+BASE is catered to scale up pupils' literacy and comprehension levels by support struggling readers. This programme helps pupils achieve basic literacy and comprehension skills through phonemic awareness and thinking aloud strategies. Resources have been developed by our teachers to teach these pupils, as well as to make learning the English language fun and enjoyable.
+
+**Speaker's Corner**
+
+The Speaker's Corner' serves as a platform to promote oracy, presentation skills, effective communication and confidence. This is a spin-off from pupils' Show & Tell presentations in class. The presenters are chosen by either their friends or teachers to represent their class to speak during their recesses. The support garnered from the presenters' classmates and friends from other classes is commendable.
+
+![](/images/Speakers%20Corner%20-%201.jpg)
+![](/images/Speakers%20Corner%20-%202.jpg)
+
+**Spell Bee**
+
+West Grove's Spell Bee is modelled after the prestigious RHB Straits Times Spelling Bee Competition which is held at a national level. Through this Spelling Bee Competition, pupils would be able to improve their spelling, increase their vocabularies and develop correct English pronunciation and usage to help them strengthen their English language. The audience are engaged as well as they are also given the opportunity to participate in the Spell Bee Competition.
+
+![](/images/Spell%20Bee%20-%201.jpg)
+![](/images/Spell%20Bee%20-%202.jpg)
+
+**Eco Literacy EL Talent Development Programme**
+
+This programme integrates Environment Education, Arts and delivers through the English curriculum that focuses on productive skills - inquire, write, speak and present.
+
+Pupils will participate in learning journeys, workshops and conversations where they will gather and communicate ideas so as to produce narratives in the form of a literary production such as a storybook as the end product as a result of the experiences and skills that they had gathered. The storybook will be written for audience at an appropriate reading level, be visually appealing and include moral and ethics that arise from environmental issues.
+
+![](/images/Eco-Lit%20-1.jpg)
+![](/images/Eco-Lit%20-2.jpg)
+![](/images/Eco-Lit%20-3.jpg)
+![](/images/Eco-Lit%20-4.jpg)
