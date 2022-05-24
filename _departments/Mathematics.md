@@ -104,3 +104,23 @@ In West Grove, we provide opportunities to potential students who are good in Ma
 **3. GOLD**
 
 GOLD stands for **G**ame **O**riented **L**earning **D**evelopment in Mathematics which aims to motivate young Mathematics learners through games in the learning of Mathematics. It is held termly during recess and it involves all Primary 1 to Primary 6 students. Our students also get to collect stamps for their participation and exchange the stamps for tokens.
+
+![](/images/Maths%20image%201.jpg)
+![](/images/Maths%20image%202.jpg)
+![](/images/Maths%20image%203.jpg)
+![](/images/Maths%20image%204.jpg)
+
+**4. ICAN**
+
+
+ICAN programme aims to provide additional support to the selected students from Primary 1 to Primary 4 to help them to close the learning gaps in Mathematics.
+
+**5.E2K**
+
+E2K programme aims to develop critical thinking skills in top-performing Mathematics students to solve the problems.
+
+**6.P1, P3 and P5 Mathematics Workshop for Parents**
+
+Mathematics workshops will be organised yearly for parents of our Primary 1, Primary 3 and Primary 5 to brief them on the Mathematics syllabus and assessment. Resources used during Primary 1 lessons will be shared with the parents to give them an idea how the children learn Mathematics in West Grove. As for Primary 3 and Primary 5 workshop, parents will learn how to solve Mathematics problems through model drawing and heuristics. Parents will also be briefed on the use of calculators during the P5 workshop.
+
+![](/images/Maths%20image%205%20Parents%20Workshop.jpg)
