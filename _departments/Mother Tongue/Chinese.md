@@ -166,3 +166,48 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 “风声、雨声、读书声，声声入耳。”这就是我们每日晨读时的情景。学生上台分享并推荐有趣且有意义的图书，并向大家呈现出故事内容。此外，精彩的“世界书香日”活动也为同学们带来了乐趣。 
 
  The school campus is full of reading every morning. Any students can come to the stage to share and recommend interesting and meaningful books, and present the story content to everyone. In addition, the wonderful "World Book Day" activities also brought fun to the students.
+ 
+ ![](/images/bookfes1.jpg)
+ ![](/images/bookfes2.jpg)
+ 
+ **P6 Post Exam Activity – Chinese Seal Engraving 考后活动 - 篆刻**
+ 
+ P6 Post Exam Activity is conducted by the Chinese Department for the P6 students after their PSLE. Students are introduced to the fundamental of Chinese Seal Engraving including some basic knowledge on its history. Students enjoyed the lesson tremendously as they had a hands-on session to make their own seal. Not only do they have a better understanding of the knowledge of seal making, students learnt about patient, responsibility, coordination and good craftsmanship through the lesson. All of them walked away with a big smile at the end of the lesson!
+
+在小学离校考试后，我校六年级的华文学生进行了一项考后活动——纂刻。这次纂刻活动的目的是让学生接触中国纂刻的基础知识以及技巧。同学们得以在课程中亲手制作他们的印章，个个都沉浸其中，十分投入。在这次活动中，学生不但接触了纂刻，还锻炼了他们的耐心、细心和责任心。课程结束后，每一个学生手捧着自己亲手制作的印章，脸上都露出了愉悦的笑容。
+
+![](/images/Chinese%20Seal%20Engraving%20-%201.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%202.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%203.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%204.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%205.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%206.jpg)
+![](/images/Chinese%20Seal%20Engraving%20-%207.jpg)
+
+**Resources:**
+
+**学乐网（课文录音）**
+
+https://xuele.moe.edu.sg/xuele/slot/u107/index.html
+
+
+**知识报知识画报/新朋友电子版**
+
+https://www.ezhishi.net/Contents/
+
+
+**口语互动平台 （iMTL portal）**
+https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login
+
+**嘟嘟华文自适应阅读系统 （Dudu Town**）
+http://go.dudu.town/
+
+
+**早报逗号网/大拇指**
+
+http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87
+
+**网上字典**
+
+* 在线汉语字典: http://xh.5156edu.com/
+* 在线汉语字典（部首查字: http://xh.5156edu.com/bs.html）
