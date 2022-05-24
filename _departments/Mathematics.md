@@ -86,3 +86,21 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
   </tr>
 </tbody>
 </table>
+
+**PROGRAMMES OVERVIEW:**
+
+In West Grove, we aim to provide programmes which will help our students to develop strong basics in Mathematics concepts and skills in problem-solving. Besides, students will be exposed to real-world problems and hands-on experiences to learn Mathematics in an interesting manner.
+
+**KEY PROGRAMMES:**
+
+**1. Laugh**
+
+This programme is held from Term 1 to Term 3 which aims to support the selected Primary Six pupils to learn Mathematics. Our school alumni who are currently in Secondary One will provide peer-tutoring to them.
+
+**2. ACE**
+
+In West Grove, we provide opportunities to potential students who are good in Mathematics to extend their cognitive abilities in mathematical problem solving.
+
+**3. GOLD**
+
+GOLD stands for **G**ame **O**riented **L**earning **D**evelopment in Mathematics which aims to motivate young Mathematics learners through games in the learning of Mathematics. It is held termly during recess and it involves all Primary 1 to Primary 6 students. Our students also get to collect stamps for their participation and exchange the stamps for tokens.
