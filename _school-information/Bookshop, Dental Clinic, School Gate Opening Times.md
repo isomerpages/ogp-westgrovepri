@@ -92,3 +92,43 @@ Please kindly call the school to confirm the services below are available on the
   </tr>
 </tbody>
 </table>
+
+
+**NOTICE TO PARENTS**
+If you wish to buy school stationery, shoes, uniforms, and make enquiries or meet a teacher, please use GATE 1.
+
+Any inconvenience caused is much regretted.
+
+**SCHOOL BUS INFORMATION**
+	
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7wcr"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-z01w">School Bus Information<br><br>The School bus serves mainly:<br>* Jurong West St 61 to 65, 71 to 75, 81, 82, 91 and 92<br>* Jurong West Ave 4 and 5<br>* Jurong West Central 1 and 2<br><br></td>
+    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Peng Yang Transport Pte Ltd</span><br><br><span style="font-weight:400;color:#0C2733">Contact Person: Ms Anna Siow (H/P: 91073366)</span><br><span style="font-weight:400;color:#0C2733">                             Mr tang (H/p: 81339730)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-z01w">Contact No.</td>
+    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Tel –6472 6046</span><br><br><span style="font-weight:400;color:#0C2733">Fax –6472 6537</span><br></td>
+  </tr>
+</tbody>
+</table>
+
+[ Bus Forms 2022](/files/Bus%20Form%201_2022.pdf)
