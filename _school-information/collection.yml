@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - School Gate Opening Times.md
       - Bookshop, Dental Clinic, School Gate Opening Times.md
       - School Rules & School Song.md
       - School Profile.md
