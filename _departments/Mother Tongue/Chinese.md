@@ -156,4 +156,13 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 **Upper Primary Category (Group) Bronze** 
  * WANG WENZHE （5F） 
  * LEE KOON KAI (LI JUNKAI) （5F） 
- * PENG JIRUI （5E）   
+ * PENG JIRUI （5E）
+
+**Upper Primary Category (Individual) Bronze** 
+ * GE RUIZHENG （5D）
+
+**Morning Pre-Assembly MT Book Sharing 晨读及分享活动** 
+
+“风声、雨声、读书声，声声入耳。”这就是我们每日晨读时的情景。学生上台分享并推荐有趣且有意义的图书，并向大家呈现出故事内容。此外，精彩的“世界书香日”活动也为同学们带来了乐趣。 
+
+ The school campus is full of reading every morning. Any students can come to the stage to share and recommend interesting and meaningful books, and present the story content to everyone. In addition, the wonderful "World Book Day" activities also brought fun to the students.
