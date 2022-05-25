@@ -244,3 +244,63 @@ In line with the vision,’Active Minds, Gracious Heats’, the school’s strat
 	* Pupil’s Needs Analysis
 	* Disciplinary System
 	* Award / Reward System
+
+**Review and Assessment**
+Surveys, Projects, Students Reflection, AAR
+
+**KEY PROGRAMMES:**
+
+**1. STUDENT LEADERSHIP**
+
+![](/images/Student%20Leadership%20Council.png)
+
+West Grove Primary School believes in providing and creating leadership opportunities for every pupil and in nurturing the leadership potential of every student leader. Backed by one of our school’s strategic thrust to develop visionary leadership, the Student Leadership Development Framework adopts a servant leadership approach and focuses on leadership through service. It is also an integral part of character development in the pupil.
+
+In West Grove, we strongly believe that no child is left behind. All students are trained and equipped with leadership skills. Each and every West Grovians is also involved in activities which greatly aid in their Character Development.
+
+The Student Leadership Council consists of the Prefectorial Board and Ambassadorial Board.A list of the different exciting trainings and programmes for the Student Leadership Council are:-
+
+**Student Leadership Development**
+
+* Basic Leadership Training for all West Grovians
+* Intermediate Leadership training for Prefects and Ambassadors
+* Advanced Leadership Training for Prefect EXCO
+* Student Suggestion Scheme by Prefect
+* Sharing stories with Values by Prefects
+* Prefect's Investiture
+* Ambassador Induction Ceremony
+* Junior Prefects training by Senior Prefects
+* Prefects Values in Action (VIA)
+* Ambassadors’ involvement in school-based activities
+
+**Character development for All**
+
+* Values Education
+* Infusion of school values and social and emotional competencies into formal and informal curriculum
+* FTGP lessons
+* Best Behaved Award
+* Awareness campaign
+* Kindness programmes
+* Character Development card
+
+**HIGHLIGHTS**
+
+West Grove Primary School believes in providing and creating leadership opportunities for our pupils and in nurturing the leadership potential of every student leader.
+
+**Leadership training for perfects**
+
+This programme helps the students to develop their leadership skills to become more effective leaders in their role as prefects.
+
+The programme will help the monitors to deal with their leadership duties more effectively and they will be more equipped with essential leadership skills such as conflict management, team work, communication and leading others.
+
+The workshop’s objectives are to help the students to be more confident leaders and be more able to handle their leadership duties with greater ease and assertiveness.
+
+**2. Values Educations**
+
+The 6 school values are reinforced during the Values education lessons conducted by form teachers during assembly periods. This program is to prepare pupils to be more effective individuals and to equip students with the necessary life skills to prepare them for the challenges in life.
+* P1- Respect
+* P2- Responsibility
+* P3- Kindness
+* P4- Integrity
+* P5- Commitment
+* P6- Resilience
