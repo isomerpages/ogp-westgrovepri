@@ -67,3 +67,33 @@ Your children will learn to:
   </tr>
 </tbody>
 </table>
+
+**Achievements**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-z01w">2017</th>
+    <th class="tg-z01w">2018</th>
+    <th class="tg-z01w">2019</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv">Participated in Nanyang CC National Day Observance Cerermony</td>
+    <td class="tg-eohv">SYF Dance (Silver Award)</td>
+    <td class="tg-eohv">Participating in Super 24 Dance Competiton</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/SYF%20Dance%20Troupe%202018%20-%201.jpg)
+![](/images/SYF%20Dance%20Troupe%202018%20-%205.jpg) *SYF 2018*
