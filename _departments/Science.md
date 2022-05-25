@@ -3,7 +3,6 @@ title: Science
 permalink: /departments/Mother-Tongue/science
 description: ""
 ---
-
 # Science 
 
 ![](/images/Science.jpg)
@@ -71,3 +70,52 @@ Here are some of the programmes we provide for our pupils:     
 **ST(EP)s**   
 
 This is a programme catered for P1 and P2 pupils. The aim of this programme is to inculcate in students an early interest and curiosity about the world around them.  Various science topics tied in with the English stellar units are introduced through exposure and exploration. To engage the pupils, interesting activities such as teacher demonstrations, hands-on activities, games and quizzes are carried out.
+
+![](/images/Picture%20-%20Science.png)*Pupils learning about the life cycle of different animals*
+
+![](/images/pic%202.png)
+*Pupils learning about food chain* 
+
+![](/images/pic%203.png)
+*Posters displayed for students’ viewing*
+
+![](/images/pic%204.png)
+*Pupils learning about fruits and vegetables*
+
+**E2K**
+
+The E2K Science Programme Singapore is a Science enrichment programme for pupils who demonstrate interest and ability in Science. It is run by teachers in schools who have been trained in the E2K pedagogy. The programme engages pupils in scientific investigations involving advanced science concepts. It aims to engage pupils in scientific inquiry that will help them to develop the habits, attitudes and dispositions scientists possess as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+![](/images/pic%205.png)
+*Teams building their own measuring equipment*
+
+**Science HP Programme (Science Olympiad)**   
+
+This programme provides the pupils with additional enrichment and extension of the regular primary Science curriculum. It aims to prepare pupils for Science Olympiad and other competitions.   
+
+**Science Fair**   
+
+The Science department has been organizing the WGPS Science Fair for several years since 2013. The purpose of the fair is to encourage student interest in Science by providing a platform for our students to showcase their creativity, indulge their natural curiosity and heighten their sense of inquiry. Interested participants form a team of two to four members and choose to delve into either the Investigation Category or Science Toy Category. The selected teams will be guided by teacher mentors and taken through the Scientific Process. Within that process, teams raise their awareness on the rigours of scientific exploration and their general knowledge. If the team has chosen Science Investigation, they will get to test their hypothesis and discover that the outcomes of many experiments are affected not just by changed variables, but, more often than not, real-world factors. In this way, teams broaden their horizons and may simultaneously deepen their appreciation for the work scientists do. If the team has chosen to create a Science Toy, they can apply their understanding of the concepts they have learnt in school, thereby elevating their prior knowledge and higher-order thinking skills. After that, the teams present their findings and learning to a panel of judges. They also share their project with their schoolmates through a recess showcase. This gives the opportunity for participants to develop their presentation skills – soft skills that are increasingly becoming essential in a globalised world. The school believes that this activity can promote Joy of Learning as children can indulge their curiosity and interest in Science. We would like to congratulate the winners and thank all the teams for their effort in making the Science Fair a wonderful learning experience for all.
+
+![](/images/pic%206.png)
+*2019 Science Fair Team*
+
+![](/images/pic%207.png)
+*2020 Science Fair Presentation - Students trying out the Science Toys*
+
+![](/images/pic%208.png)
+*2020 Science Fair Presentation*
+
+**P5 Escape Room Challenge**
+
+ 
+
+This is a new programme first carried out in 2020. Students have to solve questions, puzzles and challenges using science concepts that they have learnt from P3 – P5. Students work in teams to solve for the code to move from one level to the next. Escape Room Challenge is an exciting and stimulating programme where students have to race against time and complete all the levels to win the challenge!
+
+ 
+
+**Science Support Programme (Alumni)**
+
+ 
+
+West Grove alumni and other student volunteers are recruited to provide mentoring sessions for selected P6 students who need further academic assistance. 
