@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT & MRL/Cyber Wellness & Media Literacy.md
       - ICT & MRL/MRL Programmes.md
       - ICT & MRL/ICT & MRL introduction.md
       - ICT & MRL/.keep
