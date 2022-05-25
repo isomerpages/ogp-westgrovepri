@@ -101,3 +101,41 @@ Our music teachers apply different pedagogies in class to enrich our students’
 ![](/images/aes17.png)
 ![](/images/aes18.png)
 ![](/images/aes19.png)
+
+**CURRICULUM OVERVIEW (MUSIC):**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s7de">Levels</th>
+    <th class="tg-s7de"><span style="color:black">Semester 1</span></th>
+    <th class="tg-s7de"><span style="color:black">Semester 2</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-eohv">Stage 1<br><br><span style="color:black">(P1 &amp; P2)</span></td>
+    <td class="tg-eohv"><br> Singing (in unison and in parts)<br> Playing of classroom instruments individually and in groups<br>Music appreciation through artful thinking processes<br><br>	           o	Hear/Think/Wonder<br>	           o	Listening 10x2<br>	           o	Colour Symbol Image</td>
+    <td class="tg-eohv"><br><span style="color:black">Composition of rhythmic ostinato</span><br><span style="color:black"> Improvisation of short rhythmic or melodic phrase</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv">Stage 2<br><br><span style="color:black">(P3 &amp; P4)</span></td>
+    <td class="tg-eohv"><span style="color:black">Singing (in unison and in parts) and playing classroom instruments including the recorder, individually and in groups</span><br><span style="color:black">Music appreciation through artful thinking processes</span>        <br><br><br>	           o	Hear/Think/Wonder<br>                   o	Creative Questions<br>	           o	Colour Shapes and Lines</td>
+    <td class="tg-eohv"><br><span style="color:black">Composition of 4-bar rhythmic phrase and melodic phrase in C Major scale</span><br><span style="color:black">Improvisation of 4-bar rhythmic or melodic phrase</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-eohv"> Stage 3<br><span style="color:black">(P5 &amp; P6)</span></td>
+    <td class="tg-eohv"> <span style="color:black">Singing 2-part songs as an ensemble</span>   <br><span style="color:black"> Playing of classroom instruments  individually and in groups</span><br>Recorder<br>Ukulele<br><span style="color:black">ICT music - Garage Band (P5)</span><br></td>
+    <td class="tg-eohv"><br><span style="color:black">Composition of 4-bar rhythmic phrase and melodic phrase in C/G/F major</span><br><br> <span style="color:black">Improvisation of 4-bar rhythmic or melodic phrase</span><br> Recording their composition on Garage Band <span style="color:#222"> </span></td>
+  </tr>
+</tbody>
+</table>
