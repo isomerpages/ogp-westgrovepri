@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics/Aesthetics Curriculum.md
       - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - ICT & MRL/Cyber Wellness & Media Literacy.md
