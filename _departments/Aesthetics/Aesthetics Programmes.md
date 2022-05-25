@@ -35,3 +35,19 @@ This platform serves as an avenue to develop our pupils’ Confidence, Creativit
 ![](/images/p6.jpg)
 ![](/images/p7.jpg)
 ![](/images/p8.jpg)
+
+**5.Aesthetics HBL Activities**
+
+The Aesthetics Department has also put up links to some fun art or music activities every week for the children as part of family bonding time during circuit breaker. These activities encourage our students to be actively and creatively engaged in the arts during this circuit breaker.  
+
+![](/images/p9.png)
+![](/images/p10.png)
+
+**6. Racial Harmony Day Commemoration 2020**
+
+In order to nurture our pupils to be well-informed audience of the Arts, we incorporate elements of music into our RHD commemoration. This create opportunities for pupils to experience arts in our local culture.
+
+Students created their own musical instruments during Art lesson and used it in a play-along session during our E-assembly.
+
+![](/images/p11.jpg)
+![](/images/p12.jpg)
