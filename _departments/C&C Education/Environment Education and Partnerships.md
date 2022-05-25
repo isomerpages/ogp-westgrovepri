@@ -72,3 +72,16 @@ third_nav_title: C&C Education
 **Mission of WGPS Partnership:**
 
 We seek to establish strong and sustainable relationships with our key stakeholders to fulfil the school’s vision, mission and values and to provide our students with a meaningful, holistic education.
+
+**Collaborative Culture of Partnerships**
+![](/images/Partnership%20Framework.jpg)
+
+**Sustainability of Partnerships**
+![](/images/WGPS%20Partnership%20Logo.jpg)
+
+**Principles of Partnership (R.O.C.K):**
+
+* **R**emember the child – Place the child at the centre of all partnership conversations and activities to build partners’ confidence that partnership efforts are made with the child’s interest at heart.
+* **O**pen to feedback – Good communication allows school and partners to be open to improvement which can be made after or during the project. Successful communication will ensure sustainability of the partner.
+* **C**ommon purpose – It is important to remember the purpose of how partners can enhance students’ holistic development.
+* **K**eep it real - Programmes must be aligned with school vision, mission and values and with consideration of work-life balance of school staff.
