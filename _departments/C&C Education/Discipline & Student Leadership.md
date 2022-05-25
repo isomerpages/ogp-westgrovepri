@@ -219,4 +219,28 @@ In line with the vision,’Active Minds, Gracious Heats’, the school’s strat
   </tr>
 </tbody>
 </table>
- 
+
+**PROGRAMMES OVERVIEW:**
+
+**SCHOOL SYSTEM THAT SUPPORTS THE CHARACTER DEVELOPMENT PROGRAMME**
+
+**Professional Development**
+
+* Using the IDEAS framework, staff derived a school-wide pedagogy (SWP), which consists of ‘Building Relationships, Providing a conducive environment, Seeking meaningful and relevant experiences and catering to differentiated needs’.
+* There is a structured whole-school approach and conscious effort to align school activities planned with the SWP.
+* Training framework to develop the competencies of teachers in the area of SEL and school-wide pedagogy to develop good character and social skills through daily lessons.
+
+
+**Community Partnership system**
+
+* The community Partnership Committee works closely with the WGPA, the community (cluster schools and charitable organisations) as well as other stakeholders (MOE HQ and Alumni).
+* It has the dual purpose of providing opportunities to mould the character of our pupils and to form strong links with parents and the community.
+* The committee employs a structured whole school approach to its CIP programmes in school.
+
+**Pupil Well Being support system**
+
+* The PWB department looks into the following areas to develop the social and emotional well being of our pupils through the following systems:
+	* PCCG
+	* Pupil’s Needs Analysis
+	* Disciplinary System
+	* Award / Reward System
