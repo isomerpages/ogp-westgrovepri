@@ -138,3 +138,39 @@ In 2017, we had 29 participants in the finals winning in several categories.
 ![](/images/Competitions%20-%203.jpg)
 ![](/images/Competitions%20-%204.jpg)
 ![](/images/Competitions%20-%205.jpg)
+
+**7. Information Literacy Programme**
+
+In MRL, we promote the importance of information searching and discernment.  It is important that pupils learnt important literacy skills in view of the different media resources available. Together with READ@School, MRL conducted SURE-vivor to promote information literacy to allow students to understand information sources and make careful decisions before using them for their knowledge.
+
+During the school holidays, a Digital Information Literacy programme workshop was conducted for selected school reading ambassadors and InfoMedia Club members. Through this workshop, students understand plagiarism and recognise the consequences of plagiarism. They also learnt to select efficient and effective approaches for accessing required information for investigative and retrieval purpose.
+
+**8. Books to Go - Mobile Library**
+
+West Grove also collaborates with the National Library Board for students to borrow a wider variety of books. We encourage pupils to borrow more books, especially before the school holidays to read. With wider resources of books, the school arranged NLB mobile library sessions for pupils to borrow books from NLB in our school compound. This is made possible as our school made arrangements to help pupils register for NLB membership at Primary 1.
+
+![](/images/Books%20to%20Go%20-%20Mobile%20Library.jpg)
+
+**9. Workshops & Book Talks**
+
+During the P1 Induction days, “Raising Readers” workshop was conducted for P1 parents. This aims to help parents identify the child’s reader type and choosing a book for the child. The librarian will also introduce a variety of reading materials and eResources on NLB website. Parents can look forward to finding out more on ways to support their children’s reading at Primary 1.
+
+Our school invites librarian from the NLB to conduct interesting storytelling session and book talks during the assembly during the West Grove Reading Festival period. In 2018, we invited the NLB to conduct Kids Lit Quiz assembly programme for the upper primary while our experience teacher conducted an in-house reading quiz session for our Primary 1s and 2s to encourage our children to find out more about various story books in our school library.
+
+![](/images/Workshops%20&%20Book%20Talks%20-%201.jpg)
+![](/images/Workshops%20&%20Book%20Talks%20-%202.jpg)
+
+**Resources:**
+
+To find out more about the books and resources in our school library, visit our library online public access catalogue (OPAC): https://westgrovepri.spydus.com.sg
+
+Refer to student’s MRL Booklet for further instructions.
+
+
+Sign up with NLB for a wider range of resources including eBooks:
+https://www.nlb.gov.sg/myLibraryInfo.aspx
+
+
+DiscoveReads Link: http://www.nlb.gov.sg/discovereads/
+
+![](/images/Discove%20Reads.jpg)
