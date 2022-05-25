@@ -85,3 +85,28 @@ We seek to establish strong and sustainable relationships with our key stakehold
 * **O**pen to feedback – Good communication allows school and partners to be open to improvement which can be made after or during the project. Successful communication will ensure sustainability of the partner.
 * **C**ommon purpose – It is important to remember the purpose of how partners can enhance students’ holistic development.
 * **K**eep it real - Programmes must be aligned with school vision, mission and values and with consideration of work-life balance of school staff.
+
+[Parent Support Group (click here to find out more)]()
+
+**Charitable Organizations**
+
+To teach our students the value of helping others, our students are involved in activities to help the needy so as to broaden their understanding of the culture they live in and make them aware of the challenges people around the world face in meeting their basic human needs.
+
+
+**Local Organizations and Schools**
+
+* **Environment Organizations**
+Through projects with various environmental agencies such as the National Environment Agency (NEA), National Parks Board (NParks) and Public Utilities Board (PUB), our students do their bit for the environment led by Environment Champions in each class.
+
+* **Schools**
+Our school seeks to engage and collaborate with local secondary schools and institutions to enrich the learning experiences of our students.
+
+
+**Community (Values-in-Action)**
+
+To instil in our students a strong sense of social responsibility, we partner with the community to create platforms for our students to work on various projects.
+
+
+**Overseas Schools**
+
+Our school conducts exchange programmes with the objective of promoting global awareness and developing cross-cultural skills in our students. Interactions with peers of different cultures enrich their learning experiences and create an excellent platform for them to practise communication and social skills.
