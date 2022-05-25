@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT & MRL/ICT & MRL introduction.md
       - ICT & MRL/.keep
       - Science.md
       - Mother Tongue/Tamil.md
