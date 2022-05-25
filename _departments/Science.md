@@ -118,4 +118,4 @@ This is a new programme first carried out in 2020. Students have to solve questi
 
  
 
-West Grove alumni and other student volunteers are recruited to provide mentoring sessions for selected P6 students who need further academic assistance. 
+West Grove alumni and other student volunteers are recruited to provide mentoring sessions for selected P6 students who need further academic assistance.
