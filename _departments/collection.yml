@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - C&C Education/Environment Education and Partnerships.md
       - C&C Education/National Education & Social Studies.md
       - C&C Education/.keep
       - Aesthetics/Aesthetics Programmes.md
