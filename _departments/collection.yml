@@ -2,26 +2,26 @@ collections:
   departments:
     output: true
     order:
-      - C&C Education/Pupil Wellbeing.md
-      - C&C Education/Discipline & Student Leadership.md
-      - C&C Education/Environment Education and Partnerships.md
-      - C&C Education/National Education & Social Studies.md
-      - C&C Education/.keep
-      - Aesthetics/Aesthetics Programmes.md
-      - Aesthetics/Aesthetics Curriculum.md
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/.keep
-      - ICT & MRL/Cyber Wellness & Media Literacy.md
-      - ICT & MRL/MRL Programmes.md
-      - ICT & MRL/ICT & MRL introduction.md
-      - ICT & MRL/.keep
-      - Science.md
+      - Mathematics.md
+      - English/.keep
+      - English/Language Alive !.md
+      - English/English Language.md
+      - Mother Tongue/.keep
       - Mother Tongue/Tamil.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Mother Tongue Language.md
-      - Mother Tongue/.keep
-      - English/Language Alive !.md
-      - English/English Language.md
-      - English/.keep
-      - Mathematics.md
+      - Science.md
+      - ICT & MRL/.keep
+      - ICT & MRL/Cyber Wellness & Media Literacy.md
+      - ICT & MRL/MRL Programmes.md
+      - ICT & MRL/ICT & MRL introduction.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics Programmes.md
+      - Aesthetics/Aesthetics Curriculum.md
+      - Aesthetics/Aesthetics.md
+      - C&C Education/.keep
+      - C&C Education/Pupil Wellbeing.md
+      - C&C Education/Discipline & Student Leadership.md
+      - C&C Education/Environment Education and Partnerships.md
+      - C&C Education/National Education & Social Studies.md
