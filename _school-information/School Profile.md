@@ -43,7 +43,8 @@ ST4 - Organizational Excellence
 
 **School Crest**
 
-![](/images/School%20Crest.png)
+<img src="/images/School%20Crest.png" 
+     style="width:25%">
 
 Shaped like a Shield, the badge represents honour and loyalty to uphold for the school. BLACK Outline demonstrates boldness in taking on challenges.
 
