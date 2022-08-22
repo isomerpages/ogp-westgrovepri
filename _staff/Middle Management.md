@@ -36,6 +36,7 @@ description: ""
 </tbody>
 </table>
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -91,7 +92,7 @@ description: ""
     <td class="tg-s5dh">Mrs. Teng-Lim Suat Lay</td>
   </tr>
   <tr>
-    <td class="tg-ytt9">Assistant Year Head (P3/4)</td>
+    <td class="tg-ytt9">Year Head (P3/4)</td>
     <td class="tg-s5dh">Mdm. Lee Nyuk Phing</td>
   </tr>
   <tr>
@@ -100,6 +101,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -114,7 +116,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ytt9">Level Head, English (Internal)</th>
+    <th class="tg-ytt9">Level Head, English</th>
     <th class="tg-s926">Mrs. Chen Pei Ai</th>
   </tr>
 </thead>
@@ -140,7 +142,7 @@ description: ""
     <td class="tg-s926">Mr. Matthew Sim</td>
   </tr>
   <tr>
-    <td class="tg-ytt9">Subject Head, Discipline (Internal)</td>
+    <td class="tg-ytt9">Subject Head, Discipline</td>
     <td class="tg-s926">Mr. Ong Chee Keong</td>
   </tr>
   <tr>
