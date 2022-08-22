@@ -5,7 +5,9 @@ description: ""
 ---
 # Principal's Message
 
-![](/images/Mrs%20Chandler%20Jay%20Siva.jpg)
+
+<img src="/images/Mrs%20Chandler%20Jay%20Siva.jpg" 
+     style="width:25%" align="right">
 
 *The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of education. Martin Luther King Jr.*
 
