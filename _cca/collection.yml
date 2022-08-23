@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Girls Brigade.md
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Boys Scouts.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Scouts.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Girls Brigade.md
       - Clubs/.keep
       - Clubs/Art Club.md
       - Clubs/Robotics Club.md
