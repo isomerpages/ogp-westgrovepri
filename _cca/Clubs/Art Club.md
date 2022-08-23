@@ -4,7 +4,7 @@ permalink: /ccca/clubs/art-club
 description: ""
 third_nav_title: Clubs
 ---
-### OBJECTIVES
+**OBJECTIVES**
 
 *   To provide pupils with quality Art programme that captures pupils’ varied interest and caters to differentiated needs beyond the curriculum syllabus.  
     
@@ -12,7 +12,7 @@ third_nav_title: Clubs
     
 *   To identify pupils talented in Art so as to develop their potential to a higher level that will enable them to pursue Art Education in the future.
 
-### TEACHERS-IN-CHARGE
+**TEACHERS-IN-CHARGE**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,7 +45,7 @@ third_nav_title: Clubs
 </tbody>
 </table>
 
-### TRAINING DAYS & TIME
+**TRAINING DAYS & TIME**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
