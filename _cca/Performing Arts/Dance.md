@@ -95,5 +95,11 @@ Your children will learn to:
 </tbody>
 </table>
 
-![](/images/SYF%20Dance%20Troupe%202018%20-%201.jpg)
-![](/images/SYF%20Dance%20Troupe%202018%20-%205.jpg) *SYF 2018*
+**SYF 2018**
+
+<img src="/images/SYF%20Dance%20Troupe%202018%20-%201.jpg" 
+     style="width:75%">
+
+<img src="/images/SYF%20Dance%20Troupe%202018%20-%205.jpg" 
+     style="width:75%">
+
