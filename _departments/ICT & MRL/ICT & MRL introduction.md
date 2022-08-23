@@ -43,7 +43,9 @@ third_nav_title: ICT & MRL
 * Opulent World of Learning
 
 **Information Communication & Technology**
-![](/images/WGPS%20ICT%20Frame%20Work.jpg)
+
+<img src="/images/WGPS%20ICT%20Frame%20Work.jpg" 
+     style="width:65%">
 
 
 **Lessons**
