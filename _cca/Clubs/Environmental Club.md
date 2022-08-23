@@ -95,12 +95,26 @@ Your children will have opportunities to:
 </table>
 
 **Singapore Garden Festival 2018**
-![](/images/eco1.jpg)
+
+<img src="/images/eco1.jpg" 
+     style="width:50%">
+
 **Learning Journey to Gardens By The Bay**
-![](/images/eco2.jpg)
+
+<img src="/images/eco2.jpg" 
+     style="width:50%">
+		 
 **Global Youth Summit 2018**
-![](/images/eco3.jpg)
+
+<img src="/images/eco3.jpg" 
+     style="width:50%">
+		 
 **Upcycling Reusing Newspapers to make bags**
-![](/images/eco4.jpg)
+
+<img src="/images/eco4.jpg" 
+     style="width:50%">
+		 
 **Clean & Green Festival 2018**
-![](/images/eco5.jpg)
+
+<img src="/images/eco5.jpg" 
+     style="width:50%">
