@@ -2,12 +2,12 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Club Gazelle.md
-      - Clubs/InfoMedia Club.md
-      - Clubs/Environmental Club.md
-      - Clubs/Robotics Club.md
-      - Clubs/Art Club.md
       - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Robotics Club.md
+      - Clubs/Environmental Club.md
+      - Clubs/InfoMedia Club.md
+      - Clubs/Club Gazelle.md
       - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
