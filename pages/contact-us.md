@@ -15,12 +15,8 @@ contacts:
   - content:
       - phone: +65 6267 9234
       - email: wgps@moe.edu.sg
-      - other: "Directions <br> Nearest MRT Station : Boon Lay <br> Bus 242 (From Boon
-          Lay Interchange) <br> Bus 99 (From Clementi Interchange) "
+      - other: "Fax : 6267 9235 <br><b>Directions</b> <br> Nearest MRT Station : Boon
+          Lay <br> Bus 242 (From Boon Lay Interchange) <br> Bus 99 (From
+          Clementi Interchange) "
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
