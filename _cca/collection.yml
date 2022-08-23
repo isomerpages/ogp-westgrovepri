@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs/Robotics Club.md
       - Clubs/Art Club.md
       - Clubs/.keep
       - Performing Arts/.keep
