@@ -126,6 +126,7 @@ description: ""
   </tr>
 </tbody>
 </table>
+
 **Primary 3:**
 
 <style type="text/css">
@@ -147,7 +148,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7wcr">3A</td>
+    <td class="tg-eohv">3A</td>
     <td class="tg-7wcr">Mr Jackie Huang Hongwei<br>huang_hongwei@moe.edu.sg</td>
     <td class="tg-7wcr">Mrs Diana Wan<br>tho_lee_kian_diana@moe.edu.sg<br></td>
   </tr>
@@ -163,7 +164,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-eohv">3D</td>
-    <td class="tg-7wcr">Mdm Yusnita  Bte Md Taib<br>yusnita_mohd_taib@moe.edu.sg</td>
+    <td class="tg-7wcr">Mdm Yusnita  Bte Md Taib<br><br>yusnita_mohd_taib@moe.edu.sg</td>
     <td class="tg-7wcr">Mdm Alagu Meenal Thamodaran<br>alagu_meenal_thamodaran@moe.edu.sg</td>
   </tr>
   <tr>
@@ -174,7 +175,7 @@ description: ""
   <tr>
     <td class="tg-eohv">3F</td>
     <td class="tg-7wcr">Ms Chloe Oh Wan Ling<br>oh_wan_ling@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Nicole Cheong Chia Qi<br><br>nicole_cheong_jia_qi@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Nicole Cheong Chia Qi<br>nicole_cheong_jia_qi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
