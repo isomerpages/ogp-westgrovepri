@@ -55,10 +55,14 @@ All the classes need to go to the library at least 3 times a year to for O.W.L. 
 * Read Reap Write: “Sherlock Sam series” by A.J. Low
 * Read Reap Write: “Beware the Ninja Weenies and other creepy tales” by David Lubar.
 
-![](/images/OWL%20Lessons%20-%201.jpg)
-![](/images/OWL%20Lessons%20-%202.jpg)
-![](/images/OWL%20Lessons%20-%203.jpg)
-![](/images/OWL%20Lessons%20-%204.jpg)
+<img src="/images/OWL%20Lessons%20-%201.jpg" 
+     style="width:60%">
+<img src="/images/OWL%20Lessons%20-%202.jpg" 
+     style="width:60%">
+<img src="/images/OWL%20Lessons%20-%203.jpg" 
+     style="width:60%">
+<img src="/images/OWL%20Lessons%20-%204.jpg" 
+     style="width:60%">
 
 **2. MRL Monthly Readership Completion**
 
@@ -88,9 +92,12 @@ In 2018, we have themes as follows:
 
 A group of pupils is selected to be the School Reading Ambassadors. They are one of the student leaders in West Grove. These students attended School Reading Ambassador Workshops conducted by our MRL teachers. They will be leading the reading trend and takes on the role to promote reading among West Grovians. The school reading ambassadors will present a book review during morning assembly weekly and selected pupils will also represent the school to tell stories at the community library. The ambassadors also come together to prepare a thematic book display in the school library. In 2016 and 2017, some of the school reading ambassadors also took time to prepare book displays and shelf talkers at Jurong West Public Library as a collaborative effort.
 
-![](/images/Book%20Display%20in%20School%20Library.jpg)
+<img src="/images/Book%20Display%20in%20School%20Library.jpg" 
+     style="width:50%">
 *Book Display in school library on “Chronicles of the Narnia” in 2018*
-![](/images/Book%20Display%20at%20JWPL%202017.jpg)
+
+<img src="/images/Book%20Display%20at%20JWPL%202017.jpg" 
+     style="width:50%">
 *Book Display at JWPL in 2017*
 
 **5. KidsREAD Reading Club**
@@ -112,17 +119,34 @@ in the young.”
 
 This is a new reading club set up in 2014 April for selected P1 and P2 pupils. KidsREAD Reading Club is initiated by the National Library Board and the club is possible with the support of NLB, our school leaders, committed teachers and most importantly our volunteers. Our volunteers and coordinator attended a training session at the NLB and are always striving to make each kidsREAD session a meaningful one for all pupils in this club. Every year, selected stories are made relevant with an outing and project. We have visited Gallop Stable for pony rides after reading “The Lost Horse”, visited Underwater World and Sea Aquarium to find out more about sea creatures after reading “ The Rainbow Fish” & “The Hermit Crab” and experiential learning for Pizza Making after reading book “Don’t Forget the Bacon”.
 
-![](/images/Children%20designed%20own%20shell.jpg)
+
+<img src="/images/Children%20designed%20own%20shell.jpg" 
+     style="width:50%">
+		 
 *Children at work, designing their own shell after reading a book titled “The Hermit Crab”*
-![](/images/Story%20telling%20session%20by%20volunteers.jpg)
+
+<img src="/images/Story%20telling%20session%20by%20volunteers.jpg" 
+     style="width:50%">
+		 
 *Story Telling session by the volunteers*
-![](/images/Grooming%20pony%20at%20The%20Gallop%20Stable.jpg)
+
+<img src="/images/Grooming%20pony%20at%20The%20Gallop%20Stable.jpg" 
+     style="width:50%">
+		 
 *Grooming the pony at The Gallop Stable*
-![](/images/Making%20Gruffalo%20headband%20after%20story.jpg)
+
+<img src="/images/Making%20Gruffalo%20headband%20after%20story.jpg" 
+     style="width:50%">
+
 *Making “Gruffalo” headband after storytelling of “The Gruffalo”*
-![](/images/Students%20having%20good%20time%20in%20pizza%20making.jpg)
+
+<img src="/images/Students%20having%20good%20time%20in%20pizza%20making.jpg" 
+     style="width:50%">
+		 
 *Students having a good time during “Pizza making”*
-![](/images/Students%20learnt%20making%20pizza.jpg)
+
+<img src="/images/Students%20learnt%20making%20pizza.jpg" 
+     style="width:50%">
 *Students learning to flatten the dough, and decorating pizza before enjoying the self-created pizza!*
 
 **6. Competitions**
@@ -133,11 +157,16 @@ This is a new reading club set up in 2014 April for selected P1 and P2 pupils. K
 
 In 2017, we had 29 participants in the finals winning in several categories.
 
-![](/images/Competitions%20-%201.jpg)
-![](/images/Competitions%20-%202.jpg)
-![](/images/Competitions%20-%203.jpg)
-![](/images/Competitions%20-%204.jpg)
-![](/images/Competitions%20-%205.jpg)
+<img src="/images/Competitions%20-%201.jpg" 
+     style="width:50%">
+<img src="/images/Competitions%20-%202.jpg" 
+     style="width:50%">
+<img src="/images/Competitions%20-%203.jpg" 
+     style="width:50%">
+<img src="/images/Competitions%20-%204.jpg" 
+     style="width:50%">
+<img src="/images/Competitions%20-%205.jpg" 
+     style="width:50%">
 
 **7. Information Literacy Programme**
 
@@ -149,7 +178,8 @@ During the school holidays, a Digital Information Literacy programme workshop wa
 
 West Grove also collaborates with the National Library Board for students to borrow a wider variety of books. We encourage pupils to borrow more books, especially before the school holidays to read. With wider resources of books, the school arranged NLB mobile library sessions for pupils to borrow books from NLB in our school compound. This is made possible as our school made arrangements to help pupils register for NLB membership at Primary 1.
 
-![](/images/Books%20to%20Go%20-%20Mobile%20Library.jpg)
+<img src="/images/Books%20to%20Go%20-%20Mobile%20Library.jpg" 
+     style="width:50%">
 
 **9. Workshops & Book Talks**
 
@@ -157,8 +187,11 @@ During the P1 Induction days, “Raising Readers” workshop was conducted for P
 
 Our school invites librarian from the NLB to conduct interesting storytelling session and book talks during the assembly during the West Grove Reading Festival period. In 2018, we invited the NLB to conduct Kids Lit Quiz assembly programme for the upper primary while our experience teacher conducted an in-house reading quiz session for our Primary 1s and 2s to encourage our children to find out more about various story books in our school library.
 
-![](/images/Workshops%20&%20Book%20Talks%20-%201.jpg)
-![](/images/Workshops%20&%20Book%20Talks%20-%202.jpg)
+
+<img src="/images/Workshops%20&%20Book%20Talks%20-%201.jpg" 
+     style="width:50%">
+<img src="/images/Workshops%20&%20Book%20Talks%20-%202.jpg" 
+     style="width:50%">
 
 **Resources:**
 
@@ -173,4 +206,6 @@ https://www.nlb.gov.sg/myLibraryInfo.aspx
 
 DiscoveReads Link: http://www.nlb.gov.sg/discovereads/
 
-![](/images/Discove%20Reads.jpg)
+
+<img src="/images/Discove%20Reads.jpg" 
+     style="width:50%">
