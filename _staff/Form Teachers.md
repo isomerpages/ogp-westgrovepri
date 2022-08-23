@@ -29,7 +29,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7wcr">1A</td>
+    <td class="tg-eohv">1A</td>
     <td class="tg-7wcr">Ms Liam Huixian<br>liam_huixian@moe.edu.sg</td>
     <td class="tg-7wcr">Ms Irene Chin-Chan Mei Yin<br>chan_mei_yin_irene@moe.edu.sg</td>
   </tr>
@@ -71,8 +71,6 @@ description: ""
 </tbody>
 </table>
 
-**Primary 2:**
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -92,7 +90,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7wcr">2A</td>
+    <td class="tg-eohv">2A</td>
     <td class="tg-7wcr">Mdm Neliwati<br>neliwati_hamzah@moe.edu.sg</td>
     <td class="tg-7wcr">Mdm Liu Weiqin<br>liu_weiqin@moe.edu.sg</td>
   </tr>
@@ -119,16 +117,15 @@ description: ""
   <tr>
     <td class="tg-eohv">2F</td>
     <td class="tg-7wcr">Mdm Asziah Bte Jumaat<br>asziah_jumaat@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Hoon Hui Min<br><br>hoon_hui_min@moe.edu.sg</td>
+    <td class="tg-7wcr">Ms Hoon Hui Min<br>hoon_hui_min@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-eohv">2G</td>
-    <td class="tg-7wcr">Mr Matthew Sim <br><br>matthew_sim@moe.edu.sg </td>
-    <td class="tg-7wcr">Ms Ng Yang Xi<br><br>ng_yang_xi@moe.edu.sg</td>
+    <td class="tg-7wcr">Mr Matthew Sim <br>matthew_sim@moe.edu.sg </td>
+    <td class="tg-7wcr">Ms Ng Yang Xi<br>ng_yang_xi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
-
 **Primary 3:**
 
 <style type="text/css">
