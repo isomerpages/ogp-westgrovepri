@@ -237,15 +237,22 @@ Pada hari Sabtu, 14 April 2018 Sekolah Rendah West Grove telah mengambil bahagia
 
 Kumpulan darjah 2 muncul sebagai juara. Secara keseluruhan pula, Sekolah Rendah West Grove memenangi tempat ketiga. Kumpulan darjah 2 telah dijemput untuk membuat persembahan di Fiesta Bahasa 2018 di J Canopy pada bulan Julai.
 
-![](/images/Malay%20Student%20Achievements%20-%201.jpg)
-![](/images/Malay%20Student%20Achievements%20-%202.jpg)
-![](/images/Malay%20Student%20Achievements%20-%203.jpg)
-![](/images/Malay%20Student%20Achievements%20-%204.jpg)
+<img src="/images/Malay%20Student%20Achievements%20-%201.jpg" 
+     style="width:50%">
+<img src="/images/Malay%20Student%20Achievements%20-%202.jpg" 
+     style="width:40%">
+<img src="/images/Malay%20Student%20Achievements%20-%203.jpg" 
+     style="width:50%">
+<img src="/images/Malay%20Student%20Achievements%20-%204.jpg" 
+     style="width:50%">
 
 **MTL Fortnight /Dwi Minggu Bahasa**
 
-![](/images/MTL%20Fortnight%20-%201.jpg)
-![](/images/MTL%20Fortnight%20-%202.jpg)
+
+<img src="/images/MTL%20Fortnight%20-%201.jpg" 
+     style="width:40%">
+<img src="/images/MTL%20Fortnight%20-%202.jpg" 
+     style="width:40%">
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Performing Arts, silat and kompang performances as well as wayang kulit and Malay dance were some of the activities organised for the pupils this year. In addition, traditional Malay batik painting and traditional games were also introduced to the pupils.
 
@@ -296,10 +303,14 @@ Pupils of West Grove were also given the opportunity to buy ML books during the 
 
 All in all, pupils found the activities enriching and enjoyable!
 
-![](/images/Art%20Painting.png)
-![](/images/Art%20Preparation%20Present.png)
-![](/images/Storytelling.png)
-![](/images/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png)
+<img src="/images/Art%20Painting.png" 
+     style="width:40%">
+<img src="/images/Art%20Preparation%20Present.png" 
+     style="width:40%">
+<img src="/images/Storytelling.png" 
+     style="width:40%">
+<img src="/images/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
+     style="width:40%">
 
 Bunga telur cantik sekali,
 
@@ -358,10 +369,14 @@ Murid-murid West Grove juga berpeluang untuk membeli buku-buku Bahasa Melayu sem
 
 Secara keseluruhannya, aktiviti-aktiviti yang telah disertai murid-murid ini diharapkan dapat memperkayakan lagi cinta dan minat terhadap Bahasa Melayu!
 
-![](/images/Malay%20Activities%20-%201.jpg)
-![](/images/Malay%20Activities%20-%202.jpg)
-![](/images/Malay%20Activities%20-%203.jpg)
-![](/images/Malay%20Activities%20-%204.jpg)
+<img src="/images/Malay%20Activities%20-%201.jpg" 
+     style="width:40%">
+<img src="/images/Malay%20Activities%20-%202.jpg" 
+     style="width:40%">
+<img src="/images/Malay%20Activities%20-%203.jpg" 
+     style="width:40%">
+<img src="/images/Malay%20Activities%20-%204.jpg" 
+     style="width:40%">
 
 **Hari Raya Celebration / Hari Raya Aidilfitri**
 
@@ -369,9 +384,15 @@ The Hari Raya celebrations were held on 4th July 2017. The half an hour concert 
 
 Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
 
-![](/images/Hari%20Raya%20Celebration%20-%201.jpg)
-![](/images/Hari%20Raya%20Celebration%20-%202.jpg)
-![](/images/Hari%20Raya%20Celebration%20-%203.jpg)
-![](/images/Hari%20Raya%20Celebration%20-%204.jpg)
-![](/images/Hari%20Raya%20Celebration%20-%205.jpg)
-![](/images/Hari%20Raya%20Celebration%20-%206.jpg)
+<img src="/images/Hari%20Raya%20Celebration%20-%201.jpg" 
+     style="width:50%">
+<img src="/images/Hari%20Raya%20Celebration%20-%202.jpg" 
+     style="width:50%">
+<img src="/images/Hari%20Raya%20Celebration%20-%203.jpg" 
+     style="width:50%">
+<img src="/images/Hari%20Raya%20Celebration%20-%204.jpg" 
+     style="width:50%">
+<img src="/images/Hari%20Raya%20Celebration%20-%205.jpg" 
+     style="width:50%">
+<img src="/images/Hari%20Raya%20Celebration%20-%206.jpg" 
+     style="width:50%">
