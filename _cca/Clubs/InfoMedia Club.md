@@ -61,8 +61,16 @@ Your children will have opportunities to:
 **InfoMedia Club Students helping out at Cyber Wellness Recess Activities as CWSAs (Cyber Wellness Student Ambassadors)**
 ![](/images/2-1.jpg)
 **InfoMedia Club Students coded games on Scratch for others to play during Recess Activities**
-![](/images/3-1.png)
+
+<img src="/images/3-1.png" 
+     style="width:50%">
+		 
 **Photography**
-![](/images/4.png)
+
+<img src="/images/4.png" 
+     style="width:70%">
+
 **Ozobot Coding**
-![](/images/5.png)
+
+<img src="/images/5.png" 
+     style="width:70%">
