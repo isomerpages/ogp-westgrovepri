@@ -1,6 +1,6 @@
 title: West Grove Primary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/School Crest.png
 colors:
   primary-color: "#c2dcbb"
   secondary-color: "#030303"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-westgrovepri-staging.netlify.app
 prod: https://ogp-westgrovepri-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/School Crest.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
