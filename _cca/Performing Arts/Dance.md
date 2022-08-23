@@ -69,6 +69,7 @@ Your children will learn to:
 </table>
 
 **Achievements**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -102,4 +103,3 @@ Your children will learn to:
 
 <img src="/images/SYF%20Dance%20Troupe%202018%20-%205.jpg" 
      style="width:75%">
-
