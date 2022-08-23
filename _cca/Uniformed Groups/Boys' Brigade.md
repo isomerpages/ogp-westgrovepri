@@ -94,3 +94,11 @@ Each Boy develops the habit of discipline, self-respect, grooming and teamwork a
 * 2015 JM Fraser - Silver
 
 * 2014 JM Fraser - Silver
+
+**OUR BB BOYS IN ACTION**
+
+P6 Gold Badge Recipients
+![](/images/P6%20Gold%20Badge%20Recipients.jpg)
+
+Boys Brigade Enrollment Ceremony (Below)
+![](/images/Boys%20Brigade%20Enrollment%20Ceremony.jpg)
