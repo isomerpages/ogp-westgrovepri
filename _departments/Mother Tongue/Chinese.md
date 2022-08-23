@@ -189,13 +189,21 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
 在小学离校考试后，我校六年级的华文学生进行了一项考后活动——纂刻。这次纂刻活动的目的是让学生接触中国纂刻的基础知识以及技巧。同学们得以在课程中亲手制作他们的印章，个个都沉浸其中，十分投入。在这次活动中，学生不但接触了纂刻，还锻炼了他们的耐心、细心和责任心。课程结束后，每一个学生手捧着自己亲手制作的印章，脸上都露出了愉悦的笑容。
 
-![](/images/Chinese%20Seal%20Engraving%20-%201.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%202.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%203.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%204.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%205.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%206.jpg)
-![](/images/Chinese%20Seal%20Engraving%20-%207.jpg)
+
+<img src="/images/Chinese%20Seal%20Engraving%20-%201.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%202.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%203.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%204.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%205.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%206.jpg" 
+     style="width:50%">
+<img src="/images/Chinese%20Seal%20Engraving%20-%207.jpg" 
+     style="width:50%">
 
 **Resources:**
 
