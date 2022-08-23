@@ -81,19 +81,30 @@ The program is a two hour session, twice a week after school.
 
 Activities like sandwich making, cooking simple dishes, learning computer skills, adopting good reading skills, learning about Mindfulness etc.
 
-![](/images/Pupils%20final%20product%20-%20Chocolate%20cookies.jpg)
+<img src="/images/Pupils%20final%20product%20-%20Chocolate%20cookies.jpg" 
+     style="width:50%">
+		 
 *Pupils’ final product – Chocolate cookies*
 
-![](/images/Mindfulness%20session%20-%20Pupil%20learn%20cope%20with%20stress.jpg)
+
+<img src="/images/Mindfulness%20session%20-%20Pupil%20learn%20cope%20with%20stress.jpg" 
+     style="width:50%">
+		 
 *Mindfulness session – Pupils learn to cope with stress using some useful strategies*
-![](/images/Reading%20and%20dramatizing%20the%20story.jpg)
+
+<img src="/images/Reading%20and%20dramatizing%20the%20story.jpg" 
+     style="width:50%">
+		 
 *Reading and dramatizing the story*
 
 **2. Workshops – Self-awareness and money matters**
 
 Selected pupils who are our Kindness Leaders will go through 2 modules of the workshops to understand themselves better and how they can contribute to the school and society.
 
-![](/images/Workshops%20-%20Self-awareness%20and%20money%20matters.jpg)
+
+<img src="/images/Workshops%20-%20Self-awareness%20and%20money%20matters.jpg" 
+     style="width:50%">
+		 
 Some comments by our pupils
 
 *“I learn to not compare myself to others because we are all different in our own ways. My favourite game is the price is right”*<br>
@@ -115,7 +126,19 @@ Some comments by our pupils
 
 Our Kindness Leaders who completed the workshops will organise a Food Donation Drive for the Food From the Heart Organisation. Food items like instant noodles, rice, canned food were donated by our parents and pupils. Our Kindness Leaders will categorise accordingly and give all these items to the Food from the Heart Organisation.
 
-![](/images/Some%20of%20our%20Kindness%20Leaders.jpg)*Some of our Kindness Leaders*
 
-![](/images/Food%20items%20donated%20by%20our%20parents%20and%20pupils.jpg)*Food items donated by our parents and pupils*
-![](/images/Items%20sorted%20&%20ready%20to%20give%20Food%20from%20the%20Heart1.jpg)*Items sorted and ready to give to Food from the Heart*
+<img src="/images/Some%20of%20our%20Kindness%20Leaders.jpg" 
+     style="width:50%">
+		 
+*Some of our Kindness Leaders*
+
+<img src="/images/Food%20items%20donated%20by%20our%20parents%20and%20pupils.jpg" 
+     style="width:50%">
+
+*Food items donated by our parents and pupils*
+
+<img src="/images/Items%20sorted%20&%20ready%20to%20give%20Food%20from%20the%20Heart1.jpg" 
+     style="width:50%">
+
+
+*Items sorted and ready to give to Food from the Heart*
