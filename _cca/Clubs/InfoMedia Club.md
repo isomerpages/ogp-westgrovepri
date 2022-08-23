@@ -4,8 +4,6 @@ permalink: /cca/Clubs/infomedia-club
 description: ""
 third_nav_title: Clubs
 ---
-
-
 The mission of the club is expose our students to various mediums of digital technology and allow them to learn & explore collaboratively and at their own pace. Through collaborations and opportunities, students will learn, master and share their knowledge, passion and skills within and beyond the school. 
 
 Your children will have opportunities to:
