@@ -102,3 +102,16 @@ P6 Gold Badge Recipients
 
 Boys Brigade Enrollment Ceremony (Below)
 ![](/images/Boys%20Brigade%20Enrollment%20Ceremony.jpg)
+
+Nature Rumble - Hike up Bukit Timah Hill (Below)
+![](/images/Nature%20Rumble%20-%20Hike%20up%20Bukit%20Timah%20Hill.jpg)
+
+Camp Craft - Basha Pitching (Below)
+![](/images/Camp%20Craft%20-%20Basha%20Pitching.jpg)
+
+Drills during weekly parades (Below)
+![](/images/Drills%20during%20weekly%20parades.jpg)
+![](/images/Marching.jpg)
+
+Adventure Quest Competition (Below)
+![](/images/Adventure%20Quest%20Competition.jpg)
