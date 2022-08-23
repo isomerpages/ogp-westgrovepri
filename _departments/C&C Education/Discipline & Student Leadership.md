@@ -308,10 +308,14 @@ The 6 school values are reinforced during the Values education lessons conducted
 **3. Best Behaved Pupil of the Month:**
 
 Every month, 1 pupil will be selected from each class by their Form teachers to be awarded the Best Behaved Pupil. The student will be presented with a certificate on stage. This recognises the good behaviour displayed by the student. This also motivates the other students to work towards the award.
-![](/images/Best%20Behaved%20Pupil%20of%20the%20month.jpg)
+
+<img src="/images/Best%20Behaved%20Pupil%20of%20the%20month.jpg" 
+     style="width:50%">
 
 **4. Awareness Campaign**
 
 Many beautifully decorated posters were prepared and pasted around the school compound. This is to increase students’ awareness of their expected attire and personal grooming standard.
 
-![](/images/Awareness.jpg)
+
+<img src="/images/Awareness.jpg" 
+     style="width:50%">
