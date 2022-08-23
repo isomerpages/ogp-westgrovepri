@@ -2,11 +2,11 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Ukelele Ensemble.md
+      - Performing Arts/.keep
       - Performing Arts/Choir.md
       - Performing Arts/Dance.md
-      - Performing Arts/.keep
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Ukelele Ensemble.md
       - Sports & Games/.keep
       - Sports & Games/Badminton.md
       - Sports & Games/Football.md
