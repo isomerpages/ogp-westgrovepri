@@ -2,7 +2,7 @@
 layout: homepage
 title: West Grove Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/School Crest.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -33,5 +33,6 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
 
