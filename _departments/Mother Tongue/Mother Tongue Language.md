@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 # Mother Tongue
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -43,41 +44,36 @@ third_nav_title: Mother Tongue
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-z01w">Level Representatives (Chinese) (P1)</th>
-    <th class="tg-7wcr">Ms Foon Siew Man 潘秀雯<br></th>
+    <th class="tg-s7de">Level Representatives (Chinese) (P1)</th>
+    <th class="tg-eohv">Ms Foon Siew Man 潘秀雯<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-z01w">Level Representatives (Chinese) (P2)<br></td>
-    <td class="tg-7wcr">Mdm Chua Ting Ting  蔡庭婷<br></td>
+    <td class="tg-s7de">Level Representatives (Chinese) (P2)<br></td>
+    <td class="tg-eohv">Mdm Chua Ting Ting  蔡庭婷<br></td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Chinese) (P3)<br></td>
-    <td class="tg-7wcr">Mdm Tang Oi Khum 邓爱琴<br></td>
+    <td class="tg-s7de">Level Representatives (Chinese) (P3)<br></td>
+    <td class="tg-eohv">Mdm Tang Oi Khum 邓爱琴<br></td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Chinese) (P4)</td>
-    <td class="tg-7wcr">Mdm Goh Ming Mei 吴明美<br></td>
+    <td class="tg-s7de">Level Representatives (Chinese) (P4)</td>
+    <td class="tg-eohv">Mdm Goh Ming Mei 吴明美<br></td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Chinese) (P5)</td>
-    <td class="tg-7wcr">Mrs Goh WeiJun 林韦君</td>
+    <td class="tg-s7de">Level Representatives (Chinese) (P5)</td>
+    <td class="tg-eohv">Mrs Goh WeiJun 林韦君</td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Chinese) (P6)</td>
-    <td class="tg-7wcr">Mdm Liu Wei Qin 刘卫琴</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-s7de">Level Representatives (Chinese) (P6)</td>
+    <td class="tg-eohv">Mdm Liu Wei Qin 刘卫琴</td>
   </tr>
 </tbody>
 </table>
@@ -88,89 +84,79 @@ third_nav_title: Mother Tongue
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-z01w">Level Representatives (Malay) (P1)</th>
-    <th class="tg-7wcr">Mdm Noor Afizah</th>
+    <th class="tg-s7de">Level Representatives (Malay) (P1)</th>
+    <th class="tg-eohv">Mdm Noor Afizah</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-z01w">Level Representatives (Malay) (P2)</td>
-    <td class="tg-7wcr">Ms Kartini Khairi</td>
+    <td class="tg-s7de">Level Representatives (Malay) (P2)</td>
+    <td class="tg-eohv">Ms Kartini Khairi</td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Malay) (P3)</td>
-    <td class="tg-7wcr">Mdm Sabrina Annarhar (Sem1)Mdm Noor Afizah (Sem 2)</td>
+    <td class="tg-s7de">Level Representatives (Malay) (P3)</td>
+    <td class="tg-eohv">Mdm Sabrina Annarhar (Sem1)<br>Mdm Noor Afizah (Sem 2)</td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Malay) (P4)</td>
-    <td class="tg-7wcr">Mdm Sabrina Annarhar </td>
+    <td class="tg-s7de">Level Representatives (Malay) (P4)</td>
+    <td class="tg-eohv">Mdm Sabrina Annarhar </td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Malay) (P5)</td>
-    <td class="tg-7wcr">Mdm Shariffah Haiezian <span style="color:#222">Syed Hu</span></td>
+    <td class="tg-s7de">Level Representatives (Malay) (P5)</td>
+    <td class="tg-eohv">Mdm Shariffah Haiezian <span style="color:#222">Syed Hu</span></td>
   </tr>
   <tr>
-    <td class="tg-z01w">Level Representatives (Malay) (P6)</td>
-    <td class="tg-7wcr">Ms Shariffah Affinda </td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-s7de">Level Representatives (Malay) (P6)</td>
+    <td class="tg-eohv">Ms Shariffah Affinda </td>
   </tr>
 </tbody>
 </table>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-fymr">Level Representatives (Tamil) (P1)</th>
-    <th class="tg-0pky"> Mdm Palanivelu Seetha <br></th>
+    <th class="tg-amwm">Level Representatives (Tamil) (P1)</th>
+    <th class="tg-baqh"> Mdm Palanivelu Seetha </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fymr">Level Representatives (Tamil) (P2) </td>
-    <td class="tg-0pky"> Ms Aishwarya Durga d/o Nalamthamby</td>
+    <td class="tg-amwm">Level Representatives (Tamil) (P2) </td>
+    <td class="tg-baqh"> Ms Aishwarya Durga d/o Nalamthamby</td>
   </tr>
   <tr>
-    <td class="tg-fymr">Level Representatives (Tamil) (P3) </td>
-    <td class="tg-0pky"> Ms Alagu Meenal Thamodaran</td>
+    <td class="tg-amwm">Level Representatives (Tamil) (P3) </td>
+    <td class="tg-baqh"> Ms Alagu Meenal Thamodaran</td>
   </tr>
   <tr>
-    <td class="tg-fymr">Level Representatives (Tamil) (P4) </td>
-    <td class="tg-0pky"> Ms Alagu Meenal Thamodaran</td>
+    <td class="tg-amwm">Level Representatives (Tamil) (P4) </td>
+    <td class="tg-baqh"> Ms Alagu Meenal Thamodaran</td>
   </tr>
   <tr>
-    <td class="tg-fymr">Level Representatives (Tamil) (P5) </td>
-    <td class="tg-0pky"> Mdm Palanivelu Seetha <br></td>
+    <td class="tg-amwm">Level Representatives (Tamil) (P5) </td>
+    <td class="tg-baqh"> Mdm Palanivelu Seetha </td>
   </tr>
   <tr>
-    <td class="tg-fymr">Level Representatives (Tamil) (P6) </td>
-    <td class="tg-0pky"> Ms Aishwarya Durga d/o Nalamthamby</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-amwm">Level Representatives (Tamil) (P6) </td>
+    <td class="tg-baqh"> Ms Aishwarya Durga d/o Nalamthamby</td>
   </tr>
 </tbody>
 </table>
-
 
 **MISSION:**
 
