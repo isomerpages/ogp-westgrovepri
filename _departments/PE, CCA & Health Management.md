@@ -64,3 +64,97 @@ description: ""
 
 <img src="/images/Healthy%20Lifestyle%20Guideline%20Pyramid.jpg" 
      style="width:60%">
+		 
+**OUR VISION**
+
+A school where staff and pupils leverage on physical and psychological health for success.
+
+To cultivate passion in physically fit pupils for sports and games.
+
+
+**CURRICULUM**
+
+*   Health Education Assessment  
+*   Project – 50%    
+*   Online Quiz – 30%    
+*   Hygiene Checklist – 20%  
+*   Growing Years Lesson for P5 and P6 only (Post Exam Activity)  
+*   P5 Road Safety Education Games
+
+**PROGRAMMES**
+
+  
+
+*   Fruittie Veggie Bites Programme (Term 2)  
+    
+*   First Aid Course for Teachers  
+    
+*   Food Safety Talk for Pupils  
+    
+*   Road Safety Talk for Pupils  
+    
+*   Breakfast Programme  
+    
+
+  
+
+**PE Programme**
+
+*   P1 : Education Gymnastics (Term 2 & 3)  
+    
+*   P2 : Learn-to-hold-a-racket Programme (Term 1 to 3)  
+    
+*   P3 : SwimSafer Programme (T1-2)  
+    
+*   P1-P4 : Speed Skipping Proficiency Test Awards  
+    
+
+  
+
+  
+
+**EVENTS**
+
+  
+
+*   NAPFA Test for P4 to P6 pupils  
+    
+*   Sports Carnival for P3 to P6 Pupils  
+    
+*   Sports Leadership training  
+    
+*   ACES Day  
+    
+*   Lower Primary Games Day  
+    
+*   Sports Education Programme (SEP) – Activities for P4 to P6 pupils  
+    
+
+  
+
+  
+
+### HIGHLIGHTS
+
+  
+
+**Outdoor Education Programme**
+
+  
+
+1.  P3 Day Camp in September  
+    
+2.  P4 2D1N Camp in June  
+    
+3.  P5 3D2N camp in March  
+    
+
+  
+
+**Goals of Outdoor Education Programme**
+
+1.  Develop knowledge and aptitudes for learning beyond the classroom.  
+    
+2.  To Appreciate nature  
+    
+3.  To overcome challenges that nature presents
