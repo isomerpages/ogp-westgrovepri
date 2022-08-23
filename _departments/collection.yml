@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - PE, CCA & Health Management.md
       - Mathematics.md
       - English/.keep
       - English/English Language.md
@@ -26,3 +25,4 @@ collections:
       - C&C Education/Discipline & Student Leadership.md
       - C&C Education/Environment Education and Partnerships.md
       - C&C Education/National Education & Social Studies.md
+      - PE, CCA & Health Management.md
