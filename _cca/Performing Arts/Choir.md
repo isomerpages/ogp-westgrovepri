@@ -76,18 +76,29 @@ Tuesdays and / or Thursdays
 **PHOTOS**
 
 **Nanyang CC Chinese New Year Celebrations 2020**
-![](/images/choir1.jpg)
 
+<img src="/images/choir1.jpg" 
+     style="width:60%">
+		 
 **SICF 2019**<br>
 **Yong Siew Toh Conservatory of Music**
-![](/images/choir2.jpg)
 
+<img src="/images/choir2.jpg" 
+     style="width:60%">
+		 
 **SICF 2019**<br>
 **Yong Siew Toh Conservatory of Music**
-![](/images/choir3.jpg)
+
+<img src="/images/choir3.jpg" 
+     style="width:60%">
+		 
 
 **Team Bonding Activities (Taken in 2019)**
-![](/images/choir4.jpg)
+
+<img src="/images/choir4.jpg" 
+     style="width:50%">
 
 **Discussing Music (Taken in 2019)**
-![](/images/choir5.jpg)
+
+<img src="/images/choir5.jpg" 
+     style="width:60%">
