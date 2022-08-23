@@ -33,39 +33,53 @@ P1-P6 Classroom activities:
 
 **Primary 1 -Thoranam making.**
 
-![](/images/Picture-2%20(1).png)
-![](/images/Picture-1.jpg)
+
+<img src="/images/Picture-2%20(1).png" 
+     style="width:50%">
+<img src="/images/Picture-1.jpg" 
+     style="width:50%">
 
 **Primary 2 - Oil lamp painting**
 
-![](/images/Picture-3%20(1).jpg)
-![](/images/Picture-4%20(1).jpg)
+<img src="/images/Picture-3%20(1).jpg" 
+     style="width:50%">
+<img src="/images/Picture-4%20(1).jpg" 
+     style="width:50%">
 
 **Primary 3 students - Puppet show and Shadow-puppet making**
 
-![](/images/Picture-5%20(1).jpg)
-![](/images/Picture-6%20(1).jpg)
+<img src="/images/Picture-5%20(1).jpg" 
+     style="width:70%">
+<img src="/images/Picture-6%20(1).jpg" 
+     style="width:70%">
 
 **Primary 4 - Innovative Vegetable Painting using Hand-kerchief**
 
-![](/images/Picture-7.jpg)
+<img src="/images/Picture-7.jpg" 
+     style="width:70%">
 
 **Primary 5 - Udukkai Making using Recycled Materials**
-![](/images/Picture-8.jpg)
-![](/images/Picture-9.jpg)
+
+<img src="/images/Picture-8.jpg" 
+     style="width:70%">
+<img src="/images/Picture-9.jpg" 
+     style="width:70%">
 
 **Primary 6 - Paper Flowers Making**
-![](/images/Picture-10.jpg)
-![](/images/Picture-11.jpg)
 
+<img src="/images/Picture-10.jpg" 
+     style="width:70%">
+<img src="/images/Picture-11.jpg" 
+     style="width:70%">
 **MT Fortnight - Classroom Activity**  
-
-  
 
 During Term 3, MT Fortnight activities were held for students from Primary 1 to Primary 6. There were activities planned for the Tamil students and the NTIL students from P1 to P6 based on their caliber. As a result of this activity, our students are able to learn about the various Indian handcraft works and also about the methods to do those crafts. From these activities, students were able to be independent learners outside the classroom, which eventually led them to let out their inner talents.
 
-![](/images/MT%20Fortnight%20-%20Classroom%20Activity%20-%201.jpg)
-![](/images/MT%20Fortnight%20-%20Classroom%20Activity%20-%202.jpg)
+
+<img src="/images/MT%20Fortnight%20-%20Classroom%20Activity%20-%201.jpg" 
+     style="width:60%">
+<img src="/images/MT%20Fortnight%20-%20Classroom%20Activity%20-%202.jpg" 
+     style="width:60%">
 
 **Cultural Camp**
 
@@ -73,7 +87,9 @@ During Term 3, MT Fortnight activities were held for students from Primary 1 to 
 
 The cultural camp was one of the activities organized in conjunction with the MT fortnight for the P4 TL & NTIL students. In this activity, students learnt why lamps were important for the Indians, specifically the Hindus. In this activity, the students learnt how to do some hand painting to beautify the lamp. They also learnt the art of drawing the Kolam and to also colour it and beautify it. By showing their involvement, the students were able to bring out their inner talents which made them feel happy.
 
-![](/images/Cultural%20Camp%20-%201.jpg)
+
+<img src="/images/Cultural%20Camp%20-%201.jpg" 
+     style="width:60%">
 
 **தாய்மொழி இருவார விழா**
 
@@ -86,7 +102,8 @@ The cultural camp was one of the activities organized in conjunction with the MT
 தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரையிலான மாணவர்களுக்கு பருவம் 3ல் தாய்மொழி இருவார நடவடிக்கைகள் மேற்கொள்ளப்பட்டன. இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் அனைத்துதமிழ் மாணவர்கள் மற்றும் பிற இந்திய மொழி மாணவர்களுக்கான நடவடிக்கைகள் அவரவர்களின் நிலைக்கேற்ப மேற்கொள்ளப்பட்டன. இந்த நடவடிக்கைகளின் மூலம் நமது மாணவர்கள் தமிழர்களின் கைவினைப் பொருட்கள் பற்றியும் அவற்றை செய்யும் விதம் பற்றியும் அறிந்துகொண்டனர். அதுமட்டுமின்றி, அவற்றை எவ்வாறு மிகவும் எளிமையாக செய்யலாம் என்பதையும் கற்றுக்கொண்டனர். இத்தகைய நடவடிக்கைகளை மேற்கொண்டதால் மாணவர்கள் வகுப்பறையில் மட்டுமல்லாமல் வகுப்பறை தாண்டிய கற்றலில் ஈடுபடுவதுடன் அதில் முழுமையான ஆர்வத்தையும் வெளிப்படுத்தித் தங்களின் திறமையை வெளிப்படுத்தினர்.
 
 ![](/images/Cultural%20Camp%20-%202.jpg)
-![](/images/Cultural%20Camp%20-%203.jpg)
+<img src="/images/Cultural%20Camp%20-%203.jpg" 
+     style="width:60%">
 
 **முகாம் வகுப்பு நடவடிக்கை**
 
@@ -127,6 +144,9 @@ This year our school organized book fair for all Mother Tongue on behalf of Tami
 
 இந்த வருடம் நமது பள்ளியில் தாய்மொழிப் பிரிவில் ஒன்றான தமிழ்மொழியின் சார்பாக புத்தகக் கண்காட்சி ஒன்று மார்ச்சு 23ஆம் தேதி நடைபெற்றது. இதை ராஜி பப்ளிகேஷன்ஸ் என்ற நிறுவனத்தார் மேற்கொண்டனர். இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் மாணவர்களுக்குத் தேவையான கதைப்புத்தகங்கள், பயிற்சித்தாள்கள், மொழிவளம் தொடர்பான பயிற்சிநூல், மாதிரித்தேர்வுத் தாள்கள் ஆகியன விற்பனைக்கு வைக்கப்பட்டன. மாணவர்கள் தங்களுக்குத் தேவையான புத்தகங்களை அவரவர்களின் தமிழ்மொழி ஆசிரியரின் உதவியுடன் வந்து வாங்கிச்சென்றனர். இதில் மாணவர்கள் மிகுந்த உற்சாகத்துடனும் ஆர்வத்துடனும் கலந்துகொண்டனர். அவர்கள், தங்களின் பெற்றோரின் அறிவுரையின்படி தங்களுக்குத் தேவையான புத்தகங்களை வாங்கிக்கொண்டனர். மாணவர்களின் மொழி அறிவை மேம்படுத்துவதற்காக இந்தப் புத்தகக் கண்காட்சி நடத்தப்பட்டது. மேலும், இது மாணவர்களுக்குப் பயனுள்ள விதமாகவும் அமைந்திருந்தது.
 
-![](/images/Book%20Fair%20-%201.jpg)
-![](/images/Book%20Fair%20-%202.jpg)
-![](/images/Book%20Fair%20-%203.jpg)
+<img src="/images/Book%20Fair%20-%201.jpg" 
+     style="width:60%">
+<img src="/images/Book%20Fair%20-%202.jpg" 
+     style="width:60%">
+<img src="/images/Book%20Fair%20-%203.jpg" 
+     style="width:60%">
