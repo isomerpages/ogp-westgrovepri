@@ -26,8 +26,9 @@ The art pieces are works of our students, as well as students from invited schoo
 
 This platform serves as an avenue to develop our students’ creativity through meaningful art activities.
 ![](/images/p3.jpg)
-![](/images/p4.jpg)
-
+<img src="/images/p4.jpg" 
+     style="width:50%">
+		 
 **4.Tuneful Recess @ Busbay**
 
 This platform serves as an avenue to develop our pupils’ Confidence, Creativity, Entrepreneurship and Leadership skills through meaningful art and music activities. Such activities can range from mini recess concerts to handicrafts.
@@ -49,5 +50,8 @@ In order to nurture our pupils to be well-informed audience of the Arts, we inco
 
 Students created their own musical instruments during Art lesson and used it in a play-along session during our E-assembly.
 
-![](/images/p11.jpg)
-![](/images/p12.jpg)
+
+<img src="/images/p11.jpg" 
+     style="width:50%">
+<img src="/images/p12.jpg" 
+     style="width:50%">
