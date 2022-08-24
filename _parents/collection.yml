@@ -1,4 +1,4 @@
 collections:
-  for-parents:
+  parents:
     output: true
     order: []
