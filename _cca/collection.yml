@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - test.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys Scouts.md
       - Uniformed Groups/Boys' Brigade.md
