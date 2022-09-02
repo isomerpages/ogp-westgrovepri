@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Student Care Centre.md
       - School Newsletter.md
       - Sexuality Education.md
