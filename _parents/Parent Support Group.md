@@ -34,3 +34,9 @@ Parents interested in helping out with our school activities, please fill in the
 You can also find us on facebook link [https://www.facebook.com/WGPSPSG/](https://www.facebook.com/WGPSPSG/)
 
 and Instagram page [https://www.instagram.com/westgrovepsg/](https://www.instagram.com/westgrovepsg/)
+
+**TREE PLANTING 2022:**
+
+![](/images/tree-planting1.jpg)
+![](/images/tree-planting2.png)
+![](/images/tree-planting3.png)
