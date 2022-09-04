@@ -55,4 +55,5 @@ For parents who may wish to register with us directly, they could register via t
 
 [PSP\_Jurong@thkmc.org.sg](mailto:PSP_Jurong@thkmc.org.sg)
 
-![](/images/psp.png)
+<img src="/images/psp.png" 
+     style="width:45%">
