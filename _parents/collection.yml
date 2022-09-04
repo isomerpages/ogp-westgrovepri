@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parent Service Provider (PSP).md
       - Parent Support Group.md
       - 40 hour Parent Volunteer (PV).md
       - Student Care Centre.md
