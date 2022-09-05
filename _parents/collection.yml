@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Wait List Application Form.md
       - Useful Information/Educational Articles for Parents.md
       - Useful Information/2022 Weighted Assessment Overview.md
       - Useful Information/.keep
