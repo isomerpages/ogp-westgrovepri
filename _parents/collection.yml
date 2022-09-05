@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Useful Information/2022 Weighted Assessment Overview.md
       - Useful Information/.keep
       - Cyber Wellness Resources.md
       - Useful Links for Students/.keep
