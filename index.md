@@ -7,8 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: West Grove Primary School
       background: /images/homepage.jpeg
       button: Contact Us
       url: /contact-us/
