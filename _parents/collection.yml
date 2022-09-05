@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - PSLE Briefing.md
       - P4 Subject Based Banding Briefing.md
       - 2022 Term Letters to Parents.md
       - 2022 Canteen Stall Menu with Price list.md
