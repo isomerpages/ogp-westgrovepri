@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2021 Parents Engagement Workshop.md
       - Wait List Application Form.md
       - Useful Information/Educational Articles for Parents.md
       - Useful Information/2022 Weighted Assessment Overview.md
