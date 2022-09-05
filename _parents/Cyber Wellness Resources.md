@@ -57,3 +57,23 @@ For more information on CW and resources and tips for students, educators and pa
   </tr>
 </tbody>
 </table>
+
+### Cyber Wellness Parent Talks
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-cxqu"><span style="font-weight:400;color:#0C2733">25th August 2018</span><br><br><span style="font-weight:400;color:#0C2733">Whats your DQ?</span><br><span style="font-weight:400;color:#0C2733">(</span><a href="/files/2018-DQ-Parents-Workshop_West-Grove-Pri.pdf"><span style="font-weight:500;color:#348A17">Click Here</span></a><span style="font-weight:400;color:#0C2733">)</span><br><br><br><br><br><br><br><span style="font-weight:400;color:#0C2733">Related Resources:</span><br></td>
+    <td class="tg-ii8k"><img src="/images/Cyber%20Wellness%20Parent%20Talks.jpg" alt="Cyber Wellness Parent Talks.jpg"><br><br><br><br><br><br><br><br><br><br><br><a href="https://www.dqworld.net/"><span style="font-weight:500;color:#348A17">https://www.dqworld.net</span></a><br><a href="http://whatsyourdq.org/"><span style="font-weight:500;color:#348A17">http://whatsyourDQ.org</span></a><br><span style="color:#222;background-color:#EAEAEA">(For parents)</span><br><br><br></td>
+  </tr>
+</thead>
+</table>
