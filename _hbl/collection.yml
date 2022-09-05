@@ -2,4 +2,5 @@ collections:
   hbl:
     output: true
     order:
+      - SLS FAQ.md
       - Frequently Asked Questions.md
