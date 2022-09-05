@@ -8,4 +8,8 @@ Refer to the [link](https://www.healthhub.sg/programmes/183/parent-hub/primary)
   
 **Parent Hub:**
 
-[](https://www.healthhub.sg/programmes/183/parent-hub/primary)[https://www.healthhub.sg/programmes/183/parent-hub/primary](https://www.healthhub.sg/programmes/183/parent-hub/primary)  
+[](https://www.healthhub.sg/programmes/183/parent-hub/primary)[https://www.healthhub.sg/programmes/183/parent-hub/primary](https://www.healthhub.sg/programmes/183/parent-hub/primary)
+
+![](/images/ManagingTransition%20(1)_1.jpg)
+![](/images/Sleep.jpg)
+![](/images/The%20Healthy%20Timeout%20Challenge%20eDM_1.jpg)
