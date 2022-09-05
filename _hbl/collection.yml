@@ -1,4 +1,5 @@
 collections:
   hbl:
     output: true
-    order: []
+    order:
+      - Frequently Asked Questions.md
