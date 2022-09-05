@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - WE STories 2021.md
       - 2021 Parents Engagement Workshop.md
       - Wait List Application Form.md
       - Useful Information/Educational Articles for Parents.md
