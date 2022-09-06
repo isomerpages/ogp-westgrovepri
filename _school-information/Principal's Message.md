@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /school-information/principals-message
+permalink: /school-information/principals-message/
 description: ""
 ---
 # Principal's Message
@@ -23,6 +23,6 @@ I look forward to a synergistic relationship with all of you to bring out the be
 
 *I do the very best I know how – the very best I can; and I mean to keep on doing so until the end- Abraham Lincoln
 *
-Best Wishes
 
+Best Wishes  
 Mrs Chandler Jay Siva
