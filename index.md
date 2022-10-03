@@ -16,4 +16,7 @@ sections:
         - title: HIGHLIGHT 1
           description: Key Highlight description
           url: ""
+        - title: HIGHLIGHT 2
+          description: Key Highlight description
+          url: ""
 ---
