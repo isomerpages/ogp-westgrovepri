@@ -12,4 +12,8 @@ sections:
       button: Contact Us
       url: /contact-us/
       subtitle: Wisdom and Grace
+      key_highlights:
+        - title: HIGHLIGHT 1
+          description: Key Highlight description
+          url: ""
 ---
