@@ -1,6 +1,6 @@
 ---
 title: School Rules & School Song
-permalink: /school-information/school-rules-school-songs
+permalink: /school-information/school-rules-school-songs/
 description: ""
 ---
 # School Rules; School Song
@@ -19,18 +19,18 @@ Pupils who are Singapore citizens must sing the National Anthem and take the Ple
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KqsfIdvSg1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-At West Grove, we march on with our peers
-Together we achieve through the years
-We build, we shape, we declare
-What we have, we learn to share
+* At West Grove, we march on with our peers
+* Together we achieve through the years
+* We build, we shape, we declare
+* What we have, we learn to share
 
-Chorus
-Wisdom and Grace
-We totally embrace
-With Wisdom and Grace
-We will win the race
+**Chorus**
+* Wisdom and Grace
+* We totally embrace
+* With Wisdom and Grace
+* We will win the race
 
-With one heart, one soul and one mind
-With renewed faith, upwards we will climb
-New heights, new hopes and new dreams
-Together we achieve as a team
+* With one heart, one soul and one mind
+* With renewed faith, upwards we will climb
+* New heights, new hopes and new dreams
+* Together we achieve as a team
