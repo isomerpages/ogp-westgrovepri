@@ -1,11 +1,11 @@
 ---
 title: Middle Management
-permalink: /staff/middle-management
+permalink: /staff/middle-management/
 description: ""
 ---
 # Middle Management
 
-![](/images/MIDDLE%20MANAGERS.jpg)
+![](/images/Until%202022_Pictures/MIDDLE%20MANAGERS.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
