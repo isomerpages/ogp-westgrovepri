@@ -1,6 +1,6 @@
 ---
 title: School Profile
-permalink: /school-information/school-profile
+permalink: /school-information/school-profile/
 description: ""
 ---
 # School Profile
@@ -43,7 +43,7 @@ ST4 - Organizational Excellence
 
 **School Crest**
 
-<img src="/images/School%20Crest.png" 
+<img src="/images/Until%202022_Pictures/School%20Crest.png" 
      style="width:25%">
 
 Shaped like a Shield, the badge represents honour and loyalty to uphold for the school. BLACK Outline demonstrates boldness in taking on challenges.
