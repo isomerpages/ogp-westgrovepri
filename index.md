@@ -11,4 +11,5 @@ sections:
       background: /images/homepage.jpeg
       button: Contact Us
       url: /contact-us/
+      subtitle: Wisdom and Grace
 ---
