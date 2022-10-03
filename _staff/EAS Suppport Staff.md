@@ -1,11 +1,11 @@
 ---
 title: EAS Suppport Staff
-permalink: /staff/eas-support-staff
+permalink: /staff/eas-support-staff/
 description: ""
 ---
 # EAS Support Staff
 
-![](/images/Sch%20Admin%20Team.jpg)
+![](/images/Until%202022_Pictures/Sch%20Admin%20Team.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
