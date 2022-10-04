@@ -7,167 +7,209 @@ description: ""
 
 ![](/images/Until%202022_Pictures/MIDDLE%20MANAGERS.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
-.tg .tg-ytt9{background-color:#DBDBDB;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-c15f{background-color:#DDD;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ytt9">Principal</th>
-    <th class="tg-s5dh">Mrs. Chandler Jay Siva</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ytt9">Vice–Principal</td>
-    <td class="tg-s5dh">Mdm. Siti Rashidah Bte Abdul Rahman<br></td>
-  </tr>
-  <tr>
-    <td class="tg-c15f"><span style="color:#0C2733">Vice–Principal (Administration)</span><br></td>
-    <td class="tg-s5dh">Mdm. Tay Sook Hian, Audrey </td>
-  </tr>
-</tbody>
-</table>
 
+<table style="width:604.0pt;border-collapse:collapse;border:none;mso-border-alt:solid #AAAAAA .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="805" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:310.1pt;border:solid windowtext 1.0pt;mso-border-alt:
+  solid windowtext .5pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Principal</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:293.9pt;border:solid #AAAAAA 1.0pt;border-left:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid #AAAAAA .75pt;
+  mso-border-left-alt:solid windowtext .5pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="392"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs. Chandler Jay Siva</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:310.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Vice–Principal</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:293.9pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="392"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm. Siti Rashidah Bte Abdul Rahman</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:310.1pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#DDDDDD;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733">Vice–Principal (Administration)</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#666666"></span></b></p></td><td style="width:293.9pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="392"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm. Tay Sook Hian, Audrey&nbsp;</span></p></td></tr></tbody></table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
-.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ytt9{background-color:#DBDBDB;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ytt9">HOD, Science</th>
-    <th class="tg-s5dh">Mr. Tee Kar Yeow</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ytt9">HOD, English<br></td>
-    <td class="tg-s5dh">Mdm. Nithiyah</td>
-  </tr>
-  <tr>
-    <td class="tg-e14l">HOD, Mother Tongue<span style="color:#666;background-color:#DDD"> </span></td>
-    <td class="tg-s5dh">Ms. Tan Poh Ching </td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">HOD, Mathematics</td>
-    <td class="tg-s5dh">Mrs. Nicole Chua</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">HOD, ICT &amp; MRL</td>
-    <td class="tg-s5dh">Ms. Tan Si Hua</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">HOD, Physical Health Education</td>
-    <td class="tg-s5dh">Mr. Abdul Wahid</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">HOD, Character and Citizenship Education</td>
-    <td class="tg-s5dh">Mdm. Anisah Bte Muna Mohamed</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">HOD, Aesthetics</td>
-    <td class="tg-s5dh">Ms. Betty Chan Siew Sharn</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">School Staff Developer</td>
-    <td class="tg-s5dh">Mrs. Saleha Raj</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Year Head (P1/2)</td>
-    <td class="tg-s5dh">Mrs. Teng-Lim Suat Lay</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Year Head (P3/4)</td>
-    <td class="tg-s5dh">Mdm. Lee Nyuk Phing</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Year Head (P5/6)</td>
-    <td class="tg-s5dh">Mr. David Chong</td>
-  </tr>
-</tbody>
-</table>
+<table style="width:592.5pt;border-collapse:collapse;border:none;mso-border-alt:solid #AAAAAA .75pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="790" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">HOD, Science</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border:solid #AAAAAA 1.0pt;border-left:
+  none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-bottom-alt:solid #AAAAAA .75pt;
+  mso-border-right-alt:solid #AAAAAA .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr. Tee Kar Yeow</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, English</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm. Nithiyah</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:310.1pt;border:none;background:#DDDDDD;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">HOD, Mother Tongue</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#666666">&nbsp;</span></b></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms. Tan Poh Ching&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Mathematics</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs. Nicole Chua</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, ICT &amp; MRL</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms. Tan Si Hua</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Physical Health Education</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr. Abdul Wahid</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Character and Citizenship Education</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm. Anisah Bte Muna Mohamed</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Aesthetics</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Ms. Betty Chan Siew Sharn</span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">School Staff Developer</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs. Saleha Raj</span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Year Head (P1/2)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mrs. Teng-Lim Suat Lay</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Year Head (P3/4)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mdm. Lee Nyuk Phing</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Year Head (P5/6)</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
+  mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Mr. David Chong</span></p></td></tr></tbody></table>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s926{background-color:#ECECEC;color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-ytt9{background-color:#DBDBDB;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-c15f{background-color:#DDD;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ytt9">Level Head, English</th>
-    <th class="tg-s926">Mrs. Chen Pei Ai</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ytt9">Level Head, Science</td>
-    <td class="tg-s926">-</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Level Head Mathematics</td>
-    <td class="tg-s926">Mrs. Michelle Sim</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Chinese Language</td>
-    <td class="tg-s926">Ms. Foong Yuk Yew</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Malay &amp; Tamil Language</td>
-    <td class="tg-s926">Mdm. Shariffah Haiezian</td>
-  </tr>
-  <tr>
-    <td class="tg-c15f">Subject Head, ICT &amp; MRL</td>
-    <td class="tg-s926">Mr. Matthew Sim</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Discipline</td>
-    <td class="tg-s926">Mr. Ong Chee Keong</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Environmental Education &amp; Partnership</td>
-    <td class="tg-s926">Mdm. Mindy Neo</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Pupil Well-being</td>
-    <td class="tg-s926">Mdm. Noor Afizah</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, National Education &amp; Social Studies</td>
-    <td class="tg-s926">Ms. Munirah Bee Bte Haron</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Art</td>
-    <td class="tg-s926">Ms. Er Ka Hui</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Music</td>
-    <td class="tg-s926">Mrs. Tang-Chew Pei Xi</td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">Subject Head, Physical Health Education</td>
-    <td class="tg-s926">Mr. Jackie Huang Hongwei</td>
-  </tr>
-</tbody>
-</table>
+<table style="width:597.0pt;background:#ECECEC;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0in 0in 0in 0in" width="796" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Level Head, English</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border:solid #AAAAAA 1.0pt;border-left:
+  none;background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mrs. Chen Pei Ai</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Level Head, Science</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">-</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Level Head Mathematics</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mrs. Michelle Sim</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Chinese Language</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Ms. Foong Yuk Yew</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Malay &amp; Tamil Language</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mdm. Shariffah Haiezian</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:310.0pt;background:#DDDDDD;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, ICT &amp; MRL</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mr. Matthew Sim</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Discipline</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mr. Ong Chee Keong</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Environmental Education &amp; Partnership</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mdm. Mindy Neo</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:8"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Pupil Well-being</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mdm. Noor Afizah</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, National Education &amp; Social Studies</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Ms. Munirah Bee Bte Haron</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Art</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Ms. Er Ka Hui</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Music</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mrs. Tang-Chew Pei Xi</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:12;mso-yfti-lastrow:yes"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Physical Health Education</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
+  border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
+  background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mr. Jackie Huang Hongwei</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr></tbody></table>
