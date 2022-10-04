@@ -19,7 +19,7 @@ third_nav_title: Mother Tongue
 * Parents’ Talk
 * Post Exam Activities
 
-**Mother Tongue Fortnight 2021**
+**Mother Tongue Fortnight 2022**
 
 P1-P6 Classroom activities
 
