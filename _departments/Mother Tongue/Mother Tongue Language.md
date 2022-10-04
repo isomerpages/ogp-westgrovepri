@@ -246,475 +246,65 @@ third_nav_title: Mother Tongue
 </table>
 
 **Other Celebrations**
+### **1\. Mother Tongue Fortnight**
 
-**1. Mother Tongue Fortnight**
+  
 
-In support of MOE's efforts to promote students’ learning and appreciation of Mother Tongue languages (MTL) and cultures, the MTL Department organises Mother Tongue Fortnight annually. Mother Tongue Fortnight activities expose students to the interesting aspects of language learning. Students are exposed to a wide range of activities during the Mother Tongue Fortnight, seeing the practical and cultural value of their respective mother tongue languages.
+To provide an immersive environment for students to learn and use the mother tongue language in a more in-depth manner, and to appreciate the culture through hands-on tasks, the MTL department organises a spectrum of activities for the annual Mother Tongue Fortnight. The theme for this year is “Innovation and Creativity”.
 
-The theme for 2021 Mother Tongue Fortnight is ‘Innovation, Invention or Creativity’. Please follow links for more information on each language divisions: CL; ML; TL
+This year, the 3 mother tongue languages collaborated and conducted a session on kite-making during the respective recesses.
 
-**2. Talent Development Programmes**
+  
 
-Talent Development Programme is designed to stretch and challenge the students in the learning of the MTL. Students with special talent(s) or skill(s) are identified by their respective MTL teachers and given the opportunity to participate in competitions at the Cluster or/and National / International level. 
-
-**Chinese External Competitions**
-
-**1.  4th Text Recital Competition for Primary and Secondary Schools 2021**
-
-Organiser: CPCLL, Anderson Primary School, SCCL
-
-Name and Award Title :
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-41lb{color:#231F20;text-align:left;vertical-align:top}
-.tg .tg-85pk{background-color:#F8F9FA;color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr"><span style="color:black">Liu Xihan</span></th>
-    <th class="tg-7wcr"><span style="color:black">6CL1/6E</span></th>
-    <th class="tg-85pk"><span style="color:black">Bronze Award</span></th>
-    <th class="tg-85pk"><span style="color:black">Individual</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black"> Magdalene Lim Xin Ning</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Chiang Hui Min</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Ong Shi Qi Joaquim</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Hu Kangrui</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Lai Xin Yu</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-41lb"><span style="color:#231F20">Jaxel Neo Jiayu</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Yang Lingxuan</span></td>
-    <td class="tg-7wcr"><span style="color:black">4CL1/4F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-85pk"><span style="color:black">Individual</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Elica Chen Wan Yang</span></td>
-    <td class="tg-7wcr"><span style="color:black">2CL5</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Ng Jing Wen, Karissa</span></td>
-    <td class="tg-7wcr"><span style="color:black">3CL3</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-85pk"><span style="color:black">Individual</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Elysia Beh En Qi</span></td>
-    <td class="tg-7wcr"><span style="color:black">2CL2</span></td>
-    <td class="tg-7wcr"><span style="color:black">Bronze Award</span></td>
-    <td class="tg-85pk"><span style="color:black">Individual</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Zeng Tao Jin Jie</span></td>
-    <td class="tg-7wcr"><span style="color:black">2CL5</span></td>
-    <td class="tg-7wcr"><span style="color:black">Silver Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Ni BinHao</span></td>
-    <td class="tg-7wcr"><span style="color:black">2CL3</span></td>
-    <td class="tg-7wcr"><span style="color:black">Silver Award</span></td>
-    <td class="tg-7wcr"><span style="color:black">Group</span></td>
-  </tr>
-</tbody>
-</table>
-
-**2. National Chinese Calligraphy Competition 2021**
-
-Organiser: Hong Wen School & Hong Wen Alumni
-
- Name and Award Title: 
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">Yang Lingxuan</th>
-    <th class="tg-0lax">4CL1/4F</th>
-    <th class="tg-0lax"><span style="font-weight:400;font-style:normal">Participation Award</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-**3.National Chinese Challenge 2021 (Primary Category)**
-
-Organiser: Nanyang Girls’ High School
-
- Name and Award Title: 
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr"><span style="color:black">Zheng Yichun</span></th>
-    <th class="tg-7wcr"><span style="color:black">6CL1/6E</span></th>
-    <th class="tg-7wcr"><span style="color:black">Participation</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Wang Ruitong</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Angel Lioh Yun Er</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Woo Yi Wei, Lucas</span></td>
-    <td class="tg-7wcr"><span style="color:black">6CL1/6E</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Sun Yuwei</span></td>
-    <td class="tg-7wcr"><span style="color:black">5CL1/5F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Li Hao Ran</span></td>
-    <td class="tg-7wcr"><span style="color:black">5CL1/5D</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr"><span style="color:black">Foo Yaojia</span></td>
-    <td class="tg-7wcr"><span style="color:black">5CL1/5F</span></td>
-    <td class="tg-7wcr"><span style="color:black">Participation</span></td>
-  </tr>
-</tbody>
-</table>
-
-**4. National Primary Schools Chinese Story-telling Competition 2021**
-
-Organiser: Singapore Hokkien Huay Kuan, Singapore Middle School Chinese Teachers’ Association, Tao Nan School, with support from UFM100.3
-
- Name and Award Title: 
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Sun JiaYi </th>
-    <th class="tg-7wcr">6CL1 /6E</th>
-    <th class="tg-7wcr">Participation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
-
-**5. 2021 National On-the-spot Chinese Story-Writing Competition**
-
-Organiser: Anglican High School, Lingzi Media
-
- Name and Award Title: 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Lieu Jia Qian</th>
-    <th class="tg-7wcr">6CL1/6F</th>
-    <th class="tg-7wcr">Participation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Chua Yu Xuan</td>
-    <td class="tg-7wcr">6CL1/6F</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
-
-**Malay External Competition**
-
-**Kartunis Cilik 2021**
-
-Organiser: White Sands Primary School
-
- Name and Award Title: 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-pekm{background-color:#FFF;color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Danial Iqlas Bin Ermin</th>
-    <th class="tg-pekm"><span style="color:black">4B</span></th>
-    <th class="tg-7wcr">Participation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Fahrin Bin Jazid</td>
-    <td class="tg-pekm"><span style="color:black">4D</span></td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
+**Recess Activity: Kite-making**
 
 
-**Tamil External Competition**
 
-**1.  Thirukkural Vizha**
 
-Organiser: Tamil Language and Cultural Society
 
- Name and Award Title: 
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-pekm{background-color:#FFF;color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pekm"><span style="color:black;background-color:white">Rohinishri Tamilmani</span></th>
-    <th class="tg-pekm"><span style="color:black;background-color:white">1E</span></th>
-    <th class="tg-7wcr">1st  Prize</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Hiranyha Mahesh</td>
-    <td class="tg-7wcr">6F</td>
-    <td class="tg-7wcr">2nd  Prize</td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Kannan Lucksana</td>
-    <td class="tg-7wcr">6D</td>
-    <td class="tg-7wcr">2nd  Prize</td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Ravi Loshnavi</td>
-    <td class="tg-7wcr">5D</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Akshayanjali d/o Kalaiselvan</td>
-    <td class="tg-7wcr">5F</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
+Please follow the links for more information on the activities conducted by the respective mother tongue languages:&nbsp;[CL](https://westgrovepri.moe.edu.sg/departments/mother-tongue/chinese);&nbsp;[ML](https://westgrovepri.moe.edu.sg/departments/mother-tongue/malay);&nbsp;[TL](https://westgrovepri.moe.edu.sg/departments/mother-tongue/tamil)
 
-**2. Muthamizh Vizha: P3 & 4 Story Telling Contest**
+**2\. Talent Development Programmes**  
+  
+Talent Development Programme is designed to stretch and challenge the students in the learning of the MTL. Students with special talent(s) or skill(s) are identified by their respective MTL teachers and given the opportunity to participate in competitions at the Cluster or/and National / International level.
 
-Organiser: Association of Singapore Tamil Writers 
 
- Name and Award Title:
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Gowrishanker Kavin</th>
-    <th class="tg-7wcr">3G</th>
-    <th class="tg-7wcr">Top 10</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Sirasanambeti Dhaarika</td>
-    <td class="tg-7wcr">4F</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
 
-**3. Muthamizh Vizha: P5 & 6 Oratory Contest**
-Organiser: Association of Singapore Tamil Writers
+**Tamil External Competition**  
 
- Name and Award Title: 
- 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Ganesh Krishna Kumar</th>
-    <th class="tg-7wcr">5E</th>
-    <th class="tg-7wcr">Participation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Kalyanasundaram Jayaprabha</td>
-    <td class="tg-7wcr">5E</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
+**Inter-school Tamil Language Competition 2022**
 
-**4. Muthamizh Vizha: P1 & 2 Fancy-Dress Contest**
-Organiser: Association of Singapore Tamil Writers 
+Organiser: Kolam Ayer CC Indian Activity Executive committee &amp; Kolam Ayer Youth network
 
-Name and Award Title: 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">V G Kirthikka</th>
-    <th class="tg-7wcr">2F</th>
-    <th class="tg-7wcr">Encouragement Prize</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Boopathi Raakesh</td>
-    <td class="tg-7wcr">1C</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
+Name and Award Title:
 
-**5. Tamil Language Festival Poetry Recitation**
-Organiser: Sakthi Fine Arts (Tamil Language Festival 2021)
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 13.9pt;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 148.15pt; border: 1pt solid windowtext; height: 13.9pt;" valign="top" width="198"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Divakar Divnesh</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 38.15pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; height: 13.9pt;" valign="top" width="51"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">1G</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 159.95pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; height: 13.9pt;" valign="top" width="213"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Role Play</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 85.25pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none; height: 13.9pt;" valign="top" width="114"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Participation</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 148.15pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="198"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Manikandaprabhu Hariss</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 38.15pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="51"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">3C</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 159.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="213"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Story Telling</span><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 85.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="114"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Participation</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 148.15pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="198"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Ananth Shahanaa</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 38.15pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="51"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">4B</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 159.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="213"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Essay Writing</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 85.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="114"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Participation</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 148.15pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="198"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Suvikshan S/O Chinnadurai</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 38.15pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="51"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">5E</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 159.95pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="213"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Thirukkural Recite &amp; Interpret</span><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 85.25pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="114"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Participation</span></p></td></tr></tbody></table>
 
- Name and Award Title: 
- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Muhammad Unais</th>
-    <th class="tg-7wcr">3E</th>
-    <th class="tg-7wcr">Participation</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Vikshana d/o Chinnadurai</td>
-    <td class="tg-7wcr">3F</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Suvikshan s/o Chinnadurai</td>
-    <td class="tg-7wcr">4E</td>
-    <td class="tg-7wcr">Participation</td>
-  </tr>
-</tbody>
-</table>
+**Chinese External Competition**
+
+**7th&nbsp;National Primary Schools “Picture Book Creation” Competition 2021**
+
+Organiser: Nan Hua Primary School
+
+Name and Award Title:
+
+<table style="margin: 0px; outline: 0px; padding: 0px; color: rgb(12, 39, 51); font-family: Catamaran; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border: 1pt solid windowtext;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Yang Lingxuan</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">5HCL1/5F</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.9pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" rowspan="3" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Silver Award</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.9pt; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" rowspan="3" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Group</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Inez Chen Qianhua</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">5CL4/5C</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">Cheng Jianing</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 107.85pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="144"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(68, 68, 68); background: white;">4CL3/4D</span></p></td></tr></tbody></table>
+
+**3\. Conversational Chinese/Malay Programme (CCM)**&nbsp;
+
+Conversational Chinese/Malay is an MOE initiated programme which aims to strengthen Singapore's multi-racial compact and to enable students to have some grounding of the language so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
+
+In West Grove Primary School, this module is being offered as an enrichment programme to our Primary 3 and 4 students who are interested in learning the Chinese / Malay language and culture, other than their own mother tongue language.&nbsp; The CCM programme comprises of two 20-hour modules (Beginner Module and Basic Module). Upon completion of the Beginner Module in Primary 3, students will advance to Basic Module 1 in Primary 4. Students who have completed each module will be awarded with a certificate of completion.
+
+Based on the survey conducted after each module, students generally enjoyed the lessons and agreed that they had learnt more about the Chinese/Malay language &amp; culture.&nbsp;Moreover, students also mentioned that this&nbsp;programme provided them the opportunity to understand their peers of another race better as they are now better equipped to converse in their peers' own mother tongue language to some extent.
+
+CCM Zoom sessions in the Computer Lab&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+
+
+
+An example of CCM Zoom session conducted from home
+
+
 
 
 Useful Links:
