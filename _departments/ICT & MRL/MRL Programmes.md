@@ -162,8 +162,7 @@ During the school holidays, a Digital Information Literacy programme workshop wa
 **8. Books to Go - Mobile Library**
 
 West Grove also collaborates with the National Library Board for students to borrow a wider variety of books. We encourage pupils to borrow more books, especially before the school holidays to read. With wider resources of books, the school arranged NLB mobile library sessions for pupils to borrow books from NLB in our school compound. This is made possible as our school made arrangements to help pupils register for NLB membership at Primary 1.
-
-<img src="/images/Books%20to%20Go%20-%20Mobile%20Library.jpg" 
+<img src="/images/Until%202022_Pictures/Books%20to%20Go%20-%20Mobile%20Library.jpg" 
      style="width:50%">
 
 **9. Workshops & Book Talks**
@@ -171,11 +170,10 @@ West Grove also collaborates with the National Library Board for students to bor
 During the P1 Induction days, “Raising Readers” workshop was conducted for P1 parents. This aims to help parents identify the child’s reader type and choosing a book for the child. The librarian will also introduce a variety of reading materials and eResources on NLB website. Parents can look forward to finding out more on ways to support their children’s reading at Primary 1.
 
 Our school invites librarian from the NLB to conduct interesting storytelling session and book talks during the assembly during the West Grove Reading Festival period. In 2018, we invited the NLB to conduct Kids Lit Quiz assembly programme for the upper primary while our experience teacher conducted an in-house reading quiz session for our Primary 1s and 2s to encourage our children to find out more about various story books in our school library.
-
-
-<img src="/images/Workshops%20&%20Book%20Talks%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Workshops%20&%20Book%20Talks%20-%201.jpg" 
      style="width:50%">
-<img src="/images/Workshops%20&%20Book%20Talks%20-%202.jpg" 
+		 
+<img src="/images/Until%202022_Pictures/Workshops%20&%20Book%20Talks%20-%202.jpg" 
      style="width:50%">
 
 **Resources:**
@@ -190,7 +188,7 @@ https://www.nlb.gov.sg/myLibraryInfo.aspx
 
 
 DiscoveReads Link: http://www.nlb.gov.sg/discovereads/
-
-
-<img src="/images/Discove%20Reads.jpg" 
+<img src="/images/Until%202022_Pictures/Discove%20Reads.jpg" 
      style="width:50%">
+
+The Reading Excellence Award: http://www.nlb.gov.sg/discovereads/readingaward/
