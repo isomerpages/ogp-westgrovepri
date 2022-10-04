@@ -1,55 +1,8 @@
 ---
 title: Allied Educators & Teaching Support Staff
-permalink: /staff/allied-educators-and-teaching-support-staff
+permalink: /staff/allied-educators-and-teaching-support-staff/
 description: ""
 ---
 # Allied Educators & Teaching Support Staff
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-woip{background-color:#DBDBDB;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-woip">Duties</th>
-    <th class="tg-woip">Personnel<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s5dh">School Counsellor<br>School Counsellor (FAJSC)<br></td>
-    <td class="tg-s5dh">Ms Lee Jia Qi<br>Mrs. Rita Kurup<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Allied Educator (Learning &amp; Behavioural Support)<br></td>
-    <td class="tg-s5dh">Ms. Yasmine Hatnam Lin Yue<br>Mdm Siti Rohaya</td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Allied Educator (Teaching &amp; Learning)</td>
-    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Ms. Dewi Rosyati</span><br><span style="font-weight:400;color:#0C2733">Mdm. Ismawarni Binte Isnin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Teaching Assistants<br></td>
-    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Ms. Christine  (English, Mathematics &amp; Mother Tongue)</span><br><span style="font-weight:400;color:#0C2733">Mrs. Jayanthi (Science, CCE &amp; SDT)</span><br>Mdm. Yong Joo Yee (PHE/PAL &amp; Aesthetics)</td>
-  </tr>
-  <tr>
-    <td class="tg-s5dh">Desktop Engineers</td>
-    <td class="tg-s5dh">Mr. Calvin Wong / Ms. Jessie</td>
-  </tr>
-  <tr>
-    <td class="tg-s5dh">Librarian</td>
-    <td class="tg-s5dh">Ms. Hasidah</td>
-  </tr>
-  <tr>
-    <td class="tg-s5dh">Dental Nurse</td>
-    <td class="tg-s5dh">Nurse Suryani</td>
-  </tr>
-</tbody>
-</table>
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(12, 39, 51); font-family: Catamaran; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 804px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; background-color: rgb(219, 219, 219);"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(219, 219, 219);"><b style="margin: 0px; outline: 0px; padding: 0px;">Duties</b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(219, 219, 219);"><b style="margin: 0px; outline: 0px; padding: 0px;">Personnel<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;">School Counsellor (FAJSC)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;"><br style="margin: 0px; outline: 0px; padding: 0px;">Mrs. Rita Kurup<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;">Allied Educator (Learning &amp; Behavioural Support)<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 60px;">Ms. Yasmine Hatnam Lin Yue<br style="margin: 0px; outline: 0px; padding: 0px;">Mdm. Siti Rohaya</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Allied Educator (Teaching &amp; Learning)</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51);">Ms. Dewi Rosyati</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51);">Mdm. Ismawarni Binte Isnin</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Teaching Assistants<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51);">Ms. Christine (English, Mathematics &amp; Mother Tongue)</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51);">Mrs. Jayanthi (Science, CCE &amp; SDT)</div>Mdm. Yong Joo Yee (PHE/PAL &amp; Aesthetics)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Desktop Engineers</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Mr. Calvin Wong / Ms. Jessie</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Librarian</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Ms. Hasidah</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Dental Nurse</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);">Nurse Suryani</td></tr></tbody></table>
