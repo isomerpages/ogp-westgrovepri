@@ -19,35 +19,58 @@ third_nav_title: Mother Tongue
 * Parents’ Talk
 * Post Exam Activities
 
-**Mother Tongue Fortnight 2021**
+**Mother Tongue Fortnight 2022**
 
 P1-P6 Classroom Activities:
 
-**Primary 1 - Finger Printing**
-![](/images/MT%20Fortnight%20Chinese_2021_1.png)
-![](/images/MT%20Fortnight%20Chinese_2021_2.png)
-![](/images/MT%20Fortnight%20Chinese_2021_3.png)
-![](/images/MT%20Fortnight%20Chinese_2021_4.png)
+**Primary 1 - Chinese Spinning Drum**
 
-**Primary 2- Blow Ink Painting**
+<img src="/images/Until%202022_Pictures/Chinese1.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese2.jpg" style="width:50%">
 
-![](/images/Blow%20Ink%20Painting_1.jpg)
-![](/images/Blow%20Ink%20Painting_2.jpg)
-![](/images/Blow%20Ink%20Painting_3.jpg)
+**Primary 2- Clay Sculpting - Tiger Keychain**
 
-**Primary 3 & Primary 4 students- Puppet Show “Journey to the West” & learnt to make shadow-puppets** 
+<img src="/images/Until%202022_Pictures/Chinese3.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese4.jpg" style="width:50%">
 
-![](/images/Picture_1.png)
-![](/images/Picture_2.png)
+**Primary 3 - Puppetry** 
 
-**Primary 5 – Sculpture-making based on given idiom**
+<img src="/images/Until%202022_Pictures/Chinese5.jpg" style="width:80%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese6.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese7.jpg" style="width:50%"> 
+ 
+**Primary 4 - Chinese Fan**
 
-![](/images/Picture_3.jpg)
-![](/images/Picture_4.png)
+<img src="/images/Until%202022_Pictures/Chinese8.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese9.jpg" style="width:50%"> 
 
-**Primary 6 - Crosstalk (Xiang Sheng)**
-![](/images/Picture_5.jpg)
-![](/images/Picture_6.png)
+**P5 Chinese Traditional Scented Sachet**
+
+<img src="/images/Until%202022_Pictures/Chinese10.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese11.jpg" style="width:50%"> 
+
+**Primary 6  – Chinese Traditional Scented Sachet (Using Tea Leaves & Flower Petals)**
+
+<img src="/images/Until%202022_Pictures/Chinese12.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese13.jpg" style="width:50%"> 
+
+
+**P3 Language & Cultural Camp**
+
+**Activity 1: Chinese Knots**
+
+<img src="/images/Until%202022_Pictures/Chinese14.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese15.jpg" style="width:50%"> 
+
+**Activity 2: Peking Opera Face Mask**
+
+<img src="/images/Until%202022_Pictures/Chinese16.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese17.jpg" style="width:50%"> 
+
+**Activity 3: Chinese Kite**
+
+<img src="/images/Until%202022_Pictures/Chinese18.jpg" style="width:45%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese19.jpg" style="width:50%"> 
 
 
 **Cultural Programme 文化活动**
