@@ -1,10 +1,9 @@
 ---
 title: School Gate Opening Times
-permalink: /school-information/school-gate-opening-times
+permalink: /school-information/school-gate-opening-times/
 description: ""
 third_nav_title: School Matters Opening Time
 ---
-
 # School Gate Opening Times
 
 
@@ -38,17 +37,18 @@ third_nav_title: School Matters Opening Time
 </tbody>
 </table>
 
-**GATE 1 : (Nearest to school power station - Open from 6.25 A.M. to 6.00 P.M.)**
-
-![](/images/Gate%201.jpg)
-![](/images/GATE%201%20-%20EXIT.jpg)
-![](/images/GATE%201%20-%20PATHWAY%20-1.jpg)
-![](/images/GATE%201%20-%20PATHWAY%20-2.jpg)
+**GATE 1 : 
+(Nearest to school power station - Open from 6.25 A.M. to 6.00 P.M.)**
 
 **GATE 2 : (Nearest to Block 731 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
 
+**GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
 
-![](/images/Gate%202.jpg)
-![](/images/GATE%202%20-%20EXIT.jpg)
-![](/images/GATE%202%20-%20PATHWAY%20-1.jpg)
-![](/images/GATE%202%20-%20PATHWAY%20-2.jpg)
+**CLOSING HOURS FOR MAIN GATE**  
+
+<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 783px; height: 44px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td valign="top" style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 198px;">Monday to Friday</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 366px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51);">Vehicular at Main Gate 1 (Closed)</div></td><td colspan="2" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 218px;">1.30 p.m.&nbsp;– 1.45 p.m.<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+
+**General Office Operating Hours: 7:30 am to 5:30 pm (Monday to Friday).  
+**
+
+**Please call to make appointment (one day in advance). Tel: 6267-9234.**
