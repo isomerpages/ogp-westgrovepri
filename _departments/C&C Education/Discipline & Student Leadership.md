@@ -1,12 +1,12 @@
 ---
 title: Discipline & Student Leadership
-permalink: /departments/CandC-Education/discipline-n-student-leadership
+permalink: /departments/CandC-Education/discipline-n-student-leadership/
 description: ""
 third_nav_title: C&C Education
 ---
 # Discipline & Student Leadership
 
-![](/images/CCE%20DISCIPLINE%20AND%20STUDENT%20LEADERSHIP.jpg)
+![](/images/Until%202022_Pictures/CCE%20DISCIPLINE%20AND%20STUDENT%20LEADERSHIP.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -52,11 +52,7 @@ third_nav_title: C&C Education
   <tr>
     <td class="tg-ytt9">Senior Teacher (Educational support)<br></td>
     <td class="tg-s5dh">Ms. Suneeta Kaur<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">School Counsellor<br></td>
-    <td class="tg-s5dh">Ms. Lee Jia Qi<br></td>
-  </tr>
+  </tr> 
   <tr>
     <td class="tg-ytt9">AED LBS (Allied Educator) (Learning Behaviour Support)<br></td>
     <td class="tg-s5dh">Ms. Yasmine and Mdm. Rohaya</td>
