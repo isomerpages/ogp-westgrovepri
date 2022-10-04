@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness & Media Literacy
-permalink: /departments/ICT-and-MRL/cyberwellness-n-media-literacy
+permalink: /departments/ICT-and-MRL/cyberwellness-n-media-literacy/
 description: ""
 third_nav_title: ICT & MRL
 ---
@@ -9,23 +9,23 @@ third_nav_title: ICT & MRL
 
 * Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
-![](/images/image1.png)
+![](/images/Until%202022_Pictures/image1.png)
 
 **MISSION:**
 
 * To equip all Westgrovians with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible users of Information Communications Technology (ICT).
-![](/images/image2.png)
+![](/images/Until%202022_Pictures/image2.png)
 
 **CW FRAMEWORK:**
-![](/images/image3.png)
+![](/images/Until%202022_Pictures/image3.png)
 
 **CURRICULUM:**
 
-![](/images/image4.png)
-![](/images/image5.png)
+![](/images/Until%202022_Pictures/image4.png)
+![](/images/Until%202022_Pictures/image5.png)
 
 **CYBER WELLNESS ADVOCACY**
-![](/images/image6.png)
+![](/images/Until%202022_Pictures/image6.png)
 
 **PROGRAMMES:**
 
@@ -48,14 +48,15 @@ third_nav_title: ICT & MRL
 
 5.      Recess activities such as our “Young Digital Thinker’s Challenge” are supported by our ICT Champions and CWSAs, where students attempt quiz questions regarding various CW topics.
 
-![](/images/image8.png)
-![](/images/image10.png)
-![](/images/image11.png)
-![](/images/image12.png)
-![](/images/image13.jpeg)
-![](/images/image14.jpeg)
-![](/images/image15.jpeg)
-![](/images/image16.jpeg)
+![](/images/Until%202022_Pictures/image8.png)
+![](/images/Until%202022_Pictures/image10.png)
+![](/images/Until%202022_Pictures/image11.png)
+![](/images/Until%202022_Pictures/image12.png)
+![](/images/Until%202022_Pictures/image13.jpeg)
+![](/images/Until%202022_Pictures/image14.jpeg)
+![](/images/Until%202022_Pictures/image15.jpeg)
+![](/images/Until%202022_Pictures/image16.jpeg)
+
 
 **Parents**
 
@@ -68,10 +69,9 @@ third_nav_title: ICT & MRL
  
 
 3.  Parent Workshops are organized yearly on various topics such as Excessive Gaming and Social Media Use ( August 2019)
-
-![](/images/image17.png)
-![](/images/image18.png)
-![](/images/image19.png)
+![](/images/Until%202022_Pictures/image17.png)
+![](/images/Until%202022_Pictures/image18.png)
+![](/images/Until%202022_Pictures/image19.png)
 
 **Useful Links**
 
