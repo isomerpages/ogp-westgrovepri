@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 # Malay Language
 
-![](/images/MALAY%20LANGUAGE.jpg)
+![](/images/Until%202022_Pictures/MALAY%20LANGUAGE.jpg)
 
 **PROGRAMMES OVERVIEW:**
 
@@ -15,7 +15,7 @@ third_nav_title: Mother Tongue
 * eOverseas Immersion Trip
 * Talent Development
 * Conversational Chinese Malay (CCM)
-*Reading & Writing Programme
+* Reading & Writing Programme
 * Parents’ Talk
 * Post Exam Activities
 
