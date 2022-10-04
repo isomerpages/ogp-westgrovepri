@@ -136,10 +136,9 @@ The Speaker's Corner' serves as a platform to promote oracy, presentation skills
 
 West Grove's Spell Bee is modelled after the prestigious RHB Straits Times Spelling Bee Competition which is held at a national level. Through this Spelling Bee Competition, pupils would be able to improve their spelling, increase their vocabularies and develop correct English pronunciation and usage to help them strengthen their English language. The audience are engaged as well as they are also given the opportunity to participate in the Spell Bee Competition.
 
-
-<img src="/images/Spell%20Bee%20-%201.jpg" 
-     style="width:50%">
-<img src="/images/Spell%20Bee%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Spell%20Bee%20-%201.jpg" 
+     style="width:50%" align="right">
+<img src="/images/Until%202022_Pictures/Spell%20Bee%20-%202.jpg" 
      style="width:50%">
 		 
 **Eco Literacy EL Talent Development Programme**
@@ -148,10 +147,10 @@ This programme integrates Environment Education, Arts and delivers through the E
 
 Pupils will participate in learning journeys, workshops and conversations where they will gather and communicate ideas so as to produce narratives in the form of a literary production such as a storybook as the end product as a result of the experiences and skills that they had gathered. The storybook will be written for audience at an appropriate reading level, be visually appealing and include moral and ethics that arise from environmental issues.
 
-![](/images/Eco-Lit%20-1.jpg)
-![](/images/Eco-Lit%20-2.jpg)
-![](/images/Eco-Lit%20-3.jpg)
-![](/images/Eco-Lit%20-4.jpg)
+![](/images/Until%202022_Pictures/Eco-Lit%20-1.jpg)
+![](/images/Until%202022_Pictures/Eco-Lit%20-2.jpg)
+![](/images/Until%202022_Pictures/Eco-Lit%20-3.jpg)
+![](/images/Until%202022_Pictures/Eco-Lit%20-4.jpg)
 
 **Termly Highlights:**
 
