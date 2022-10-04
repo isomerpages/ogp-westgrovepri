@@ -158,9 +158,9 @@ Pupils will participate in learning journeys, workshops and conversations where 
 
 Here at West Grove, we adopt a culture of sharing. Conducting workshops for teachers and organising sharing sessions are essential as we strongly believe in learning as a continual process. As such, the English department has conducted a Phase 2 of the item sharing workshop for teachers to aid them in setting appropriate test items. Phase 1 of the item setting workshop was conducted last year.
 
-<img src="/images/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg" 
      style="width:50%">
-<img src="/images/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg" 
      style="width:50%">
 
 **Total Defence Day by EL Department (13 February)**
@@ -169,13 +169,8 @@ West Grove Primary School commemorated Total Defence Day 2018 on 13th February. 
 
 As part of the Total Defence programme, West Grove Primary School also partnered with the Housing Development Board (HDB) to set up a road show (OHYay! Roadshow) and an assembly talk to spread the message of good neighbourliness as well as eco-friendly living. Students were engaged in the interesting games and activities organised by HDB and they also took photographs with their classmates as souvenirs at the photo booth.
 
-
-<img src="/images/Total%20Defence%20Day%20by%20EL%20Department%20-%201.jpg" 
-     style="width:40%">
-<img src="/images/Total%20Defence%20Day%20by%20EL%20Department%20-%202.jpg" 
-     style="width:40%">
-<img src="/images/Total%20Defence%20Day%20by%20EL%20Department%20-%203.jpg" 
-     style="width:40%">
+![](/images/Until%202022_Pictures/Total%20Defence%20Day%20by%20EL%20Department%20-%201.jpg)![](/images/Until%202022_Pictures/Total%20Defence%20Day%20by%20EL%20Department%20-%202.jpg)
+![](/images/Until%202022_Pictures/Total%20Defence%20Day%20by%20EL%20Department%20-%203.jpg)
 		 
 **Moo-O Competition at OGLC (9 March)**
 
