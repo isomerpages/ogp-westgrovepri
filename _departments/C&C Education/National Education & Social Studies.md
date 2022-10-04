@@ -1,12 +1,12 @@
 ---
 title: National Education & Social Studies
-permalink: /departments/CandC-Education/national-education-n-social-studies
+permalink: /departments/CandC-Education/national-education-n-social-studies/
 description: ""
 third_nav_title: C&C Education
 ---
 # National Education & Social Studies
 
-![](/images/CCE%20NATIONAL%20EDUCATION%20AND%20FTGP.jpg)
+![](/images/Until%202022_Pictures/CCE%20NATIONAL%20EDUCATION%20AND%20FTGP.jpg)
 
 **INTRODUCTION:**
 
