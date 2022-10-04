@@ -125,10 +125,9 @@ BASE is catered to scale up pupils' literacy and comprehension levels by support
 
 The Speaker's Corner' serves as a platform to promote oracy, presentation skills, effective communication and confidence. This is a spin-off from pupils' Show & Tell presentations in class. The presenters are chosen by either their friends or teachers to represent their class to speak during their recesses. The support garnered from the presenters' classmates and friends from other classes is commendable.
 
-![](/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg)
-![](/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg)
 <img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg" 
      style="width:50%">
+		 
 <img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg" 
      style="width:50%">
 
