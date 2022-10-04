@@ -248,7 +248,7 @@ Surveys, Projects, Students Reflection, AAR
 
 **1. STUDENT LEADERSHIP**
 
-![](/images/Student%20Leadership%20Council.png)
+![](/images/Until%202022_Pictures/Student%20Leadership%20Council.png)
 
 West Grove Primary School believes in providing and creating leadership opportunities for every pupil and in nurturing the leadership potential of every student leader. Backed by one of our school’s strategic thrust to develop visionary leadership, the Student Leadership Development Framework adopts a servant leadership approach and focuses on leadership through service. It is also an integral part of character development in the pupil.
 
@@ -304,14 +304,11 @@ The 6 school values are reinforced during the Values education lessons conducted
 **3. Best Behaved Pupil of the Month:**
 
 Every month, 1 pupil will be selected from each class by their Form teachers to be awarded the Best Behaved Pupil. The student will be presented with a certificate on stage. This recognises the good behaviour displayed by the student. This also motivates the other students to work towards the award.
-
-<img src="/images/Best%20Behaved%20Pupil%20of%20the%20month.jpg" 
+<img src="/images/Until%202022_Pictures/Best%20Behaved%20Pupil%20of%20the%20month.jpg" 
      style="width:50%">
 
 **4. Awareness Campaign**
 
 Many beautifully decorated posters were prepared and pasted around the school compound. This is to increase students’ awareness of their expected attire and personal grooming standard.
-
-
-<img src="/images/Awareness.jpg" 
+<img src="/images/Until%202022_Pictures/Awareness.jpg" 
      style="width:50%">
