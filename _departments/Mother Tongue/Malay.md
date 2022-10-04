@@ -23,19 +23,23 @@ third_nav_title: Mother Tongue
 
 P1-P6 Classroom activities
 
-**Primary 1  and Primary 2 Making of Mini Shadow Puppets**
+**Primary 1  and Primary 2 - Colored Paper Collage**
 
-![](/images/Picture-1.png)
-![](/images/Picture-2.png)
 
-**Primary 3 and Primary 4- Batik-inspired Kite-making**
-![](/images/Picture-3.jpg)
-![](/images/Picture-4.jpg)
+**Primary 3 and Primary 4- Animal Mask**
 
-**Primary 5 and Primary 6- weaving Activity in Card-making**
 
-![](/images/Picture-5.jpg)
-![](/images/Picture-6.jpg)
+**Primary 5 and Primary 6- Basket Weaving **
+
+
+**P3 Language & Cultural Camp:**
+
+ **Station 1: Batik Motive Kite - Colouring**
+ 
+ 
+ 
+ **Station 2: Arabic Calligraphy**
+
 
 
 **MTL Fortnight / Dwi Minggu Bahasa**
