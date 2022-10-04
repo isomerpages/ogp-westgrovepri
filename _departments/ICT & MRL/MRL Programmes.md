@@ -142,16 +142,15 @@ This is a new reading club set up in 2014 April for selected P1 and P2 pupils. K
 2017 is the second year West Grove Primary School participates in this tournament. A total of 39 participants from our school have taken part in this challenge. By participating in workshop sessions, participants picked up storytelling skills through theatre games and find new ways to express themselves via creative movement, voice training and improvisational acting.  On a deeper level, they have become more observant, learnt to think critically when evaluating current issues and hence expand their knowledge to help them in performing.
 
 In 2017, we had 29 participants in the finals winning in several categories.
-
-<img src="/images/Competitions%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Competitions%20-%201.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Competitions%20-%202.jpg" 
      style="width:50%">
-<img src="/images/Competitions%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Competitions%20-%203.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Competitions%20-%204.jpg" 
      style="width:50%">
-<img src="/images/Competitions%20-%203.jpg" 
-     style="width:50%">
-<img src="/images/Competitions%20-%204.jpg" 
-     style="width:50%">
-<img src="/images/Competitions%20-%205.jpg" 
+<img src="/images/Until%202022_Pictures/Competitions%20-%205.jpg" 
      style="width:50%">
 
 **7. Information Literacy Programme**
