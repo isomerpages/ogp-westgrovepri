@@ -70,10 +70,10 @@ third_nav_title: C&C Education
 We seek to establish strong and sustainable relationships with our key stakeholders to fulfil the school’s vision, mission and values and to provide our students with a meaningful, holistic education.
 
 **Collaborative Culture of Partnerships**
-![](/images/Partnership%20Framework.jpg)
+![](/images/Until%202022_Pictures/Partnership%20Framework.jpg)
 
 **Sustainability of Partnerships**
-![](/images/WGPS%20Partnership%20Logo.jpg)
+![](/images/Until%202022_Pictures/WGPS%20Partnership%20Logo.jpg)
 
 **Principles of Partnership (R.O.C.K):**
 
