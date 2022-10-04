@@ -63,8 +63,7 @@ In order to nurture our pupils to be well-informed audience of the Arts, we inco
 
 Students created their own musical instruments during Art lesson and used it in a play-along session during our E-assembly.
 
-
-<img src="/images/p11.jpg" 
-     style="width:50%">
-<img src="/images/p12.jpg" 
+<img src="/images/Until%202022_Pictures/p11.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/p12.jpg" 
      style="width:50%">
