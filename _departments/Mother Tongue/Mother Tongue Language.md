@@ -257,9 +257,10 @@ This year, the 3 mother tongue languages collaborated and conducted a session on
   
 
 **Recess Activity: Kite-making**
-
-
-
+![](/images/Until%202022_Pictures/Kite_1.jpg)
+![](/images/Until%202022_Pictures/Kite_2.jpg)
+![](/images/Until%202022_Pictures/Kite_3.jpg)
+![](/images/Until%202022_Pictures/Kite_4.jpg)
 
 
 Please follow the links for more information on the activities conducted by the respective mother tongue languages:&nbsp;[CL](https://westgrovepri.moe.edu.sg/departments/mother-tongue/chinese);&nbsp;[ML](https://westgrovepri.moe.edu.sg/departments/mother-tongue/malay);&nbsp;[TL](https://westgrovepri.moe.edu.sg/departments/mother-tongue/tamil)
