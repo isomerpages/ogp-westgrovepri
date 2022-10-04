@@ -1,12 +1,12 @@
 ---
 title: English Language
-permalink: /departments/English/english-language
+permalink: /departments/English/english-language/
 description: ""
 third_nav_title: English
 ---
 # English Language
 
-![](/images/EL.jpg)
+![](/images/Until%202022_Pictures/EL.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,7 +26,7 @@ third_nav_title: English
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c1fh">Level Head (Internal)<br></td>
+    <td class="tg-c1fh">Level Head<br></td>
     <td class="tg-s5dh">Mrs. Chen Pei Ai<br></td>
   </tr>
   <tr>
@@ -69,8 +69,7 @@ As such, we offer children a meaningful language experience by:
 
 
 **Department Framework:**
-<img src="/images/Department%20Framework.png" 
-     style="width:80%">
+![](/images/Until%202022_Pictures/Department%20Framework.png)
 
 **CURRICULUM:**
 
@@ -126,9 +125,11 @@ BASE is catered to scale up pupils' literacy and comprehension levels by support
 
 The Speaker's Corner' serves as a platform to promote oracy, presentation skills, effective communication and confidence. This is a spin-off from pupils' Show & Tell presentations in class. The presenters are chosen by either their friends or teachers to represent their class to speak during their recesses. The support garnered from the presenters' classmates and friends from other classes is commendable.
 
-<img src="/images/Speakers%20Corner%20-%201.jpg" 
+![](/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg)
+![](/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg)
+<img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg" 
      style="width:50%">
-<img src="/images/Speakers%20Corner%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg" 
      style="width:50%">
 
 **Spell Bee**
