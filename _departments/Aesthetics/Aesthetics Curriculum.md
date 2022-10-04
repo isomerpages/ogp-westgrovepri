@@ -1,6 +1,6 @@
 ---
 title: Aesthetics Curriculum
-permalink: /departments/Aesthetics/aesthetics-curriculum
+permalink: /departments/Aesthetics/aesthetics-curriculum/
 description: ""
 third_nav_title: Aesthetics
 ---
@@ -85,7 +85,7 @@ Our music teachers apply different pedagogies in class to enrich our students’
 </tbody>
 </table>
 
-![](/images/aes3.png)
+<img src="/images/Until%202022_Pictures/aes3.png" style="width:50%">
 ![](/images/aes4.png)
 ![](/images/aes5.png)
 ![](/images/aes6.png)
