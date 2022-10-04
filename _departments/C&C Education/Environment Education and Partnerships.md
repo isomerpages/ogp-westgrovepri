@@ -1,11 +1,11 @@
 ---
 title: Environment Education and Partnerships
-permalink: /departments/CandC-Education/environment-education-and-partnerships
+permalink: /departments/CandC-Education/environment-education-and-partnerships/
 description: ""
 third_nav_title: C&C Education
 ---
 # Environment Education and Partnerships
-![](/images/CCE%20ENVIRONMENT%20EDUCATION%20AND%20PARTNERSHIPS.jpg)
+![](/images/Until%202022_Pictures/CCE%20ENVIRONMENT%20EDUCATION%20AND%20PARTNERSHIPS.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -51,10 +51,6 @@ third_nav_title: C&C Education
   <tr>
     <td class="tg-ytt9">Senior Teacher (Educational support)<br></td>
     <td class="tg-s5dh">Ms. Suneeta Kaur<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ytt9">School Counsellor<br></td>
-    <td class="tg-s5dh">Ms. Lee Jia Qi<br></td>
   </tr>
   <tr>
     <td class="tg-ytt9">AED LBS (Allied Educator) (Learning Behaviour Support)<br></td>
