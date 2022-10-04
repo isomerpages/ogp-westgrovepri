@@ -85,22 +85,22 @@ Our music teachers apply different pedagogies in class to enrich our students’
 </tbody>
 </table>
 
-<img src="/images/Until%202022_Pictures/aes3.png" style="width:50%">
-![](/images/aes4.png)
-![](/images/aes5.png)
-![](/images/aes6.png)
-![](/images/aes7.png)
-![](/images/aes8.png)
-![](/images/aes10.png)
-![](/images/aes11.png)
-![](/images/aes12.png)
-![](/images/aes13.png)
-![](/images/aes14.png)
-![](/images/aes15.png)
-![](/images/aes16.png)
-![](/images/aes17.png)
-![](/images/aes18.png)
-![](/images/aes19.png)
+<img src="/images/Until%202022_Pictures/aes3.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes4.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes5.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes6.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes8.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes7.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes10.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes11.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes12.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes13.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes14.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes15.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes16.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes17.png" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/aes18.png" style="width:50%">
+<img src="/images/Until%202022_Pictures/aes19.png" style="width:50%">
 
 **CURRICULUM OVERVIEW (MUSIC):**
 
