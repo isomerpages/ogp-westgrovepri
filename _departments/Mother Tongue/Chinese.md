@@ -78,16 +78,16 @@ P1-P6 Classroom Activities:
 On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural Centre to watch the latest Mandarin magical musical play “The Wizard of Oz”, which was presented by the Singapore Focus Theatre in collaboration with EZ HOUSE ARTS STUDIO.  It was a great performance which left the audience with a memorable experience and lasting impression. Dorothy wanted so much to save her grandmother’s life. She took a ride with the magical tornado into the magical Emerald city. She made friends with a brainless scarecrow, a heartless tin man and a timid lion. They all have their wishes they wanted to fulfil, so they worked together, learnt from one other, and endured hardships together to finally achieve their wishes. The music and magic elements successfully created a magical kingdom. Together with the values emphasized by the Ministry of Education and the unique experiences of local students, this western plot was modified to suit the needs of the audiences, at the same time teaching them valuable lessons through the show, to cultivate good habit and values in them. This show also encouraged and inspired students’ interest in the learning of Chinese Language.
 
 
-<img src="/images/Cultural%20Programme%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Cultural%20Programme%20-%201.jpg" 
      style="width:70%">
-<img src="/images/Cultural%20Programme%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Cultural%20Programme%20-%202.jpg" 
      style="width:70%">
 
 7月25日下午，本校93名五年级的学生在老师们的带领下来到新加坡新加坡华族文化中心，观看了由新加坡焦点剧场和EZ HOUSE ARTS STUDIO 联办的大型舞台剧《绿野仙踪》。演员们精彩的表演给同学们留下了深刻的印象。此剧主要讲述的是桃乐丝为挽救奶奶的生命，乘着神奇的龙卷风来到了充满奇幻魔法的奥兹王国。在那里， 她结识了没有脑子的稻草人、没有心脏的铁皮人和十分胆小的狮子，他们为了实现各自的心愿，互相帮助，相互学习，历尽艰险，并在最后如愿以偿实现了各自的愿望。此剧利用歌舞剧和魔术表演的形式，成功打造了一个奇妙的魔幻国度。此剧也根据新加坡教育理念及本地学生特殊的成长经历，将这部西方的经典故事进行了改编，用生动的情节告诉我们一个深刻的道理，使其在观看后树立良好的价值观。同学们在观赏后反馈此生动有趣的舞台剧提升了他们对学习母语的兴趣。
 
-<img src="/images/Cultural%20Programme%20-%203.jpg" 
+<img src="/images/Until%202022_Pictures/Cultural%20Programme%20-%203.jpg" 
      style="width:70%">
-<img src="/images/Cultural%20Programme%20-%204.jpg" 
+<img src="/images/Until%202022_Pictures/Cultural%20Programme%20-%204.jpg" 
      style="width:70%">
 
 **Celebrate CNY农历新年庆祝：**   
@@ -96,17 +96,17 @@ On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural 
  In the Lunar New Year of 2019, teachers and students opened a new year in a warm New Year atmosphere. The new year begins in the dragon and lion dance; the recitation of the lower primary pupils, which makes us feel a thriving generation; the chorus is a manifestation of the unity of everyone.
  
  
- <img src="/images/CNY2019-1.jpg" 
+ <img src="/images/Until%202022_Pictures/CNY2019-1.jpg" 
      style="width:70%">
- <img src="/images/CNY2019-2.jpg" 
+ <img src="/images/Until%202022_Pictures/CNY2019-2.jpg" 
      style="width:70%">
  
  2020年农历新年，又是新的一年，全体师生在浓浓的节日气氛中迎来了有一个新年。 
 With the Lunar New Year coming in 2020, all teachers and students ushered in a new year in a strong festive atmosphere.
 
-![](/images/CNY2020-1.jpg)
-![](/images/CNY2020-2.jpg)
-![](/images/CNY2020-3.jpg)
+![](/images/Until%202022_Pictures/CNY2020-1.jpg)
+![](/images/Until%202022_Pictures/CNY2020-2.jpg)
+![](/images/Until%202022_Pictures/CNY2020-3.jpg)
 
 **Mother Tongue Fortnight 2019**
 
@@ -115,28 +115,28 @@ With the Lunar New Year coming in 2020, all teachers and students ushered in a n
 (学生们在专业老师的指导下，完成了自己手工作品。在这样的活动中，大家了解了中华传统文化，也对于学习华语的兴趣更加浓厚了。）  
 The students completed their own handmade works. In such activities, everyone learned about Chinese traditional culture and became more interested in learning Chinese.
 
-![](/images/MT%20FN%20classroom%20activity%201.jpg)
-![](/images/MT%20FN%20classroom%20activity%202.jpg)
-![](/images/MT%20FN%20classroom%20activity%203.jpg)
-![](/images/MT%20FN%20classroom%20activity%204.jpg)
+![](/images/Until%202022_Pictures/MT%20FN%20classroom%20activity%201.jpg)
+![](/images/Until%202022_Pictures/MT%20FN%20classroom%20activity%202.jpg)
+![](/images/Until%202022_Pictures/MT%20FN%20classroom%20activity%203.jpg)
+![](/images/Until%202022_Pictures/MT%20FN%20classroom%20activity%204.jpg)
 
 (小三学生对于手工制作的兴趣更加浓厚，在专业老师的指导下，他们在课后又进行了其他手工作品的制作，呈现出了浓浓的传统文化。） 
  P3 students are more interested in other activities. They have made more art craft after class.
-![](/images/p3%20camp%202019%20photo1.jpg)
-![](/images/p3%20camp%202019%20photo2.jpg)
-![](/images/p3%20camp%202019%20photo3.jpg)
+![](/images/Until%202022_Pictures/p3%20camp%202019%20photo1.jpg)
+![](/images/Until%202022_Pictures/p3%20camp%202019%20photo2.jpg)
+![](/images/Until%202022_Pictures/p3%20camp%202019%20photo3.jpg)
 
 **Hosting of Kunshan Experimental Elementary School from China**
 
 In July this year, West Grove Primary School welcomed a group of 29 P5 Chinese students and four teachers from Kunshan Experimental Primary School, China. The entourage participated in classroom activities, such as Art, Music, Science and even specially-designed PE lessons. They also had the opportunity to experience the Southeast Asia culture through batik painting and Indian Henna painting. Although the interaction only happened briefly, the friendship between the two schools was fostered.
 
-<img src="/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%201.jpg" 
      style="width:70%">
-<img src="/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%202.jpg" 
      style="width:70%">
-<img src="/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%203.jpg" 
+<img src="/images/Until%202022_Pictures/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%203.jpg" 
      style="width:70%">
-<img src="/images/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%204.jpg" 
+<img src="/images/Until%202022_Pictures/Hosting%20of%20Kunshan%20Experimental%20Elementary%20School%20from%20China%20-%204.jpg" 
      style="width:70%">
 
 今年7月13日及16日，中国昆山市实验小学的4位老师带领29名学生来我校进行游学交流。第一天，在3位华文老师协助下，我校10名五年级学长带领来访的师生参观了校园。接着，昆山实验小学的师生们参加了由我校母语部、艺术部及科学部等部门提供的一系列教学体验活动。具有东南亚特色的艺术体验课，昆山的师生们学习了蜡染绘画、体验了印度手绘；与实验紧密结合的科学课，让昆山的学生当了一回小实验家，观察了水的循环过程。第二天，我校有32名五年级学生参与接待了来访的学生，与昆山的同学们一起参加了由体育部门主导的体育体验课，两校学生发扬合作精神完成了一个个活泼、有趣且很有挑战性的活动，然后我校学生陪同他们的昆山伙伴进行了普通课堂体验等等。两天时间虽短，但两校师生的友情再次得以升华。
@@ -147,14 +147,14 @@ In July this year, West Grove Primary School welcomed a group of 29 P5 Chinese s
  
  In 2019, we came to the capital of China—Beijing for our overseas learning journey. The students visited the famous historical site of the Forbidden City and the Great Wall, visited the Beijing National Stadium(Bird’s Nest and Water Cube) . More importantly, the students have established a good friendship with friends from the Fengtai No.5 Elementary School of Beijing, which has promoted cultural communications between China and Singapore.
 
-![](/images/P5beijing1.jpg)
-![](/images/P5beijing2.jpg)
-![](/images/P5beijing3.jpg)
-![](/images/P5beijing4.jpg)
-![](/images/P5beijing5.jpg)
-![](/images/P5beijing6-1.jpg)
-![](/images/P5beijing7.jpg)
-![](/images/P5beijing8.jpg)
+![](/images/Until%202022_Pictures/P5beijing1.jpg)
+![](/images/Until%202022_Pictures/P5beijing2.jpg)
+![](/images/Until%202022_Pictures/P5beijing3.jpg)
+![](/images/Until%202022_Pictures/P5beijing4.jpg)
+![](/images/Until%202022_Pictures/P5beijing5.jpg)
+![](/images/Until%202022_Pictures/P5beijing6-1.jpg)
+![](/images/Until%202022_Pictures/P5beijing7.jpg)
+![](/images/Until%202022_Pictures/P5beijing8.jpg)
 
 **Talent Development Programmes校内外比赛项目**
    
@@ -203,8 +203,8 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
  The school campus is full of reading every morning. Any students can come to the stage to share and recommend interesting and meaningful books, and present the story content to everyone. In addition, the wonderful "World Book Day" activities also brought fun to the students.
  
- ![](/images/bookfes1.jpg)
- ![](/images/bookfes2.jpg)
+ ![](/images/Until%202022_Pictures/bookfes1.jpg)
+ ![](/images/Until%202022_Pictures/bookfes2.jpg)
  
  **P6 Post Exam Activity – Chinese Seal Engraving 考后活动 - 篆刻**
  
@@ -213,20 +213,25 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 在小学离校考试后，我校六年级的华文学生进行了一项考后活动——纂刻。这次纂刻活动的目的是让学生接触中国纂刻的基础知识以及技巧。同学们得以在课程中亲手制作他们的印章，个个都沉浸其中，十分投入。在这次活动中，学生不但接触了纂刻，还锻炼了他们的耐心、细心和责任心。课程结束后，每一个学生手捧着自己亲手制作的印章，脸上都露出了愉悦的笑容。
 
 
-<img src="/images/Chinese%20Seal%20Engraving%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%201.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%202.jpg" 
+     style="width:40%">
+
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%204.jpg" 
+     style="width:50%" align=right>
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%205.jpg" 
      style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%206.jpg" 
+     style="width:40%">
+<img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%207.jpg" 
+     style="width:50%" align=left>
+		 <img src="/images/Until%202022_Pictures/Chinese%20Seal%20Engraving%20-%203.jpg" 
      style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%203.jpg" 
-     style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%204.jpg" 
-     style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%205.jpg" 
-     style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%206.jpg" 
-     style="width:50%">
-<img src="/images/Chinese%20Seal%20Engraving%20-%207.jpg" 
-     style="width:50%">
+
+
+
+
 
 **Resources:**
 
