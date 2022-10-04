@@ -1,12 +1,11 @@
 ---
 title: ICT & MRL introduction
-permalink: /departments/ICT-and-MRL
+permalink: /departments/ICT-and-MRL/
 description: ""
 third_nav_title: ICT & MRL
 ---
 # ICT/MRL
-
-![](/images/ICT_MRL.jpg)
+![](/images/Until%202022_Pictures/ICT_MRL.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,26 +43,25 @@ third_nav_title: ICT & MRL
 
 **Information Communication & Technology**
 
-<img src="/images/WGPS%20ICT%20Frame%20Work.jpg" 
+<img src="/images/Until%202022_Pictures/WGPS%20ICT%20Frame%20Work.jpg" 
      style="width:65%">
 
 
 **Lessons**
-![](/images/Teacher%20Hand%20Book%202019%201.jpg)
+![](/images/Until%202022_Pictures/Teacher%20Hand%20Book%202019%201.jpg)
 
 **1. 21st Century Competencies**
-![](/images/Picture6.png)
+![](/images/Until%202022_Pictures/Picture6.png)
 
 **2. We-Hub Programme**
-![](/images/Slide12.jpeg)
-![](/images/Slide13.jpeg)
-![](/images/Slide14.jpeg)
-![](/images/Slide15.jpeg)
-![](/images/Slide16.jpeg)
-![](/images/Slide17.jpeg)
-![](/images/Slide18.jpeg)
-![](/images/Slide19.jpeg)
-![](/images/Slide20.jpeg)
-![](/images/Slide21.jpeg)
-![](/images/Slide22.jpeg)
-![](/images/Slide23.jpeg)
+
+<img src="/images/Until%202022_Pictures/Slide12.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide13.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide14.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide15.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide16.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide17.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide18.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide21.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide22.jpeg" style="width:50%" align="left">
+<img src="/images/Until%202022_Pictures/Slide23.jpeg" style="width:50%" align="left">
