@@ -159,7 +159,7 @@ Pupils will participate in learning journeys, workshops and conversations where 
 Here at West Grove, we adopt a culture of sharing. Conducting workshops for teachers and organising sharing sessions are essential as we strongly believe in learning as a continual process. As such, the English department has conducted a Phase 2 of the item sharing workshop for teachers to aid them in setting appropriate test items. Phase 1 of the item setting workshop was conducted last year.
 
 <img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg" 
-     style="width:50%">
+     style="width:50%" align="left">
 <img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg" 
      style="width:50%">
 
@@ -178,7 +178,7 @@ In this competition, pupils were given a reading task to complete. 3 selected P3
 
 
 <img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%201.jpg" 
-     style="width:50%">
+     style="width:50%" align="left">
 <img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%202.jpg" 
      style="width:50%">
 <img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%203.png" 
@@ -192,8 +192,9 @@ Pupils participating in a series of activities during EL Bites recess activities
 **P5 Parent's Workshop: Using News to Teach English - How you can support (12 March)**
 
 A workshop for parents was conducted to provide a platform to help them pick up more strategies on how they can use newspapers and current affairs to improve their child's English language skills. The Straits Times or other news media was used as a learning tool to aid parents to cultivate their child's interest in newspapers and current affairs and coach their child in English. There was hands-on too so that the experience is authentic and relevant.
+
 <img src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%201.jpg" 
-     style="width:50%">
+     style="width:50%" align="left">
 
 <img src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%202.jpg" 
      style="width:50%">
