@@ -1,9 +1,9 @@
 ---
 title: PE, CCA & Health Management
-permalink: /departments/pe-cca-n-health-management
+permalink: /departments/pe-cca-n-health-management/
 description: ""
 ---
-![](/images/PHE.jpg)
+![](/images/Until%202022_Pictures/PHE.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -61,10 +61,8 @@ description: ""
 *   Conscious of the need of those less fortunate  
     
 *   Know what is right and wrong
-
-<img src="/images/Healthy%20Lifestyle%20Guideline%20Pyramid.jpg" 
-     style="width:60%">
-		 
+![](/images/Until%202022_Pictures/Healthy%20Lifestyle%20Guideline%20Pyramid.jpg)
+	 
 **OUR VISION**
 
 A school where staff and pupils leverage on physical and psychological health for success.
