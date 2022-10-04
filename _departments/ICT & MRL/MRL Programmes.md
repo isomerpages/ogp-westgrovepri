@@ -116,19 +116,17 @@ in the young.”
 * To help enhance the quality of life of the children and their families
 
 This is a new reading club set up in 2014 April for selected P1 and P2 pupils. KidsREAD Reading Club is initiated by the National Library Board and the club is possible with the support of NLB, our school leaders, committed teachers and most importantly our volunteers. Our volunteers and coordinator attended a training session at the NLB and are always striving to make each kidsREAD session a meaningful one for all pupils in this club. Every year, selected stories are made relevant with an outing and project. We have visited Gallop Stable for pony rides after reading “The Lost Horse”, visited Underwater World and Sea Aquarium to find out more about sea creatures after reading “ The Rainbow Fish” & “The Hermit Crab” and experiential learning for Pizza Making after reading book “Don’t Forget the Bacon”.
-
-
-<img src="/images/Children%20designed%20own%20shell.jpg" 
+<img src="/images/Until%202022_Pictures/Children%20designed%20own%20shell.jpg" 
      style="width:50%">
 		 
 *Children at work, designing their own shell after reading a book titled “The Hermit Crab”*
 
-<img src="/images/Story%20telling%20session%20by%20volunteers.jpg" 
+<img src="/images/Until%202022_Pictures/Story%20telling%20session%20by%20volunteers.jpg" 
      style="width:50%">
 		 
 *Story Telling session by the volunteers*
 
-<img src="/images/Grooming%20pony%20at%20The%20Gallop%20Stable.jpg" 
+<img src="/images/Until%202022_Pictures/Grooming%20pony%20at%20The%20Gallop%20Stable.jpg" 
      style="width:50%">
 		 
 *Grooming the pony at The Gallop Stable*
