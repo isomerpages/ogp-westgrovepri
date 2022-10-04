@@ -1,12 +1,12 @@
 ---
 title: Chinese
-permalink: /departments/Mother-Tongue/chinese
+permalink: /departments/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---
 # Chinese 
 
-![](/images/CHINESE%20LANGUAGE.jpg)
+![](/images/Until%202022_Pictures/CHINESE%20LANGUAGE.jpg)
 
 **PROGRAMMES OVERVIEW:**
 
@@ -15,7 +15,7 @@ third_nav_title: Mother Tongue
 * eOverseas Immersion Trip
 * Talent Development
 * Conversational Chinese Malay (CCM)
-*Reading & Writing Programme
+* Reading & Writing Programme
 * Parents’ Talk
 * Post Exam Activities
 
