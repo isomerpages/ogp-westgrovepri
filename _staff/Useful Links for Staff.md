@@ -1,6 +1,6 @@
 ---
 title: Useful Links for Staff
-permalink: /staff/useful-links-for-staff
+permalink: /staff/useful-links-for-staff/
 description: ""
 ---
 # Useful Links for Staff
@@ -20,8 +20,6 @@ description: ""
 [Academy of Singapore Teachers ](https://www.academyofsingaporeteachers.moe.gov.sg/)
 
 [TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
-
-[Microsoft Office Online ](https://www.office.com/) -- (xx@westgroveps.edu.sg)
 
 [MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 
