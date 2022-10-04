@@ -91,13 +91,11 @@ In 2018, we have themes as follows:
 **4. School Reading Ambassadors**
 
 A group of pupils is selected to be the School Reading Ambassadors. They are one of the student leaders in West Grove. These students attended School Reading Ambassador Workshops conducted by our MRL teachers. They will be leading the reading trend and takes on the role to promote reading among West Grovians. The school reading ambassadors will present a book review during morning assembly weekly and selected pupils will also represent the school to tell stories at the community library. The ambassadors also come together to prepare a thematic book display in the school library. In 2016 and 2017, some of the school reading ambassadors also took time to prepare book displays and shelf talkers at Jurong West Public Library as a collaborative effort.
-
-<img src="/images/Book%20Display%20in%20School%20Library.jpg" 
-     style="width:50%">
+<img src="/images/Until%202022_Pictures/Book%20Display%20in%20School%20Library.jpg" 
+     style="width:60%">
 *Book Display in school library on “Chronicles of the Narnia” in 2018*
 
-<img src="/images/Book%20Display%20at%20JWPL%202017.jpg" 
-     style="width:50%">
+![](/images/Until%202022_Pictures/Book%20Display%20at%20JWPL%202017.jpg)
 *Book Display at JWPL in 2017*
 
 **5. KidsREAD Reading Club**
