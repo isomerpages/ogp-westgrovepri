@@ -1,6 +1,6 @@
 ---
 title: MRL Programmes
-permalink: /departments/ICT-and-MRL/mrl-programmes
+permalink: /departments/ICT-and-MRL/mrl-programmes/
 description: ""
 third_nav_title: ICT & MRL
 ---
@@ -17,14 +17,14 @@ Every Child an O.W.L. (Outstanding Witty Learned)
 
 Our school MRL’s goal is to promote reading, learning and learning information literacy to empower pupils for a healthy and learned development in their life.
 
-![](/images/Vision-Mission-Goal.jpg)
+![](/images/Until%202022_Pictures/Vision-Mission-Goal.jpg)
 *“We want to encourage our children to enjoy reading to broaden their imagination and perspectives, beyond obtaining academic knowledge.”*
 
 – Minister of State Chee Hong Tat, 2016
 
 The Reading Excellence Award 2017, brought to you by NLB and MOE, recognises MOE primary and secondary schools that have developed excellent reading programmes which promote a love of reading among students. West Grove Primary School was shortlisted among many schools, receiving an award of commendation on the reading programmes that promote a love of reading among students.
 
-![](/images/Reading%20Excellence%20Award.jpg)
+![](/images/Until%202022_Pictures/Reading%20Excellence%20Award.jpg)
 
 **PROGRAMMES OVERVIEW:**
 
@@ -55,14 +55,14 @@ All the classes need to go to the library at least 3 times a year to for O.W.L. 
 * Read Reap Write: “Sherlock Sam series” by A.J. Low
 * Read Reap Write: “Beware the Ninja Weenies and other creepy tales” by David Lubar.
 
-<img src="/images/OWL%20Lessons%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/OWL%20Lessons%20-%201.jpg" 
+     style="width:60%" align=left>
+<img src="/images/Until%202022_Pictures/OWL%20Lessons%20-%202.jpg" 
      style="width:60%">
-<img src="/images/OWL%20Lessons%20-%202.jpg" 
-     style="width:60%">
-<img src="/images/OWL%20Lessons%20-%203.jpg" 
-     style="width:60%">
-<img src="/images/OWL%20Lessons%20-%204.jpg" 
-     style="width:60%">
+<img src="/images/Until%202022_Pictures/OWL%20Lessons%20-%203.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/OWL%20Lessons%20-%204.jpg" 
+     style="width:50%">
 
 **2. MRL Monthly Readership Completion**
 
@@ -70,7 +70,7 @@ Every month, MRL will generate a report on the number of books borrowed by each 
 
 To encourage pupils to read more and widely, OWL (Our Wonderful Library) together with the READ@School programme, bring Book Bugs II to the Primary 2 and Primary 3 in 2018. Pupils will have to design their own bug trivia and borrow 2 books from our school library to redeem a book bug card. Many pupils visited the school library to participate in this activity.
 
-![](/images/MRL%20Monthly%20Readership%20Completion.jpg)
+![](/images/Until%202022_Pictures/MRL%20Monthly%20Readership%20Completion.jpg)
 
 **3. Monthly Library Activities**
 
