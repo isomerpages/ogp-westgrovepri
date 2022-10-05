@@ -156,15 +156,13 @@ Selain daripada aktiviti-aktiviti di atas, murid-murid darjah 4 diberi kesempata
 		 
 <img src="/images/Until%202022_Pictures/Malay%20Students%20-%203.jpg" 
      style="width:50%">		 
-<img src="/images/Until%202022_Pictures/Malay%20Students%20and%20Teachers.jpg" 
-     style="width:50%" align=right>		 
 <img src="/images/Until%202022_Pictures/Malay%20Students%20-%204.jpg" 
      style="width:50%" align=left>		 
 <img src="/images/Until%202022_Pictures/Malay%20Students%20-%205.jpg" 
      style="width:50%" align=right>	 
 <img src="/images/Until%202022_Pictures/Malay%20Students%20-%206.jpg" 
      style="width:50%" align=left>
-
+<img src="/images/Until%202022_Pictures/Malay%20Students%20and%20Teachers.jpg" >		 
 
 
 
