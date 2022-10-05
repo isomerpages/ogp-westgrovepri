@@ -164,9 +164,6 @@ Selain daripada aktiviti-aktiviti di atas, murid-murid darjah 4 diberi kesempata
      style="width:50%" align=left>
 <img src="/images/Until%202022_Pictures/Malay%20Students%20and%20Teachers.jpg" >		 
 
-
-
-
 **P1 – P6 Internal Competitions / Pertandingan Dalaman**
 
 In term 1 and term2, internal competitions were held across the levels. The competitions that were held for the different levels were as follows:
