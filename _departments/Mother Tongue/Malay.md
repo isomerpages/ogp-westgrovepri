@@ -24,13 +24,20 @@ third_nav_title: Mother Tongue
 P1-P6 Classroom activities
 
 **Primary 1  and Primary 2 - Colored Paper Collage**
-
+<img src="/images/Until%202022_Pictures/ML1.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/ML2.jpg" style="width:50%">
+<img src="/images/Until%202022_Pictures/ML3.jpg" style="width:50%" align=left>
 
 **Primary 3 and Primary 4- Animal Mask**
-
+<img src="/images/Until%202022_Pictures/ML4.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/ML5.jpg" style="width:50%">
+<img src="/images/Until%202022_Pictures/ML6.jpg" style="width:50%">
+<img src="/images/Until%202022_Pictures/ML7.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/ML8.jpg" style="width:50%">
 
 **Primary 5 and Primary 6- Basket Weaving **
-
+<img src="/images/Until%202022_Pictures/ML9.jpg" style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/ML10.jpg" style="width:50%">
 
 **P3 Language & Cultural Camp:**
 
