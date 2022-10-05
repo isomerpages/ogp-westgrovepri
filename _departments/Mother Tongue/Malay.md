@@ -43,10 +43,18 @@ P1-P6 Classroom activities
 
  **Station 1: Batik Motive Kite - Colouring**
  
+ <img src="/images/Until%202022_Pictures/ML11.jpg" style="width:30%" align=left>
+<img src="/images/Until%202022_Pictures/ML12.jpg" style="width:30%">
+<img src="/images/Until%202022_Pictures/ML13.jpg" style="width:30%" align=left>
+<img src="/images/Until%202022_Pictures/ML14.jpg" style="width:30%">
  
  
  **Station 2: Arabic Calligraphy**
-
+ 
+<img src="/images/Until%202022_Pictures/ML15.jpg" style="width:30%" align=left>
+<img src="/images/Until%202022_Pictures/ML16.jpg" style="width:30%">
+<img src="/images/Until%202022_Pictures/ML17.jpg" style="width:30%" align=left>
+<img src="/images/Until%202022_Pictures/ML18.jpg" style="width:30%">
 
 
 **MTL Fortnight / Dwi Minggu Bahasa**
