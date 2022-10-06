@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/Performing-Arts/choir
+permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -77,28 +77,28 @@ Tuesdays and / or Thursdays
 
 **Nanyang CC Chinese New Year Celebrations 2020**
 
-<img src="/images/choir1.jpg" 
-     style="width:60%">
+<img src="/images/Until%202022_Pictures/choir1.jpg" 
+     style="width:80%">
 		 
 **SICF 2019**<br>
 **Yong Siew Toh Conservatory of Music**
 
-<img src="/images/choir2.jpg" 
-     style="width:60%">
+<img src="/images/Until%202022_Pictures/choir2.jpg" 
+     style="width:80%">
 		 
 **SICF 2019**<br>
 **Yong Siew Toh Conservatory of Music**
 
-<img src="/images/choir3.jpg" 
-     style="width:60%">
+<img src="/images/Until%202022_Pictures/choir3.jpg" 
+     style="width:80%">
 		 
 
 **Team Bonding Activities (Taken in 2019)**
 
-<img src="/images/choir4.jpg" 
+<img src="/images/Until%202022_Pictures/choir4.jpg" 
      style="width:50%">
 
 **Discussing Music (Taken in 2019)**
 
-<img src="/images/choir5.jpg" 
+<img src="/images/Until%202022_Pictures/choir5.jpg" 
      style="width:60%">
