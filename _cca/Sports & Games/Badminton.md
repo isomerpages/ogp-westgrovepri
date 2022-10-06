@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /cca/Sports-and-Games/badminton
+permalink: /cca/Sports-and-Games/badminton/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -144,6 +144,6 @@ To inculcate the spirit of teamwork and sportsmanship.
 </tbody>
 </table>
 
-![](/images/West%20Zone%20Badminton%20Championships.jpeg)
-![](/images/Badminton%20Trophys.jpeg)
+![](/images/Until%202022_Pictures/West%20Zone%20Badminton%20Championships.jpeg)
+![](/images/Until%202022_Pictures/Badminton%20Trophys.jpeg)
 *West Zone Inter Pri Sch Badminton Championship 2018 Senior Division: 3rd Position*
