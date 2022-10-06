@@ -262,22 +262,22 @@ Pada hari Sabtu, 14 April 2018 Sekolah Rendah West Grove telah mengambil bahagia
 
 Kumpulan darjah 2 muncul sebagai juara. Secara keseluruhan pula, Sekolah Rendah West Grove memenangi tempat ketiga. Kumpulan darjah 2 telah dijemput untuk membuat persembahan di Fiesta Bahasa 2018 di J Canopy pada bulan Julai.
 
-<img src="/images/Malay%20Student%20Achievements%20-%201.jpg" 
-     style="width:50%">
-<img src="/images/Malay%20Student%20Achievements%20-%202.jpg" 
-     style="width:40%">
-<img src="/images/Malay%20Student%20Achievements%20-%203.jpg" 
-     style="width:50%">
-<img src="/images/Malay%20Student%20Achievements%20-%204.jpg" 
+<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%201.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%202.jpg" 
+     style="width:30%">
+<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%203.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%204.jpg" 
      style="width:50%">
 
 **MTL Fortnight /Dwi Minggu Bahasa**
 
 
-<img src="/images/MTL%20Fortnight%20-%201.jpg" 
-     style="width:40%">
-<img src="/images/MTL%20Fortnight%20-%202.jpg" 
-     style="width:40%">
+<img src="/images/Until%202022_Pictures/MTL%20Fortnight%20-%201.jpg" 
+     style="width:30%" align=left>
+<img src="/images/Until%202022_Pictures/MTL%20Fortnight%20-%202.jpg" 
+     style="width:50%">
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Performing Arts, silat and kompang performances as well as wayang kulit and Malay dance were some of the activities organised for the pupils this year. In addition, traditional Malay batik painting and traditional games were also introduced to the pupils.
 
@@ -328,13 +328,14 @@ Pupils of West Grove were also given the opportunity to buy ML books during the 
 
 All in all, pupils found the activities enriching and enjoyable!
 
-<img src="/images/Art%20Painting.png" 
+<img src="/images/Until%202022_Pictures/Art%20Painting.png" 
+     style="width:40%" align=left>
+<img src="/images/Until%202022_Pictures/Art%20Preparation%20Present.png" 
      style="width:40%">
-<img src="/images/Art%20Preparation%20Present.png" 
+		 
+<img src="/images/Until%202022_Pictures/Storytelling.png" 
      style="width:40%">
-<img src="/images/Storytelling.png" 
-     style="width:40%">
-<img src="/images/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
+<img src="/images/Until%202022_Pictures/Until%202022_Pictures/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
      style="width:40%">
 
 Bunga telur cantik sekali,
