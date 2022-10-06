@@ -1,6 +1,6 @@
 ---
 title: Rope Skipping
-permalink: /cca/Sports-and-Games/rope-skipping
+permalink: /cca/Sports-and-Games/rope-skipping/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -108,22 +108,22 @@ third_nav_title: Sports & Games
 
 **Pictures**
 
-<img src="/images/West%20Zone%20Rope%20Skipping%20Competition%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/West%20Zone%20Rope%20Skipping%20Competition%20-%201.jpg" 
      style="width:75%">
 		 
 *The Rope Skipping Team after the win at the West Zone Rope Skipping competition*
 
-<img src="/images/West%20Zone%20Rope%20Skipping%20Competition%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/West%20Zone%20Rope%20Skipping%20Competition%20-%202.jpg" 
      style="width:75%">
 		 
 *The Rope Skipping Team after the win at the West Zone Rope Skipping competition*
 
-<img src="/images/Double%20Dutch%20Contest%20Singapore%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Double%20Dutch%20Contest%20Singapore%20-%201.jpg" 
      style="width:75%">
 
 *The Rope Skipping Team in action at the Double Dutch Contest Singapore.*
 
-<img src="/images/Double%20Dutch%20Contest%20Singapore%20-%202.jpg" 
+<img src="/images/Until%202022_Pictures/Double%20Dutch%20Contest%20Singapore%20-%202.jpg" 
      style="width:75%">
 		 
 *One of our teams at the Double Dutch Contest Singapore.*
