@@ -334,9 +334,9 @@ All in all, pupils found the activities enriching and enjoyable!
      style="width:40%">
 		 
 <img src="/images/Until%202022_Pictures/Storytelling.png" 
-     style="width:40%">
-<img src="/images/Until%202022_Pictures/Until%202022_Pictures/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
-     style="width:40%">
+     style="width:40%" align=left>
+<img src="/images/Until%202022_Pictures/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
+     style="width:60%">
 
 Bunga telur cantik sekali,
 
