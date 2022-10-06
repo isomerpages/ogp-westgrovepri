@@ -53,10 +53,10 @@ third_nav_title: Sports & Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s5dh">Tuesday, 3 pm- 5 pm (Sch. Team) (School Field)<br></td>
+    <td class="tg-s5dh">Tuesday, P2 (3 pm- 4 pm) ; P3 (4 pm - 5pm)<br></td>
   </tr>
   <tr>
-    <td class="tg-s5dh">Wednesday, 3 pm- 5 pm (School Field)</td>
+    <td class="tg-s5dh">Thursday, P4 (3 pm- 4 pm) ; P5 (4 pm - 5pm)</td>
   </tr>
 </tbody>
 </table>
