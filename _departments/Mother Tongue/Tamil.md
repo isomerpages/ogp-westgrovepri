@@ -1,12 +1,12 @@
 ---
 title: Tamil
-permalink: /departments/Mother-Tongue/tamil
+permalink: /departments/Mother-Tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
 ---
 # Tamil 
 
-![](/images/TAMIL%20LANGUAGE.jpg)
+![](/images/Until%202022_Pictures/TAMIL%20LANGUAGE.jpg)
 
 **PROGRAMMES OVERVIEW:**
 
@@ -27,25 +27,27 @@ third_nav_title: Mother Tongue
 *   Post Exam Activities
 
 
-**Mother Tongue Fortnight 2021**
+**Mother Tongue Fortnight 2022**
 
-P1-P6 Classroom activities:
+**P1-P6 Classroom activities:**
 
-**Primary 1 -Thoranam making.**
+**Primary 1 - Miniatures Clay-making**
 
-
-<img src="/images/Picture-2%20(1).png" 
+<img src="/images/Until%202022_Pictures/TL1.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL2.jpg" 
      style="width:50%">
-<img src="/images/Picture-1.jpg" 
-     style="width:50%">
+		 
+**Primary 2 - Sculpture-making Using Clay**
 
-**Primary 2 - Oil lamp painting**
-
-<img src="/images/Picture-3%20(1).jpg" 
+<img src="/images/Until%202022_Pictures/TL3.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL4.jpg" 
      style="width:50%">
-<img src="/images/Picture-4%20(1).jpg" 
-     style="width:50%">
+<img src="/images/Until%202022_Pictures/TL5.jpg" 
+     style="width:70%">
 
+		 
 **Primary 3 students - Puppet show and Shadow-puppet making**
 
 <img src="/images/Picture-5%20(1).jpg" 
