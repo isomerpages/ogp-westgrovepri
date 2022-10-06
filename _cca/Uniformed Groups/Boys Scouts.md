@@ -1,6 +1,6 @@
 ---
 title: Boys Scouts
-permalink: /cca/Uniformed-Groups/boys-scouts
+permalink: /cca/Uniformed-Groups/boys-scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -75,25 +75,25 @@ Activities are based on the natural sense of fun and enthusiasm of the children 
 
 **Adiji Chief Scout**
 
-<img src="/images/scouts1.jpg" 
+<img src="/images/Until%202022_Pictures/scouts1.jpg" 
      style="width:70%">
 		 
 **Fitness Fiesta**
 
-<img src="/images/scouts2.jpg" 
+<img src="/images/Until%202022_Pictures/scouts2.jpg" 
      style="width:70%">
 		 
 **Camp Possible**
 
-<img src="/images/scouts3.jpg" 
+<img src="/images/Until%202022_Pictures/scouts3.jpg" 
      style="width:70%">
 		 
 **World Scout Day**
 
-<img src="/images/scouts4.jpg" 
+<img src="/images/Until%202022_Pictures/scouts4.jpg" 
      style="width:70%">
 		 
 **Outdoor Activity at Jurong Frog Farm**
 
-<img src="/images/scouts5.jpg" 
+<img src="/images/Until%202022_Pictures/scouts5.jpg" 
      style="width:70%">
