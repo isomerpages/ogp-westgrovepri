@@ -48,31 +48,36 @@ third_nav_title: Mother Tongue
      style="width:70%">
 
 		 
-**Primary 3 students - Puppet show and Shadow-puppet making**
+**Primary 3 - Henna Drawing**
 
-<img src="/images/Picture-5%20(1).jpg" 
-     style="width:70%">
-<img src="/images/Picture-6%20(1).jpg" 
-     style="width:70%">
-
-**Primary 4 - Innovative Vegetable Painting using Hand-kerchief**
-
-<img src="/images/Picture-7.jpg" 
+<img src="/images/Until%202022_Pictures/TL6.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL7.jpg" 
+     style="width:50%">
+<img src="/images/Until%202022_Pictures/TL8.jpg" 
      style="width:70%">
 
-**Primary 5 - Udukkai Making using Recycled Materials**
+**Primary 4 -Cardboard Weaving**
 
-<img src="/images/Picture-8.jpg" 
-     style="width:70%">
-<img src="/images/Picture-9.jpg" 
-     style="width:70%">
+<img src="/images/Until%202022_Pictures/TL9.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL10.jpg" 
+     style="width:50%">
 
-**Primary 6 - Paper Flowers Making**
+**Primary 5 - Kundan Art Rangoli**
 
-<img src="/images/Picture-10.jpg" 
-     style="width:70%">
-<img src="/images/Picture-11.jpg" 
-     style="width:70%">
+<img src="/images/Until%202022_Pictures/TL11.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL12.jpg" 
+     style="width:50%">
+
+**Primary 6 - Teracotta Jewellery**
+
+<img src="/images/Until%202022_Pictures/TL13.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/TL14.jpg" 
+     style="width:50%">
+		 
 **MT Fortnight - Classroom Activity**  
 
 During Term 3, MT Fortnight activities were held for students from Primary 1 to Primary 6. There were activities planned for the Tamil students and the NTIL students from P1 to P6 based on their caliber. As a result of this activity, our students are able to learn about the various Indian handcraft works and also about the methods to do those crafts. From these activities, students were able to be independent learners outside the classroom, which eventually led them to let out their inner talents.
