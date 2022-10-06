@@ -1,6 +1,6 @@
 ---
 title: Environmental Club
-permalink: /cca/clubs/environmental-club
+permalink: /cca/clubs/environmental-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -96,25 +96,25 @@ Your children will have opportunities to:
 
 **Singapore Garden Festival 2018**
 
-<img src="/images/eco1.jpg" 
+<img src="/images/Until%202022_Pictures/eco1.jpg" 
      style="width:50%">
 
 **Learning Journey to Gardens By The Bay**
 
-<img src="/images/eco2.jpg" 
+<img src="/images/Until%202022_Pictures/eco2.jpg" 
      style="width:50%">
 		 
 **Global Youth Summit 2018**
 
-<img src="/images/eco3.jpg" 
+<img src="/images/Until%202022_Pictures/eco3.jpg" 
      style="width:50%">
 		 
 **Upcycling Reusing Newspapers to make bags**
 
-<img src="/images/eco4.jpg" 
+<img src="/images/Until%202022_Pictures/eco4.jpg" 
      style="width:50%">
 		 
 **Clean & Green Festival 2018**
 
-<img src="/images/eco5.jpg" 
+<img src="/images/Until%202022_Pictures/eco5.jpg" 
      style="width:50%">
