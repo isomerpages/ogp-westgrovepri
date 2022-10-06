@@ -395,13 +395,14 @@ Murid-murid West Grove juga berpeluang untuk membeli buku-buku Bahasa Melayu sem
 
 Secara keseluruhannya, aktiviti-aktiviti yang telah disertai murid-murid ini diharapkan dapat memperkayakan lagi cinta dan minat terhadap Bahasa Melayu!
 
-<img src="/images/Malay%20Activities%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%201.jpg" 
+     style="width:40%" align=left>
+<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%202.jpg" 
      style="width:40%">
-<img src="/images/Malay%20Activities%20-%202.jpg" 
-     style="width:40%">
-<img src="/images/Malay%20Activities%20-%203.jpg" 
-     style="width:40%">
-<img src="/images/Malay%20Activities%20-%204.jpg" 
+		 
+<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%203.jpg" 
+     style="width:40%" align=left>
+<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%204.jpg" 
      style="width:40%">
 
 **Hari Raya Celebration / Hari Raya Aidilfitri**
@@ -410,15 +411,17 @@ The Hari Raya celebrations were held on 4th July 2017. The half an hour concert 
 
 Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
 
-<img src="/images/Hari%20Raya%20Celebration%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%201.jpg" 
+     style="width:50%" align=left>
+		 <img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%202.jpg" 
      style="width:50%">
-<img src="/images/Hari%20Raya%20Celebration%20-%202.jpg" 
+		 
+<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%203.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%204.jpg" 
      style="width:50%">
-<img src="/images/Hari%20Raya%20Celebration%20-%203.jpg" 
-     style="width:50%">
-<img src="/images/Hari%20Raya%20Celebration%20-%204.jpg" 
-     style="width:50%">
-<img src="/images/Hari%20Raya%20Celebration%20-%205.jpg" 
-     style="width:50%">
-<img src="/images/Hari%20Raya%20Celebration%20-%206.jpg" 
+		 
+<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%205.jpg" 
+     style="width:50%" align=left>
+<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%206.jpg" 
      style="width:50%">
