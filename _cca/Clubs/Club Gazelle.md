@@ -1,6 +1,6 @@
 ---
 title: Club Gazelle
-permalink: /cca/Clubs/club-gazelle
+permalink: /cca/Clubs/club-gazelle/
 description: ""
 third_nav_title: Clubs
 ---
@@ -55,8 +55,8 @@ Your children will have opportunities to:
 </table>
 
 
-<img src="/images/1-2.jpg" 
+<img src="/images/Until%202022_Pictures/1-2.jpg" 
      style="width:70%">
 
-<img src="/images/2-2.jpg" 
+<img src="/images/Until%202022_Pictures/2-2.jpg" 
      style="width:70%">
