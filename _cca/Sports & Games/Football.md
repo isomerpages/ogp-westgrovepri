@@ -26,7 +26,12 @@ third_nav_title: Sports & Games
   <tr>
     <td class="tg-s5dh">Mr. Lin Qiyue (i/c)<br></td>
   </tr>
-
+<tr>
+    <td class="tg-s5dh">Mr. Qairul<br></td>
+  </tr>
+	<tr>
+    <td class="tg-s5dh">Ms. Yao Ling Ling<br></td>
+  </tr>
 </tbody>
 </table>
 
