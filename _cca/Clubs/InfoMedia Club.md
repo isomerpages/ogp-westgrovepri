@@ -1,6 +1,6 @@
 ---
 title: InfoMedia Club
-permalink: /cca/Clubs/infomedia-club
+permalink: /cca/Clubs/infomedia-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -47,7 +47,7 @@ Your children will have opportunities to:
   </tr>
   <tr>
     <td class="tg-cqbp">Venue:</td>
-    <td class="tg-cxqu">Computer Lab 1</td>
+    <td class="tg-cxqu">Computer Lab 2</td>
   </tr>
   <tr>
     <td class="tg-cqbp">Teachers-in-Charge:</td>
@@ -57,20 +57,20 @@ Your children will have opportunities to:
 </table>
 
 **InfoMedia Club Students helping during WE-Hub Coding Sessions**
-![](/images/1-1.jpg)
+![](/images/Until%202022_Pictures/1-1.jpg)
 **InfoMedia Club Students helping out at Cyber Wellness Recess Activities as CWSAs (Cyber Wellness Student Ambassadors)**
-![](/images/2-1.jpg)
+![](/images/Until%202022_Pictures/2-1.jpg)
 **InfoMedia Club Students coded games on Scratch for others to play during Recess Activities**
 
-<img src="/images/3-1.png" 
+<img src="/images/Until%202022_Pictures/3-1.png" 
      style="width:50%">
 		 
 **Photography**
 
-<img src="/images/4.png" 
+<img src="/images/Until%202022_Pictures/4.png" 
      style="width:70%">
 
 **Ozobot Coding**
 
-<img src="/images/5.png" 
+<img src="/images/Until%202022_Pictures/5.png" 
      style="width:70%">
