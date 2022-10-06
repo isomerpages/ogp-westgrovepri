@@ -1,6 +1,6 @@
 ---
 title: Guzheng Ensemble
-permalink: /cca/Performing-Arts/guzheng-ensemble
+permalink: /cca/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -85,7 +85,7 @@ Guzheng Ensemble performs in major school events such as the Chinese New Year & 
 </tbody>
 </table>
 
-![](/images/picture%201.png)
-![](/images/picture%202.png)
-![](/images/picture%203.png)
-![](/images/picture%204.png)
+![](/images/Until%202022_Pictures/picture%201.png)
+![](/images/Until%202022_Pictures/picture%202.png)
+![](/images/Until%202022_Pictures/picture%203.png)
+![](/images/Until%202022_Pictures/picture%204.png)
