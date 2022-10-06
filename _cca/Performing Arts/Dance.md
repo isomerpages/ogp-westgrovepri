@@ -1,6 +1,6 @@
 ---
 title: Dance
-permalink: /cca/Performing-Arts/dance
+permalink: /cca/Performing-Arts/dance/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -98,8 +98,8 @@ Your children will learn to:
 
 **SYF 2018**
 
-<img src="/images/SYF%20Dance%20Troupe%202018%20-%201.jpg" 
+<img src="/images/Until%202022_Pictures/SYF%20Dance%20Troupe%202018%20-%201.jpg" 
      style="width:75%">
 
-<img src="/images/SYF%20Dance%20Troupe%202018%20-%205.jpg" 
+<img src="/images/Until%202022_Pictures/SYF%20Dance%20Troupe%202018%20-%205.jpg" 
      style="width:75%">
