@@ -1,6 +1,6 @@
 ---
 title: Robotics Club
-permalink: /cca/Clubs/robotics-club
+permalink: /cca/Clubs/robotics-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -103,7 +103,7 @@ third_nav_title: Clubs
 
 <i>Our members working hard at the competition venue</i>
 
-<img src="/images/robotics1.png" 
+<img src="/images/Until%202022_Pictures/robotics1.png" 
      style="width:50%">
 
 <i>NRC 2018 - WRO REGULAR CATEGORY  
@@ -111,12 +111,12 @@ Best Robot Performance Award – 2nd Alpha Knights
 Team members: Gao Zi Jun, Leong Zhen Yu, Pour Yi Long</i>
 
 
-<img src="/images/robotics2.png" 
+<img src="/images/Until%202022_Pictures/robotics2.png" 
      style="width:50%">
 
 <i>NRC 2018 –WRO Regular Category   
 Best Robot Performance Award</i>
 
 
-<img src="/images/robotics3.png" 
+<img src="/images/Until%202022_Pictures/robotics3.png" 
      style="width:50%">
