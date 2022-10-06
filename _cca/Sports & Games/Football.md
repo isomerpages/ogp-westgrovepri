@@ -1,6 +1,6 @@
 ---
 title: Football
-permalink: /cca/Sports-and-Games/football
+permalink: /cca/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports & Games
 ---
@@ -26,9 +26,7 @@ third_nav_title: Sports & Games
   <tr>
     <td class="tg-s5dh">Mr. Lin Qiyue (i/c)<br></td>
   </tr>
-  <tr>
-    <td class="tg-s5dh">Mr. Muhammad Sufri</td>
-  </tr>
+
 </tbody>
 </table>
 
