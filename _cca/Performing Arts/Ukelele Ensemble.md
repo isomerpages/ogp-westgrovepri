@@ -1,6 +1,6 @@
 ---
 title: Ukelele Ensemble
-permalink: /cca/Performing-Arts/ukelele-ensemble
+permalink: /cca/Performing-Arts/ukelele-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
@@ -63,5 +63,6 @@ Till date, we have participated in school events such as International Friendshi
 
 We hope that we can grow in number and have more pupils enjoy music-making with us!
 
-![](/images/Ukulele%20Ensemble%20-%201.jpg)
-![](/images/Ukulele%20Ensemble%20-%202.jpg)
+![](/images/Until%202022_Pictures/Ukulele%20Ensemble%20-%201.jpg)
+
+![](/images/Until%202022_Pictures/Ukulele%20Ensemble%20-%202.jpg)
