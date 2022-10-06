@@ -2,23 +2,23 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Boys Scouts.md
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Brownies.md
-      - Uniformed Groups/Girls Brigade.md
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Football.md
+      - Sports & Games/Rope Skipping.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Ukelele Ensemble.md
       - Clubs/.keep
       - Clubs/Art Club.md
       - Clubs/Robotics Club.md
       - Clubs/Environmental Club.md
       - Clubs/InfoMedia Club.md
       - Clubs/Club Gazelle.md
-      - Performing Arts/.keep
-      - Performing Arts/Choir.md
-      - Performing Arts/Dance.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Ukelele Ensemble.md
-      - Sports & Games/.keep
-      - Sports & Games/Badminton.md
-      - Sports & Games/Football.md
-      - Sports & Games/Rope Skipping.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys Scouts.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Girls Brigade.md
