@@ -7,6 +7,7 @@ description: ""
 
 [2022 Term4 - Principal's Letter](/files/2022%20-%20Term%204%20Principals%20Letter.pdf)
 
+[2022 Term4 - P1 Year Head Letter](/files/P1%20YH%20Letter%20Term%204%202022.pdf)
 
 
 
