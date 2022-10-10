@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: West Grove Primary School
 locations:
   - address:
-      - "1 "
-      - "Jurong West Street 72 "
+      - "1, Jurong West Street 72 "
       - Singapore 649223
+      - ""
     operating_hours: []
     maps_link: ""
     title: General Office
