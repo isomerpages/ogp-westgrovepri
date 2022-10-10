@@ -28,8 +28,7 @@ Operating Hours and Contact Details
   
 **Saturdays:**   <br>
 9:00 am ― 3:00 pm  
-
-***Closed on Sundays & Public Holidays**
+**Closed on Sundays & Public Holidays**
 
 Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)Tel: (65) 6702 6513
 
