@@ -5,7 +5,7 @@ description: ""
 ---
 ### Student Learning Space (SLS)
 
-<img src="/images/SLS%20Logo.jpg" 
+<img src="/images/Until%202022_Pictures/SLS%20Logo.jpg" 
      style="width:50%">
 		 
 1. **I have forgotten my password. What should I do?**
@@ -50,7 +50,7 @@ Click [here](https://www.youtube.com/watch?v=2chhMdVbEmw&feature=youtu.be) to 
 
 ### OneNote
 
-<img src="/images/onenote.png" 
+<img src="/images/Until%202022_Pictures/onenote.png" 
      style="width:40%">
 		 
 1. **How do I access my Microsoft OneNote account?**
@@ -66,7 +66,7 @@ Click [here](https://www.loom.com/share/ef68e855b8a248f9899104bfccf5f132) to w
 
 ### Padlet
 
-<img src="/images/padlet.png" 
+<img src="/images/Until%202022_Pictures/padlet.png" 
      style="width:40%">
 		 
 1. **How do I access my Padlet account?**
