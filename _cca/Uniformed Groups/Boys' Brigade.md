@@ -57,5 +57,13 @@ West Grove J95 Boys’ Brigade seeks to provide opportunities for boys to learn,
      style="width:50%">
 
 **School National Day Parade Observant Ceremony**
-
+<img src="/images/Until%202022_Pictures/boys-brigade9.jpg" 
+     style="width:50%" align=left>		 
+<img src="/images/Until%202022_Pictures/boys-brigade10.jpg" 
+     style="width:50%">
 		 
+**Character Quest & Participants of the Character Quest**	
+<img src="/images/Until%202022_Pictures/boys-brigade11.jpg" 
+     style="width:50%" align=left>		 
+<img src="/images/Until%202022_Pictures/boys-brigade12.jpg" 
+     style="width:50%">
