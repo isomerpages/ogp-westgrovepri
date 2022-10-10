@@ -1,6 +1,6 @@
 ---
 title: Brownies
-permalink: /cca/Uniformed-Groups/brownies
+permalink: /cca/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -47,7 +47,7 @@ Brownies enjoy working for interest badges and awards that will help them develo
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-eohv">Mdm. Samsia Sulaiman, Ms. Tan Hui Yang, Ms. Kartini</td>
+    <td class="tg-eohv">Mdm. Samsia Sulaiman, Ms.Tan Hui Yang, Ms. Kartini</td>
   </tr>
 </tbody>
 </table>
@@ -87,25 +87,25 @@ Brownies enjoy working for interest badges and awards that will help them develo
 
 **World Thinking Day Carnival @ Our Tampines Hub**
 
-<img src="/images/1-4.jpg" 
+<img src="/images/Until%202022_Pictures/1-4.jpg" 
      style="width:75%">
 
 **LTA Safe Riding Workshop**
 
-<img src="/images/2-4.jpg" 
+<img src="/images/Until%202022_Pictures/2-4.jpg" 
      style="width:75%">
 
 **She Solves - Engineering Badge Workshop**
 
-<img src="/images/3-2.jpg" 
+<img src="/images/Until%202022_Pictures/3-2.jpg" 
      style="width:75%">
 
 **West Division Day @ Fuhua Primary School**
 
-<img src="/images/4-2.jpg" 
+<img src="/images/Until%202022_Pictures/4-2.jpg" 
      style="width:55%">
 
 **Let's Go Camping @ Camp Christine**
 
-<img src="/images/5-2.jpg" 
+<img src="/images/Until%202022_Pictures/5-2.jpg" 
      style="width:75%">
