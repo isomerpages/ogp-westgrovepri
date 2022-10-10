@@ -3,6 +3,18 @@ title: 2022 Term Letters to Parents
 permalink: /parents/2022-term-letters-to-parents/
 description: ""
 ---
+**Term4**
+
+[2022 Term4 - Principal's Letter](/files/2022%20-%20Term%204%20Principals%20Letter.pdf)
+
+
+
+
+
+
+
+
+
 ### Term 3
 
 * [2022 Term 3 - Principal Letter](/files/Principals%20Letter%20Term%203%20-%202022.pdf)
