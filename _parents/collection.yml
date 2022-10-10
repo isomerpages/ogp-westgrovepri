@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Swim Safer eCertificate User Guide for Parents.md
       - 2022 Primary 1 Virtual Open House.md
       - PSLE Briefing.md
+      - Swim Safer eCertificate User Guide for Parents.md
       - P4 Subject Based Banding Briefing.md
       - 2022 Term Letters to Parents.md
       - 2022 Canteen Stall Menu with Price list.md
@@ -12,9 +12,9 @@ collections:
       - WE STories 2021.md
       - 2021 Parents Engagement Workshop.md
       - Wait List Application Form.md
+      - Useful Information/.keep
       - Useful Information/Educational Articles for Parents.md
       - Useful Information/2022 Weighted Assessment Overview.md
-      - Useful Information/.keep
       - Cyber Wellness Resources.md
       - Useful Links for Students/.keep
       - Useful Links for Students/Useful Links for Students.md
