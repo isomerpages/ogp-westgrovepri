@@ -27,25 +27,35 @@ West Grove J95 Boys’ Brigade seeks to provide opportunities for boys to learn,
 
 **Our Boys in Action**
 
+**J95 Officers, Teachers, Volunteers and some P4, 5 and 6 Students at the annual J95BB Camp.**
+	
 <img src="/images/Until%202022_Pictures/Boys-brigade1.jpg" 
      style="width:50%" align=left>
 	<img src="/images/Until%202022_Pictures/Boys-brigade2.jpg" 
      style="width:50%" align=left>
-		 
-	**J95 Officers, Teachers, Volunteers and some P4, 5 and 6 Students at the annual J95BB Camp.**
-	
-	
+		 **A cooking activity during a J95 BB Camp**
+		
 <img src="/images/Until%202022_Pictures/boys-brigade3.jpg" 
-     style="width:50%" align=left>
-	<img src="/images/Until%202022_Pictures/boys-brigade4.jpg" 
-     style="width:50%" align=left>
+     style="width:80%">
+		**A drill session in progress**
 
+<img src="/images/Until%202022_Pictures/boys-brigade4.jpg" 
+     style="width:60%" >
+**A day out to the Boys’ Brigade HQ**
 
-**Squad Level Activity & Teamwork during Adventure Quest**
 <img src="/images/Until%202022_Pictures/boys-brigade5.jpg" 
-     style="width:50%" align=left>
-	<img src="/images/Until%202022_Pictures/boys-brigade6.jpg" 
-     style="width:50%" align=left>
+     style="width:70%" >
+**Nature Rumble cum Community Service**		 
+
+<img src="/images/Until%202022_Pictures/boys-brigade6.jpg" 
+     style="width:70%">
 		 
+**Squad Level Activity & Teamwork during Adventure Quest**
+<img src="/images/Until%202022_Pictures/boys-brigade7.jpg" 
+     style="width:50%" align=left>		 
+<img src="/images/Until%202022_Pictures/boys-brigade8.jpg" 
+     style="width:50%">
+
+**School National Day Parade Observant Ceremony**
+
 		 
-	
