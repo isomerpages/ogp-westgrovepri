@@ -1,117 +1,28 @@
 ---
 title: Boys' Brigade
-permalink: /cca/Uniformed-Groups/boys-brigade
+permalink: /cca/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
 ### BB MOTTO
-![](/images/Boys%20Brigade%20Logo.png)
+![](/images/Until%202022_Pictures/Boys%20Brigade%20Logo.png)
 
-Sure and Steadfast
+**Sure and Steadfast**
 
-  
+  **Boys’ Brigade**
 
-**The BB Method**
+West Grove J95 Boys’ Brigade seeks to provide opportunities for boys to learn, grow and discover in a safe, fun and caring environment for the objectives below:
 
-  
+* To help students to develop and grow in moral character
 
-The method of achieving the object of The Boys’ Brigade is by providing a meaningful and enjoyable programme of physical, enrichment and social interests, which is actively guided by adult leaders as officers.
+* To promote members physical fitness and develop their leadership potential
+ 
+* To train members to become loyal and responsible citizens.
 
-  
-
-Each Boy develops the habit of discipline, self-respect, grooming and teamwork according to his needs.
-
-  
-
-**TEACHERS-IN-CHARGE**
-
-  
-
-*   Mr. Liu Ning (i/c)  
-    
-*   Mdm. Huang Wanxi  
-    
-*   Ms. Chloe Oh Wan Ling  
-    
-
-**Venue & Timing**
-
-  
-
-♦ Saturdays, 7.30 am to 10 am
-
-♦ School Compound: Parade Square
-
-  
-
-**BB OFFICERS**
-
-  
-
-*   Captain Max Lum  
-    
-*   LTA Tommy Lam  
-    
-*   2LT Mr. Matthew Sim (Teacher)  
-    
-*   2LT Mrs. Michelle Sim (Teacher)  
-    
-*   2LT Edward Chen  
-    
-*   2LT Jun Hoong  
-    
-*   2LT Randy  
-    
-*   2LT Grace  
-    
-*   OCT Bynes  
-    
-*   Primer Darryl Tan  
-    
-*   Primer YouFu  
-    
-*   Primer Joey  
-    
-
-  
+<table style="margin: 0px; outline: 0px; padding: 0px; width: 791px; border: 1pt solid rgb(42, 42, 42); height: 158px;" width="804" cellpadding="0" cellspacing="3" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 267px; border: 1pt solid rgb(42, 42, 42);" width="270"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">Day:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 513px; border: 1pt solid rgb(42, 42, 42);" width="529"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Saturday</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);" width="191"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">Time:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);" width="378"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">7.30 a.m. – 10.00 a.m.</span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);" width="191"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">Venue:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);" width="378"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">School Parade Square</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);" width="191"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">Teachers-in-Charge:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);" width="378"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mr Jason Liu Ning,&nbsp;</span></p><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">&nbsp;Mr Yeow Soon Hao,&nbsp;</span></p><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mrs. Nancy Tan-Chan</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);" width="191"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">Officers &amp; Key Volunteers</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);" width="378"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Captain Max, 2LT Mdm.&nbsp; &nbsp;Catherine,&nbsp;</span></p><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Officer Cadet Nehemiah,&nbsp;</span></p><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mr Denny&nbsp;</span></p></td></tr></tbody></table>
 
 **Achievements**
 
-  
+<table style="margin: 0px; outline: 0px; padding: 0px; width: 793px; border: 1pt solid rgb(42, 42, 42); height: 108px;" width="668" align="left" cellpadding="0" cellspacing="3" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 16.65pt;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 785px; border: 1pt solid rgb(42, 42, 42); height: 16.65pt;" width="664"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;" lang="EN-GB">2022</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 49.5pt;"><td style="margin: 0px; outline: 0px; padding: 1.5pt; width: 498.25pt; border: 1pt solid rgb(42, 42, 42); height: 49.5pt;" width="664"><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: justify; text-indent: -0.25in;" class="MsoListParagraphCxSpFirst"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Symbol;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span>·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; &nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Adventure Quest - Gold Honor Roll</span></p><p style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: justify; text-indent: -0.25in;" class="MsoListParagraphCxSpLast"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Symbol;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span>·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; &nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Adventure Quest Achievement of Junior Programme Gold Award - 7 Boys</span></p></td></tr></tbody></table>
 
-2016
-
-  
-
-*   JM Fraser - Silver  
-    
-*   Adventure Quest - Bronze Honor Roll  
-    
-*   Character Quest - Silver Honor Roll  
-    
-*   Achievement of Junior Programme Gold Award - 8 Boys  
-    
-* 2015 JM Fraser - Silver
-
-* 2014 JM Fraser - Silver
-
-**OUR BB BOYS IN ACTION**
-
-P6 Gold Badge Recipients
-![](/images/P6%20Gold%20Badge%20Recipients.jpg)
-
-Boys Brigade Enrollment Ceremony (Below)
-![](/images/Boys%20Brigade%20Enrollment%20Ceremony.jpg)
-
-Nature Rumble - Hike up Bukit Timah Hill (Below)
-![](/images/Nature%20Rumble%20-%20Hike%20up%20Bukit%20Timah%20Hill.jpg)
-
-Camp Craft - Basha Pitching (Below)
-![](/images/Camp%20Craft%20-%20Basha%20Pitching.jpg)
-
-Drills during weekly parades (Below)
-![](/images/Drills%20during%20weekly%20parades.jpg)
-![](/images/Marching.jpg)
-
-Adventure Quest Competition (Below)
-![](/images/Adventure%20Quest%20Competition.jpg)
+**Our Boys in Action**
