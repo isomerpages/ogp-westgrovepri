@@ -17,6 +17,7 @@ description: ""
 
 [2022 Term4 - P5 Year Head Letter](/files/P5%20YH%20Letter%20Term%204%202022.pdf)
 
+[2022 Term 4 - P6 Year Head Letter](/files/P6%20YH%20Letter%20Term%204%202022.pdf)
 
 ### Term 3
 
