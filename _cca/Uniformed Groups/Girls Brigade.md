@@ -1,6 +1,6 @@
 ---
 title: Girls Brigade
-permalink: /cca/Uniformed-Groups/girls-brigade
+permalink: /cca/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -47,7 +47,7 @@ Girls Brigade Members will learn:
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-eohv">Ms. Joanne Ching, Mdm. Tang Oi Khum, Ms. Alagu Meenal, Ms. He Tianchan</td>
+    <td class="tg-eohv">Ms.Joanne Ching, Mdm.Tang Oi Khum, Ms. Alagu Meenal</td>
   </tr>
 </tbody>
 </table>
@@ -92,15 +92,15 @@ Girls Brigade Members will learn:
 
 **Company Awards 2019**
 
-<img src="/images/1-5.jpg" 
+<img src="/images/Until%202022_Pictures/1-5.jpg" 
      style="width:65%">
 
 **LGT Games 2019 ( Coding Competition)**
 
-<img src="/images/2-5.jpg" 
+<img src="/images/Until%202022_Pictures/2-5.jpg" 
      style="width:65%">
 
 **Junior Brigadier Brooch 2019**
 
-<img src="/images/3-3.jpg" 
+<img src="/images/Until%202022_Pictures/3-3.jpg" 
      style="width:65%">
