@@ -3,7 +3,7 @@ title: 2021 Parents Engagement Workshop
 permalink: /parents/2021-parents-engagement-workshop/
 description: ""
 ---
-![](/images/PE.png)
+![](/images/Until%202022_Pictures/PE.png)
 
 ‘Positive Parent-Child Support System for Children’s Physical and Mental Wellness’ Workshop was conducted through zoom platform on 29 May 2021 conducted by teachers from West Grove Physical Education Department. In this workshop, both parents and students learnt about:
 
