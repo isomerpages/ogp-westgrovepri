@@ -5,10 +5,10 @@ description: ""
 ---
 West Grove Primary School is partnering with Thye Hua Kwan (THK) Family Services Division, a Parenting Support Provider (PSP) from 2020 to provide Parenting Support Programmes.
 
-![](/images/About%20Triple%20P.jpg)
-![](/images/Registration%20Slide%20for%20Triple%20P%20Seminar%20Primary%20School.jpg)
-![](/images/THK%20PSP%20-%20How%20Is%20Your%20Child%20Doing%20Questionnaire.jpg)
-![](/images/THK%20FSD%20-%20PSP%20Poster.jpg)
+![](/images/Until%202022_Pictures/About%20Triple%20P.jpg)
+![](/images/Until%202022_Pictures/Registration%20Slide%20for%20Triple%20P%20Seminar%20Primary%20School.jpg)
+![](/images/Until%202022_Pictures/THK%20PSP%20-%20How%20Is%20Your%20Child%20Doing%20Questionnaire.jpg)
+![](/images/Until%202022_Pictures/THK%20FSD%20-%20PSP%20Poster.jpg)
 
 **Triple P – Positive Parenting Programme**   
 
@@ -55,5 +55,5 @@ For parents who may wish to register with us directly, they could register via t
 
 [PSP\_Jurong@thkmc.org.sg](mailto:PSP_Jurong@thkmc.org.sg)
 
-<img src="/images/psp.png" 
+<img src="/images/Until%202022_Pictures/psp.png" 
      style="width:45%">
