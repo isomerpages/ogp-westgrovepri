@@ -23,9 +23,9 @@ description: ""
 
 ### PSG Exco 2022
 
-![](/images/PSG%20Exco%202022.jpg)
-![](/images/PSG%20Exco%202022-2.jpg)
-![](/images/PSG%20Exco%202022-3.jpg)
+![](/images/Until%202022_Pictures/PSG%20Exco%202022.jpg)
+![](/images/Until%202022_Pictures/PSG%20Exco%202022-2.jpg)
+![](/images/Until%202022_Pictures/PSG%20Exco%202022-3.jpg)
 
 Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to [**wgps@moe.edu.sg**](mailto:wgps@moe.edu.sg).  
 
@@ -37,6 +37,6 @@ and Instagram page [https://www.instagram.com/westgrovepsg/](https://www.instag
 
 **TREE PLANTING 2022:**
 
-![](/images/tree-planting1.jpg)
-![](/images/tree-planting2.png)
-![](/images/tree-planting3.png)
+![](/images/Until%202022_Pictures/tree-planting1.jpg)
+![](/images/Until%202022_Pictures/tree-planting2.png)
+![](/images/Until%202022_Pictures/tree-planting3.png)
