@@ -3,7 +3,7 @@ title: School Newsletter
 permalink: /parents/school-newsletter/
 description: ""
 ---
-[WGPS Newsletter Issue 1 - 2022]()
+[WGPS Newsletter Issue 1 - 2022](/files/WGPS%20Newsletter%20Issue%201%202022-compressed.pdf)
 
 
 [2020 West Grove Pri Sch - ICT Newsletter Issue 1](/files/ICT%20Newsletter%20(Issue%201).pdf)
