@@ -103,17 +103,17 @@ c.  Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-nrix" rowspan="4">Gosh! I Am Changing</td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What Is Happening To Me?</span><br><span style="font-weight:400;color:#0C2733">(30 min)</span></td>
-    <td class="tg-7wcr">know what puberty is<br>identify the physical changes during puberty<br></td>
+    <td class="tg-7wcr">* Know what puberty is<br>* Identify the physical changes during puberty<br></td>
     <td class="tg-baqh">Term 1 Week 8<br></td>
   </tr>
   <tr>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What Can I Do? (Part 1)</span><br><span style="font-weight:400;color:#0C2733"> (30 min)</span></td>
-    <td class="tg-7wcr">identify the stresses caused by physical and emotional changes during puberty<br>Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>Describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-7wcr">* Identify the stresses caused by physical and emotional changes during puberty<br>* Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>* Describe the emotions caused by physical changes during puberty<br>* Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-nrix"> Term 1 Week 8</td>
   </tr>
   <tr>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What Can I Do? (Part 2)</span><br><span style="font-weight:400;color:#0C2733"> (30 min)</span></td>
-    <td class="tg-7wcr">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>Describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-7wcr">* Identify the stresses caused by physical and emotional changes during puberty<br>* Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>* Describe the emotions caused by physical changes during puberty<br>* Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-baqh">Term 1 Week 9</td>
   </tr>
   <tr>
@@ -124,24 +124,24 @@ c.  Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-nrix">Where I Belong<br></td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What Are Families?</span><br><span style="font-weight:400;color:#0C2733">(30 min)</span></td>
-    <td class="tg-7wcr">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
+    <td class="tg-7wcr">* Know that there are different types of family structures<br>* Know that every family is unique<br>* State that the three basic functions of families are to provide love, protection and guidance<br>* Identify the right sources of help to turn to when in need</td>
     <td class="tg-nrix"> Term 2</td>
   </tr>
   <tr>
     <td class="tg-nrix">Where I Belong<br></td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What is My Role? </span><br><span style="font-weight:400;color:#0C2733">(30 min)</span></td>
-    <td class="tg-7wcr">know that gender is about being male or female<br>choose not to stereotype by gender</td>
+    <td class="tg-7wcr">* Know that gender is about being male or female<br>* Choose not to stereotype by gender</td>
     <td class="tg-nrix">Term 2 </td>
   </tr>
   <tr>
     <td class="tg-nrix" rowspan="2">How Do I Keep Myself Safe?<br></td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">What is Safety?</span><br><span style="font-weight:400;color:#0C2733">(30 min)</span></td>
-    <td class="tg-7wcr">know what sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-7wcr">* Know what sexual abuse is<br>* Know that there are laws in Singapore that can protect them from sexual abuse<br>* Know their rights in keeping themselves safe from sexual abuse</td>
     <td class="tg-nrix"> Term 2</td>
   </tr>
   <tr>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Stop It! Run! Tell! </span><br><span style="font-weight:400;color:#0C2733">(30 min)</span></td>
-    <td class="tg-7wcr">protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-7wcr">* Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>* Know their responsibilities in minimising the risk of sexual harm</td>
     <td class="tg-nrix">Term 2 </td>
   </tr>
 </tbody>
@@ -176,22 +176,22 @@ c.  Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-nrix" rowspan="5">Are We More Than Friends?</td>
     <td class="tg-7wcr">Who Are My Friends? <br>(30 min)</td>
-    <td class="tg-7wcr">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
+    <td class="tg-7wcr">* Identify the qualities of a healthy friendship<br>* Recognise the importance of making wise choices in friendship</td>
     <td class="tg-nrix">Term 1 Week 6</td>
   </tr>
   <tr>
     <td class="tg-7wcr">Am I A Good Friend? <br>(30 min)</td>
-    <td class="tg-7wcr">identify the qualities that they have as a friend<br><span style="font-weight:400;color:#0C2733">recognise the importance of developing in oneself the qualities of a good friend</span><br></td>
+    <td class="tg-7wcr">* Identify the qualities that they have as a friend<br><span style="font-weight:400;color:#0C2733">* Recognise the importance of developing in oneself the qualities of a good friend</span><br></td>
     <td class="tg-baqh">Term 1 Week 6 </td>
   </tr>
   <tr>
     <td class="tg-7wcr">What is Love? <br>(30 min)</td>
-    <td class="tg-7wcr">identify the characteristics of love and infatuation<br><span style="font-weight:400;color:#0C2733">distinguish between the characteristics of love versus infatuation</span><br><span style="font-weight:400;color:#0C2733">identify strong feelings arising from infatuation</span></td>
+    <td class="tg-7wcr">* Identify the characteristics of love and infatuation<br><span style="font-weight:400;color:#0C2733">* Distinguish between the characteristics of love versus infatuation</span><br><span style="font-weight:400;color:#0C2733">* Identify strong feelings arising from infatuation</span></td>
     <td class="tg-baqh">Term 1 Week 8 </td>
   </tr>
   <tr>
     <td class="tg-7wcr">Am I Falling In Love? <br>(30 min)</td>
-    <td class="tg-7wcr">manage strong feelings arising from infatuation<br>identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-7wcr">* Manage strong feelings arising from infatuation<br>* Identify ways to manage and cope with teasing from peers</td>
     <td class="tg-nrix"> Term 1 Week 8</td>
   </tr>
   <tr>
