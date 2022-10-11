@@ -202,12 +202,12 @@ c.  Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-nrix" rowspan="3">Friends or Foes?<br></td>
     <td class="tg-7wcr">Are You Really My Friend? <br>(30 min)</td>
-    <td class="tg-7wcr">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-7wcr">* Identify the pros and cons of forming relationships through social networking websites<br>* Know ways to keep themselves safe when using social networking websites</td>
     <td class="tg-nrix">Term 2 </td>
   </tr>
   <tr>
     <td class="tg-7wcr">Is It All Safe? <br>(30 min)</td>
-    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:400;color:#0C2733">know ways to keep themselves safe when using social networking websites or the Internet</span></td>
+    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">* Know that some information (like pornography) received through the Internet may be harmful</span><br><span style="font-weight:400;color:#0C2733">* Know ways to keep themselves safe when using social networking websites or the Internet</span></td>
     <td class="tg-nrix">Term 2 </td>
   </tr>
   <tr>
