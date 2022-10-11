@@ -14,23 +14,7 @@ To access your Student Learning Space (SLS), please click on this link:
 
 [Click Here if you have trouble logging into the SLS](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
 
-![](/images/SLS%20log%20In%20Picture.jpg)
-
-  
-### Student Learning Space (SLS)
-
-
-To access your Student Learning Space (SLS), please click on this link:
-
-  
-
-[http://learning.moe.edu.sg](http://learning.moe.edu.sg/)
-
-  
-
-[Click Here if you have trouble logging into the SLS](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#)
-
-  
+![](/images/Until%202022_Pictures/SLS%20log%20In%20Picture.jpg)
 
 ### FREQUENTLY ASKED QUESTIONS
 
