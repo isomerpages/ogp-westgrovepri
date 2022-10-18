@@ -55,16 +55,7 @@ Like pages of an open book, BLUE shows learning with an open mind.
 
 **Milestones**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cqbp{background-color:#EAEAEA;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAZfbR2Rfv2dGa9kN70Tw2U6Fgap3Fz9qC4awgxn-z8HN3_d-ArJOLx2VMrRy9qk94rtDzkjHHIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-cqbp">Year</th>
@@ -149,8 +140,15 @@ Like pages of an open book, BLUE shows learning with an open mind.
     <td class="tg-cxqu">Conducted Ground Deployment Exercise</td>
   </tr>
 </tbody>
-	
-
-	
-	
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cqbp{background-color:#EAEAEA;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
+</style>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAZfbR2Rfv2dGa9kN70Tw2U6Fgap3Fz9qC4awgxn-z8HN3_d-ArJOLx2VMrRy9qk94rtDzkjHHIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
