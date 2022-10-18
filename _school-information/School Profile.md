@@ -43,8 +43,7 @@ ST4 - Organizational Excellence
 
 **School Crest**
 
-<img src="/images/Until%202022_Pictures/School%20Crest.png" 
-     style="width:25%">
+<img style="width:25%" src="/images/Until%202022_Pictures/School%20Crest.png">
 
 Shaped like a Shield, the badge represents honour and loyalty to uphold for the school. BLACK Outline demonstrates boldness in taking on challenges.
 
@@ -65,7 +64,7 @@ Like pages of an open book, BLUE shows learning with an open mind.
 .tg .tg-cqbp{background-color:#EAEAEA;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAZfbR2Rfv2dGa9kN70Tw2U6Fgap3Fz9qC4awgxn-z8HN3_d-ArJOLx2VMrRy9qk94rtDzkjHHIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe><table class="tg">
 <thead>
   <tr>
     <th class="tg-cqbp">Year</th>
@@ -150,4 +149,8 @@ Like pages of an open book, BLUE shows learning with an open mind.
     <td class="tg-cxqu">Conducted Ground Deployment Exercise</td>
   </tr>
 </tbody>
+	
+
+	
+	
 </table>
