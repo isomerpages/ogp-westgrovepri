@@ -151,3 +151,7 @@ Like pages of an open book, BLUE shows learning with an open mind.
   </tr>
 </tbody>
 </table>
+
+
+
+![](https://westgrovepri.moe.edu.sg/qql/slot/u179/School%20Information/School%20Profile/slider/School%20Profile%20-%201.jpg)
