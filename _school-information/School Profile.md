@@ -151,7 +151,3 @@ Like pages of an open book, BLUE shows learning with an open mind.
   </tr>
 </tbody>
 </table>
-
-
-
-![](/images/Until%202022_Pictures/School%20Profile%20%20%20Slider/School%20Profile%20-%2011.jpg)
