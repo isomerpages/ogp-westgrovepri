@@ -5,8 +5,7 @@ description: ""
 third_nav_title: C&C Education
 ---
 # Pupil Well-being
-![](/images/Until%202022_Pictures/CCE%20PUPIL%20WELL-BEING.jpg)
-
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(Pupil%20Well-being).jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
