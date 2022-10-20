@@ -4,8 +4,7 @@ permalink: /departments/Mother-Tongue/science/
 description: ""
 ---
 # Science 
-
-![](/images/Until%202022_Pictures/Science.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_Science.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
