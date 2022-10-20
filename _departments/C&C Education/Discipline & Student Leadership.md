@@ -5,8 +5,7 @@ description: ""
 third_nav_title: C&C Education
 ---
 # Discipline & Student Leadership
-
-![](/images/Until%202022_Pictures/CCE%20DISCIPLINE%20AND%20STUDENT%20LEADERSHIP.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(Discipline%20and%20Student%20Leadership).jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
