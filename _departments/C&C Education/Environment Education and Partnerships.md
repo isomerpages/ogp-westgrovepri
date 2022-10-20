@@ -5,7 +5,7 @@ description: ""
 third_nav_title: C&C Education
 ---
 # Environment Education and Partnerships
-![](/images/Until%202022_Pictures/CCE%20ENVIRONMENT%20EDUCATION%20AND%20PARTNERSHIPS.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(Environment%20Education%20and%20Partnerships).jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
