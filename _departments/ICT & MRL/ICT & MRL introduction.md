@@ -5,7 +5,8 @@ description: ""
 third_nav_title: ICT & MRL
 ---
 # ICT/MRL
-![](/images/Until%202022_Pictures/ICT_MRL.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_ICT%20&%20MRL.jpg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
