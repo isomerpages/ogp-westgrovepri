@@ -5,8 +5,7 @@ description: ""
 third_nav_title: C&C Education
 ---
 # National Education & Social Studies
-
-![](/images/Until%202022_Pictures/CCE%20NATIONAL%20EDUCATION%20AND%20FTGP.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(National%20Education).jpg)
 
 **INTRODUCTION:**
 
