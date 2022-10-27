@@ -128,7 +128,7 @@ The Speaker's Corner' serves as a platform to promote oracy, presentation skills
      style="width:50%" align="left">
 		 
 <img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg" 
-     style="width:50%">
+     style="width:60%">
 
 
 **Spell Bee**
