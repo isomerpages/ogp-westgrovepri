@@ -3,4 +3,4 @@ title: Swim Safer eCertificate User Guide for Parents
 permalink: /parents/permalink/
 description: ""
 ---
-[Click here to view the link for the Swim-Safer-E-Certificate-User-Guide-For-Parents]()
+[Click here to view the link for the Swim-Safer-E-Certificate-User-Guide-For-Parents](/files/Swim-Safer-E-Certificate-User-Guide-For-Parents_com.pdf)
