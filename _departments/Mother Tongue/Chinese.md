@@ -259,4 +259,4 @@ http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87
 **网上字典**
 
 * 在线汉语字典: http://xh.5156edu.com/
-* 在线汉语字典（部首查字: http://xh.5156edu.com/bs.html）
+* 在线汉语字典（部首查字: http://xh.5156edu.com/bs.html)
