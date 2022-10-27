@@ -40,9 +40,16 @@ third_nav_title: School Matters Opening Time
 **GATE 1 : 
 (Nearest to school power station - Open from 6.25 A.M. to 6.00 P.M.)**
 
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_1.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_2.jpg)
+
 **GATE 2 : (Nearest to Block 731 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_1.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_2.jpg)
 
 **GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate3_1.jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/Gate3_2.jpg)
 
 **CLOSING HOURS FOR MAIN GATE**  
 
