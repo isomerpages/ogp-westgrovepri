@@ -127,7 +127,7 @@ or you can view flippdf <a href='mobile/index.html'>mobile version </a>
 <script type="text/javascript" src="js/ActionHtmlWindow.js"></script>
 <script type="text/javascript" src="js/fbendscript.js"></script>
 
-<noscript><div><hr/><ul><li><a href="files/basic-html/index.html">Pages</a></li></ul><hr style="width:80%"/></div></noscript>
+<noscript><div><hr/><ul><li><a href="files/basic-html/index.html">Pages</a></li></ul><hr style=![]()"width:80%"/></div></noscript>
 </body>
 </html>
 ```
