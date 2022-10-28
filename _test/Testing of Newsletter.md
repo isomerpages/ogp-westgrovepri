@@ -4,6 +4,20 @@ permalink: /test/permalink/
 description: ""
 ---
 ```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+    version="XHTML+RDFa 1.0"
+    xmlns:og="http://ogp.me/ns#"
+    xml:lang="en">
+<!-- 
+    Smart developers always View Source. 
+    
+    This application was built using Adobe Flex, an open source framework
+    for building rich Internet applications that get delivered via the
+    Flash Player or to desktops via Adobe AIR. 
+    
+    Learn more about Flex at http://flex.org 
+    // -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>CHIJ Connexions Issue 2 2022</title>
@@ -62,6 +76,61 @@ body
 <script type="text/javascript" src="js/fbscript.js"></script>
 
 </head>
+<body>
+<!-- SWFObject's dynamic embed method replaces this alternative HTML content with Flash content when enough 
+    JavaScript and Flash plug-in support is available. The div is initially hidden so that it doesn't show
+    when JavaScript is disabled.
+  -->
+  
+<div id="flashContent">
+<p>To view this page ensure that Adobe Flash Player version 10.0.0
+or greater is installed.</p>
+ Besides, it's possible to <a href='./files/basic-html/index.html'>view a simplified version of the flippdf book on any device </a>,
+or you can view flippdf <a href='mobile/index.html'>mobile version </a>
+</div>
+
+ <script>
+ 	function showUserAgent(){
+		var str = navigator.userAgent;
+		var p = document.createElement("p");
+		p.innerHTML = str;
+		p.className = "gray";
+		document.getElementById("flashContent").appendChild(p);
+	}
+	
+	showUserAgent();
+</script>
+
+<noscript><div><object classid=
+"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="100%" height=
+"100%" id="FlipBookBuilder"><param name="movie" value="book.swf" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<param name="allowScriptAccess" value="always" />
+<param name="allowFullScreen" value="true" />
+<param name="allowFullScreenInteractive" value="true" />
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="book.swf" width=
+"100%" height="100%"><param name="quality" value="high" />
+<param name="bgcolor" value="#ffffff" />
+<param name="allowScriptAccess" value="always" />
+<param name="allowFullScreen" value="true" />
+<param name="allowFullScreenInteractive" value="true" />
+<param name="wmode" value="transparent" />
+<!--<![endif]--><!--[if gte IE 6]>-->
+<p>Either scripts and active content are not permitted to run or
+Adobe Flash Player version 10.0.0 or greater is not installed.</p>
+<!--<![endif]--> 
+<a href="http://www.adobe.com/go/getflashplayer">Get Adobe Flash Player</a> <br/> <br/>
+Besides, it's possible to <a href='./files/basic-html/index.html'>view a simplified version of the flippdf book on any device </a>,
+or you can view flippdf <a href='mobile/index.html'>mobile version </a>
+<!--[if !IE]>--> <!--<![endif]--> </div></noscript>
+<script type="text/javascript" src="js/ActionHtmlWindow.js"></script>
+<script type="text/javascript" src="js/fbendscript.js"></script>
+
+<noscript><div><hr/><ul><li><a href="files/basic-html/index.html">Pages</a></li></ul><hr style="width:80%"/></div></noscript>
+</body>
+</html>
 ```
 
 
