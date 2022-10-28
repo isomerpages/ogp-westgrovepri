@@ -1,5 +1,4 @@
 collections:
   hbl:
     output: true
-    order:
-      - Frequently Asked Questions.md
+    order: []
