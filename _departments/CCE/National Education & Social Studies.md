@@ -4,10 +4,7 @@ permalink: /departments/CandC-Education/national-education-n-social-studies/
 description: ""
 third_nav_title: CCE
 ---
-
 # National Education & Social Studies
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(National%20Education).jpg)
-
 **INTRODUCTION:**
 
 Social Studies (SS) is a subject that encompasses the study of history, anthropology, civics and geography. National Education (NE) elements have been infused within the SS lessons to help pupils develop a sense of belonging to the classroom, school, nation and the world. Through SS lessons, pupils attain knowledge, skills and values to develop into a concerned citizen.
