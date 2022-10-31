@@ -102,10 +102,6 @@ In West Grove, we provide opportunities to potential students who are good in Ma
 **3. GOLD**
 
 GOLD stands for **G**ame **O**riented **L**earning **D**evelopment in Mathematics which aims to motivate young Mathematics learners through games in the learning of Mathematics. It is held termly during recess and it involves all Primary 1 to Primary 6 students. Our students also get to collect stamps for their participation and exchange the stamps for tokens.
-![](/images/Until%202022_Pictures/Maths%20image%201.jpg)
-![](/images/Until%202022_Pictures/Maths%20image%202.jpg)
-![](/images/Until%202022_Pictures/Maths%20image%203.jpg)
-![](/images/Until%202022_Pictures/Maths%20image%204.jpg)
 
 **4. ICAN**
 
