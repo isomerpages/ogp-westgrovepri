@@ -44,7 +44,7 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
 * To provide our students with concrete experiences to learn Mathematics concepts meaningfully.
 * To inculcate our students in mathematical reasoning and communication.
 
-![](/images/Until%202022_Pictures/Mission%20&%20Vision.jpg)
+![](/images/Until%202022_Pictures/Mission%20&amp;%20Vision.jpg)
 
 **Syllabus Organisation from P1 - 6**
 
@@ -62,7 +62,7 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-o88e" colspan="3">3 Content Strands + 1 Process Strand</th>
+    <th colspan="3" class="tg-o88e">3 Content Strands + 1 Process Strand</th>
   </tr>
 </thead>
 <tbody>
@@ -77,10 +77,10 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
     <td class="tg-9y7l">Example of Topics:<br>Interpreting Picture Graphs, Bar Graphs,<br>Line Graphs, Tables, Pie Charts, etc.</td>
   </tr>
   <tr>
-    <td class="tg-o88e" colspan="3">Mathematical Processes<br></td>
+    <td colspan="3" class="tg-o88e">Mathematical Processes<br></td>
   </tr>
   <tr>
-    <td class="tg-wkil" colspan="3">Example of Process Skills: Reasoning, Communication, Connections, Thinking, Heuristics, etc.</td>
+    <td colspan="3" class="tg-wkil">Example of Process Skills: Reasoning, Communication, Connections, Thinking, Heuristics, etc.</td>
   </tr>
 </tbody>
 </table>
@@ -119,4 +119,5 @@ E2K programme aims to develop critical thinking skills in top-performing Mathema
 **6.P1, P3 and P5 Mathematics Workshop for Parents**
 
 Mathematics workshops will be organised yearly for parents of our Primary 1, Primary 3 and Primary 5 to brief them on the Mathematics syllabus and assessment. Resources used during Primary 1 lessons will be shared with the parents to give them an idea how the children learn Mathematics in West Grove. As for Primary 3 and Primary 5 workshop, parents will learn how to solve Mathematics problems through model drawing and heuristics. Parents will also be briefed on the use of calculators during the P5 workshop.
-![](/images/Until%202022_Pictures/Maths%20image%205%20Parents%20Workshop.jpg)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbC0iq3Nqw6ESEAyGxOWtmYDxhNR1CtJvFZ8Y4nIwlRZyRAbF-pRt6wJwb9QYYQZDeL1xxge0oe2P9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
