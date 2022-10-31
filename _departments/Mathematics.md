@@ -4,7 +4,6 @@ permalink: /departments/mathematics/
 description: ""
 ---
 # Mathematics
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_Mathematics.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
