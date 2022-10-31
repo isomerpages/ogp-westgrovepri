@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue
 ---
 # Chinese 
 
-![](/images/Until%202022_Pictures/CHINESE%20LANGUAGE.jpg)
-
 **PROGRAMMES OVERVIEW:**
 
 * MTL Fortnight /母语双周
