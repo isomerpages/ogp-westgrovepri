@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue
 ---
 # Malay Language
 
-![](/images/Until%202022_Pictures/MALAY%20LANGUAGE.jpg)
-
 **PROGRAMMES OVERVIEW:**
 
 * MTL Fortnight / Dwi Minggu Bahasa
