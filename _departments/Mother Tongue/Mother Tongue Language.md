@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 # Mother Tongue
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_Mother%20Tongue.jpg)
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
