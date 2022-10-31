@@ -4,7 +4,6 @@ permalink: /staff/middle-management/
 description: ""
 ---
 # Middle Management
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_Key%20Personnel.jpg)
 
 <table style="width:604.0pt;border-collapse:collapse;border:none;mso-border-alt:solid #AAAAAA .75pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="805" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:310.1pt;border:solid windowtext 1.0pt;mso-border-alt:
