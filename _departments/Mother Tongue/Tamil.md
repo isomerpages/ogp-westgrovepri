@@ -6,8 +6,6 @@ third_nav_title: Mother Tongue
 ---
 # Tamil 
 
-![](/images/Until%202022_Pictures/TAMIL%20LANGUAGE.jpg)
-
 **PROGRAMMES OVERVIEW:**
 
 *   MTL Fortnight  
