@@ -5,4 +5,4 @@ description: ""
 ---
 # All Staff
 
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_All%20Staff%20Grid%20(WGPS%202022).jpg)
+![](/images/2023%20%20%20Jan%20to%20Dec/All%20Staff_Updated.jpg)
