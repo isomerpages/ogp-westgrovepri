@@ -2,16 +2,16 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics.md
       - English/.keep
       - English/English Language.md
       - English/Language Alive !.md
+      - Mathematics.md
+      - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue Language.md
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
-      - Science.md
       - ICT & MRL/.keep
       - ICT & MRL/ICT & MRL introduction.md
       - ICT & MRL/MRL Programmes.md
