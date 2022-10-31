@@ -81,7 +81,7 @@ Here at West Grove, the English department understands the importance of integra
 The English curriculum comprises of:
 * STELLAR curriculum by MOE
 * STELLAR curriculum by MOE
-* school-based curriculum (spelling and dictation, Show &  Tell, Writing, Comprehension & Synthesis & Transformation Packages, NewsBuzz)
+* school-based curriculum (spelling and dictation, Show &amp;  Tell, Writing, Comprehension &amp; Synthesis &amp; Transformation Packages, NewsBuzz)
 * Assessments of Learning (AoL)
 * Assessments for Learning (AfL)
 * ICT infusion (P1 to P3 Moo-O)
@@ -93,14 +93,14 @@ The English curriculum comprises of:
 Here are some of the programmes we provide for our pupils:
 
 * P1 English Language Induction Programme
-* P1 & P2 Extensive Reading Programme (ERP) initial caps in bold
-* P1 & P2 Building Academic Success in English (BASE) Programme initial caps in bold & caps in bold
+* P1 &amp; P2 Extensive Reading Programme (ERP) initial caps in bold
+* P1 &amp; P2 Building Academic Success in English (BASE) Programme initial caps in bold &amp; caps in bold
 * P1 to P3 Speaker's Corner
-* P1 & P2 Spell Bee
-* P3 & P4 Reading Remediation Programme (RRP)
-* P3 & P4 School-based Dsylexia Remediation Programme (SDR)
+* P1 &amp; P2 Spell Bee
+* P3 &amp; P4 Reading Remediation Programme (RRP)
+* P3 &amp; P4 School-based Dsylexia Remediation Programme (SDR)
 * P4 Eco-Literacy EL Talent Development Programme
-* P5 Writing Enrichment Programme (Writing with Style & using Mentor Texts)
+* P5 Writing Enrichment Programme (Writing with Style &amp; using Mentor Texts)
 * EL Bites recess activities
 
 
@@ -121,23 +121,19 @@ BASE is catered to scale up pupils' literacy and comprehension levels by support
 
 **Speaker's Corner**
 
-The Speaker's Corner' serves as a platform to promote oracy, presentation skills, effective communication and confidence. This is a spin-off from pupils' Show & Tell presentations in class. The presenters are chosen by either their friends or teachers to represent their class to speak during their recesses. The support garnered from the presenters' classmates and friends from other classes is commendable.
+The Speaker's Corner' serves as a platform to promote oracy, presentation skills, effective communication and confidence. This is a spin-off from pupils' Show &amp; Tell presentations in class. The presenters are chosen by either their friends or teachers to represent their class to speak during their recesses. The support garnered from the presenters' classmates and friends from other classes is commendable.
 
-<img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg" 
-     style="width:50%" align="left">
+<img align="left" style="width:50%" src="/images/Until%202022_Pictures/Speakers%20Corner%20-%201.jpg">
 		 
-<img src="/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg" 
-     style="width:60%">
+<img style="width:60%" src="/images/Until%202022_Pictures/Speakers%20Corner%20-%202.jpg">
 
 
 **Spell Bee**
 
 West Grove's Spell Bee is modelled after the prestigious RHB Straits Times Spelling Bee Competition which is held at a national level. Through this Spelling Bee Competition, pupils would be able to improve their spelling, increase their vocabularies and develop correct English pronunciation and usage to help them strengthen their English language. The audience are engaged as well as they are also given the opportunity to participate in the Spell Bee Competition.
 
-<img src="/images/Until%202022_Pictures/Spell%20Bee%20-%201.jpg" 
-     style="width:50%" align="right">
-<img src="/images/Until%202022_Pictures/Spell%20Bee%20-%202.jpg" 
-     style="width:50%">
+<img align="right" style="width:50%" src="/images/Until%202022_Pictures/Spell%20Bee%20-%201.jpg">
+<img style="width:50%" src="/images/Until%202022_Pictures/Spell%20Bee%20-%202.jpg">
 		 
 **Eco Literacy EL Talent Development Programme**
 
@@ -156,10 +152,8 @@ Pupils will participate in learning journeys, workshops and conversations where 
 
 Here at West Grove, we adopt a culture of sharing. Conducting workshops for teachers and organising sharing sessions are essential as we strongly believe in learning as a continual process. As such, the English department has conducted a Phase 2 of the item sharing workshop for teachers to aid them in setting appropriate test items. Phase 1 of the item setting workshop was conducted last year.
 
-<img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg" 
-     style="width:50%" align="left">
-<img src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg" 
-     style="width:50%">
+<img align="left" style="width:50%" src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%201.jpg">
+<img style="width:50%" src="/images/Until%202022_Pictures/Item%20Setting%20Workshop%20for%20EL%20Teachers%20-%202.jpg">
 
 **Total Defence Day by EL Department (13 February)**
 
@@ -175,12 +169,9 @@ As part of the Total Defence programme, West Grove Primary School also partnered
 In this competition, pupils were given a reading task to complete. 3 selected P3 pupils worked in a group and chose a story from a series of stories from the Moo O software. Each group was given a task to read a story based on their chosen character. It is an interesting and engaging software as pupils are having fun in playing characters in each scene as they read. In this Moo O software, pupils are able to practise their reading in terms of accuracy and fluency. You can try this out at home too and have fun reading!
 
 
-<img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%201.jpg" 
-     style="width:50%" align="left">
-<img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%202.jpg" 
-     style="width:50%">
-<img src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%203.png" 
-     style="width:50%">
+<img align="left" style="width:50%" src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%201.jpg">
+<img style="width:50%" src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%202.jpg">
+<img style="width:50%" src="/images/Until%202022_Pictures/Moo-O%20Competition%20at%20OGLC%20-%203.png">
 		 
 **EL Bites (9 March)**
 
@@ -191,14 +182,9 @@ Pupils participating in a series of activities during EL Bites recess activities
 
 A workshop for parents was conducted to provide a platform to help them pick up more strategies on how they can use newspapers and current affairs to improve their child's English language skills. The Straits Times or other news media was used as a learning tool to aid parents to cultivate their child's interest in newspapers and current affairs and coach their child in English. There was hands-on too so that the experience is authentic and relevant.
 
-<img src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%201.jpg" 
-     style="width:50%" align="left">
+<img align="left" style="width:50%" src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%201.jpg">
 
-<img src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%202.jpg" 
-     style="width:50%">
-		 
-		 
-		 
-		 
-		 
-https://docs.google.com/presentation/d/e/2PACX-1vSTvr7DXdSqQD7tckPoTejdoIw8h4GOLV9R7ODLitovdpxNCMStPCZHUVdJxZp7z65RIQJWqFs3xo8R/pub?start=true&loop=true&delayms=5000
+<img style="width:50%" src="/images/Until%202022_Pictures/P5%20Parents%20Workshop%20-%202.jpg">
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvr7DXdSqQD7tckPoTejdoIw8h4GOLV9R7ODLitovdpxNCMStPCZHUVdJxZp7z65RIQJWqFs3xo8R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
