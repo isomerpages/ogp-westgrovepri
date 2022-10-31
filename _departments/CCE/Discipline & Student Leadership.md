@@ -4,10 +4,7 @@ permalink: /departments/CandC-Education/discipline-n-student-leadership/
 description: ""
 third_nav_title: CCE
 ---
-
 # Discipline & Student Leadership
-![](/images/2023%20%20%20Jan%20to%20Dec/2022_CCE%20(Discipline%20and%20Student%20Leadership).jpg)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
