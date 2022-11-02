@@ -17,44 +17,6 @@ third_nav_title: Mother Tongue
 * Parents’ Talk
 * Post Exam Activities
 
-**Mother Tongue Fortnight 2022**
-
-P1-P6 Classroom activities
-
-**Primary 1  and Primary 2 - Colored Paper Collage**
-<img src="/images/Until%202022_Pictures/ML1.jpg" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/ML2.jpg" style="width:50%">
-<img src="/images/Until%202022_Pictures/ML3.jpg" style="width:50%" align=left>
-
-**Primary 3 and Primary 4- Animal Mask**
-<img src="/images/Until%202022_Pictures/ML4.jpg" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/ML5.jpg" style="width:50%">
-<img src="/images/Until%202022_Pictures/ML6.jpg" style="width:50%">
-<img src="/images/Until%202022_Pictures/ML7.jpg" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/ML8.jpg" style="width:50%">
-
-**Primary 5 and Primary 6- Basket Weaving **
-<img src="/images/Until%202022_Pictures/ML9.jpg" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/ML10.jpg" style="width:50%">
-
-**P3 Language & Cultural Camp:**
-
- **Station 1: Batik Motive Kite - Colouring**
- 
- <img src="/images/Until%202022_Pictures/ML11.jpg" style="width:30%" align=left>
-<img src="/images/Until%202022_Pictures/ML12.jpg" style="width:30%">
-<img src="/images/Until%202022_Pictures/ML13.jpg" style="width:30%" align=left>
-<img src="/images/Until%202022_Pictures/ML14.jpg" style="width:30%">
- 
- 
- **Station 2: Arabic Calligraphy**
- 
-<img src="/images/Until%202022_Pictures/ML15.jpg" style="width:30%" align=left>
-<img src="/images/Until%202022_Pictures/ML16.jpg" style="width:30%">
-<img src="/images/Until%202022_Pictures/ML17.jpg" style="width:30%" align=left>
-<img src="/images/Until%202022_Pictures/ML18.jpg" style="width:30%">
-
-
 **MTL Fortnight / Dwi Minggu Bahasa**
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Malay Handicrafts, pupils from across the levels were introduced to Malay handicrafts such as pottery, calligraphy and weaving.
@@ -148,19 +110,6 @@ Aktiviti-aktiviti yang telah dijalankan adalah seperti berikut:
 </table>
 
 Selain daripada aktiviti-aktiviti di atas, murid-murid darjah 4 diberi kesempatan untuk mempelajari seni lukis Batik. Mereka melalui sesi lukisan bersama Encik Kamal Dollah di Goodman Arts Centre.
-
-<img src="/images/Until%202022_Pictures/Malay%20Students%20-%201.jpg" 
-     style="width:50%" align=left>
-		 
-<img src="/images/Until%202022_Pictures/Malay%20Students%20-%203.jpg" 
-     style="width:50%">		 
-<img src="/images/Until%202022_Pictures/Malay%20Students%20-%204.jpg" 
-     style="width:50%" align=left>		 
-<img src="/images/Until%202022_Pictures/Malay%20Students%20-%205.jpg" 
-     style="width:50%" align=right>	 
-<img src="/images/Until%202022_Pictures/Malay%20Students%20-%206.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Malay%20Students%20and%20Teachers.jpg" >		 
 
 **P1 – P6 Internal Competitions / Pertandingan Dalaman**
 
@@ -260,22 +209,10 @@ Pada hari Sabtu, 14 April 2018 Sekolah Rendah West Grove telah mengambil bahagia
 
 Kumpulan darjah 2 muncul sebagai juara. Secara keseluruhan pula, Sekolah Rendah West Grove memenangi tempat ketiga. Kumpulan darjah 2 telah dijemput untuk membuat persembahan di Fiesta Bahasa 2018 di J Canopy pada bulan Julai.
 
-<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%201.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%202.jpg" 
-     style="width:30%">
-<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%203.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Malay%20Student%20Achievements%20-%204.jpg" 
+es/Malay%20Student%20Achievements%20-%204.jpg" 
      style="width:50%">
 
 **MTL Fortnight /Dwi Minggu Bahasa**
-
-
-<img src="/images/Until%202022_Pictures/MTL%20Fortnight%20-%201.jpg" 
-     style="width:30%" align=left>
-<img src="/images/Until%202022_Pictures/MTL%20Fortnight%20-%202.jpg" 
-     style="width:50%">
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Performing Arts, silat and kompang performances as well as wayang kulit and Malay dance were some of the activities organised for the pupils this year. In addition, traditional Malay batik painting and traditional games were also introduced to the pupils.
 
@@ -325,16 +262,6 @@ Apart from the above-mentioned activities, a storytelling session by the NLB was
 Pupils of West Grove were also given the opportunity to buy ML books during the Book Fair which was held on 12th July 2017.
 
 All in all, pupils found the activities enriching and enjoyable!
-
-<img src="/images/Until%202022_Pictures/Art%20Painting.png" 
-     style="width:40%" align=left>
-<img src="/images/Until%202022_Pictures/Art%20Preparation%20Present.png" 
-     style="width:40%">
-		 
-<img src="/images/Until%202022_Pictures/Storytelling.png" 
-     style="width:40%" align=left>
-<img src="/images/Until%202022_Pictures/NLBs%20Associate%20Librarian%20-%20Mr%20Herman%20Rothman.png" 
-     style="width:60%">
 
 Bunga telur cantik sekali,
 
@@ -393,33 +320,9 @@ Murid-murid West Grove juga berpeluang untuk membeli buku-buku Bahasa Melayu sem
 
 Secara keseluruhannya, aktiviti-aktiviti yang telah disertai murid-murid ini diharapkan dapat memperkayakan lagi cinta dan minat terhadap Bahasa Melayu!
 
-<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%201.jpg" 
-     style="width:40%" align=left>
-<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%202.jpg" 
-     style="width:40%">
-		 
-<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%203.jpg" 
-     style="width:40%" align=left>
-<img src="/images/Until%202022_Pictures/Malay%20Activities%20-%204.jpg" 
-     style="width:40%">
-
 **Hari Raya Celebration / Hari Raya Aidilfitri**
 
 The Hari Raya celebrations were held on 4th July 2017. The half an hour concert was put up by students and teachers from the MT department as well teachers from various departments. For the first time, we saw teachers and students putting up a melodrama which comprises of acting, singing and dancing. The audience were truly entertained by the awesome performance. Their joyous faces say it all!
 
 Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
 
-<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%201.jpg" 
-     style="width:50%" align=left>
-		 <img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%202.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%203.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%204.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%205.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Hari%20Raya%20Celebration%20-%206.jpg" 
-     style="width:50%">
