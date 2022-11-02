@@ -18,7 +18,7 @@ third_nav_title: Mother Tongue
     
 *   Conversational Chinese Malay (CCM)  
     
-*   Reading & Writing Programme  
+*   Reading &amp; Writing Programme  
     
 *   Parents’ Talk  
     
@@ -26,7 +26,7 @@ third_nav_title: Mother Tongue
 
 **தாய்மொழி இருவார விழா**
 
- **வகுப்பறை நடவடிக்கை**
+&nbsp;**வகுப்பறை நடவடிக்கை**
 
 தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரையிலான மாணவர்களுக்கு பருவம் 3ல் தாய்மொழி இருவார நடவடிக்கைகள் மேற்கொள்ளப்பட்டன. இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் அனைத்துதமிழ் மாணவர்கள் மற்றும் பிற இந்திய மொழி மாணவர்களுக்கான நடவடிக்கைகள் அவரவர்களின் நிலைக்கேற்ப மேற்கொள்ளப்பட்டன. இந்த நடவடிக்கைகளின் மூலம் நமது மாணவர்கள் தமிழர்களின் கைவினைப் பொருட்கள் பற்றியும் அவற்றை செய்யும் விதம் பற்றியும் அறிந்துகொண்டனர். அதுமட்டுமின்றி, அவற்றை எவ்வாறு மிகவும் எளிமையாக செய்யலாம் என்பதையும் கற்றுக்கொண்டனர். இத்தகைய நடவடிக்கைகளை மேற்கொண்டதால் மாணவர்கள் வகுப்பறையில் மட்டுமல்லாமல் வகுப்பறை தாண்டிய கற்றலில் ஈடுபடுவதுடன் அதில் முழுமையான ஆர்வத்தையும் வெளிப்படுத்தித் தங்களின் திறமையை வெளிப்படுத்தினர்.
 
@@ -38,7 +38,7 @@ third_nav_title: Mother Tongue
 
   
 
-PSLE briefing for P6 students was conducted on March 3rd our school. Only the parents of P6 students participated in this briefing. In this event, the parents were educated on how the PSLE test papers have been prepared, how were the marks allocated to each question and also how to attend the questions. Parents were given information on all four papers inclusive of Composition, Listening Comprehension & Oral. On top of this parents were also encouraged to shoot out their questions to clarify their doubts.
+PSLE briefing for P6 students was conducted on March 3rd our school. Only the parents of P6 students participated in this briefing. In this event, the parents were educated on how the PSLE test papers have been prepared, how were the marks allocated to each question and also how to attend the questions. Parents were given information on all four papers inclusive of Composition, Listening Comprehension &amp; Oral. On top of this parents were also encouraged to shoot out their questions to clarify their doubts.
 
   
 
@@ -51,7 +51,7 @@ As a result of this briefing, all the parents of P6 students were benefited with
 
   
 
-A workshop was arranged for the Parents of P5 students. Parents were informed about the test papers which the P5 students are going to take. Parents were educated on how to write a proper compo by bringing out your points/views & they were also told about the marks allocated for the compo in paper 1, they were also explained about the students of paper 2 and the new changes which has been introduced in the oral examination. They were also provided with the information on how will the oral examination conversation happens. This workshop was really benefited for the parents to train up their kids.
+A workshop was arranged for the Parents of P5 students. Parents were informed about the test papers which the P5 students are going to take. Parents were educated on how to write a proper compo by bringing out your points/views &amp; they were also told about the marks allocated for the compo in paper 1, they were also explained about the students of paper 2 and the new changes which has been introduced in the oral examination. They were also provided with the information on how will the oral examination conversation happens. This workshop was really benefited for the parents to train up their kids.
 
 தொடக்கநிலை 5ல் பயிலும் மாணவர்களின் பெற்றோர்களுக்கான பயிலரங்கு மார்ச்சு 12ஆம் தேதி நடைபெற்றது. இதில் தொடக்கநிலை 5ல், மாணவர்கள் எழுதப்போகும் தேர்வுத்தாள்கள் கொண்ட முழு விவரங்களும் கூறப்பட்டன. கட்டுரையில் மாணவர்கள் எப்படி தங்கள் கருத்துகளை வெளிப்படுத்த வேண்டும் என்பது பற்றிய தகவல்களும் அதற்குரிய மதிப்பெண்களின் விவரங்களும் அளிக்கப்பட்டன. தாள் 2ல் மொழிப்பயன்பாடும் கருத்தறிதலும் பற்றிய அமைப்புமுறை, அதன் மதிப்பெண்களின் விவரங்கள் ஆகியனவும் கூறப்பட்டன. மேலும், கூடுதல் தகவலாக வாய்மொழித்தேர்வில் ஏற்பட்டுள்ள மிகப்பெரிய மாற்றங்கள் குறித்தும் விளக்கம் அளிக்கப்பட்டது. இதில் ஆசிரியர், மாணவர்களுக்கிடையேயான கருத்துரையாடல் எவ்வாறு நிகழ வேண்டும் என்றும் விளக்கம் தரப்பட்டது. பெற்றோர்கள் இந்தப் பயிலரங்கில் கலந்துகொண்டதன்மூலம் தங்கள் பிள்ளைகளைத் தேர்வுக்குத் தயார்படுத்தும் முறை பற்றி அறிந்துகொண்டனர் எனலாம்.
 
@@ -66,3 +66,5 @@ This year our school organized book fair for all Mother Tongue on behalf of Tami
   
 
 இந்த வருடம் நமது பள்ளியில் தாய்மொழிப் பிரிவில் ஒன்றான தமிழ்மொழியின் சார்பாக புத்தகக் கண்காட்சி ஒன்று மார்ச்சு 23ஆம் தேதி நடைபெற்றது. இதை ராஜி பப்ளிகேஷன்ஸ் என்ற நிறுவனத்தார் மேற்கொண்டனர். இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் மாணவர்களுக்குத் தேவையான கதைப்புத்தகங்கள், பயிற்சித்தாள்கள், மொழிவளம் தொடர்பான பயிற்சிநூல், மாதிரித்தேர்வுத் தாள்கள் ஆகியன விற்பனைக்கு வைக்கப்பட்டன. மாணவர்கள் தங்களுக்குத் தேவையான புத்தகங்களை அவரவர்களின் தமிழ்மொழி ஆசிரியரின் உதவியுடன் வந்து வாங்கிச்சென்றனர். இதில் மாணவர்கள் மிகுந்த உற்சாகத்துடனும் ஆர்வத்துடனும் கலந்துகொண்டனர். அவர்கள், தங்களின் பெற்றோரின் அறிவுரையின்படி தங்களுக்குத் தேவையான புத்தகங்களை வாங்கிக்கொண்டனர். மாணவர்களின் மொழி அறிவை மேம்படுத்துவதற்காக இந்தப் புத்தகக் கண்காட்சி நடத்தப்பட்டது. மேலும், இது மாணவர்களுக்குப் பயனுள்ள விதமாகவும் அமைந்திருந்தது.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQAhYpD1zD7aI_N7I2tIn3Q8xWPJ6c96mHDl7ldS83Nbf3t6KLcunuDtI924kCATRPbso1v53RRC7t/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
