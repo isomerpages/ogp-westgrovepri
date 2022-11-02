@@ -16,73 +16,11 @@ third_nav_title: Mother Tongue
 * Reading &amp; Writing Programme
 * Parents’ Talk
 * Post Exam Activities
-
-**Mother Tongue Fortnight 2022**
-
-P1-P6 Classroom Activities:
-
-**Primary 1 - Chinese Spinning Drum**
-
-<img align="left" style="width:50%" src="/images/Until%202022_Pictures/Chinese1.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese2.jpg">
-
-**Primary 2- Clay Sculpting - Tiger Keychain**
-
-<img align="left" style="width:50%" src="/images/Until%202022_Pictures/Chinese3.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese4.jpg">
-
-**Primary 3 - Puppetry** 
-
-<img align="left" style="width:80%" src="/images/Until%202022_Pictures/Chinese5.jpg">
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese6.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese7.jpg"> 
- 
-**Primary 4 - Chinese Fan**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese8.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese9.jpg"> 
-
-**P5 Chinese Traditional Scented Sachet**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese10.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese11.jpg"> 
-
-**Primary 6  – Chinese Traditional Scented Sachet (Using Tea Leaves &amp; Flower Petals)**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese12.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese13.jpg"> 
-
-
-**P3 Language &amp; Cultural Camp**
-
-**Activity 1: Chinese Knots**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese14.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese15.jpg"> 
-
-**Activity 2: Peking Opera Face Mask**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese16.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese17.jpg"> 
-
-**Activity 3: Chinese Kite**
-
-<img align="left" style="width:45%" src="/images/Until%202022_Pictures/Chinese18.jpg">
-<img style="width:50%" src="/images/Until%202022_Pictures/Chinese19.jpg"> 
-
-
 **Cultural Programme 文化活动**
 
 On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural Centre to watch the latest Mandarin magical musical play “The Wizard of Oz”, which was presented by the Singapore Focus Theatre in collaboration with EZ HOUSE ARTS STUDIO.  It was a great performance which left the audience with a memorable experience and lasting impression. Dorothy wanted so much to save her grandmother’s life. She took a ride with the magical tornado into the magical Emerald city. She made friends with a brainless scarecrow, a heartless tin man and a timid lion. They all have their wishes they wanted to fulfil, so they worked together, learnt from one other, and endured hardships together to finally achieve their wishes. The music and magic elements successfully created a magical kingdom. Together with the values emphasized by the Ministry of Education and the unique experiences of local students, this western plot was modified to suit the needs of the audiences, at the same time teaching them valuable lessons through the show, to cultivate good habit and values in them. This show also encouraged and inspired students’ interest in the learning of Chinese Language.
 
-
-<img style="width:70%" src="/images/Until%202022_Pictures/Cultural%20Programme%20-%201.jpg">
-<img style="width:70%" src="/images/Until%202022_Pictures/Cultural%20Programme%20-%202.jpg">
-
 7月25日下午，本校93名五年级的学生在老师们的带领下来到新加坡新加坡华族文化中心，观看了由新加坡焦点剧场和EZ HOUSE ARTS STUDIO 联办的大型舞台剧《绿野仙踪》。演员们精彩的表演给同学们留下了深刻的印象。此剧主要讲述的是桃乐丝为挽救奶奶的生命，乘着神奇的龙卷风来到了充满奇幻魔法的奥兹王国。在那里， 她结识了没有脑子的稻草人、没有心脏的铁皮人和十分胆小的狮子，他们为了实现各自的心愿，互相帮助，相互学习，历尽艰险，并在最后如愿以偿实现了各自的愿望。此剧利用歌舞剧和魔术表演的形式，成功打造了一个奇妙的魔幻国度。此剧也根据新加坡教育理念及本地学生特殊的成长经历，将这部西方的经典故事进行了改编，用生动的情节告诉我们一个深刻的道理，使其在观看后树立良好的价值观。同学们在观赏后反馈此生动有趣的舞台剧提升了他们对学习母语的兴趣。
-
-<img style="width:70%" src="/images/Until%202022_Pictures/Cultural%20Programme%20-%203.jpg">
-<img style="width:70%" src="/images/Until%202022_Pictures/Cultural%20Programme%20-%204.jpg">
 
 **Celebrate CNY农历新年庆祝：**   
 
