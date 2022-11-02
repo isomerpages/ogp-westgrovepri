@@ -24,88 +24,13 @@ third_nav_title: Mother Tongue
     
 *   Post Exam Activities
 
-
-**Mother Tongue Fortnight 2022**
-
-**P1-P6 Classroom activities:**
-
-**Primary 1 - Miniatures Clay-making**
-
-<img src="/images/Until%202022_Pictures/TL1.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL2.jpg" 
-     style="width:50%">
-		 
-**Primary 2 - Sculpture-making Using Clay**
-
-<img src="/images/Until%202022_Pictures/TL3.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL4.jpg" 
-     style="width:50%">
-<img src="/images/Until%202022_Pictures/TL5.jpg" 
-     style="width:70%">
-
-		 
-**Primary 3 - Henna Drawing**
-
-<img src="/images/Until%202022_Pictures/TL6.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL7.jpg" 
-     style="width:50%">
-<img src="/images/Until%202022_Pictures/TL8.jpg" 
-     style="width:70%">
-
-**Primary 4 -Cardboard Weaving**
-
-<img src="/images/Until%202022_Pictures/TL9.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL10.jpg" 
-     style="width:50%">
-
-**Primary 5 - Kundan Art Rangoli**
-
-<img src="/images/Until%202022_Pictures/TL11.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL12.jpg" 
-     style="width:50%">
-
-**Primary 6 - Teracotta Jewellery**
-
-<img src="/images/Until%202022_Pictures/TL13.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL14.jpg" 
-     style="width:50%">
-		 
-
-**P3 Language & Cultural Camp**
-
-**Activity 1: Painting the Face Mask**
-
-<img src="/images/Until%202022_Pictures/TL15.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL16.png" 
-     style="width:50%">
-
-**Activity 2: Cloth-making for Indian Dance**
-
-<img src="/images/Until%202022_Pictures/TL17.png" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/TL18.png" 
-     style="width:50%">
-
 **தாய்மொழி இருவார விழா**
 
  **வகுப்பறை நடவடிக்கை**
 
 தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரையிலான மாணவர்களுக்கு பருவம் 3ல் தாய்மொழி இருவார நடவடிக்கைகள் மேற்கொள்ளப்பட்டன. இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் அனைத்துதமிழ் மாணவர்கள் மற்றும் பிற இந்திய மொழி மாணவர்களுக்கான நடவடிக்கைகள் அவரவர்களின் நிலைக்கேற்ப மேற்கொள்ளப்பட்டன. இந்த நடவடிக்கைகளின் மூலம் நமது மாணவர்கள் தமிழர்களின் கைவினைப் பொருட்கள் பற்றியும் அவற்றை செய்யும் விதம் பற்றியும் அறிந்துகொண்டனர். அதுமட்டுமின்றி, அவற்றை எவ்வாறு மிகவும் எளிமையாக செய்யலாம் என்பதையும் கற்றுக்கொண்டனர். இத்தகைய நடவடிக்கைகளை மேற்கொண்டதால் மாணவர்கள் வகுப்பறையில் மட்டுமல்லாமல் வகுப்பறை தாண்டிய கற்றலில் ஈடுபடுவதுடன் அதில் முழுமையான ஆர்வத்தையும் வெளிப்படுத்தித் தங்களின் திறமையை வெளிப்படுத்தினர்.
 
-![](/images/Until%202022_Pictures/Cultural%20Camp%20-%202.jpg)
-<img src="/images/Until%202022_Pictures/Cultural%20Camp%20-%203.jpg" 
-     style="width:40%">
-
 **முகாம் வகுப்பு நடவடிக்கை**
-
-  
 
 தொடக்கநிலை 4 தமிழ் மற்றும் பிற இந்திய மொழி மாணவர்களுக்காக ஏற்பாடு செய்யப்பட்ட இந்த நடவடிக்கை தாய்மொழி இருவார நடவடிக்கையின் ஒரு பிரிவாக இருந்தது. இதில் மாணவர்கள் அகல்விளக்கை ஏன் இந்தியர்கள் அதிலும் குறிப்பாக இந்துக்களின் வீடுகளில் பயன்படுத்துகின்றனர் என்பதை அறிந்துகொண்டனர். இந்த வகுப்பில் மாணவர்கள் அவ்விளக்கிற்கு எப்படி வண்ணம் தீட்டுவது என்பதை கற்றுக்கொண்டு அதையே நடவடிக்கையாகவும் மேற்கொண்டனர். மேலும் கோலம் போட்டு அதற்கு வண்ணம் தீட்டும் கலையையும் மாணவர்கள் வெளிப்படுத்தினர். இத்தகைய நடவடிக்கைகள் ஒவ்வொன்றிலும் மாணவர்கள் முழு ஈடுபாட்டுடன் கலந்துகொண்டு தங்கள் திறமையை வெளிக்காட்டினர்.
 
@@ -141,8 +66,3 @@ This year our school organized book fair for all Mother Tongue on behalf of Tami
   
 
 இந்த வருடம் நமது பள்ளியில் தாய்மொழிப் பிரிவில் ஒன்றான தமிழ்மொழியின் சார்பாக புத்தகக் கண்காட்சி ஒன்று மார்ச்சு 23ஆம் தேதி நடைபெற்றது. இதை ராஜி பப்ளிகேஷன்ஸ் என்ற நிறுவனத்தார் மேற்கொண்டனர். இதில் தொடக்கநிலை 1 முதல் தொடக்கநிலை 6 வரை பயிலும் மாணவர்களுக்குத் தேவையான கதைப்புத்தகங்கள், பயிற்சித்தாள்கள், மொழிவளம் தொடர்பான பயிற்சிநூல், மாதிரித்தேர்வுத் தாள்கள் ஆகியன விற்பனைக்கு வைக்கப்பட்டன. மாணவர்கள் தங்களுக்குத் தேவையான புத்தகங்களை அவரவர்களின் தமிழ்மொழி ஆசிரியரின் உதவியுடன் வந்து வாங்கிச்சென்றனர். இதில் மாணவர்கள் மிகுந்த உற்சாகத்துடனும் ஆர்வத்துடனும் கலந்துகொண்டனர். அவர்கள், தங்களின் பெற்றோரின் அறிவுரையின்படி தங்களுக்குத் தேவையான புத்தகங்களை வாங்கிக்கொண்டனர். மாணவர்களின் மொழி அறிவை மேம்படுத்துவதற்காக இந்தப் புத்தகக் கண்காட்சி நடத்தப்பட்டது. மேலும், இது மாணவர்களுக்குப் பயனுள்ள விதமாகவும் அமைந்திருந்தது.
-
-<img src="/images/Until%202022_Pictures/Book%20Fair%20-%201.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/Book%20Fair%20-%203.jpg" 
-     style="width:50%">
