@@ -13,7 +13,7 @@ third_nav_title: Mother Tongue
 * eOverseas Immersion Trip
 * Talent Development
 * Conversational Chinese Malay (CCM)
-* Reading & Writing Programme
+* Reading &amp; Writing Programme
 * Parents’ Talk
 * Post Exam Activities
 
@@ -210,7 +210,7 @@ Pada hari Sabtu, 14 April 2018 Sekolah Rendah West Grove telah mengambil bahagia
 Kumpulan darjah 2 muncul sebagai juara. Secara keseluruhan pula, Sekolah Rendah West Grove memenangi tempat ketiga. Kumpulan darjah 2 telah dijemput untuk membuat persembahan di Fiesta Bahasa 2018 di J Canopy pada bulan Julai.
 
 es/Malay%20Student%20Achievements%20-%204.jpg" 
-     style="width:50%">
+     style="width:50%"&gt;
 
 **MTL Fortnight /Dwi Minggu Bahasa**
 
@@ -326,3 +326,4 @@ The Hari Raya celebrations were held on 4th July 2017. The half an hour concert 
 
 Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7W_hElto4028VPfQpxGMDvbX4phpj4iqCg0mgTVl0qF5Tg2cBrTI0hArURq_6mhZZveVlphg_GPzf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
