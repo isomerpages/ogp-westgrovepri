@@ -73,27 +73,4 @@ Activities are based on the natural sense of fun and enthusiasm of the children 
 </tbody>
 </table>
 
-**Adiji Chief Scout**
-
-<img src="/images/Until%202022_Pictures/scouts1.jpg" 
-     style="width:70%">
-		 
-**Fitness Fiesta**
-
-<img src="/images/Until%202022_Pictures/scouts2.jpg" 
-     style="width:70%">
-		 
-**Camp Possible**
-
-<img src="/images/Until%202022_Pictures/scouts3.jpg" 
-     style="width:70%">
-		 
-**World Scout Day**
-
-<img src="/images/Until%202022_Pictures/scouts4.jpg" 
-     style="width:70%">
-		 
-**Outdoor Activity at Jurong Frog Farm**
-
-<img src="/images/Until%202022_Pictures/scouts5.jpg" 
-     style="width:70%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyCLBlDYFIG_eTnIoRru5wCDMADpa-ofh7hCZwiXBYP-Ne4AL-F922GPxLBofy5z2uQ40ldFIgV9RV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
