@@ -25,45 +25,17 @@ The art pieces are works of our students, as well as students from invited schoo
 **3. Artful recess**
 
 This platform serves as an avenue to develop our students’ creativity through meaningful art activities.
-<img src="/images/Until%202022_Pictures/p3.jpg" 
-     style="width:60%" align=left>
-<img src="/images/Until%202022_Pictures/p4.jpg" 
-     style="width:40%">
 
 **4.Tuneful Recess @ Busbay**
 
 This platform serves as an avenue to develop our pupils’ Confidence, Creativity, Entrepreneurship and Leadership skills through meaningful art and music activities. Such activities can range from mini recess concerts to handicrafts.
-
-<img src="/images/Until%202022_Pictures/p5.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/p6.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Until%202022_Pictures/p7.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/p8.jpg" 
-     style="width:70%">
-
-		 
 		 
 **5.Aesthetics HBL Activities**
 
 The Aesthetics Department has also put up links to some fun art or music activities every week for the children as part of family bonding time during circuit breaker. These activities encourage our students to be actively and creatively engaged in the arts during this circuit breaker.  
-
-<img src="/images/Until%202022_Pictures/p9.png" 
-     style="width:70%">
-		 
-<img src="/images/Until%202022_Pictures/p10.png" 
-     style="width:70%">
-
 
 **6. Racial Harmony Day Commemoration 2020**
 
 In order to nurture our pupils to be well-informed audience of the Arts, we incorporate elements of music into our RHD commemoration. This create opportunities for pupils to experience arts in our local culture.
 
 Students created their own musical instruments during Art lesson and used it in a play-along session during our E-assembly.
-
-<img src="/images/Until%202022_Pictures/p11.jpg" 
-     style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/p12.jpg" 
-     style="width:50%">
