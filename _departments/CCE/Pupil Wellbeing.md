@@ -99,3 +99,5 @@ Some comments by our pupils
 **3. Food Donation Drive**
 
 Our Kindness Leaders who completed the workshops will organise a Food Donation Drive for the Food From the Heart Organisation. Food items like instant noodles, rice, canned food were donated by our parents and pupils. Our Kindness Leaders will categorise accordingly and give all these items to the Food from the Heart Organisation.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwz_czG7mpmzOJeQWBouzcE8r84iDilR0mfQB3_z-FGQvCU7bktPMwv9ILWKiwLoJxZdjiXgPlhbUE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
