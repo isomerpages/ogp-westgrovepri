@@ -98,7 +98,7 @@ in the young.”
 * To provide an avenue for children from various races to interact from an early age
 * To help enhance the quality of life of the children and their families
 
-This is a new reading club set up in 2014 April for selected P1 and P2 pupils. KidsREAD Reading Club is initiated by the National Library Board and the club is possible with the support of NLB, our school leaders, committed teachers and most importantly our volunteers. Our volunteers and coordinator attended a training session at the NLB and are always striving to make each kidsREAD session a meaningful one for all pupils in this club. Every year, selected stories are made relevant with an outing and project. We have visited Gallop Stable for pony rides after reading “The Lost Horse”, visited Underwater World and Sea Aquarium to find out more about sea creatures after reading “ The Rainbow Fish” & “The Hermit Crab” and experiential learning for Pizza Making after reading book “Don’t Forget the Bacon”.
+This is a new reading club set up in 2014 April for selected P1 and P2 pupils. KidsREAD Reading Club is initiated by the National Library Board and the club is possible with the support of NLB, our school leaders, committed teachers and most importantly our volunteers. Our volunteers and coordinator attended a training session at the NLB and are always striving to make each kidsREAD session a meaningful one for all pupils in this club. Every year, selected stories are made relevant with an outing and project. We have visited Gallop Stable for pony rides after reading “The Lost Horse”, visited Underwater World and Sea Aquarium to find out more about sea creatures after reading “ The Rainbow Fish” &amp; “The Hermit Crab” and experiential learning for Pizza Making after reading book “Don’t Forget the Bacon”.
 
 *Children at work, designing their own shell after reading a book titled “The Hermit Crab”*
 
@@ -131,7 +131,7 @@ During the school holidays, a Digital Information Literacy programme workshop wa
 
 West Grove also collaborates with the National Library Board for students to borrow a wider variety of books. We encourage pupils to borrow more books, especially before the school holidays to read. With wider resources of books, the school arranged NLB mobile library sessions for pupils to borrow books from NLB in our school compound. This is made possible as our school made arrangements to help pupils register for NLB membership at Primary 1.
 
-**9. Workshops & Book Talks**
+**9. Workshops &amp; Book Talks**
 
 During the P1 Induction days, “Raising Readers” workshop was conducted for P1 parents. This aims to help parents identify the child’s reader type and choosing a book for the child. The librarian will also introduce a variety of reading materials and eResources on NLB website. Parents can look forward to finding out more on ways to support their children’s reading at Primary 1.
 
@@ -149,7 +149,8 @@ https://www.nlb.gov.sg/myLibraryInfo.aspx
 
 
 DiscoveReads Link: http://www.nlb.gov.sg/discovereads/
-<img src="/images/Until%202022_Pictures/Discove%20Reads.jpg" 
-     style="width:50%">
+<img style="width:50%" src="/images/Until%202022_Pictures/Discove%20Reads.jpg">
 
 The Reading Excellence Award: http://www.nlb.gov.sg/discovereads/readingaward/
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvfwRhXiNoI-1T-srvtch03fdoZPVNY92z5Md3m9kQbUOJnWPkO_tiE-4zPPUNFgmO_y82nFZaFyIT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
