@@ -39,3 +39,5 @@ The Aesthetics Department has also put up links to some fun art or music activit
 In order to nurture our pupils to be well-informed audience of the Arts, we incorporate elements of music into our RHD commemoration. This create opportunities for pupils to experience arts in our local culture.
 
 Students created their own musical instruments during Art lesson and used it in a play-along session during our E-assembly.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbbkgJEoKGQCmZFuqjQ1Enl7SaCNihZSZs5Trk80iOG1b_-L8mS395lLvJQ543bL0URozeVWhujfWL/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
