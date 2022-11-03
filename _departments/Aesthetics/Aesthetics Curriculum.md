@@ -85,23 +85,6 @@ Our music teachers apply different pedagogies in class to enrich our students’
 </tbody>
 </table>
 
-<img src="/images/Until%202022_Pictures/aes3.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes4.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes5.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes6.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes8.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes7.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes10.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes11.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes12.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes13.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes14.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes15.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes16.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes17.png" style="width:50%" align=left>
-<img src="/images/Until%202022_Pictures/aes18.png" style="width:50%">
-<img src="/images/Until%202022_Pictures/aes19.png" style="width:50%">
-
 **CURRICULUM OVERVIEW (MUSIC):**
 
 <style type="text/css">
