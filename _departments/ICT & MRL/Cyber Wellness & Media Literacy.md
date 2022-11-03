@@ -4,7 +4,7 @@ permalink: /departments/ICT-and-MRL/cyberwellness-n-media-literacy/
 description: ""
 third_nav_title: ICT & MRL
 ---
-# CyberWellness & Media Literacy
+# CyberWellness &amp; Media Literacy
 **INTRODUCTION:**
 
 * Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. When navigating cyberspace, students should demonstrate respect for self and others and practise safe and responsible use. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
@@ -53,10 +53,6 @@ third_nav_title: ICT & MRL
 ![](/images/Until%202022_Pictures/image11.png)
 ![](/images/Until%202022_Pictures/image12.png)
 ![](/images/Until%202022_Pictures/image13.jpeg)
-![](/images/Until%202022_Pictures/image14.jpeg)
-![](/images/Until%202022_Pictures/image15.jpeg)
-![](/images/Until%202022_Pictures/image16.jpeg)
-
 
 **Parents**
 
@@ -79,3 +75,5 @@ third_nav_title: ICT & MRL
 * [Cyber Wellness-For Educators](https://ictconnection.moe.edu.sg/cyber-wellness/for-educators)
 * [Cyber Wellness-For Students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students)
 * [Cyber Wellness-For Parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtv5MOW2nYIqVxauAhjgeNWLNu2M4eItuRk33TVpAC_KvRF83NFHMPjDJY5dtZbYyhdTDebJwYvhlr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
