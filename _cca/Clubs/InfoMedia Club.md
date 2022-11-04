@@ -56,4 +56,4 @@ Your children will have opportunities to:
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShuRrQ-ZcNWqVDEPt8CgE5TAK4xsFQ26fNB7cS4Abw1nB0n6FkzPZNeQo281py0UxNmPs6aywPe_wu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShuRrQ-ZcNWqVDEPt8CgE5TAK4xsFQ26fNB7cS4Abw1nB0n6FkzPZNeQo281py0UxNmPs6aywPe_wu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
