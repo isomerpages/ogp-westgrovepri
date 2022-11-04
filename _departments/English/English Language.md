@@ -158,4 +158,4 @@ Pupils participating in a series of activities during EL Bites recess activities
 
 A workshop for parents was conducted to provide a platform to help them pick up more strategies on how they can use newspapers and current affairs to improve their child's English language skills. The Straits Times or other news media was used as a learning tool to aid parents to cultivate their child's interest in newspapers and current affairs and coach their child in English. There was hands-on too so that the experience is authentic and relevant.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvr7DXdSqQD7tckPoTejdoIw8h4GOLV9R7ODLitovdpxNCMStPCZHUVdJxZp7z65RIQJWqFs3xo8R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTvr7DXdSqQD7tckPoTejdoIw8h4GOLV9R7ODLitovdpxNCMStPCZHUVdJxZp7z65RIQJWqFs3xo8R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
