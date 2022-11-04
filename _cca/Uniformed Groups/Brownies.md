@@ -86,4 +86,4 @@ Brownies enjoy working for interest badges and awards that will help them develo
 </table>
 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVSoalx3S3WKRiSSHyaizy9GRToFDqeDVKtzBXMPuRmwKfhGp4PazLKW41HICtvnf77ywSlFo8S_kP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVSoalx3S3WKRiSSHyaizy9GRToFDqeDVKtzBXMPuRmwKfhGp4PazLKW41HICtvnf77ywSlFo8S_kP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
