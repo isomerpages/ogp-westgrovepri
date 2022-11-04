@@ -143,4 +143,4 @@ To inculcate the spirit of teamwork and sportsmanship.
   </tr>
 </tbody>
 </table>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_eFUrkBTn7eE0MpKBaiO2_4uSDb5Io9gXpczEWt9-m0qonx1EEDZq1csiBE2TcvBPrMx55Q-zqrom/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_eFUrkBTn7eE0MpKBaiO2_4uSDb5Io9gXpczEWt9-m0qonx1EEDZq1csiBE2TcvBPrMx55Q-zqrom/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
