@@ -94,4 +94,4 @@ Your children will have opportunities to:
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiJ5sBPAm2zeAjOKmAU2vdB_-HHwpLs1TBhF5xot-MdvP10cen5UfHOwEqXcKgZc_4_GpDl7jHAfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiJ5sBPAm2zeAjOKmAU2vdB_-HHwpLs1TBhF5xot-MdvP10cen5UfHOwEqXcKgZc_4_GpDl7jHAfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
