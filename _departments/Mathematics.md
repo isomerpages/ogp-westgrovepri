@@ -62,7 +62,7 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="3" class="tg-o88e">3 Content Strands + 1 Process Strand</th>
+    <th class="tg-o88e" colspan="3">3 Content Strands + 1 Process Strand</th>
   </tr>
 </thead>
 <tbody>
@@ -77,10 +77,10 @@ In West Grove, we aim to provide a variety of learning experiences to help pupil
     <td class="tg-9y7l">Example of Topics:<br>Interpreting Picture Graphs, Bar Graphs,<br>Line Graphs, Tables, Pie Charts, etc.</td>
   </tr>
   <tr>
-    <td colspan="3" class="tg-o88e">Mathematical Processes<br></td>
+    <td class="tg-o88e" colspan="3">Mathematical Processes<br></td>
   </tr>
   <tr>
-    <td colspan="3" class="tg-wkil">Example of Process Skills: Reasoning, Communication, Connections, Thinking, Heuristics, etc.</td>
+    <td class="tg-wkil" colspan="3">Example of Process Skills: Reasoning, Communication, Connections, Thinking, Heuristics, etc.</td>
   </tr>
 </tbody>
 </table>
@@ -116,4 +116,4 @@ E2K programme aims to develop critical thinking skills in top-performing Mathema
 
 Mathematics workshops will be organised yearly for parents of our Primary 1, Primary 3 and Primary 5 to brief them on the Mathematics syllabus and assessment. Resources used during Primary 1 lessons will be shared with the parents to give them an idea how the children learn Mathematics in West Grove. As for Primary 3 and Primary 5 workshop, parents will learn how to solve Mathematics problems through model drawing and heuristics. Parents will also be briefed on the use of calculators during the P5 workshop.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbC0iq3Nqw6ESEAyGxOWtmYDxhNR1CtJvFZ8Y4nIwlRZyRAbF-pRt6wJwb9QYYQZDeL1xxge0oe2P9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbC0iq3Nqw6ESEAyGxOWtmYDxhNR1CtJvFZ8Y4nIwlRZyRAbF-pRt6wJwb9QYYQZDeL1xxge0oe2P9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
