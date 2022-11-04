@@ -97,4 +97,4 @@ Your children will learn to:
 </table>
 
 **SYF 2018**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
