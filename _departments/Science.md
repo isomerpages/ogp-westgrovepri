@@ -95,4 +95,4 @@ This is a new programme first carried out in 2020. Students have to solve questi
 
 West Grove alumni and other student volunteers are recruited to provide mentoring sessions for selected P6 students who need further academic assistance.
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTbZdMWoI4uuUV0yOJ2hr0Fn7KYibLcbUozgjJH8rRZTEY2JSWEOOH6loPMoyYDHfDo8hD7ldIIsQ6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTTbZdMWoI4uuUV0yOJ2hr0Fn7KYibLcbUozgjJH8rRZTEY2JSWEOOH6loPMoyYDHfDo8hD7ldIIsQ6/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
