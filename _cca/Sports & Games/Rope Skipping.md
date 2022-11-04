@@ -106,4 +106,4 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrW3k_6_31GXS-nThparSSDz7vJs37PkGP9geHREfNdv3_pXTa_-lkx-7amD2O5BS5p8YnYsAnQ-Eh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrW3k_6_31GXS-nThparSSDz7vJs37PkGP9geHREfNdv3_pXTa_-lkx-7amD2O5BS5p8YnYsAnQ-Eh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
