@@ -4,13 +4,13 @@ permalink: /cca/Clubs/club-gazelle/
 description: ""
 third_nav_title: Clubs
 ---
-The mission of the club is to promote the awareness of healthy living style through healthy eating and exercises. We partner with Health Promotion Board (HPB) and Active Sg to conduct activities which are fun and engaging for our students. 
+The mission of the club is to promote the awareness of healthy living style through healthy eating and exercises. We partner with Health Promotion Board (HPB) and Active Sg to conduct activities which are fun and engaging for our students.&nbsp;
 
 Your children will have opportunities to:
 
-*  Learn healthy eating habits 
+* &nbsp;Learn healthy eating habits&nbsp;
 
-*  Exercise through fun sports and games such as treasure defence, dodgeball and captain ball 
+* &nbsp;Exercise through fun sports and games such as treasure defence, dodgeball and captain ball&nbsp;
 
 * Exercise through dance
 
@@ -54,9 +54,4 @@ Your children will have opportunities to:
 </tbody>
 </table>
 
-
-<img src="/images/Until%202022_Pictures/1-2.jpg" 
-     style="width:70%">
-
-<img src="/images/Until%202022_Pictures/2-2.jpg" 
-     style="width:70%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStYwGpS5yOH8bjyyricYo0wXt3KxXNgmI--bV8nqP0bC6-LYhufUPyzkb-k2GxW5I7r25E4lV-Dl--/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
