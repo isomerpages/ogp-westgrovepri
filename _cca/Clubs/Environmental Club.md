@@ -8,7 +8,7 @@ The mission of the club is to increase the eco-consciousness and social responsi
 
 Your children will have opportunities to:
 
-* Learn and appreciate wildlife in Singapore 
+* Learn and appreciate wildlife in Singapore&nbsp;
 
 * Expand their eco-consciousness
 
@@ -16,7 +16,7 @@ Your children will have opportunities to:
 
 * Participate in public outreach to sustain the planet
 
-*  Participate in Learning Journeys
+* &nbsp;Participate in Learning Journeys
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -94,27 +94,4 @@ Your children will have opportunities to:
 </tbody>
 </table>
 
-**Singapore Garden Festival 2018**
-
-<img src="/images/Until%202022_Pictures/eco1.jpg" 
-     style="width:50%">
-
-**Learning Journey to Gardens By The Bay**
-
-<img src="/images/Until%202022_Pictures/eco2.jpg" 
-     style="width:50%">
-		 
-**Global Youth Summit 2018**
-
-<img src="/images/Until%202022_Pictures/eco3.jpg" 
-     style="width:50%">
-		 
-**Upcycling Reusing Newspapers to make bags**
-
-<img src="/images/Until%202022_Pictures/eco4.jpg" 
-     style="width:50%">
-		 
-**Clean & Green Festival 2018**
-
-<img src="/images/Until%202022_Pictures/eco5.jpg" 
-     style="width:50%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiJ5sBPAm2zeAjOKmAU2vdB_-HHwpLs1TBhF5xot-MdvP10cen5UfHOwEqXcKgZc_4_GpDl7jHAfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
