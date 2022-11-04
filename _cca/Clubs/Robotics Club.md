@@ -58,7 +58,7 @@ third_nav_title: Clubs
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-7wcr" colspan="2">Mdm. Nurhuda, Mr. Ong Chee Keong, Ms. Munirah Bee, Ms. Clarissa Cheong</td>
+    <td colspan="2" class="tg-7wcr">Mdm. Nurhuda, Mr. Ong Chee Keong, Ms. Munirah Bee, Ms. Clarissa Cheong</td>
   </tr>
 </tbody>
 </table>
@@ -101,22 +101,4 @@ third_nav_title: Clubs
 </tbody>
 </table>
 
-<i>Our members working hard at the competition venue</i>
-
-<img src="/images/Until%202022_Pictures/robotics1.png" 
-     style="width:50%">
-
-<i>NRC 2018 - WRO REGULAR CATEGORY  
-Best Robot Performance Award – 2nd Alpha Knights  
-Team members: Gao Zi Jun, Leong Zhen Yu, Pour Yi Long</i>
-
-
-<img src="/images/Until%202022_Pictures/robotics2.png" 
-     style="width:50%">
-
-<i>NRC 2018 –WRO Regular Category   
-Best Robot Performance Award</i>
-
-
-<img src="/images/Until%202022_Pictures/robotics3.png" 
-     style="width:50%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkiZISIBriM-c53SJ0PdOa-AUl2g1svXDuPGp5ZemGMuJwHn6TCIJwIH04VytIvAvT8YkzYYgyadQk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
