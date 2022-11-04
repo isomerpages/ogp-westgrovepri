@@ -3,7 +3,7 @@ title: Parent Support Group
 permalink: /parents/parent-support-group/
 description: ""
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>**WGPS PSG’s Mission**_: Partnering as One for the_&nbsp;_Success of West Grove students._&nbsp;&nbsp;  
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>**WGPS PSG’s Mission**_: Partnering as One for the_&nbsp;_Success of West Grove students._&nbsp;&nbsp;  
 
 ### The Role of the school’s Parent Support Group (PSG):
 
