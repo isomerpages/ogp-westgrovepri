@@ -85,4 +85,4 @@ Guzheng Ensemble performs in major school events such as the Chinese New Year &a
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfRiWBG1If4pSFoP2lxT2LI9kk6yRaaemahISshZGVLaArSLlPnm1_4s8_80crvB3jvOidDcOmWfYq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfRiWBG1If4pSFoP2lxT2LI9kk6yRaaemahISshZGVLaArSLlPnm1_4s8_80crvB3jvOidDcOmWfYq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
