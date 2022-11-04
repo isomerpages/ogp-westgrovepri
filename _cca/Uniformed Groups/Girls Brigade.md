@@ -90,17 +90,4 @@ Girls Brigade Members will learn:
 </tbody>
 </table>
 
-**Company Awards 2019**
-
-<img src="/images/Until%202022_Pictures/1-5.jpg" 
-     style="width:65%">
-
-**LGT Games 2019 ( Coding Competition)**
-
-<img src="/images/Until%202022_Pictures/2-5.jpg" 
-     style="width:65%">
-
-**Junior Brigadier Brooch 2019**
-
-<img src="/images/Until%202022_Pictures/3-3.jpg" 
-     style="width:65%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRHY-dSYNHcOzJZ3Y2YQC2cpW1CenASaEzNSWopSmJFfIlw95NIw8z8JZkE5LDw5fi0YdVsq_wv7vG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
