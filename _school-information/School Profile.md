@@ -151,4 +151,4 @@ Like pages of an open book, BLUE shows learning with an open mind.
 .tg .tg-cqbp{background-color:#EAEAEA;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-cxqu{background-color:#EAEAEA;color:#0C2733;text-align:center;vertical-align:top}
 </style>
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAZfbR2Rfv2dGa9kN70Tw2U6Fgap3Fz9qC4awgxn-z8HN3_d-ArJOLx2VMrRy9qk94rtDzkjHHIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8WAZfbR2Rfv2dGa9kN70Tw2U6Fgap3Fz9qC4awgxn-z8HN3_d-ArJOLx2VMrRy9qk94rtDzkjHHIj/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
