@@ -10,7 +10,7 @@ third_nav_title: Sports & Games
 To inculcate the spirit of teamwork and sportsmanship.
 
 
-**TRAINING DAYS & TIME**
+**TRAINING DAYS &amp; TIME**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -143,7 +143,4 @@ To inculcate the spirit of teamwork and sportsmanship.
   </tr>
 </tbody>
 </table>
-
-![](/images/Until%202022_Pictures/West%20Zone%20Badminton%20Championships.jpeg)
-![](/images/Until%202022_Pictures/Badminton%20Trophys.jpeg)
-*West Zone Inter Pri Sch Badminton Championship 2018 Senior Division: 3rd Position*
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS_eFUrkBTn7eE0MpKBaiO2_4uSDb5Io9gXpczEWt9-m0qonx1EEDZq1csiBE2TcvBPrMx55Q-zqrom/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
