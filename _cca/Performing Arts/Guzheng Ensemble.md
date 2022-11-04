@@ -13,7 +13,7 @@ third_nav_title: Performing Arts
 
  
 
-Guzheng Ensemble performs in major school events such as the Chinese New Year & Non-Teaching Staff Day Concert. We have also performed in public upon invitation by external organizations. Music Appreciation Workshops and outings such as watching performances are also organized, so as to expose the members to Chinese Music.
+Guzheng Ensemble performs in major school events such as the Chinese New Year &amp; Non-Teaching Staff Day Concert. We have also performed in public upon invitation by external organizations. Music Appreciation Workshops and outings such as watching performances are also organized, so as to expose the members to Chinese Music.
 
 
 <style type="text/css">
@@ -48,11 +48,11 @@ Guzheng Ensemble performs in major school events such as the Chinese New Year & 
   </tr>
   <tr>
     <td class="tg-s7de">Venue:</td>
-    <td class="tg-7wcr" colspan="2">Band Room</td>
+    <td colspan="2" class="tg-7wcr">Band Room</td>
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-7wcr" colspan="2">Mdm. Chua Ting Ting, Ms. Foong Yuk Yew, Mdm. Lin Weijun, Mdm. Tan Kok Teng</td>
+    <td colspan="2" class="tg-7wcr">Mdm. Chua Ting Ting, Ms. Foong Yuk Yew, Mdm. Lin Weijun, Mdm. Tan Kok Teng</td>
   </tr>
 </tbody>
 </table>
@@ -85,7 +85,4 @@ Guzheng Ensemble performs in major school events such as the Chinese New Year & 
 </tbody>
 </table>
 
-![](/images/Until%202022_Pictures/picture%201.png)
-![](/images/Until%202022_Pictures/picture%202.png)
-![](/images/Until%202022_Pictures/picture%203.png)
-![](/images/Until%202022_Pictures/picture%204.png)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfRiWBG1If4pSFoP2lxT2LI9kk6yRaaemahISshZGVLaArSLlPnm1_4s8_80crvB3jvOidDcOmWfYq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
