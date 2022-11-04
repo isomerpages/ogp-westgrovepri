@@ -123,4 +123,4 @@ Our music teachers apply different pedagogies in class to enrich our students’
 </tbody>
 </table>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK-MZdavktvY5gmfWmHO0P2pbrosO0mXj4ylHMENv05IPBmGFfgytJtJQ6uy1DL6hD88qdkfJZVCxG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQK-MZdavktvY5gmfWmHO0P2pbrosO0mXj4ylHMENv05IPBmGFfgytJtJQ6uy1DL6hD88qdkfJZVCxG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
