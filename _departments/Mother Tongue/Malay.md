@@ -326,4 +326,4 @@ The Hari Raya celebrations were held on 4th July 2017. The half an hour concert 
 
 Sambutan Hari Raya Aidilfitri tahun ini telah diadakan pada 4hb Julai 2017. Konsert selama setengah jam itu telah dijayakan oleh murid-murid, guru-guru jabatan Bahasa Ibunda serta guru-guru daripada jabatan lain. Buat julung-julung kalinya, satu persembahan melodrama yang menyelitkan lakonan, nyanyian dan tarian telah dipersembahan. Jelas di wajah-wajah para penonton bahawa mereka sangat terhibur dengan persembahan yang menakjubkan itu!
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7W_hElto4028VPfQpxGMDvbX4phpj4iqCg0mgTVl0qF5Tg2cBrTI0hArURq_6mhZZveVlphg_GPzf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7W_hElto4028VPfQpxGMDvbX4phpj4iqCg0mgTVl0qF5Tg2cBrTI0hArURq_6mhZZveVlphg_GPzf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
