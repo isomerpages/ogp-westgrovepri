@@ -61,14 +61,4 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-<img src="/images/Until%202022_Pictures/Football3.jpg" 
-     style="width:50%" align=left>
-		 
-<img src="/images/Until%202022_Pictures/Football4.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Until%202022_Pictures/Football5.jpg" 
-     style="width:50%" align=left>
-		 
-<img src="/images/Until%202022_Pictures/Football2.jpg" 
-     style="width:50%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX1WbZV5B-cI8RtYV5uyYqBSnzh4op4yPGhMQKHwqZvum3tKbhZmnIXMDxkeD6lQUIU0kC3KxqNNuN/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
