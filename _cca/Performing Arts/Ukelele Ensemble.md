@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 * To foster an appreciation and passion for ensemble playing.
 * To nurture confidence in pupils and provide opportunities to hone showmanship skills while inculcating discipline and teamwork through performances in school events/competitions.
 
-**TRAINING DAYS & TIME**
+**TRAINING DAYS &amp; TIME**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -63,6 +63,4 @@ Till date, we have participated in school events such as International Friendshi
 
 We hope that we can grow in number and have more pupils enjoy music-making with us!
 
-![](/images/Until%202022_Pictures/Ukulele%20Ensemble%20-%201.jpg)
-
-![](/images/Until%202022_Pictures/Ukulele%20Ensemble%20-%202.jpg)
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQSf-Nej5zXKHopLoJwmy8OZphO2RFcIqzMxwFYAmA07XMBEF8XRqzd_V6kZnbCnmehz7NtukT1f22/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
