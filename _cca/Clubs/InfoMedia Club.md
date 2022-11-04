@@ -4,7 +4,7 @@ permalink: /cca/Clubs/infomedia-club/
 description: ""
 third_nav_title: Clubs
 ---
-The mission of the club is expose our students to various mediums of digital technology and allow them to learn & explore collaboratively and at their own pace. Through collaborations and opportunities, students will learn, master and share their knowledge, passion and skills within and beyond the school. 
+The mission of the club is expose our students to various mediums of digital technology and allow them to learn &amp; explore collaboratively and at their own pace. Through collaborations and opportunities, students will learn, master and share their knowledge, passion and skills within and beyond the school.&nbsp;
 
 Your children will have opportunities to:
 
@@ -18,7 +18,7 @@ Your children will have opportunities to:
 	*   Ozobot
 	*   Parrot Drones
 	*   Makey Makeys
-	*   More to come… 
+	*   More to come…&nbsp;
 
 *   Learn about various aspects of Cyber Wellness
 
@@ -56,21 +56,4 @@ Your children will have opportunities to:
 </tbody>
 </table>
 
-**InfoMedia Club Students helping during WE-Hub Coding Sessions**
-![](/images/Until%202022_Pictures/1-1.jpg)
-**InfoMedia Club Students helping out at Cyber Wellness Recess Activities as CWSAs (Cyber Wellness Student Ambassadors)**
-![](/images/Until%202022_Pictures/2-1.jpg)
-**InfoMedia Club Students coded games on Scratch for others to play during Recess Activities**
-
-<img src="/images/Until%202022_Pictures/3-1.png" 
-     style="width:50%">
-		 
-**Photography**
-
-<img src="/images/Until%202022_Pictures/4.png" 
-     style="width:70%">
-
-**Ozobot Coding**
-
-<img src="/images/Until%202022_Pictures/5.png" 
-     style="width:70%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShuRrQ-ZcNWqVDEPt8CgE5TAK4xsFQ26fNB7cS4Abw1nB0n6FkzPZNeQo281py0UxNmPs6aywPe_wu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
