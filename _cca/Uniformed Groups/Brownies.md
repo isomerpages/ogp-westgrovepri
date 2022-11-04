@@ -12,8 +12,8 @@ Brownies learn to work and play independently and also in teams. On special occa
 
 Brownies are guided by a comprehensive 5-Point Programme, which develops them in 5 areas:
 
-*   Personal & Social Development – Healthy Me, Courteous Me, Cultured Me
-*   Home – Home Safety & Duties
+*   Personal &amp; Social Development – Healthy Me, Courteous Me, Cultured Me
+*   Home – Home Safety &amp; Duties
 *   Outdoor – Discovering Nature, A Green World
 *   Community – My Country, My Neighbourhood, Helper
 *   International – My Brownie Friend, My World
@@ -85,27 +85,5 @@ Brownies enjoy working for interest badges and awards that will help them develo
 </tbody>
 </table>
 
-**World Thinking Day Carnival @ Our Tampines Hub**
 
-<img src="/images/Until%202022_Pictures/1-4.jpg" 
-     style="width:75%">
-
-**LTA Safe Riding Workshop**
-
-<img src="/images/Until%202022_Pictures/2-4.jpg" 
-     style="width:75%">
-
-**She Solves - Engineering Badge Workshop**
-
-<img src="/images/Until%202022_Pictures/3-2.jpg" 
-     style="width:75%">
-
-**West Division Day @ Fuhua Primary School**
-
-<img src="/images/Until%202022_Pictures/4-2.jpg" 
-     style="width:55%">
-
-**Let's Go Camping @ Camp Christine**
-
-<img src="/images/Until%202022_Pictures/5-2.jpg" 
-     style="width:75%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQVSoalx3S3WKRiSSHyaizy9GRToFDqeDVKtzBXMPuRmwKfhGp4PazLKW41HICtvnf77ywSlFo8S_kP/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
