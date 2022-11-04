@@ -76,4 +76,4 @@ third_nav_title: ICT & MRL
 * [Cyber Wellness-For Students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students)
 * [Cyber Wellness-For Parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtv5MOW2nYIqVxauAhjgeNWLNu2M4eItuRk33TVpAC_KvRF83NFHMPjDJY5dtZbYyhdTDebJwYvhlr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtv5MOW2nYIqVxauAhjgeNWLNu2M4eItuRk33TVpAC_KvRF83NFHMPjDJY5dtZbYyhdTDebJwYvhlr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
