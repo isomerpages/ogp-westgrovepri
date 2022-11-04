@@ -40,7 +40,7 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-**TRAINING DAYS & TIME**
+**TRAINING DAYS &amp; TIME**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -106,24 +106,4 @@ third_nav_title: Sports & Games
 </tbody>
 </table>
 
-**Pictures**
-
-<img src="/images/Until%202022_Pictures/West%20Zone%20Rope%20Skipping%20Competition%20-%201.jpg" 
-     style="width:75%">
-		 
-*The Rope Skipping Team after the win at the West Zone Rope Skipping competition*
-
-<img src="/images/Until%202022_Pictures/West%20Zone%20Rope%20Skipping%20Competition%20-%202.jpg" 
-     style="width:75%">
-		 
-*The Rope Skipping Team after the win at the West Zone Rope Skipping competition*
-
-<img src="/images/Until%202022_Pictures/Double%20Dutch%20Contest%20Singapore%20-%201.jpg" 
-     style="width:75%">
-
-*The Rope Skipping Team in action at the Double Dutch Contest Singapore.*
-
-<img src="/images/Until%202022_Pictures/Double%20Dutch%20Contest%20Singapore%20-%202.jpg" 
-     style="width:75%">
-		 
-*One of our teams at the Double Dutch Contest Singapore.*
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrW3k_6_31GXS-nThparSSDz7vJs37PkGP9geHREfNdv3_pXTa_-lkx-7amD2O5BS5p8YnYsAnQ-Eh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
