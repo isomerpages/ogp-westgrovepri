@@ -59,11 +59,11 @@ Your children will learn to:
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-7wcr" colspan="2">Mr. Phoon Yong Kang, Ms. Shariffah Affinda, Ms. Pamela Low</td>
+    <td colspan="2" class="tg-7wcr">Mr. Phoon Yong Kang, Ms. Shariffah Affinda, Ms. Pamela Low</td>
   </tr>
   <tr>
     <td class="tg-s7de">Instructor:</td>
-    <td class="tg-7wcr" colspan="2">Mr. Mohd Razfrainn Rozaly</td>
+    <td colspan="2" class="tg-7wcr">Mr. Mohd Razfrainn Rozaly</td>
   </tr>
 </tbody>
 </table>
@@ -97,9 +97,4 @@ Your children will learn to:
 </table>
 
 **SYF 2018**
-
-<img src="/images/Until%202022_Pictures/SYF%20Dance%20Troupe%202018%20-%201.jpg" 
-     style="width:75%">
-
-<img src="/images/Until%202022_Pictures/SYF%20Dance%20Troupe%202018%20-%205.jpg" 
-     style="width:75%">
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
