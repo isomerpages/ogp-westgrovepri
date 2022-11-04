@@ -133,4 +133,4 @@ http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87
 * 在线汉语字典: http://xh.5156edu.com/
 * 在线汉语字典（部首查字: http://xh.5156edu.com/bs.html)
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSl4orQhnZsiBATyqTGSqJ8vPP3GQfcMx_4QbYvbiWFMtIZOjTd9UqEFtteHDbCMoYx3K-L7VRui5FR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSl4orQhnZsiBATyqTGSqJ8vPP3GQfcMx_4QbYvbiWFMtIZOjTd9UqEFtteHDbCMoYx3K-L7VRui5FR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
