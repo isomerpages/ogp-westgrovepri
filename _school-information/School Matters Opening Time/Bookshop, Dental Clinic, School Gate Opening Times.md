@@ -4,7 +4,7 @@ permalink: /school-information/bookshop-dental-clinic-school-gate-opening-times/
 description: ""
 third_nav_title: School Matters Opening Time
 ---
-### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC, UNIFORM & SHOES
+### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC, UNIFORM &amp; SHOES
 
 Please kindly call the school to confirm the services below are available on the day before making the trip down to the school.
 
@@ -43,7 +43,7 @@ Please kindly call the school to confirm the services below are available on the
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday to Friday</span><br><br><br><span style="font-weight:400;color:#0C2733">7 a.m. to 4 p.m.</span><br><span style="font-weight:400;color:#0C2733">Lunch - 12.30 p.m. to 12.30 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-s7de">NASCANS<br><a href="/files/NASCANS%20Info%20Sheet_2022%20Done.pdf">(For Primary One students 2022 - click here to view Student care centre Form)</a></td>
+    <td class="tg-s7de">NASCANS<br><a></a></td>
     <td class="tg-1jib">9115  8721 (Diana)</td>
   </tr>
 </tbody>
@@ -76,21 +76,21 @@ Please kindly call the school to confirm the services below are available on the
 </thead>
 <tbody>
   <tr>
-    <td class="tg-eohv" rowspan="4">All Levels</td>
+    <td rowspan="4" class="tg-eohv">All Levels</td>
     <td class="tg-eohv">Silent Reading</td>
-    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">7.15 a.m. – 7.25  a.m.</span><br></td>
+    <td colspan="5" class="tg-eohv"><span style="font-weight:400;color:#0C2733">7.15 a.m. – 7.25  a.m.</span><br></td>
   </tr>
   <tr>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Start of 1st Period</span></td>
-    <td class="tg-eohv" colspan="5">7.30 a.m.</td>
+    <td colspan="5" class="tg-eohv">7.30 a.m.</td>
   </tr>
   <tr>
     <td class="tg-eohv">Recess</td>
-    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">9.30 a.m. – 10.00 a.m. (P1)</span><br><br><span style="font-weight:400;color:#0C2733">10.00 a.m. - 10.30 a.m. (P2)</span><br><span style="font-weight:400;color:#0C2733">10.30 a.m. - 11.00 a.m. (P3)</span><br><span style="font-weight:400;color:#0C2733">9.40 a.m. - 10.00 a.m. (P4)</span><br><span style="font-weight:400;color:#0C2733">10.10 a.m. - 10.30 a.m. (P5)</span><br><span style="font-weight:400;color:#0C2733">10.40 a.m. - 11.00 a.m. (P6)</span><br></td>
+    <td colspan="5" class="tg-eohv"><span style="font-weight:400;color:#0C2733">9.30 a.m. – 10.00 a.m. (P1)</span><br><br><span style="font-weight:400;color:#0C2733">10.00 a.m. - 10.30 a.m. (P2)</span><br><span style="font-weight:400;color:#0C2733">10.30 a.m. - 11.00 a.m. (P3)</span><br><span style="font-weight:400;color:#0C2733">9.40 a.m. - 10.00 a.m. (P4)</span><br><span style="font-weight:400;color:#0C2733">10.10 a.m. - 10.30 a.m. (P5)</span><br><span style="font-weight:400;color:#0C2733">10.40 a.m. - 11.00 a.m. (P6)</span><br></td>
   </tr>
   <tr>
     <td class="tg-7wcr">Dismissal Time<br>(End of Last Period)</td>
-    <td class="tg-eohv" colspan="5"><span style="font-weight:400;color:#0C2733">1.20 p.m. (P1 &amp; P4)</span><br><span style="font-weight:400;color:#0C2733">1.25 p.m. (P2 &amp; P5)</span><br><span style="font-weight:400;color:#0C2733">1.30 p.m. (P3 &amp; P6)</span></td>
+    <td colspan="5" class="tg-eohv"><span style="font-weight:400;color:#0C2733">1.20 p.m. (P1 &amp; P4)</span><br><span style="font-weight:400;color:#0C2733">1.25 p.m. (P2 &amp; P5)</span><br><span style="font-weight:400;color:#0C2733">1.30 p.m. (P3 &amp; P6)</span></td>
   </tr>
 </tbody>
 </table>
