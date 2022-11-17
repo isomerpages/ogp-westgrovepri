@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: West Grove Primary School
-      background: /images/hero banner.gif
+      background: /images/Until 2022_Pictures/homepage.jpeg
       button: Contact Us
       url: /contact-us/
       subtitle: Wisdom and Grace
