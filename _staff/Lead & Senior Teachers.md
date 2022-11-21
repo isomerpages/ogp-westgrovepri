@@ -1,6 +1,6 @@
 ---
 title: Lead & Senior Teachers
-permalink: /staff/lead-senior-teachers
+permalink: /staff/lead-senior-teachers/
 description: ""
 ---
 # Lead / Senior Teachers
