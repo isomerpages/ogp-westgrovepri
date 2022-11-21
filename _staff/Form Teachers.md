@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /staff/form-teachers
+permalink: /staff/form-teachers/
 description: ""
 ---
 # Form Teachers
