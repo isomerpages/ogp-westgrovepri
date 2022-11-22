@@ -1,0 +1,11 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Profile.md
+      - School Rules & School Song.md
+      - School Matters Opening Time/Bookshop, Dental Clinic, School Gate Opening
+        Times.md
+      - School Matters Opening Time/School Gate Opening Times.md
+      - School Matters Opening Time/.keep
