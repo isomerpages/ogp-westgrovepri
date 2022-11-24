@@ -21,5 +21,5 @@ sections:
           url: https://drive.google.com/drive/folders/1ErH2H17bdBgrfpu9lkPzAxbT87NVEXwo?usp=share_link
         - title: NEWS 2
           description: PAT & OYEA 2023
-          url: ""
+          url: https://www.westgrovepri.moe.edu.sg/parents/permalink/
 ---
