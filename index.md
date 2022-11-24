@@ -13,10 +13,13 @@ sections:
       url: /contact-us/
       subtitle: Wisdom and Grace
       key_highlights:
-        - title: HIGHLIGHT 1
+        - title: ANNOUNCEMENTS
           description: Primary-1 Virtual Open House
           url: https://sites.google.com/moe.edu.sg/wgps-2023-primary-1-virtual-op/home
-        - title: HIGHLIGHT 2
+        - title: NEWS 1
           description: P6 Ukulele performances
           url: https://drive.google.com/drive/folders/1ErH2H17bdBgrfpu9lkPzAxbT87NVEXwo?usp=share_link
+        - title: NEWS 2
+          description: PAT & OYEA 2023
+          url: ""
 ---
