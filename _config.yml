@@ -1,6 +1,6 @@
 title: West Grove Primary School
-url: ""
-favicon: /images/School Crest.png
+url: https://www.westgrovepri.moe.edu.sg
+favicon: /images/School Logo with Colour.jpg
 colors:
   primary-color: "#c2dcbb"
   secondary-color: "#030303"
@@ -50,9 +50,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://ogp-westgrovepri-staging.netlify.app
-prod: https://ogp-westgrovepri-prod.netlify.app
-shareicon: /images/School Crest.png
+staging: https://staging.d1k7i1up14hs23.amplifyapp.com
+prod: https://master.d1k7i1up14hs23.amplifyapp.com
+shareicon: /images/School Logo with Colour.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
