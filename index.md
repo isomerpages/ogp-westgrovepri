@@ -2,7 +2,7 @@
 layout: homepage
 title: West Grove Primary School
 description: An Isomer site of the Singapore Government
-image: /images/School Crest.png
+image: /images/School Logo with Colour.jpg
 permalink: /
 notification: ""
 sections:
@@ -23,3 +23,4 @@ sections:
           description: PAT & OYEA 2023
           url: https://www.westgrovepri.moe.edu.sg/parents/permalink/
 ---
+
