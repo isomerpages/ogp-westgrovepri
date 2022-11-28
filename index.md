@@ -22,5 +22,7 @@ sections:
         - title: NEWS 2
           description: PAT & OYEA 2023
           url: https://www.westgrovepri.moe.edu.sg/parents/permalink/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
 ---
-
