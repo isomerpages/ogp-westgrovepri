@@ -24,5 +24,5 @@ sections:
           url: https://www.westgrovepri.moe.edu.sg/parents/permalink/
         - title: Newsletter
           description: Click here for Newsletter
-          url: ""
+          url: https://www.westgrovepri.moe.edu.sg/parents/WGPS-Newsletter/
 ---
