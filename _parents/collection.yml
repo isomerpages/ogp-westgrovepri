@@ -2,13 +2,14 @@ collections:
   parents:
     output: true
     order:
-      - WGPS Newsletter.md
       - 2023 Primary 1 Virtual Open House.md
+      - WGPS Newsletter.md
       - PAT & OYEA 2023.md
+      - SwimSafer Certificate User Guide for Parents.md
       - PSLE Briefing.md
       - P4 Subject Based Banding Briefing.md
       - 2022 Term Letters to Parents.md
-      - 2022 Canteen Stall Menu with Price list.md
+      - 2023 Canteen Stall Menu with Price list.md
       - 2022 Celebration Of Success.md
       - WE STories 2021.md
       - 2021 Parents Engagement Workshop.md
