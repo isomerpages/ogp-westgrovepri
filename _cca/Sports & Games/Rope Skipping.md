@@ -29,13 +29,13 @@ third_nav_title: Sports & Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Mdm. Hani Alwi (i/c)</span></td>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Mdm. Lin Weijun (i/c)</span></td>
   </tr>
   <tr>
-    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Ms. Tiow Jingmin</span></td>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Mrs. Michelle Sim</span></td>
   </tr>
   <tr>
-    <td class="tg-1jib"> Mdm. Lau Yee Fun</td>
+    <td class="tg-1jib"> Mdm. Seetha</td>
   </tr>
 </tbody>
 </table>
@@ -59,10 +59,10 @@ third_nav_title: Sports & Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1jib">Every Wednesday, 2pm – 4pm (Hall)</td>
+    <td class="tg-1jib">Non School Team - Every Tuesday, 2pm – 4pm</td>
   </tr>
   <tr>
-    <td class="tg-1jib">Every Thursday, 2pm – 4 pm (Hall)</td>
+    <td class="tg-1jib">School Team - Every Thursday, 2pm – 4 pm</td>
   </tr>
 </tbody>
 </table>
