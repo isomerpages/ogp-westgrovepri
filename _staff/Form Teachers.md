@@ -4,347 +4,198 @@ permalink: /staff/form-teachers/
 description: ""
 ---
 # Form Teachers
-**FORM TEACHERS - 2022**
+**FORM TEACHERS - 2023**
 
+Primary 1:
+     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl71 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl72 {color:windowtext; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext;} .xl73 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} .xl74 {color:windowtext; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl75 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl76 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl77 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} -->
 
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="20" style="mso-height-source:userset;height:15.0pt"><td height="20" class="xl68" width="125" style="height:15.0pt;width:94pt">Class</td><td colspan="2" class="xl69" width="607" style="width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">1A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt;
+  box-sizing: border-box;overflow-wrap: break-word;border-image: initial">Ms Nur Indahiryana</td><td class="xl71" width="292" style="border-top:none;width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Hoon Hui Min</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl72" style="height:14.5pt;border-left:none">nur_indahiryana_mohamed_amran@moe.edu.sg</td><td class="xl73">hoon_hui_min@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">1B</td><td class="xl66" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Nancy Tan-Chan Yau Chun</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Liam Huixian</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl74" style="height:14.5pt;border-left:none">chan_yau_chun@moe.edu.sg</td><td class="xl75">liam_huixian@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1C</td><td class="xl76" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word">Mr Matthew Sim</td><td class="xl77" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Alagu Meenal Thamodaran</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl72" style="height:14.5pt;border-left:none">matthew_sim@moe.edu.sg</td><td class="xl73">alagu_meenal_thamodaran@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1D</td><td class="xl66" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Ong Pyng Jing</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Mdm Shariffah Haiezian</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl74" style="height:14.5pt;border-left:none">ong_pyng_jing@moe.edu.sg</td><td class="xl75">shariffah_haiezian_syed_hu@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1E</td><td class="xl76" width="315" style="border-left:none;width:236pt">Mdm Nurhazlinda</td><td class="xl77" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Ms Foon Siew Man</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl72" style="height:14.5pt;border-left:none">nurhazlinda_mohamed_shafri@moe.edu.sg</td><td class="xl73">foon_siew_man@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1F</td><td class="xl66" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Ong Pang Ling Charlotte</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Aishwarya Durga d/o Nalamthamby</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl74" style="height:14.5pt;border-left:none">ong_pang_ling@moe.edu.sg</td><td class="xl75">aishwarya_durga_nalamthamby@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1G</td><td class="xl76" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Neliwati</td><td class="xl77" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Ms Nicole Cheong Chia Qi</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl72" style="height:14.5pt;border-left:none">neliwati_hamzah@moe.edu.sg</td><td class="xl73">nicole_cheong_jia_qi@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt">1H</td><td class="xl66" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Sharon Teo Li Ling</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Hani Bte Alwi</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl74" style="height:14.5pt;border-left:none">teo_li_ling@moe.edu.sg</td><td class="xl75">Hani_alwi@moe.edu.sg</td></tr></tbody></table>
+ 
+ Primary 2:
+      <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl71 {color:windowtext; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext;} .xl72 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} .xl73 {color:windowtext; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl74 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl75 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl76 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl77 {color:windowtext; font-size:10.0pt; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext;} .xl78 {color:windowtext; font-size:10.0pt; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl79 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext;} -->
 
-**Primary 1:**
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+ overflow-wrap: break-word;border-spacing: 0px;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;widows: 2;-webkit-text-stroke-width: 0px;
+ text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td height="17" class="xl68" width="125" style="height:13.0pt;width:94pt">Class</td><td colspan="2" class="xl69" width="607" style="border-left:none;width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt">Mrs Shirin Ishaar</td><td class="xl70" width="292" style="border-top:none;width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Irene Chin-Chan Mei Yin</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">siti_shirin_omar@schools.gov.sg</td><td class="xl74">chan_mei_yin_irene@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2B</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Asziah Bte Jumaat</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Clarissa Hue</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">asziah_jumaat@moe.edu.sg</td><td class="xl74">clarissa_cheong_wei_lin@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2C</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Betty Chan Siew Sharn</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Angeline See Sui Chiat</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">chan_siew_sharn_betty@moe.edu.sg</td><td class="xl74">see_sui_chiat@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2D</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Michelle Sim</td><td class="xl76" width="292" style="width:219pt">Ms Nursheela Bte Rustamaji</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">koh_shi_hui_michelle@moe.edu.sg</td><td class="xl74">rustamaji_nursheela@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2E</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Nur Anisah Bte Syed Maideen</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Tang Oi Khum</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">nur_anisah_syed_maideen@moe.edu.sg</td><td class="xl74">tang_oi_khum@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">2F</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Wu Xiao Wei</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Samantha Chang</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">wu_xiaowei@moe.edu.sg</td><td class="xl74">oh_siow_ling_samantha@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="4" height="72" class="xl68" width="125" style="height:55.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word">2G</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Jessica Lai - Xie Liling</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Mr Chuan Teik Ping</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">xie_liling_jessica@moe.edu.sg</td><td class="xl72">chuan_teik_ping@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl77" style="height:13.0pt;border-left:none">&nbsp;</td><td class="xl76" width="292" style="width:219pt">Mdm Yao Ling Ling</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl78" style="height:14.5pt;border-left:none">&nbsp;</td><td class="xl74">yao_lingling@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="36" class="xl79" style="height:27.5pt;border-top:none">2H</td><td class="xl75" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Sarifah Azlin</td><td class="xl76" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Tan Hui Yang</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl73" style="height:14.5pt;border-left:none">sarifah_azlin@moe.edu.sg</td><td class="xl74">tan_hui_yang@moe.edu.sg</td></tr></tbody></table>
+ 
+  Primary 3:
+	     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl71 {color:windowtext; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl72 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl73 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl74 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl75 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} .xl76 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; white-space:normal;} -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w">Class</th>
-    <th class="tg-z01w" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">1A</td>
-    <td class="tg-7wcr">Ms Liam Huixian<br>liam_huixian@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Irene Chin-Chan Mei Yin<br>chan_mei_yin_irene@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1B</td>
-    <td class="tg-7wcr">Ms Ong Pyng Jing<br>ong_pyng_jing@moe.edu.sg<br><br>Mdm Nurhazlinda<br>nurhazlinda_mohamed_shafri@moe.edu.sg</td>
-    <td class="tg-7wcr">Mrs Clarissa Hue<br>clarissa_cheong_wei_lin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1C</td>
-    <td class="tg-7wcr">Ms Betty Chan Siew Sharn<br>chan_siew_sharn_betty@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Angeline See Sui Chiat<br>see_sui_chiat@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1D</td>
-    <td class="tg-7wcr">Mdm Ong Pang Ling<br>ong_pang_ling@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Seetha<br>palanivelu_seetha@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1E</td>
-    <td class="tg-7wcr">Ms Nur Anisah Bte Syed Maideen<br>nur_anisah_syed_maideen@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Sabrina<br>sabrina_annarhar@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1F</td>
-    <td class="tg-7wcr">Ms Wu Xiao Wei<br>wu_xiaowei@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Goh Ming Mei<br>ming_mei_goh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">1G</td>
-    <td class="tg-7wcr">Mrs Jessica Lai - Xie Liling<br>xie_liling_jessica@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Nurul Atiqah<br>nurul_atiqah_azmi@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv"> 1H</td>
-    <td class="tg-7wcr">Mr Yeow Soon Hao<br>yeow_Soon_Hao@moe.edu.sg </td>
-    <td class="tg-7wcr">Mdm. Huang Wanxi<br>huang_wanxi@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;width:94pt">Class</td><td colspan="2" class="xl76" width="607" style="border-right:.5pt solid black;
+  border-left:none;width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">3A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt">Mdm Shafiah</td><td class="xl70" width="292" style="border-top:none;width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">&nbsp;</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">shafiah_syed_masood@moe.edu.sg</td><td class="xl75" width="292" style="width:219pt">&nbsp;</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">3B</td><td class="xl73" width="315" style="border-left:none;width:236pt">Mdm Mindy Neo</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Germain Wong Xue Ying</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">mindy_marie_neo@moe.edu.sg</td><td class="xl72">germain_wong_xue_ying@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">3C</td><td class="xl73" width="315" style="border-left:none;width:236pt">Mrs Chen Pei Ai</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Jackie Huang Hongwei</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">chen_pei_ai@moe.edu.sg</td><td class="xl72">huang_hongwei@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">3D</td><td class="xl73" width="315" style="border-left:none;width:236pt">Mr Phoon Yong Kang</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Sabrina</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">phoon_yong_kang@moe.edu.sg</td><td class="xl75" width="292" style="width:219pt">sabrina_annarhar@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">3E</td><td class="xl73" width="315" style="border-left:none;width:236pt">Mdm Hemalatha</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Er Ka Hui</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">arumugam_hemalatha@moe.edu.sg</td><td class="xl72">er_ka_hui@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;border-top:none;
+  width:94pt;box-sizing: border-box;overflow-wrap: break-word">3F</td><td class="xl73" width="315" style="border-left:none;width:236pt">Mrs Nicole Chua</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Chua Mashita</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl68" width="125" style="height:14.5pt;border-top:none;
+  width:94pt">&nbsp;</td><td class="xl71" style="border-left:none">nai_miao_pei_nicole@moe.edu.sg</td><td class="xl72">chua_mashita@moe.edu.sg</td></tr></tbody></table>
+	Primary 4:
+	     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl71 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl72 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl73 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} .xl74 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; white-space:normal;} -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w">Class</th>
-    <th class="tg-z01w" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">2A</td>
-    <td class="tg-7wcr">Mdm Neliwati<br>neliwati_hamzah@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Liu Weiqin<br>liu_weiqin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2B</td>
-    <td class="tg-7wcr">Mrs Nicole Chua<br>nai_miao_pei_nicole@moe.edu.sg</td>
-    <td class="tg-7wcr">Mrs Chua Mashita<br>chua_mashita@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2C</td>
-    <td class="tg-7wcr">Mdm Hani Bte Alwi<br>Hani_alwi@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Nur Indahiryana<br>nur_indahiryana_mohamed_amran@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2D</td>
-    <td class="tg-7wcr">Mdm Sharon Teo Li Ling<br>teo_li_ling@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Aishwarya Durga d/o Nalamthamby<br>aishwarya_durga_nalamthamby@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2E</td>
-    <td class="tg-7wcr">Mrs Nancy Tan-Chan Yau Chun<br>chan_yau_chun@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Hema<br>arumugam_hemalatha@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2F</td>
-    <td class="tg-7wcr">Mdm Asziah Bte Jumaat<br>asziah_jumaat@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Hoon Hui Min<br>hoon_hui_min@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">2G</td>
-    <td class="tg-7wcr">Mr Matthew Sim <br>matthew_sim@moe.edu.sg </td>
-    <td class="tg-7wcr">Ms Ng Yang Xi<br>ng_yang_xi@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;width:94pt">Class</td><td colspan="2" class="xl69" width="607" style="border-left:none;width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt;
+  box-sizing: border-box;overflow-wrap: break-word;border-image: initial">Mdm Tay Yee Teng</td><td class="xl70" width="292" style="border-top:none;width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Shariffah Affinda</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">tay_yee_teng@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">shariffah_affinda_isa@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4B</td><td class="xl71" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word">Ms Joanne Ching Goik Ping</td><td class="xl72" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Ms Ng Yang Xi</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">ching_goik_peng@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">ng_yang_xi@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4C</td><td class="xl71" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Diana Wan</td><td class="xl72" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Lau Yee Fun / Ms Soh Siew Cheng</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">tho_lee_kian_diana@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">lau_yee_fun@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4D</td><td class="xl71" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Qairul</td><td class="xl72" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Liu Weiqin</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">qairul_izam_shali@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">liu_weiqin@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4E</td><td class="xl71" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Ng Hwee Ching</td><td class="xl72" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Liu Ning</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">ong_hwee_ching@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">liu_ning@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">4F</td><td class="xl71" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Saw Jin Teik</td><td class="xl72" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Kartini</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl74" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">saw_jin_teik@moe.edu.sg</td><td class="xl73" width="292" style="width:219pt">kartini_khairi@moe.edu.sg</td></tr></tbody></table>
+	Primary 5:
+	     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl71 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl72 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} .xl73 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; white-space:normal;} .xl74 {color:windowtext; font-size:10.0pt; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} .xl75 {color:windowtext; font-size:10.0pt; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl76 {color:windowtext; font-size:10.0pt; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} -->
 
-**Primary 3:**
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;width:94pt">Class</td><td colspan="2" class="xl69" width="607" style="border-left:none;width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">5A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt;
+  box-sizing: border-box;overflow-wrap: break-word">Mr Mohamed Nadzri Md Nasir</td><td class="xl74" style="border-top:none">&nbsp;</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">mohamed_nadzri_md_nasir@moe.edu.sg</td><td class="xl75">&nbsp;</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">5B</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Nithiyah Subramaniam</td><td class="xl76">&nbsp;</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">nithiyah_subramaniam@moe.edu.sg</td><td class="xl75">&nbsp;</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">5C</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Anisah Muna Mohamed</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Lin Weijun</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">anisah_muna_mohamed@moe.edu.sg</td><td class="xl72" width="292" style="width:219pt">lin_weijun@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">5D</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Lin Qi Yue</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Seetha</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">lin_qi_yue@moe.edu.sg</td><td class="xl72" width="292" style="width:219pt">palanivelu_seetha@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt"><td rowspan="2" height="37" class="xl68" width="125" style="height:28.0pt;border-top:
+  none;width:94pt">5E</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mrs Saleha Raj</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Tan Poh Ching</td></tr><tr height="20" style="mso-height-source:userset;height:15.0pt"><td height="20" class="xl73" width="315" style="height:15.0pt;border-left:none;
+  width:236pt">saleha_raj@moe.edu.sg</td><td class="xl72" width="292" style="width:219pt">tan_poh_ching@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">5F</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Munirah Bee Bte Md Haron</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Tee Kar Yeow</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">munirah_bee_mohd_haron@moe.edu.sg</td><td class="xl72" width="292" style="width:219pt">tee_kar_yeow@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="34" class="xl68" width="125" style="height:26.0pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word">5G</td><td class="xl70" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Abdul Wahid Bin Badron</td><td class="xl71" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word">Mdm. Huang Wanxi</td></tr><tr height="17" style="height:13.0pt"><td height="17" class="xl73" width="315" style="height:13.0pt;border-left:none;
+  width:236pt">abdul_wahid_b_badron@moe.edu.sg</td><td class="xl72" width="292" style="width:219pt">huang_wanxi@moe.edu.sg</td></tr></tbody></table>
+	Primary 6:
+	     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:10.0pt;} .xl66 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl67 {color:windowtext; font-size:10.0pt;} .xl68 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {color:windowtext; font-size:10.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl70 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl71 {color:windowtext; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl72 {color:windowtext; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl73 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl74 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none; white-space:normal;} .xl75 {color:windowtext; font-size:10.0pt; text-align:left; vertical-align:top; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none; white-space:normal;} -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w">Class</th>
-    <th class="tg-z01w" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">3A</td>
-    <td class="tg-7wcr">Mr Jackie Huang Hongwei<br>huang_hongwei@moe.edu.sg</td>
-    <td class="tg-7wcr">Mrs Diana Wan<br>tho_lee_kian_diana@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">3B</td>
-    <td class="tg-7wcr">Mdm Tay Yee Teng<br>tay_yee_teng@moe.edu.sg</td>
-    <td class="tg-7wcr">Mrs Samantha Chang<br>oh_siow_ling_samantha@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">3C</td>
-    <td class="tg-7wcr">Mrs Ng Hwee Ching<br>ong_hwee_ching@moe.edu.sg<br></td>
-    <td class="tg-7wcr">Mdm Chua Ting Ting<br>chua_ting_ting@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">3D</td>
-    <td class="tg-7wcr">Mdm Yusnita  Bte Md Taib<br><br>yusnita_mohd_taib@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Alagu Meenal Thamodaran<br>alagu_meenal_thamodaran@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">3E</td>
-    <td class="tg-7wcr">Mdm Shafiah<br>shafiah_syed_masood@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Er Ka Hui<br>er_ka_hui@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">3F</td>
-    <td class="tg-7wcr">Ms Chloe Oh Wan Ling<br>oh_wan_ling@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Nicole Cheong Chia Qi<br>nicole_cheong_jia_qi@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
-
-**Primary 4 :**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7de">Class</th>
-    <th class="tg-s7de" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">4A</td>
-    <td class="tg-7wcr">Mdm Noor Afizah<br>noor_afizah_rusli@moe.edu.sg<br></td>
-    <td class="tg-7wcr">Ms Tan Hui Chin<br>tan_hui_chin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4B</td>
-    <td class="tg-7wcr">Mr Saw Jin Teik<br>saw_jin_teik@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Shariffah Affinda<br>shariffah_affinda_isa@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4C</td>
-    <td class="tg-7wcr">Mrs Chen Pei Ai<br>chen_pei_ai@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Sangeeta Kaur Dhillon<br>sangeeta_kaur_dhillon@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4D</td>
-    <td class="tg-7wcr">Mr Qairul<br>qairul_izam_shali@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Tan Hui Yang<br>tan_hui_yang@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4E</td>
-    <td class="tg-7wcr">Mdm Mindy Neo<br>mindy_marie_neo@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Tang Oi Khum<br>tang_oi_khum@moe.edu.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4F</td>
-    <td class="tg-7wcr">Mrs Michelle Sim / Ms Tan Si Hua<br>koh_shi_hui_michelle@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Tan Poh Ching<br>tan_poh_ching@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">4G</td>
-    <td class="tg-7wcr">Mr Mohamed Nadzri Md Nasir<br>mohamed_nadzri_md_nasir@moe.edu.sg</td>
-    <td class="tg-7wcr">Mr Chuan Teik Ping<br>chuan_teik_ping@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
-
-**Primary 5 :**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7de">Class</th>
-    <th class="tg-s7de" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">5A</td>
-    <td class="tg-7wcr">Mrs Tang-Chew Pei Xi<br>chew_pei_xi@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Isma &amp; Dewi<br>ismawarni_isnin@moe.edu.sg<br>dewi_rosyati_sheik@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">5B</td>
-    <td class="tg-7wcr">Ms Suneeta Kaur d/o Balvinder S<br>suneeta_kaur_balvinder_s@moe.edu.sg</td>
-    <td class="tg-7wcr">Mdm Lin Weijun<br>lin_weijun@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">5C</td>
-    <td class="tg-7wcr">Mdm Samsia Bte Sulaiman<br>samsia_sulaiman@moe.edu.sg</td>
-    <td class="tg-7wcr">Mr Phoon Yong Kang<br>phoon_yong_kang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">5D</td>
-    <td class="tg-7wcr">Mr Ong Chee Keong<br>ong_chee_keong@moe.edu.sg</td>
-    <td class="tg-7wcr"><br>Mdm Zhuo Dandan<br><br>zhuo_dandan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">5E</td>
-    <td class="tg-7wcr">Mdm Rachael Fang Swee Sian<br>fang_swee_sian@moe.edu.sg</td>
-    <td class="tg-7wcr">Mr Liu Ning<br>liu_ning@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">5F</td>
-    <td class="tg-7wcr">Mdm Nurhuda Md Amin<br>nurhuda_mohd_amin@moe.edu.sg</td>
-    <td class="tg-7wcr"><br>Ms Foon Siew Man<br>foon_siew_man@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
-
-**Primary 6 :**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7de">Class</th>
-    <th class="tg-s7de" colspan="2">Form Teacher</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-eohv">6A1</td>
-    <td class="tg-7wcr">Mdm Nithiyah Subramaniam<br>nithiyah_subramaniam@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Kartini<br>kartini_khairi@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6A2</td>
-    <td class="tg-7wcr">Mdm Anisah Muna Mohamed<br>anisah_muna_mohamed@moe.edu.sg</td>
-    <td class="tg-7wcr">Mr Tee Kar Yeow<br>tee_kar_yeow@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6B</td>
-    <td class="tg-7wcr">Mdm Sarifah Azlin<br>sarifah_azlin@moe.edu.sg</td>
-    <td class="tg-7wcr"> Mr Lin Qi Yue<br>lin_qi_yue@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6C</td>
-    <td class="tg-7wcr">Mr Abdul Wahid Bin Badron<br>abdul_wahid_b_badron@moe.edu.sg</td>
-    <td class="tg-7wcr">Mr Teo Jia Jun<br>teo_jia_jun@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6D</td>
-    <td class="tg-7wcr">Mrs Saleha Raj<br>saleha_raj@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Lau Yee Fun<br>lau_yee_fun@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6E</td>
-    <td class="tg-7wcr">Ms Munirah Bee Bte Md Haron<br>munirah_bee_mohd_haron@moe.edu.sg</td>
-    <td class="tg-7wcr">Ms Foong Yuk Yew<br>foong_yuk_yew@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">6F</td>
-    <td class="tg-7wcr">Ms Joanne Ching Goik Ping <br>ching_goik_peng@moe.edu.sg</td>
-    <td class="tg-eohv">Mdm Shariffah Haiezian<br><br>shariffah_haiezian_syed_hu@moe.edu.sg</td>
-  </tr>
-</tbody>
-</table>
+<table border="0" cellpadding="0" cellspacing="0" width="732" style="border-collapse:
+ collapse;width:549pt"><colgroup><col width="125" style="mso-width-source:userset;mso-width-alt:4375;width:94pt"> <col width="315" style="mso-width-source:userset;mso-width-alt:10984;width:236pt"> <col width="292" style="mso-width-source:userset;mso-width-alt:10193;width:219pt"></colgroup><tbody><tr height="17" style="height:13.0pt"><td height="17" class="xl68" width="125" style="height:13.0pt;width:94pt">Class</td><td colspan="2" class="xl69" width="607" style="border-left:none;width:455pt">Form Teachers</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">6A</td><td class="xl66" width="315" style="border-top:none;border-left:none;width:236pt;
+  box-sizing: border-box;overflow-wrap: break-word;border-image: initial">Mrs Tang-Chew Pei Xi</td><td class="xl70" width="292" style="border-top:none;width:219pt">&nbsp;</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">chew_pei_xi@moe.edu.sg</td><td class="xl75" width="292" style="width:219pt">&nbsp;</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">6B</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Suneeta Kaur d/o Balvinder S</td><td class="xl74" width="292" style="width:219pt">&nbsp;</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">suneeta_kaur_balvinder_s@moe.edu.sg</td><td class="xl75" width="292" style="width:219pt">&nbsp;</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">6C</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Samsia Bte Sulaiman</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Ms Goh Ming Mei</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">samsia_sulaiman@moe.edu.sg</td><td class="xl72">ming_mei_goh@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">6D</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Teo Jia Jun</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mr Ong Chee Keong</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">teo_jia_jun@moe.edu.sg</td><td class="xl72">ong_chee_keong@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word;border-image: initial">6E</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Yusnita Bte Md Taib</td><td class="xl74" width="292" style="width:219pt;box-sizing: border-box;
+  overflow-wrap: break-word;border-image: initial">Mdm Rachael Fang Swee Sian</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">yusnita_mohd_taib@moe.edu.sg</td><td class="xl72">fang_swee_sian@moe.edu.sg</td></tr><tr height="17" style="height:13.0pt;box-sizing: border-box;border-color:var(--chakra-colors-gray-200);
+  overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
+  none;width:94pt;box-sizing: border-box;overflow-wrap: break-word">6F</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
+  overflow-wrap: break-word">Mdm Nurhuda Md Amin</td><td class="xl74" width="292" style="width:219pt">Ms Tan Si Hua</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">nurhuda_mohd_amin@moe.edu.sg</td><td class="xl72">Tan_si_hua@moe.edu.sg</td></tr></tbody></table>
+	
+	
