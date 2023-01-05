@@ -24,5 +24,5 @@ sections:
           url: https://www.westgrovepri.moe.edu.sg/parents/PATOYEA2023/
         - title: Newsletter
           description: WGPS Newsletter 2023
-          url: https://www.westgrovepri.moe.edu.sg/parents/WGPSNewsletter/
+          url: http://www.westgroveprimary.com/mobile/index.html
 ---
