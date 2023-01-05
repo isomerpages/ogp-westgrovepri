@@ -197,5 +197,3 @@ Primary 1:
   overflow-wrap: break-word"><td rowspan="2" height="36" class="xl68" width="125" style="height:27.5pt;border-top:
   none;width:94pt;box-sizing: border-box;overflow-wrap: break-word">6F</td><td class="xl73" width="315" style="border-left:none;width:236pt;box-sizing: border-box;
   overflow-wrap: break-word">Mdm Nurhuda Md Amin</td><td class="xl74" width="292" style="width:219pt">Ms Tan Si Hua</td></tr><tr height="19" style="height:14.5pt"><td height="19" class="xl71" style="height:14.5pt;border-left:none">nurhuda_mohd_amin@moe.edu.sg</td><td class="xl72">Tan_si_hua@moe.edu.sg</td></tr></tbody></table>
-	
-	
