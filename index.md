@@ -21,8 +21,8 @@ sections:
           url: https://drive.google.com/drive/folders/1ErH2H17bdBgrfpu9lkPzAxbT87NVEXwo?usp=share_link
         - title: NEWS 2
           description: PAT & OYEA 2023
-          url: https://www.westgrovepri.moe.edu.sg/parents/permalink/
+          url: https://www.westgrovepri.moe.edu.sg/parents/PATOYEA2023/
         - title: Newsletter
-          description: Click here for Newsletter
-          url: https://www.westgrovepri.moe.edu.sg/parents/WGPS-Newsletter/
+          description: WGPS Newsletter 2023
+          url: http://www.westgroveprimary.com/mobile/index.html
 ---
