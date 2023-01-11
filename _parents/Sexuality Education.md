@@ -50,7 +50,9 @@ b.       Character and Citizenship Education (CCE)
 
 **At West Grove Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-**2023 Sexuality Education Lessons in CCE 2021**
+![At West Grove Primary School, the following Sexuality Education lessons will be taught in 2023:](/images/SEd%201.jpg)
+![Education picture 2](/images/SEd%2021.jpg)
 
+![Education picture 3](/images/SEd%203.jpg)
+![Education picture 4](/images/SEd%204.jpg)
 
-![Primary 5](/images/P5%20-%20SEdu%20-%20pic1.jpg)
