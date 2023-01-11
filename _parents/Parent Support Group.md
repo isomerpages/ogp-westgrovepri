@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /parents/parent-support-group/
 description: ""
 ---
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>**WGPS PSG’s Mission**_: Partnering as One for the_&nbsp;_Success of West Grove students._&nbsp;&nbsp;  
-
 ### The Role of the school’s Parent Support Group (PSG):
 
 * Provides support for activities conducted by the school which enhance students’ welfare and growth.
@@ -21,11 +19,11 @@ description: ""
 
 * Provide assistance and support to members on programmes/activities.
 
-### PSG Exco 2022
-
-![](/images/Until%202022_Pictures/PSG%20Exco%202022.jpg)
-![](/images/Until%202022_Pictures/PSG%20Exco%202022-2.jpg)
-![](/images/Until%202022_Pictures/PSG%20Exco%202022-3.jpg)
+### PSG Exco 2023
+![Picture1](/images/PSG%20Exco%20Committee%202023_Page_1.png)
+![pic2](/images/PSG%20Exco%20Committee%202023_Page_2.png)
+![pic3](/images/PSG%20Exco%20Committee%202023_Page_3.png)
+![pic4](/images/PSG%20Exco%20Committee%202023_Page_4.png)
 
 Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to&nbsp;[**wgps@moe.edu.sg**](mailto:wgps@moe.edu.sg).  
 
@@ -37,4 +35,4 @@ and Instagram page&nbsp;[https://www.instagram.com/westgrovepsg/](https://www.in
 
 **TREE PLANTING 2022:**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="569" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
