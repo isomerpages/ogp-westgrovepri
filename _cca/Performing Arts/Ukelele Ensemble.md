@@ -52,7 +52,7 @@ third_nav_title: Performing Arts
 <thead>
   <tr>
     <td class="tg-eohv">Thursday</td>
-    <td class="tg-z01w">Mrs. Mashita Chua (i/c)<br>Mrs. Tang-Chew Pei Xi</td>
+    <td class="tg-z01w">Mrs. Mashita Chua (i/c)<br>Mrs. Tang-Chew Pei Xi<br>Mrs Diana Wan</td>
   </tr>
 </thead>
 </table>
