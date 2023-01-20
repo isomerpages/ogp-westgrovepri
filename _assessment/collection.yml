@@ -1,5 +1,0 @@
-collections:
-  assessment:
-    output: true
-    order:
-      - Assessment Plan 2023.md
