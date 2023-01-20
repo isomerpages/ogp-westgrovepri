@@ -3,7 +3,6 @@ title: Assessment Plan 2023
 permalink: /ASSESSMENT/
 description: ""
 ---
-
 **PRIMARY 1**
 <iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPMqKNHMJIqPiA8KUVPYWWSBxDdC6WRNDHGcAYbAoQAqzImbyIlLZinTqoqLdVpw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
