@@ -3,10 +3,8 @@ title: Assessment Plan 2023
 permalink: /Assessment/Assessment-plan-2023/
 description: ""
 ---
-
-
 **PRIMARY 1**
-<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPMqKNHMJIqPiA8KUVPYWWSBxDdC6WRNDHGcAYbAoQAqzImbyIlLZinTqoqLdVpw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="400" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPMqKNHMJIqPiA8KUVPYWWSBxDdC6WRNDHGcAYbAoQAqzImbyIlLZinTqoqLdVpw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 **PRIMARY 2**
 <iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQex6LKoWGWM99hl8U82se4QO5u-wBksSQUEON8UF8z6I-ogXufG6QZrmbnSu4hJQ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
