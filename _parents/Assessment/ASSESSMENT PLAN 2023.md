@@ -4,7 +4,6 @@ permalink: /parents/ASSESSMENT/Assessment-plan-2023/
 description: ""
 third_nav_title: Assessment
 ---
-
 **PRIMARY 1**
 <iframe allowfullscreen="true" height="400" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPMqKNHMJIqPiA8KUVPYWWSBxDdC6WRNDHGcAYbAoQAqzImbyIlLZinTqoqLdVpw/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
@@ -22,4 +21,3 @@ third_nav_title: Assessment
 
 **PRIMARY 6**
 <iframe allowfullscreen="true" height="400" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-KDBMb_Pw6HnV10eAfkzZJ44afqZ4ihPEVG4C5cs4H55m4596azmv-0vlG5h20A/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
-
