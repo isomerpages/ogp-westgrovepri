@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Assessment Plan 2023.md
       - ASSESSMENT.md
       - 2023 Primary 1 Virtual Open House.md
       - WGPS Newsletter.md
