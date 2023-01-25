@@ -2,4 +2,5 @@ collections:
   assessment:
     output: true
     order:
+      - ASSESSMENT PLAN 2023.md
       - Assessment Plan 2023.md
