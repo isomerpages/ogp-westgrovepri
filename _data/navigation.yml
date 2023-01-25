@@ -10,8 +10,3 @@ links:
     collection: cca
   - title: Parents
     collection: parents
-  - title: Assessment
-    url: /parents/Assessment
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
