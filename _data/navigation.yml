@@ -11,7 +11,7 @@ links:
   - title: Parents
     collection: parents
   - title: Assessment
-    url: /permalink
+    url: /Assessment
     sublinks:
       - title: Assessment Plan 2023
         url: /parents/Assessment/
