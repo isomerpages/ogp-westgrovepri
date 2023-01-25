@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - ASSESSMENT.md
       - 2023 Primary 1 Virtual Open House.md
       - WGPS Newsletter.md
       - PAT & OYEA 2023.md
