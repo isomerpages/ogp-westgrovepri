@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Briefing Slides.md
-      - Letter to Parents/.keep
       - Newsletter and Letter/Newsletter.md
       - Newsletter and Letter/.keep
       - Assessment/Assessment Plan 2023.md
