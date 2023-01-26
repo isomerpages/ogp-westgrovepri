@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Briefing Slides/P4 Subject Based Banding Briefing.md
       - Briefing Slides/PSLE Briefing.md
       - Briefing Slides/.keep
       - Letter to Parents/.keep
