@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Newsletter/Newsletter.md
       - Newsletter/.keep
       - Newsletter and Letter/.keep
       - Assessment/Assessment Plan 2023.md
