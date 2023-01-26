@@ -2,7 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
-      - Newsletter/WGPS Newsletter.md
+      - Newsletter/Newsletter.md
       - Newsletter/.keep
       - Newsletter & Letter to Parents/.keep
       - Assessment/Assessment Plan 2023.md
