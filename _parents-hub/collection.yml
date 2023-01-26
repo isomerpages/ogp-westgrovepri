@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Letter to Parents/2023 Term 1.md
       - Letter to Parents/2022 Term Letters to Parents.md
       - Letter to Parents/.keep
       - Briefing Slides.md
