@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Information/40 hour Parent Volunteer (PV).md
       - Information/Parent Support Group.md
       - Information/.keep
       - Letter to Parents/2023 Term 1.md
