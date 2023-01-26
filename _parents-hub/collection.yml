@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Briefing Slides/.keep
       - Letter to Parents/.keep
       - Newsletter and Letter/Newsletter.md
       - Newsletter and Letter/.keep
