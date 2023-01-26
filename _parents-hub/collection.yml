@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Newsletter.md
       - Assessment/Assessment Plan 2023.md
       - Assessment/.keep
       - 2023 Primary 1 Virtual Open House.md
