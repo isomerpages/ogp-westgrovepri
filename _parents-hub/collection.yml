@@ -4,14 +4,14 @@ collections:
     order:
       - Newsletter and Letter/.keep
       - Newsletter and Letter/Newsletter.md
-      - Information/.keep
-      - Information/Parent Service Provider (PSP).md
-      - Information/40 hour Parent Volunteer (PV).md
-      - Information/Parent Support Group.md
       - Letter to Parents/.keep
       - Letter to Parents/2023 Term 1.md
       - Letter to Parents/2022 Term Letters to Parents.md
       - Briefing Slides.md
+      - Information/.keep
+      - Information/Parent Service Provider (PSP).md
+      - Information/40 hour Parent Volunteer (PV).md
+      - Information/Parent Support Group.md
       - Assessment/.keep
       - Assessment/Assessment Plan 2023.md
       - 2023 Primary 1 Virtual Open House.md
