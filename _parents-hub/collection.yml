@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Newsletter/.keep
       - Briefing Slides.md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
