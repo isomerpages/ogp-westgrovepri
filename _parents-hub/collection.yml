@@ -2,10 +2,10 @@ collections:
   parents-hub:
     output: true
     order:
-      - Letter to Parents/2023 Term Letters.md
       - Letter to Parents/.keep
-      - Newsletter/WGPS Newlettter.md
+      - Letter to Parents/2023 Term Letters.md
       - Newsletter/.keep
+      - Newsletter/WGPS Newlettter.md
       - Briefing Slides.md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
