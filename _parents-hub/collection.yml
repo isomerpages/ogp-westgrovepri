@@ -2,10 +2,10 @@ collections:
   parents-hub:
     output: true
     order:
-      - Newsletter/.keep
-      - Newsletter/Newsletter.md
-      - Newsletter/2023 Term 1 Letter to Parents.md
-      - Newsletter/2022 Term Letters to Parents.md
+      - Newsletter & Letter to Parents/.keep
+      - Newsletter & Letter to Parents/Newsletter.md
+      - Newsletter & Letter to Parents/2023 Term 1 Letter to Parents.md
+      - Newsletter & Letter to Parents/2022 Term Letters to Parents.md
       - Letter to Parents/.keep
       - Briefing Slides.md
       - Parent Partnership/.keep
