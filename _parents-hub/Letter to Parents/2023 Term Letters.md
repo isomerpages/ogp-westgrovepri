@@ -10,3 +10,8 @@ third_nav_title: Letter to Parents
 
 [2023 Term 1 - P2 Year Head Letter](/files/2023-Term1%20-%20P2%20Year%20Head%20Letter.pdf)
 
+[2023 Term 1 - P3 Year Head Letter](/files/2023-Term1%20-%20P3%20Year%20Head%20Letter.pdf)
+
+[2023 Term 1 - P1 Year Head Letter](/files/2023-Term1%20-%20P1%20Year%20Head's%20Letter.pdf)
+
+[2023 Term 1 - P4 Year Head Letter](/files/2023-Term1%20-%20P4%20Year%20Head%20Letter.pdf)
