@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Letter to Parents/2023 Term Letters.md
       - Letter to Parents/.keep
       - Newsletter/WGPS Newlettter.md
       - Newsletter/.keep
