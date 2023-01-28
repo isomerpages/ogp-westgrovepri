@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Newsletter/WGPS Newlettter.md
       - Newsletter/.keep
       - Briefing Slides.md
       - Parent Partnership/.keep
