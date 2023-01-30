@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Information/.keep
       - Letter to Parents/.keep
       - Letter to Parents/2023 Term1 Letters.md
       - Newsletter/.keep
@@ -32,3 +31,4 @@ collections:
       - Useful Links for Students/Student Learning Space (SLS).md
       - Useful Links for Students/Moo O (English ICT Tool).md
       - Wait List Application Form.md
+      - Information/.keep
