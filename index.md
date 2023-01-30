@@ -19,9 +19,6 @@ sections:
         - title: NEWS 1
           description: P6 Ukulele performances
           url: https://drive.google.com/drive/folders/1ErH2H17bdBgrfpu9lkPzAxbT87NVEXwo?usp=share_link
-        - title: ""
-          description: ""
-          url: ""
         - title: Newsletter
           description: WGPS Newsletter 2023
           url: http://www.westgroveprimary.com/mobile/index.html
