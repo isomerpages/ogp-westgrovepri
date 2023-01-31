@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Educational Articles for Parents.md
       - Letter to Parents/.keep
       - Letter to Parents/2023 Term1 Letters.md
       - Newsletter/.keep
@@ -10,6 +9,7 @@ collections:
       - Assessment/.keep
       - Assessment/Assessment Plan 2023.md
       - Briefing Slides.md
+      - Educational Articles for Parents.md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
       - Parent Partnership/40 hour Parent Volunteer (PV).md
