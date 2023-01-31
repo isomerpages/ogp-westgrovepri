@@ -4,7 +4,6 @@ permalink: /parents/Useful-Links-for-Students/
 description: ""
 third_nav_title: Information for Students
 ---
-
 <img src="/images/Until%202022_Pictures/Schoolbag%20SG%20Logo.png" 
      style="width:50%">
 		 
@@ -29,6 +28,9 @@ The National Advisory Council, COMPASS (Community and Parents in Support of Scho
 		 
 Moo-O Plus Logo Moo-O (English ICT Tool)  <br>
 [https://plus.moo-o.com](https://plus.moo-o.com/)
+
+[The Moo-O installation guide for Parents](https://www.dropbox.com/s/vqlhr9kirpr3crn/Moo-O Installation Guide for Home Users 2022.pdf?dl=0)
+
 
 <img src="/images/Until%202022_Pictures/Koobits%20Logo.jpg" 
      style="width:50%">
