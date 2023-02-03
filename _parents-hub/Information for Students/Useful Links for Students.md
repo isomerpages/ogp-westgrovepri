@@ -20,9 +20,10 @@ The National Advisory Council, COMPASS (Community and Parents in Support of Scho
 <img src="/images/Until%202022_Pictures/Moo%20O%20Plus%20Logo.png" 
      style="width:50%">
 		 
-Moo-O Plus Logo Moo-O (English ICT Tool)  <br>
-[https://plus.moo-o.com](https://plus.moo-o.com/)
+**For Ipads:**
+Download the Moo-O App
 
+**For Home Computer:**
 [The Moo-O installation guide for Parents](https://www.dropbox.com/s/vqlhr9kirpr3crn/Moo-O Installation Guide for Home Users 2022.pdf?dl=0)
 
 
