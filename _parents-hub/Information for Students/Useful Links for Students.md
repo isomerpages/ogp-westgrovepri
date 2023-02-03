@@ -4,12 +4,6 @@ permalink: /parents/Useful-Links-for-Students/
 description: ""
 third_nav_title: Information for Students
 ---
-<img src="/images/Until%202022_Pictures/Schoolbag%20SG%20Logo.png" 
-     style="width:50%">
-		 
-[https://www.schoolbag.sg](https://www.schoolbag.sg/) <br>
-Schoolbag.sg is an online publication by the Ministry of Education, Singapore. We provide parents, educators and the general public with education news, school features and tips.
-
 <img src="/images/Until%202022_Pictures/SLS%20Logo.jpg" 
      style="width:50%">
 		 
