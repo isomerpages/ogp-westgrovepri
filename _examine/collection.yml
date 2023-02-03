@@ -1,4 +1,5 @@
 collections:
   examine:
     output: true
-    order: []
+    order:
+      - Exam1/.keep
