@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Notification to Parents/.keep
-      - School Notification to Parents/2023 Term1 Letters.md
+      - School Notification to Parents/2023 Term1 Letters to Parents.md
       - School Notification to Parents/2023 Assessment Plan.md
       - Newsletter/.keep
       - Newsletter/2022 (Semester 2).md
