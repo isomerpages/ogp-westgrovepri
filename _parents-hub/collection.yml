@@ -1,0 +1,24 @@
+collections:
+  parents-hub:
+    output: true
+    order:
+      - School Notification to Parents/.keep
+      - School Notification to Parents/2023 Term1 Letters to Parents.md
+      - School Notification to Parents/2023 Assessment Plan.md
+      - Briefing Slides.md
+      - School Information/.keep
+      - School Information/2023 Primary 1 Virtual Open House.md
+      - School Information/2023 Canteen Stall Menu with Price list.md
+      - School Information/SwimSafer Certificate User Guide for Parents.md
+      - School Information/Educational Articles for Parents.md
+      - School Information/Student Care Centre.md
+      - School Information/Sexuality Education.md
+      - Newsletter/.keep
+      - Newsletter/2022 (Semester 2).md
+      - Parent Partnership/.keep
+      - Parent Partnership/Parent Service Provider (PSP).md
+      - Parent Partnership/40 hour Parent Volunteer (PV).md
+      - Parent Partnership/Parent Support Group.md
+      - Parent Partnership/2022 Weighted Assessment Overview.md
+      - Parent Partnership/Educational Articles for Parents.md
+      - Wait List Application Form.md
