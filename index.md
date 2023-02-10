@@ -20,6 +20,6 @@ sections:
           description: P6 Ukulele performances
           url: https://drive.google.com/drive/folders/1ErH2H17bdBgrfpu9lkPzAxbT87NVEXwo?usp=share_link
         - title: Newsletter
-          description: WGPS Newsletter 2023
-          url: http://www.westgroveprimary.com/mobile/index.html
+          description: 2022 Newsletter (Semester2)
+          url: https://heyzine.com/flip-book/0f1ff65230.html
 ---
