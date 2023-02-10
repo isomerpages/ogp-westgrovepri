@@ -4,6 +4,8 @@ permalink: /cca/Clubs/infomedia-club/
 description: ""
 third_nav_title: Clubs
 ---
+![“An Infocomm Media Club, powered by IMDA”](/images/Infocomm%20Club.jpg)
+
 The mission of the club is expose our students to various mediums of digital technology and allow them to learn &amp; explore collaboratively and at their own pace. Through collaborations and opportunities, students will learn, master and share their knowledge, passion and skills within and beyond the school.&nbsp;
 
 Your children will have opportunities to:
