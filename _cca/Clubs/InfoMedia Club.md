@@ -53,7 +53,7 @@ Your children will have opportunities to:
   </tr>
   <tr>
     <td class="tg-cqbp">Teachers-in-Charge:</td>
-    <td class="tg-cxqu">Mr. Matthew Sim, Mr. Md Nadzri, Ms. Tan Hui Chin</td>
+    <td class="tg-cxqu">Mr. Matthew Sim, Mr. Md Nadzri, Ms. Aishwarya, Ms Nursheela</td>
   </tr>
 </tbody>
 </table>
