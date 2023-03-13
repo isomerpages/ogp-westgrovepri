@@ -4,13 +4,10 @@ permalink: /parents-hub/parent-partnership/parent-service-provider-psp/
 description: ""
 third_nav_title: Parent Partnership
 ---
-
-
-
 West Grove Primary School is partnering with Thye Hua Kwan (THK) Family Services Division, a Parenting Support Provider (PSP) from 2020 to provide Parenting Support Programmes.
 
-![](/images/Until%202022_Pictures/About%20Triple%20P.jpg)
-![](/images/Until%202022_Pictures/Registration%20Slide%20for%20Triple%20P%20Seminar%20Primary%20School.jpg)
+
+
 ![](/images/Until%202022_Pictures/THK%20PSP%20-%20How%20Is%20Your%20Child%20Doing%20Questionnaire.jpg)
 ![](/images/Until%202022_Pictures/THK%20FSD%20-%20PSP%20Poster.jpg)
 
