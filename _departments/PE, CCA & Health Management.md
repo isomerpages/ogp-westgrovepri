@@ -159,3 +159,5 @@ To cultivate passion in physically fit pupils for sports and games.
 
 Attached slides of Parent Workshop held on 11 March 2023.
 
+[Parents Workshop Looping Slides 2023](/files/Parents%20Workshop%20Looping%20Slides%202023(School%20Website).pdf)
+
