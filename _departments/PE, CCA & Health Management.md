@@ -161,3 +161,4 @@ Attached slides of Parent Workshop held on 11 March 2023.
 
 [Parents Workshop Looping Slides 2023](/files/Parents%20Workshop%20Looping%20Slides%202023(School%20Website).pdf)
 
+[LIVE YOUR LIFE WITH A LITTLE SPICE](/files/LIVE%20YOUR%20LIFE%20WITH%20A%20LITTLE%20SPICE.pdf)
