@@ -3,7 +3,6 @@ title: PE, CCA & Health Management
 permalink: /departments/pe-cca-n-health-management/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -155,3 +154,8 @@ To cultivate passion in physically fit pupils for sports and games.
 2.  To Appreciate nature  
     
 3.  To overcome challenges that nature presents
+
+**Parent Workshop (March 2023)**
+
+Attached slides of Parent Workshop held on 11 March 2023.
+
