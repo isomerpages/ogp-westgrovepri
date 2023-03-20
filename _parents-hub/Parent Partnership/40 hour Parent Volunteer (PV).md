@@ -64,12 +64,12 @@ Parent Volunteer Registration for **2025 Primary 1** admission will be opened fr
     height:24.25pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">PV Application Period</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
     none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">1 Feb 2023 – 20 March 2023</span></p></td></tr><tr style="mso-yfti-irow:4;height:24.25pt"><td style="width:159.75pt;border:solid black 1.0pt;
+    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">1 Feb 2023 – 30 April 2023</span></p></td></tr><tr style="mso-yfti-irow:4;height:24.25pt"><td style="width:159.75pt;border:solid black 1.0pt;
     border-top:none;background:white;padding:5.0pt 5.0pt 5.0pt 5.0pt;
     height:24.25pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">Selection Period</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
     none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">April to May 2023</span></p></td></tr><tr style="mso-yfti-irow:5;height:34.75pt"><td style="width:159.75pt;border:solid black 1.0pt;
+    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">May 2023</span></p></td></tr><tr style="mso-yfti-irow:5;height:34.75pt"><td style="width:159.75pt;border:solid black 1.0pt;
     border-top:none;background:white;padding:5.0pt 5.0pt 5.0pt 5.0pt;
     height:34.75pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">Commencement Date For Volunteering Work</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
