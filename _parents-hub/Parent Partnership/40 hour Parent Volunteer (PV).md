@@ -4,16 +4,13 @@ permalink: /parents-hub/parent-partnership/40-hour-parent-volunteer-pv/
 description: ""
 third_nav_title: Parent Partnership
 ---
-
-
-
 # West Grove Primary School
 
 ### 40-hour Parent Volunteer (PV)
 
 <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-Parent Volunteer Registration for **2025 Primary 1** admission will be opened from **1 Feb 2023 to 20 March 2023.**
+Parent Volunteer Registration for **2025 Primary 1** admission will be opened from **1 Feb 2023 to 30 April 2023.**
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
@@ -28,7 +25,7 @@ Parent Volunteer Registration for **2025 Primary 1** admission will be opened fr
   12.0pt;line-height:115%;color:#454545" lang="EN">Child must be a Singapore Citizen or a Singapore Permanent Resident.</span></p><p style="margin-left:.25in;text-align:justify;text-indent:
   -.25in;background:white;border:none;mso-border-left-alt:none windowtext 0in;
   padding:0in;mso-padding-alt:0in 0in 0in 14.0pt" class="MsoNormal"><span style="font-size:12.0pt;line-height:115%;color:#454545" lang="EN">2.</span><span style="font-size:7.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545" lang="EN"> </span><span style="font-size:12.0pt;line-height:115%;color:#454545" lang="EN">Parents may begin their registration two years prior to the Primary One Registration Exercise. Closing date for registration will be 20 March, one year before the year of the Registration Exercise. Late application will not be considered.</span></p><p style="margin-left:.25in;text-align:justify;text-indent:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545" lang="EN"> </span><span style="font-size:12.0pt;line-height:115%;color:#454545" lang="EN">Parents may begin their registration two years prior to the Primary One Registration Exercise. Closing date for registration will be 30 April 2023, one year before the year of the Registration Exercise. Late application will not be considered.</span></p><p style="margin-left:.25in;text-align:justify;text-indent:
   -.25in;background:white;border:none;mso-border-left-alt:none windowtext 0in;
   padding:0in;mso-padding-alt:0in 0in 0in 14.0pt" class="MsoNormal"><span style="font-size:12.0pt;line-height:115%;color:#454545" lang="EN">3.</span><span style="font-size:7.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#454545" lang="EN"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:
@@ -67,12 +64,12 @@ Parent Volunteer Registration for **2025 Primary 1** admission will be opened fr
     height:24.25pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">PV Application Period</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
     none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">1 Feb 2023 – 20 March 2023</span></p></td></tr><tr style="mso-yfti-irow:4;height:24.25pt"><td style="width:159.75pt;border:solid black 1.0pt;
+    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">1 Feb 2023 – 30 April 2023</span></p></td></tr><tr style="mso-yfti-irow:4;height:24.25pt"><td style="width:159.75pt;border:solid black 1.0pt;
     border-top:none;background:white;padding:5.0pt 5.0pt 5.0pt 5.0pt;
     height:24.25pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">Selection Period</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
     none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">April to May 2023</span></p></td></tr><tr style="mso-yfti-irow:5;height:34.75pt"><td style="width:159.75pt;border:solid black 1.0pt;
+    padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.25pt" valign="top" width="202"><p style="margin-top:12.0pt" class="MsoNormal"><span lang="EN">May 2023</span></p></td></tr><tr style="mso-yfti-irow:5;height:34.75pt"><td style="width:159.75pt;border:solid black 1.0pt;
     border-top:none;background:white;padding:5.0pt 5.0pt 5.0pt 5.0pt;
     height:34.75pt" valign="top" width="213"><p style="margin-top:12.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
     normal"><span style="font-size:10.5pt;line-height:115%;color:#222222" lang="EN">Commencement Date For Volunteering Work</span></b></p></td><td style="width:151.5pt;border-top:none;border-left:
