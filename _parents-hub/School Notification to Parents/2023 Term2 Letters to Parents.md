@@ -13,3 +13,5 @@ third_nav_title: School Notification to Parents
 [2023 Term 2 - P3 Year Head Letter](/files/2023%20Term%202%20-%20P3%20Year%20Head%20Letter.pdf)
 
 [2023 Term 2 - P4 Year Head Letter](/files/2023-Term1%20-%20P4%20Year%20Head%20Letter.pdf)
+
+[2023 Term 2 - P5 Year Head Letter](/files/2023%20Term%202%20-%20P5%20Year%20Head%20Letter.pdf)
