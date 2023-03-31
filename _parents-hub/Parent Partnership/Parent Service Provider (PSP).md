@@ -11,38 +11,38 @@ West Grove Primary School is partnering with Thye Hua Kwan (THK) Family Services
 ![](/images/Until%202022_Pictures/THK%20PSP%20-%20How%20Is%20Your%20Child%20Doing%20Questionnaire.jpg)
 ![](/images/Until%202022_Pictures/THK%20FSD%20-%20PSP%20Poster.jpg)
 
-**Triple P – Positive Parenting Programme**   
+**Triple P – Positive Parenting Programme**&nbsp;  
 
- Triple P is a Positive Parenting Programme that has been successfully conducted for parents all over the world.   
-
-  
-
-**Triple P helps parents:** 
-
-* Raise happy, confident children 
-
-* Manage misbehaviour so everyone in the family enjoys life more 
-
-* Set rules and routines that everyone respects and follows 
-
-* Encourage behaviour you like 
-* Take care of yourself as a parent 
-
-* Feel confident you're doing the right thing   
+&nbsp;Triple P is a Positive Parenting Programme that has been successfully conducted for parents all over the world. &nbsp;&nbsp;
 
   
 
- **Five Steps to Positive Parenting:** 
+**Triple P helps parents:**&nbsp;
 
- 1.         Creating a safe, interesting environment 
+* Raise happy, confident children&nbsp;
 
- 2.         Have a positive learning environment 
+* Manage misbehaviour so everyone in the family enjoys life more&nbsp;
 
- 3.         Use assertive discipline 
+* Set rules and routines that everyone respects and follows&nbsp;
 
- 4.         Have realistic expectations 
+* Encourage behaviour you like&nbsp;
+* Take care of yourself as a parent&nbsp;
 
- 5.         Take care of yourself   
+* Feel confident you're doing the right thing &nbsp;&nbsp;
+
+  
+
+&nbsp;**Five Steps to Positive Parenting:**&nbsp;
+
+&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creating a safe, interesting environment&nbsp;
+
+&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have a positive learning environment&nbsp;
+
+&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use assertive discipline&nbsp;
+
+&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Have realistic expectations&nbsp;
+
+&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take care of yourself &nbsp;&nbsp;
 
   
 
@@ -52,9 +52,8 @@ For parents who may wish to register with us directly, they could register via t
 
   
 
- If you have queries, kindly contact, Ms Lynette Stephen at 6747 7514 or 
+&nbsp;If you have queries, kindly contact, Ms Lynette Stephen at 6747 7514 or&nbsp;
 
 [PSP\_Jurong@thkmc.org.sg](mailto:PSP_Jurong@thkmc.org.sg)
 
-<img src="/images/Until%202022_Pictures/psp.png" 
-     style="width:45%">
+<img src="/images/Until%202022_Pictures/psp.png" style="width:45%">
