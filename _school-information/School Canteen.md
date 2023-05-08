@@ -5,28 +5,22 @@ description: ""
 ---
 **School Canteen Advertisement**
 
-<table style="margin-left:-8.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:-8.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.2pt"><td style="width:99.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Type of Stall</span></b></p></td><td style="width:99.05pt;border:solid windowtext 1.0pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.2pt"><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Type of Stall</span></b></p></td><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Closing Date</span></b></p></td><td style="width:99.05pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Requirements</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:11.2pt"><td style="width:99.05pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Closing Date</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:11.2pt"><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Rice</span></p></td><td style="width:99.05pt;border-top:none;border-left:
+  padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Rice</span></p></td><td width="132" valign="top" style="width:99.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">26 May 2023</span></p></td><td style="width:99.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt" valign="top" width="132"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">NIL</span></p></td></tr></tbody></table>
-
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">26 May 2023</span></p></td></tr></tbody></table>
 **Application Procedure**
 
 1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-![](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+[Application Form for Canteen](/files/application%20form%20for%20canteen.pdf)
 
 2.&nbsp;&nbsp;&nbsp; Attached the following documents together with the application form:
 
@@ -40,15 +34,11 @@ description: ""
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address:
 
-West Grove Primary School,
+West Grove Primary School, 
+1 Jurong West Street 72, 
+Singapore 649223. Contact No.: 62679234
 
-1 Jurong West Street 72,
-
-Singapore 649223
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact No.: 62679234
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: [wgps@moe.edu.sg](mailto:wgps@moe.edu.sg)
+Email: [wgps@moe.edu.sg](mailto:wgps@moe.edu.sg)
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact Person: Mrs Chua Siew Mei
 
