@@ -6,7 +6,7 @@ description: ""
 **School Canteen Advertisement**
 
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:-8.4pt;border-collapse:collapse;mso-table-layout-alt:fixed;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:21.1pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;
  mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.2pt"><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Type of Stall</span></b></p></td><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
