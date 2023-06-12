@@ -8,15 +8,13 @@ third_nav_title: Mother Tongue
 
 **PROGRAMMES OVERVIEW:**
 
-* MTL Fortnight /母语双周
-* Hosting of Overseas Partners / Schools
-* eOverseas Immersion Trip
-* Talent Development
-* Conversational Chinese Malay (CCM)
-* Reading &amp; Writing Programme
-* Parents’ Talk
-* Post Exam Activities
-**Cultural Programme 文化活动**
+*   Mother Tongue Language Fortnight 母语双周
+*   eOverseas Immersion Trip 线上文化浸儒
+*   Talent Development 校内校外比赛项目
+*   Conversational Chinese Malay (CCM)
+*   Reading &amp; Writing Programme 阅读与写作
+*   Parents’ Talk 家长分享会
+*   Post Exam Activities&nbsp;**Cultural Programme** 文化活动
 
 On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural Centre to watch the latest Mandarin magical musical play “The Wizard of Oz”, which was presented by the Singapore Focus Theatre in collaboration with EZ HOUSE ARTS STUDIO.  It was a great performance which left the audience with a memorable experience and lasting impression. Dorothy wanted so much to save her grandmother’s life. She took a ride with the magical tornado into the magical Emerald city. She made friends with a brainless scarecrow, a heartless tin man and a timid lion. They all have their wishes they wanted to fulfil, so they worked together, learnt from one other, and endured hardships together to finally achieve their wishes. The music and magic elements successfully created a magical kingdom. Together with the values emphasized by the Ministry of Education and the unique experiences of local students, this western plot was modified to suit the needs of the audiences, at the same time teaching them valuable lessons through the show, to cultivate good habit and values in them. This show also encouraged and inspired students’ interest in the learning of Chinese Language.
 
