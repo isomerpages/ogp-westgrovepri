@@ -174,8 +174,6 @@ Based on the survey conducted after each module, students generally enjoyed the 
 
 Useful Links:
 
-Singapore Examinations and Assessment Board Approved Dictionary
-[https://www.seab.gov.sg/pages/dictionary\_list](https://www.seab.gov.sg/pages/dictionary_list)  
-[http://www.seab.gov.sg/content/dictionary/2017PSLEDictList.pdf](https://westgrovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u179/Departments/Mother%20Tongue/Useful%20Links/SEAB%20-%202017%20PSLE%20Dict%20List/2017PSLEDictList.pdf)
+Singapore Examinations and Assessment Board Approved Dictionary&nbsp;
 
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSta21g1goeFAsIl3gGcplOEnTReqbLGh50O2sOjAqc3gUHG9W5C9VF-SXt-r6DuebxJyHg0hF8gK_5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+[https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
