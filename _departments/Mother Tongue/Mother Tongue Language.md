@@ -6,158 +6,38 @@ third_nav_title: Mother Tongue
 ---
 # Mother Tongue
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Head of Department</th>
-    <th class="tg-y7qa">Ms Tan Poh Ching 陈宝真</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rj1p">Subject Head (Chinese)<br></td>
-    <td class="tg-y7qa">Ms. Foong Yuk Yew 洪毓瑶<br></td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Subject Head (Malay and Tamil)</td>
-    <td class="tg-y7qa">Mdm. Shariffah Haiezian Syed Hu</td>
-  </tr>
-  <tr>
-    <td class="tg-rj1p">Coordinator (Tamil)<br></td>
-    <td class="tg-y7qa">Ms. Alagu Meenal Thamodaran</td>
-  </tr>
-</tbody>
-</table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7de">Level Representatives (Chinese) (P1)</th>
-    <th class="tg-eohv">Ms Foon Siew Man 潘秀雯<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Chinese) (P2)<br></td>
-    <td class="tg-eohv">Mdm Chua Ting Ting  蔡庭婷<br></td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Chinese) (P3)<br></td>
-    <td class="tg-eohv">Mdm Tang Oi Khum 邓爱琴<br></td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Chinese) (P4)</td>
-    <td class="tg-eohv">Mdm Goh Ming Mei 吴明美<br></td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Chinese) (P5)</td>
-    <td class="tg-eohv">Mrs Goh WeiJun 林韦君</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Chinese) (P6)</td>
-    <td class="tg-eohv">Mdm Liu Wei Qin 刘卫琴</td>
-  </tr>
-</tbody>
-</table>
+ <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} .font5 {color:#222222; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:"Times New Roman", serif; mso-font-charset:0;} .font6 {color:#222222; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:方正楷体\_GBK; mso-generic-font-family:auto; mso-font-charset:0;} .font7 {color:#0C2733; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:方正楷体\_GBK; mso-generic-font-family:auto; mso-font-charset:0;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri; mso-generic-font-family:auto; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {color:#222222; font-weight:700; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; background:#EAEAEA; mso-pattern:black none; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl66 {color:#222222; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; background:#EAEAEA; mso-pattern:black none; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl67 {color:#0C2733; font-weight:700; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl68 {color:#0C2733; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl69 {color:#323232; font-weight:700; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl70 {font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal; padding-left:15px; mso-char-indent-count:1;} .xl71 {font-weight:700; font-family:"Times New Roman", serif; mso-font-charset:0; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal; padding-left:15px; mso-char-indent-count:1;} -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s7de">Level Representatives (Malay) (P1)</th>
-    <th class="tg-eohv">Mdm Noor Afizah</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Malay) (P2)</td>
-    <td class="tg-eohv">Ms Kartini Khairi</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Malay) (P3)</td>
-    <td class="tg-eohv">Mdm Sabrina Annarhar (Sem1)<br>Mdm Noor Afizah (Sem 2)</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Malay) (P4)</td>
-    <td class="tg-eohv">Mdm Sabrina Annarhar </td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Malay) (P5)</td>
-    <td class="tg-eohv">Mdm Shariffah Haiezian <span style="color:#222">Syed Hu</span></td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Level Representatives (Malay) (P6)</td>
-    <td class="tg-eohv">Ms Shariffah Affinda </td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Level Representatives (Tamil) (P1)</th>
-    <th class="tg-baqh"> Mdm Palanivelu Seetha </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm">Level Representatives (Tamil) (P2) </td>
-    <td class="tg-baqh"> Ms Aishwarya Durga d/o Nalamthamby</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Level Representatives (Tamil) (P3) </td>
-    <td class="tg-baqh"> Ms Alagu Meenal Thamodaran</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Level Representatives (Tamil) (P4) </td>
-    <td class="tg-baqh"> Ms Alagu Meenal Thamodaran</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Level Representatives (Tamil) (P5) </td>
-    <td class="tg-baqh"> Mdm Palanivelu Seetha </td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Level Representatives (Tamil) (P6) </td>
-    <td class="tg-baqh"> Ms Aishwarya Durga d/o Nalamthamby</td>
-  </tr>
-</tbody>
-</table>
-
+<table style="border-collapse:
+ collapse;width:407pt;mso-yfti-tbllook:1184" width="542" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:9704;width:209pt" width="278"> <col style="mso-width-source:userset;mso-width-alt:9216;width:198pt" width="264"></colgroup><tbody><tr style="height:14.5pt;mso-yfti-firstrow:yes;mso-yfti-irow:0" height="19"><td style="height:14.5pt;width:209pt" width="278" class="xl65" height="19">Head of Department</td><td style="border-left:none;width:198pt" width="264" class="xl66">Ms Tan Poh Ching <font class="font6">陈宝真</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:1" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl65" height="19">Subject Head (Malay and Tamil)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl66">Mdm Shariffah Haiezian Syed Hu</td></tr><tr style="height:14.5pt;mso-yfti-irow:2" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl65" height="19">Coordinator (Tamil)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl66">Ms Alagu Meenal Thamodaran</td></tr><tr style="height:14.5pt;mso-yfti-irow:3" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Chinese) (P1)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Goh Ming Mei <font class="font7">吴明美</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:4" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Chinese) (P2)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Ms Tan Hui Yang <font class="font7">陈绘旸</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:5" height="19"><td style="height:29.0pt;border-top:
+  none;width:209pt" width="278" class="xl67" height="38" rowspan="2">Level Representatives (Chinese) (P3)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Tang Oi Khum <font class="font7">邓爱琴</font></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none;
+  border-left:none;width:198pt" width="264" class="xl68" height="19">Mdm Huang Wanxi <font class="font7">黄婉僖</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:6" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Chinese) (P4)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Ms Ng Yangxi <font class="font7">黄旸稀</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:7" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Chinese) (P5)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mrs Goh WeiJun <font class="font7">林韦君</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:8;mso-yfti-lastrow:yes" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Chinese) (P6)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Liu Wei Qin<font class="font7"> 刘卫琴</font></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P1)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Sabrina Annarhar</td></tr><tr style="height:14.5pt;mso-yfti-irow:1" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P2)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Ms Shariffah Affinda</td></tr><tr style="height:14.5pt;mso-yfti-irow:2" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P3)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Sabrina Annarhar<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:14.5pt;mso-yfti-irow:3" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P4)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Ms Kartini Bte Khairi</td></tr><tr style="height:14.5pt;mso-yfti-irow:4" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P5)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Ms Kartini Bte Khairi</td></tr><tr style="height:14.5pt;mso-yfti-irow:5" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl67" height="19">Level Representatives (Malay) (P6)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl68">Mdm Shariffah Haiezian&nbsp;<font class="font5">Syed Hu</font></td></tr><tr style="height:14.5pt;mso-yfti-irow:6" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl69" height="19">Level Representatives (Tamil) (P1)</td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70">Ms Alagu Meenal Thamodaran</td></tr><tr style="height:14.5pt;mso-yfti-irow:7" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl71" height="19"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Representatives (Tamil) (P2)</span></td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:&quot;Times New Roman&quot;">Mdm Palanivelu Seetha</span></td></tr><tr style="height:14.5pt;mso-yfti-irow:8" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl71" height="19"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Representatives (Tamil) (P3)</span></td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:&quot;Times New Roman&quot;">Mdm Palanivelu Seetha</span></td></tr><tr style="height:14.5pt;mso-yfti-irow:9" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl71" height="19"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Representatives (Tamil) (P4)</span></td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:&quot;Times New Roman&quot;">Ms Aishwarya Durga d/o Nalamthamby</span></td></tr><tr style="height:14.5pt;mso-yfti-irow:10" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl71" height="19"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Representatives (Tamil) (P5)</span></td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:&quot;Times New Roman&quot;">Ms Aishwarya Durga d/o Nalamthamby</span></td></tr><tr style="height:14.5pt;mso-yfti-irow:11;mso-yfti-lastrow:yes" height="19"><td style="height:14.5pt;border-top:none;
+  width:209pt" width="278" class="xl71" height="19"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">Level Representatives (Tamil) (P6)</span></td><td style="border-top:none;border-left:none;width:198pt" width="264" class="xl70"><span style="mso-bidi-font-family:Arial;mso-fareast-font-family:&quot;Times New Roman&quot;">Ms Alagu Meenal Thamodaran</span></td></tr></tbody></table>
+	
 **MISSION:**
 
 (1)  To create a conducive MTL learning environment
@@ -292,10 +172,11 @@ In West Grove Primary School, this module is being offered as an enrichment prog
 
 Based on the survey conducted after each module, students generally enjoyed the lessons and agreed that they had learnt more about the Chinese/Malay language &amp; culture.&nbsp;Moreover, students also mentioned that this&nbsp;programme provided them the opportunity to understand their peers of another race better as they are now better equipped to converse in their peers' own mother tongue language to some extent.
 
+**4. Mother Tongue Flipped Classroom 2023**
+
+
 Useful Links:
 
-Singapore Examinations and Assessment Board Approved Dictionary
-[https://www.seab.gov.sg/pages/dictionary\_list](https://www.seab.gov.sg/pages/dictionary_list)  
-[http://www.seab.gov.sg/content/dictionary/2017PSLEDictList.pdf](https://westgrovepri-moe-edu-sg-admin.cwp.sg/qql/slot/u179/Departments/Mother%20Tongue/Useful%20Links/SEAB%20-%202017%20PSLE%20Dict%20List/2017PSLEDictList.pdf)
+Singapore Examinations and Assessment Board Approved Dictionary&nbsp;
 
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSta21g1goeFAsIl3gGcplOEnTReqbLGh50O2sOjAqc3gUHG9W5C9VF-SXt-r6DuebxJyHg0hF8gK_5/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+[https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
