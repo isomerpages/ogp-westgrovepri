@@ -186,9 +186,6 @@ Thus, at this stage, teachers still create time and space for students to access
 
 <img src="/images/2023%20%20%20Jan%20to%20Dec/mt3_2023.jpg" style="width:50%" align="left">	
 
-
-
-
 To encourage the learning of Mother Tongue Languages as a living language and to ignite our students’ love for the language, we have little reporters’ programs and a microsite for our student reporters to bring interesting news to their school’s mates in mother tongue languages.
 
 **Little Reporters Program for selected P4 – P6 students**
@@ -203,9 +200,6 @@ In the microsite, there are two sections, namely “Spotlight” and “Feature 
 
 Our little reporters went on to SPH for an enriching learning journey and got to visit the office of local reporters.
 
-
-**Useful Links:**
-
-Singapore Examinations and Assessment Board Approved Dictionary&nbsp;
-
-[https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt4_2023.jpg" style="width:50%" align="left">	
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt5_2023.jpg" style="width:60%" align="left">	
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt6_2023.jpg" style="width:40%" align="right">	
