@@ -200,6 +200,5 @@ In the microsite, there are two sections, namely “Spotlight” and “Feature 
 
 Our little reporters went on to SPH for an enriching learning journey and got to visit the office of local reporters.
 
-<img src="/images/2023%20%20%20Jan%20to%20Dec/mt4_2023.jpg" style="width:50%" align="left">	
-<img src="/images/2023%20%20%20Jan%20to%20Dec/mt5_2023.jpg" style="width:60%" align="left">	
-<img src="/images/2023%20%20%20Jan%20to%20Dec/mt6_2023.jpg" style="width:40%" align="right">	
+
+
