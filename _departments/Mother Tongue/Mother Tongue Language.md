@@ -196,9 +196,15 @@ The aim of this program is to nurture West Grovians in speaking and writing of t
 
 In the microsite, there are two sections, namely “Spotlight” and “Feature Me”. In the section “Spotlight”, students would discover exciting happening around him/her. As for the section “Feature Me”, West Grovians are encouraged to be an active news contributor. He/she could drop in a few liners (in mother tongue language) for our student reporters to interview and report on.
 
+![MT_2023](/images/2023%20%20%20Jan%20to%20Dec/mt_2023.jpg)
+
 **Yearly Learning Journey trips for Little Reporters**
 
 Our little reporters went on to SPH for an enriching learning journey and got to visit the office of local reporters.
 
 
+**Useful Links:**
 
+Singapore Examinations and Assessment Board Approved Dictionary
+
+[https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
