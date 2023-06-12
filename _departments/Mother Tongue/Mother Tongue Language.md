@@ -174,8 +174,37 @@ Based on the survey conducted after each module, students generally enjoyed the 
 
 **4. Mother Tongue Flipped Classroom 2023**
 
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt1_2023.jpg" style="width:50%" align="left">	
+ Mother Tongue classes have adopted the flipped classroom model to promote active learning, increase student engagement, and improve student performance by allowing more opportunities for collaboration and interaction with peers.
+ 
+While the flipped classroom model offers many potential benefits, there are also some challenges to consider. Flipped classroom relies on technology, such as access to internet, computers, and mobile devices. Not all students may have access to these resources, which can create a digital divide and limit the effectiveness of the flipped classroom approach. Besides that, flipped classroom requires students to take responsibility for their own learning and manage their time effectively to complete the required pre-class assignments. Some students may struggle with motivation or time management skills. In addition, students who are used to a more passive learning style may struggle with the increased level of responsibility and independence required in a flipped classroom.
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt2_2023.jpg" style="width:50%" align="left">	
 
-Useful Links:
+Thus, at this stage, teachers still create time and space for students to access their Student Learning Space (SLS) to complete their pre-class assignments so that all students benefit from this teaching approach.
+
+**5. Mother Tongue Little Reporters 2023**
+
+<img src="/images/2023%20%20%20Jan%20to%20Dec/mt3_2023.jpg" style="width:50%" align="left">	
+
+
+
+
+To encourage the learning of Mother Tongue Languages as a living language and to ignite our students’ love for the language, we have little reporters’ programs and a microsite for our student reporters to bring interesting news to their school’s mates in mother tongue languages.
+
+**Little Reporters Program for selected P4 – P6 students**
+
+The aim of this program is to nurture West Grovians in speaking and writing of the Mother Tongue Language. We aimed to get the trained little reporters to report on school-based events with a termly theme.
+
+**Mother Tongue News Buzz**
+
+In the microsite, there are two sections, namely “Spotlight” and “Feature Me”. In the section “Spotlight”, students would discover exciting happening around him/her. As for the section “Feature Me”, West Grovians are encouraged to be an active news contributor. He/she could drop in a few liners (in mother tongue language) for our student reporters to interview and report on.
+
+**Yearly Learning Journey trips for Little Reporters**
+
+Our little reporters went on to SPH for an enriching learning journey and got to visit the office of local reporters.
+
+
+**Useful Links:**
 
 Singapore Examinations and Assessment Board Approved Dictionary&nbsp;
 
