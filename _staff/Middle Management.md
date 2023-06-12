@@ -21,7 +21,7 @@ description: ""
   mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid windowtext .5pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt" width="392"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Mdm. Siti Rashidah Bte Abdul Rahman</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:310.1pt;border:solid windowtext 1.0pt;border-top:
+  &quot;Times New Roman&quot;">Mrs. Chermaine Chong</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes"><td style="width:310.1pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   background:#DDDDDD;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#0C2733">Vice–Principal (Administration)</span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
