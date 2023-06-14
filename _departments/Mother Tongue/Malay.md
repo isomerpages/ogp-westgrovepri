@@ -16,6 +16,18 @@ third_nav_title: Mother Tongue
 * Parents’ Talk
 * Post Exam Activities
 
+**Malay Language Internal Competitions 2023**
+
+Competitions provide a platform for students to showcase their talents in reading, writing, spelling, and public speaking.
+
+By engaging in friendly competition, students are also motivated to explore and delve deeper into the language, nurturing their interest and passion. Presenting in front of an audience, articulating thoughts effectively, and receiving feedback helps students overcome stage fright and develop self-confidence.
+
+In summary, level or interclass competitions play a vital role in enhancing language skills, fostering a love for language, building confidence, promoting social interactions, and motivating students.
+
+**Malay Language Talent Programme (Internal) 2023**
+
+In term 2 and term 3, internal competitions were held across the levels. The competitions that were held for the different levels were as follows:
+
 **MTL Fortnight / Dwi Minggu Bahasa**
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Malay Handicrafts, pupils from across the levels were introduced to Malay handicrafts such as pottery, calligraphy and weaving.
