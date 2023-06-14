@@ -9,7 +9,6 @@ third_nav_title: Mother Tongue
 **PROGRAMMES OVERVIEW:**
 
 * MTL Fortnight / Dwi Minggu Bahasa
-* Hosting of Overseas Partners / Schools
 * eOverseas Immersion Trip
 * Talent Development
 * Conversational Chinese Malay (CCM)
