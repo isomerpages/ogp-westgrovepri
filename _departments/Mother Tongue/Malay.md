@@ -28,6 +28,10 @@ In summary, level or interclass competitions play a vital role in enhancing lang
 
 In term 2 and term 3, internal competitions were held across the levels. The competitions that were held for the different levels were as follows:
 
+![MT-ML1_2023](/images/mt-ml1_2023.jpg)
+
+Pupils enjoyed themselves thoroughly as they realised that the learning of Malay Language can indeed be fun. They realised that through singing and acting, learning can still take place.
+
 **MTL Fortnight / Dwi Minggu Bahasa**
 
 The Mother Tongue Language Fortnight is a platform to expose Malay Language pupils to the beauty and diversity of the Malay culture and traditions. In line with the theme of Malay Handicrafts, pupils from across the levels were introduced to Malay handicrafts such as pottery, calligraphy and weaving.
