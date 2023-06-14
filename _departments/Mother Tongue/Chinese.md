@@ -16,6 +16,16 @@ third_nav_title: Mother Tongue
 *   Parents’ Talk 家长分享会
 *   Post Exam Activities&nbsp;**Cultural Programme** 文化活动
 
+**Mother Tongue Fortnight 2023 – Chinese Classroom Activities**
+
+This annual programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.&nbsp;
+
+This year’s theme is “Creativity &amp; Innovation” aims to foster in our students the passion for cultural learning through a series of diverse activities.
+
+Our students took part in a variety of activities, such as P1 students were learning about cloth stickers, P2 students were learning about shuttlecock, P3 students were learning about tie-dye art, P4 students were learning about roll paper art, P5 students were learning about Chinese porcelain, and P6 students were umbrella painting.
+
+These activities provided an invaluable opportunity for students to learn more of their cultural heritage in a fun way.
+
 On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural Centre to watch the latest Mandarin magical musical play “The Wizard of Oz”, which was presented by the Singapore Focus Theatre in collaboration with EZ HOUSE ARTS STUDIO.  It was a great performance which left the audience with a memorable experience and lasting impression. Dorothy wanted so much to save her grandmother’s life. She took a ride with the magical tornado into the magical Emerald city. She made friends with a brainless scarecrow, a heartless tin man and a timid lion. They all have their wishes they wanted to fulfil, so they worked together, learnt from one other, and endured hardships together to finally achieve their wishes. The music and magic elements successfully created a magical kingdom. Together with the values emphasized by the Ministry of Education and the unique experiences of local students, this western plot was modified to suit the needs of the audiences, at the same time teaching them valuable lessons through the show, to cultivate good habit and values in them. This show also encouraged and inspired students’ interest in the learning of Chinese Language.
 
 7月25日下午，本校93名五年级的学生在老师们的带领下来到新加坡新加坡华族文化中心，观看了由新加坡焦点剧场和EZ HOUSE ARTS STUDIO 联办的大型舞台剧《绿野仙踪》。演员们精彩的表演给同学们留下了深刻的印象。此剧主要讲述的是桃乐丝为挽救奶奶的生命，乘着神奇的龙卷风来到了充满奇幻魔法的奥兹王国。在那里， 她结识了没有脑子的稻草人、没有心脏的铁皮人和十分胆小的狮子，他们为了实现各自的心愿，互相帮助，相互学习，历尽艰险，并在最后如愿以偿实现了各自的愿望。此剧利用歌舞剧和魔术表演的形式，成功打造了一个奇妙的魔幻国度。此剧也根据新加坡教育理念及本地学生特殊的成长经历，将这部西方的经典故事进行了改编，用生动的情节告诉我们一个深刻的道理，使其在观看后树立良好的价值观。同学们在观赏后反馈此生动有趣的舞台剧提升了他们对学习母语的兴趣。
