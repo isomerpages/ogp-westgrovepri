@@ -8,15 +8,29 @@ third_nav_title: Mother Tongue
 
 **PROGRAMMES OVERVIEW:**
 
-* MTL Fortnight /母语双周
-* Hosting of Overseas Partners / Schools
-* eOverseas Immersion Trip
-* Talent Development
-* Conversational Chinese Malay (CCM)
-* Reading &amp; Writing Programme
-* Parents’ Talk
-* Post Exam Activities
-**Cultural Programme 文化活动**
+*   Mother Tongue Language Fortnight 母语双周
+*   eOverseas Immersion Trip 线上文化浸儒
+*   Talent Development 校内校外比赛项目
+*   Conversational Chinese Malay (CCM)
+*   Reading &amp; Writing Programme 阅读与写作
+*   Parents’ Talk 家长分享会
+*   Post Exam Activities&nbsp;**Cultural Programme** 文化活动
+
+**Mother Tongue Fortnight 2023 – Chinese Classroom Activities**
+
+This annual programme aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures.&nbsp;
+
+This year’s theme is “Creativity &amp; Innovation” aims to foster in our students the passion for cultural learning through a series of diverse activities.
+
+Our students took part in a variety of activities, such as P1 students were learning about cloth stickers, P2 students were learning about shuttlecock, P3 students were learning about tie-dye art, P4 students were learning about roll paper art, P5 students were learning about Chinese porcelain, and P6 students were umbrella painting.
+
+These activities provided an invaluable opportunity for students to learn more of their cultural heritage in a fun way.
+
+**Morning Pre-Assembly MT Book Sharing** **晨读及分享活动**
+
+“风声、雨声、读书声，声声入耳。”这就是我们每日晨读时的情景。学生上台分享并推荐有趣且有意义的图书，并向大家呈现出故事内容。此外，精彩的“世界书香日”活动也为同学们带来了乐趣。
+
+The school campus is full of reading every morning. Any students can come to the stage to share and recommend interesting and meaningful books and present the story content to everyone. In addition, the wonderful “World Book Day” activities also brought fun to the students.
 
 On 25 July 2018, 93 P5 pupils and 6 teachers went to Singapore Chinese Cultural Centre to watch the latest Mandarin magical musical play “The Wizard of Oz”, which was presented by the Singapore Focus Theatre in collaboration with EZ HOUSE ARTS STUDIO.  It was a great performance which left the audience with a memorable experience and lasting impression. Dorothy wanted so much to save her grandmother’s life. She took a ride with the magical tornado into the magical Emerald city. She made friends with a brainless scarecrow, a heartless tin man and a timid lion. They all have their wishes they wanted to fulfil, so they worked together, learnt from one other, and endured hardships together to finally achieve their wishes. The music and magic elements successfully created a magical kingdom. Together with the values emphasized by the Ministry of Education and the unique experiences of local students, this western plot was modified to suit the needs of the audiences, at the same time teaching them valuable lessons through the show, to cultivate good habit and values in them. This show also encouraged and inspired students’ interest in the learning of Chinese Language.
 

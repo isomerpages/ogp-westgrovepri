@@ -19,11 +19,177 @@ West Grove J95 Boys’ Brigade seeks to provide opportunities for boys to learn,
  
 * To train members to become loyal and responsible citizens.
 
-<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="804" style="margin: 0px; outline: 0px; padding: 0px; width: 791px; border: 1pt solid rgb(42, 42, 42); height: 158px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="270" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 267px; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Day:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td width="529" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 513px; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Saturday</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Time:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td width="378" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">7.30 a.m. – 10.00 a.m.</span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Venue:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td width="378" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">School Parade Square</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Teachers-in-Charge:</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td><td width="378" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mr Jason Liu Ning,&nbsp;</span></p><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">&nbsp;Mr Yeow Soon Hao,&nbsp;</span></p><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mrs. Nancy Tan-Chan</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="191" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 143.25pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Officers &amp; Key Volunteers</span></b></p></td><td width="378" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 283.5pt; border: 1pt solid rgb(42, 42, 42);"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Captain Max, 2LT Mdm.&nbsp; &nbsp;Catherine,&nbsp;</span></p><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Officer Cadet Nehemiah,&nbsp;</span></p><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Mr Denny&nbsp;</span></p></td></tr></tbody></table>
-
+<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="551" style="width:413.6pt;mso-cellspacing:1.5pt;margin-left:80.6pt;border:solid #2A2A2A 1.0pt;
+ mso-border-alt:solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="188" style="width:141.35pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733;
+  mso-ansi-language:EN-GB">Day:</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td><td width="357" style="width:267.75pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Saturday</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="188" style="width:141.35pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733;
+  mso-ansi-language:EN-GB">Time:</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td><td width="357" style="width:267.75pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733;
+  mso-ansi-language:EN-GB">7.30 a.m. – 10.00 a.m.</span><span style="font-size:
+  12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:2"><td width="188" style="width:141.35pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733;
+  mso-ansi-language:EN-GB">Venue:</span></b><span style="font-size:12.0pt;
+  font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#0C2733"></span></p></td><td width="357" style="width:267.75pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">School Parade Square</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="188" style="width:141.35pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><b><span lang="EN-GB" style="font-size:12.0pt;font-family:
+  &quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733;
+  mso-ansi-language:EN-GB">Teachers-in-Charge:</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td width="357" style="width:267.75pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Mr Jason Liu Ning, Mr Saw Jin Teik,</span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Mrs Nancy Tan-Chan, Mr Lee Shi Hao</span></p></td></tr></tbody></table>
+	
 **Achievements**
 
-<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" align="left" width="668" style="margin: 0px; outline: 0px; padding: 0px; width: 793px; border: 1pt solid rgb(42, 42, 42); height: 108px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 16.65pt;"><td width="664" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 785px; border: 1pt solid rgb(42, 42, 42); height: 16.65pt;"><p class="MsoNormal" align="center" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: 16.8pt; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: center;"><b style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-GB" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">2022</span></b><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 49.5pt;"><td width="664" style="margin: 0px; outline: 0px; padding: 1.5pt; width: 498.25pt; border: 1pt solid rgb(42, 42, 42); height: 49.5pt;"><p class="MsoListParagraphCxSpFirst" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: justify; text-indent: -0.25in;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Symbol;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span>·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; &nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Adventure Quest - Gold Honor Roll</span></p><p class="MsoListParagraphCxSpLast" style="margin: 0px 0px 0in; outline: 0px; padding: 0px; line-height: normal; font-weight: 400; font-size: 16px; color: rgb(12, 39, 51); font-family: &quot;Open Sans&quot;; text-align: justify; text-indent: -0.25in;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Symbol;"><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px;">&nbsp;&nbsp; &nbsp;</span>·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; &nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Open Sans&quot;, sans-serif;">Adventure Quest Achievement of Junior Programme Gold Award - 7 Boys</span></p></td></tr></tbody></table>
+<table style="margin-left:28.25pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="300"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Awards</span></b></p></td><td style="width:1.0in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">2020</span></b></p></td><td style="width:.75in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">2021</span></b></p></td><td style="width:139.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">2022</span></b></p></td><td style="width:.75in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">2023</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="300"><p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733">JM Fraser</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Silver</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Excellence (Distinction)</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="300"><p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733">Adventure Quest</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Bronze</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Gold</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Gold</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">(13 Boys)</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="300"><p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733">Character Quest</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Silver</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:224.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="300"><p style="margin-bottom:0in;line-height:16.8pt" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733">Junior Programme (Graduating Boys)</span></p></td><td style="width:1.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="96"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Gold</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">(5 Boys)</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Gold</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">(2 Boys)</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Gold</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">(6 Boys)</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="margin-bottom:0in;text-align:center;
+  line-height:16.8pt" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">&nbsp;</span></p></td></tr></tbody></table>
+
 
 **Our Boys in Action**
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="560" height="560" allowfullscreen="true"></iframe>
