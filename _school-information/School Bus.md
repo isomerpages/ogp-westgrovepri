@@ -9,9 +9,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1.           \[Call for Proposal by School\] [Call for Proposal by School](/files/call%20for%20proposals%20by%20school.pdf)
+1.          [[Call for Proposal by School]](/files/call%20for%20proposals%20by%20school.pdf)
 
-2.           \[Agreement for Appointment of School Bus Operator\] –> to upload PDF document
+2.           [[Agreement for Appointment of School Bus Operator]](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 **Application Procedure**
 
