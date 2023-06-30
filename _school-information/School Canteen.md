@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /school-information/permalink/school-canteen/
+permalink: /school-information/school-canteen/
 description: ""
 ---
 **School Canteen Advertisement**
@@ -16,7 +16,7 @@ description: ""
   padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Rice</span></p></td><td width="132" valign="top" style="width:99.05pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">26 May 2023</span></p></td></tr></tbody></table>
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">31 August 2023</span></p></td></tr></tbody></table>
 **Application Procedure**
 
 1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
