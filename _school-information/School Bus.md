@@ -26,3 +26,9 @@ Contact No: 62679234
 Email: [wgps@moe.edu.sg](mailto:wgps@moe.edu.sg)
 
 Contact Person: Mrs Chua Siew Mei / Admin Manager
+
+**How to get there?**
+
+·       Nearest MRT: Boon Lay MRT Station (EW27)
+
+·        Bus number: 242, 99
