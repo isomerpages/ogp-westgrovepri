@@ -1,10 +1,10 @@
 ---
-title: Bookshop, Dental Clinic, School Gate Opening Times
-permalink: /school-information/bookshop-dental-clinic-school-gate-opening-times/
+title: BOOKSHOP, DENTAL CLINIC & OTHER SCHOOL INFORMATION
+permalink: /school-information/bookshop-dental-clinic-other-school-information/
 description: ""
 third_nav_title: School Matters Opening Time
 ---
-### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC, UNIFORM &amp; SHOES
+### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC &amp; OTHER SCHOOL INFORMATION
 
 Please kindly call the school to confirm the services below are available on the day before making the trip down to the school.
 
@@ -132,5 +132,3 @@ Any inconvenience caused is much regretted.
   </tr>
 </tbody>
 </table>
-
-[ Bus Forms 2022](/files/Bus%20Form%201_2022.pdf)
