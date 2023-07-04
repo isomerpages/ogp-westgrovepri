@@ -4,7 +4,7 @@ permalink: /school-information/bookshop-dental-clinic-school-gate-opening-times/
 description: ""
 third_nav_title: School Matters Opening Time
 ---
-### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC, UNIFORM &amp; SHOES
+### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC &amp; OTHER SCHOOL INFORMATION
 
 Please kindly call the school to confirm the services below are available on the day before making the trip down to the school.
 
