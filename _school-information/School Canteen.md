@@ -5,18 +5,51 @@ description: ""
 ---
 **School Canteen Advertisement**
 
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" align="left" width="543" style="width:372.5pt;background:white;border-collapse:collapse;
+ mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:
+ 9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:margin;mso-table-anchor-horizontal:
+ page;mso-table-left:107.25pt;mso-table-top:21.15pt;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.0pt"><td width="251" valign="top" style="width:188.5pt;border:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">Type of Stall</span></b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#484848;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="192" valign="top" style="width:2.0in;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center;line-height:normal;mso-element:frame;mso-element-frame-hspace:
+  9.0pt;mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">Closing Date</span></b><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#484848;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:1;height:20.0pt"><td width="251" valign="top" style="width:188.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">Chinese Rice</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#484848;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td><td width="192" valign="top" style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">31 August 2023</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#484848;mso-font-kerning:0pt;mso-ligatures:none"></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:20.0pt"><td width="251" valign="top" style="width:188.5pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">Malay Rice</span></p></td><td width="192" valign="top" style="width:2.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:20.0pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-horizontal:page;mso-element-left:
+  107.3pt;mso-element-top:21.15pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#484848;mso-font-kerning:0pt;mso-ligatures:none">31 August 2023</span></p></td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:1.1pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.2pt 0in 5.2pt;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:11.2pt"><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Type of Stall</span></b></p></td><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><b><span style="font-family:&quot;Arial&quot;,sans-serif">Closing Date</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:11.2pt"><td width="132" valign="top" style="width:99.05pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">Chinese Rice</span></p></td><td width="132" valign="top" style="width:99.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:11.2pt"><p class="Default"><span style="font-family:&quot;Arial&quot;,sans-serif">31 August 2023</span></p></td></tr></tbody></table>
 **Application Procedure**
 
 1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
