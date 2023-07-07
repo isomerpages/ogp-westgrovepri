@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 ### BB MOTTO
-![](/images/Until%202022_Pictures/Boys%20Brigade%20Logo.png)
+<img src="/images/Until%202022_Pictures/Boys%20Brigade%20Logo.png" style="width:40%" align="center">
 
 **Sure and Steadfast**
 
