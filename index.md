@@ -20,6 +20,6 @@ sections:
           description: WE-STories 2023
           url: https://go.gov.sg/westories-official
         - title: Newsletter
-          description: 2022 Newsletter (Semester2)
-          url: https://heyzine.com/flip-book/0f1ff65230.html
+          description: 2023 Newsletter (Semester 1)
+          url: https://heyzine.com/flip-book/7739cf03fb.html
 ---
