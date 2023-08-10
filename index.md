@@ -13,7 +13,7 @@ sections:
       url: /contact-us/
       subtitle: Wisdom and Grace
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: ANNOUNCEMENT 1
           description: "Touching Tributes: Teachers' Day Msg on Padlet"
           url: https://drive.google.com/file/d/1pfcVG6bKgCZqvtW9-DrdDrMc_kqGywVg/view?usp=sharing
         - title: WE-STories
@@ -22,4 +22,7 @@ sections:
         - title: Newsletter
           description: 2023 Newsletter (Semester 1)
           url: https://heyzine.com/flip-book/7739cf03fb.html
+        - title: ANNOUNCEMENT 2
+          description: "Touching Tributes: Teachers' Day Msg on Padlet"
+          url: https://drive.google.com/file/d/1pfcVG6bKgCZqvtW9-DrdDrMc_kqGywVg/view?usp=sharing
 ---
