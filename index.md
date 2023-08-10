@@ -13,9 +13,12 @@ sections:
       url: /contact-us/
       subtitle: Wisdom and Grace
       key_highlights:
-        - title: ANNOUNCEMENTS
+        - title: ANNOUNCEMENT 1
           description: Primary-1 Virtual Open House
           url: https://sites.google.com/moe.edu.sg/wgps-2023-primary-1-virtual-op/home
+        - title: ANNOUNCEMENT 2
+          description: "Touching Tributes: Teachers' Day Msg on Padlet"
+          url: https://drive.google.com/file/d/1pfcVG6bKgCZqvtW9-DrdDrMc_kqGywVg/view?usp=sharing
         - title: WE-STories
           description: WE-STories 2023
           url: https://go.gov.sg/westories-official
