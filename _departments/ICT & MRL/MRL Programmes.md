@@ -139,16 +139,20 @@ Our school invites librarian from the NLB to conduct interesting storytelling se
 
 **Resources:**
 
-To find out more about the books and resources in our school library, visit our library online public access catalogue (OPAC): https://westgrovepri.spydus.com.sg
+To find out more about the books and resources in our school library, visit our library online public access catalogue (OPAC): 
+
+[https://westgrovepri.spydus.com.sg]()
 
 Refer to student’s MRL Booklet for further instructions.
 
 
 Sign up with NLB for a wider range of resources including eBooks:
-https://www.nlb.gov.sg/myLibraryInfo.aspx
+[https://www.nlb.gov.sg/myLibraryInfo.aspx]()
 
 
-DiscoveReads Link: http://www.nlb.gov.sg/discovereads/
+DiscoveReads Link: 
+[http://www.nlb.gov.sg/discovereads/]()
+
 <img style="width:50%" src="/images/Until%202022_Pictures/Discove%20Reads.jpg">
 
 The Reading Excellence Award: http://www.nlb.gov.sg/discovereads/readingaward/
