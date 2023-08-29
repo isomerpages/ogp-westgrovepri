@@ -13,6 +13,6 @@ third_nav_title: English
 
 Visit Language Alive! at
 
-[https://sites.google.com/moe.edu.sg/wgpslanguagealive/home]
+[https://sites.google.com/moe.edu.sg/wgpslanguagealive/home]()
 
 with your Student ICON.
