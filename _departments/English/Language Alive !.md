@@ -16,3 +16,5 @@ at
 [https://sites.google.com/moe.edu.sg/wgpslanguagealive/home]
 
 with your Student ICON.
+
+[Link](https://sites.google.com/moe.edu.sg/wgpslanguagealive/home)
