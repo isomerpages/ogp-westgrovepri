@@ -70,13 +70,13 @@ www.westgrpveprimary.net.museum
 [https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm](https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm)
 
 * M.C. Escher
-https://www.worldofescher.com/gallery/
+[https://www.worldofescher.com/gallery/](https://www.worldofescher.com/gallery/)
 
 * Andy Warhol
-https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html
+[https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html](https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html)
 
 * Art Glossary
-https://www.ket.org/artstoolkit/visual/glossary.htm
+[https://www.ket.org/artstoolkit/visual/glossary.htm](https://www.ket.org/artstoolkit/visual/glossary.htm)
 
 **Within Singapore**
 
