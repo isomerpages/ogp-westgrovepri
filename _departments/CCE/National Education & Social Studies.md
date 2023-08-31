@@ -59,14 +59,12 @@ Field-based learning trip extend the learning of Social Studies beyond the class
 
 * OnePeople.sg
 [http://www.onepeople.sg/](http://www.onepeople.sg/) ;; [http://app.www.sg/](http://app.www.sg/)
-
-
 * Singapore for kids
-http://www.singaporeforkids.com/
+[http://www.singaporeforkids.com/](http://www.singaporeforkids.com/)
 * Singapore Heritage Fest
-http://heritagefest.sg/
+[http://heritagefest.sg/](http://heritagefest.sg/)
 * Housing Development Board
-http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc
+[http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc](http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc)
 * National Archives of Singapore
 http://www.s1942.org.sg/s1942/
 * Singapore Civil Defence Force
