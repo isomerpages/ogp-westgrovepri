@@ -80,15 +80,20 @@ www.westgrpveprimary.net.museum
 
 **Within Singapore**
 
-https://nationalartgallery.sg/
-https://www.singaporeartmuseum.sg/
-https://www.singaporeartsfest.com/
-https://www.nationalmuseum.sg/
-https://yesterday.sg/museums/
-https://www.theartshouse.com.sg/
-https://www.thelittleartsacademy.com/
-https://www.esplanade.com/community_engagement/young_audiences/index.jsp
-https://www.nac.gov.sg/sta/sta02.asp
+[https://nationalartgallery.sg/](https://nationalartgallery.sg/)
+
+[https://www.singaporeartmuseum.sg/]([https://www.singaporeartmuseum.sg/])
+[https://www.singaporeartsfest.com/](https://www.singaporeartsfest.com/)
+
+[https://www.nationalmuseum.sg/](https://www.nationalmuseum.sg/)
+
+[https://yesterday.sg/museums/](https://yesterday.sg/museums/)
+
+[https://www.theartshouse.com.sg/](https://www.theartshouse.com.sg/)
+[https://www.thelittleartsacademy.com/](https://www.thelittleartsacademy.com/)
+[https://www.esplanade.com/community_engagement/young_audiences/index.jsp](https://www.esplanade.com/community_engagement/young_audiences/index.jsp)
+
+[https://www.nac.gov.sg/sta/sta02.asp](https://www.nac.gov.sg/sta/sta02.asp)
 
 **International**
 
