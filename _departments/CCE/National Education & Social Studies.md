@@ -55,11 +55,11 @@ Field-based learning trip extend the learning of Social Studies beyond the class
 **Useful Websites:**
 
 * NEXUS
-http://www.connexion.sg/
+[http://www.connexion.sg/](http://www.connexion.sg/)
 
 * OnePeople.sg
-http://www.onepeople.sg/
-http://app.www.sg/
+[http://www.onepeople.sg/](http://www.onepeople.sg/) ;; [http://app.www.sg/](http://app.www.sg/)
+
 
 * Singapore for kids
 http://www.singaporeforkids.com/
