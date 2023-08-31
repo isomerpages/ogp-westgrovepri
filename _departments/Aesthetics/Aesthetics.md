@@ -58,16 +58,16 @@ Nurture every child to become a gracious and informed audience of the Arts.
 www.westgrpveprimary.net.museum
 
 * Matisse 
-https://makingartfun.com/htm/f-maf-art-library/henri-matisse-biography.htm
+[https://makingartfun.com/htm/f-maf-art-library/henri-matisse-biography.htm](https://makingartfun.com/htm/f-maf-art-library/henri-matisse-biography.htm)
 
 * Hundertwasser
-https://www.digitalpalette.org.uk/worcboxes/hundertwasser/index.html
+[https://www.digitalpalette.org.uk/worcboxes/hundertwasser/index.html](https://www.digitalpalette.org.uk/worcboxes/hundertwasser/index.html)
 
 * Kandinsky
-https://www.nga.gov/kids/kandinsky/
+[https://www.nga.gov/kids/kandinsky/](https://www.nga.gov/kids/kandinsky/)
 
 * Monet
-https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm
+[https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm](https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm)
 
 * M.C. Escher
 https://www.worldofescher.com/gallery/
