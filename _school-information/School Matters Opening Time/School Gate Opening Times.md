@@ -24,7 +24,7 @@ third_nav_title: School Matters Opening Time
   <tr>
     <th class="tg-z01w">Day</th>
     <th class="tg-eohv"><span style="font-weight:400;color:#0C2733">Gate 1</span><br><span style="font-weight:400;color:#0C2733">(nearest to school power station)</span></th>
-    <th class="tg-eohv"><span style="font-weight:400;color:#0C2733">Gate 2</span><br><span style="font-weight:400;color:#0C2733">(nearest to Block</span><br><span style="font-weight:400;color:#0C2733">731)</span></th>
+    <th class="tg-eohv"><span style="font-weight:400;color:#0C2733">Gate 2</span><br><span style="font-weight:400;color:#0C2733">(nearest to Block</span><br><span style="font-weight:400;color:#0C2733">731-Temporary closure)</span></th>
     <th class="tg-eohv"><span style="font-weight:400;color:#0C2733">Gate 3</span><br><span style="font-weight:400;color:#0C2733">(nearest to block</span><br><span style="font-weight:400;color:#0C2733">723)</span></th>
   </tr>
 </thead>
@@ -43,11 +43,11 @@ third_nav_title: School Matters Opening Time
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_1.jpg)
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_2.jpg)
 
-**GATE 2 : (Nearest to Block 731 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
+**GATE 2 : (Nearest to Block 731 - Open from 6.45 a.m. - 7.20 a.m. &amp; 1.30 p.m. - 2.05 p.m.)**
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_1.jpg)
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_2.jpg)
 
-**GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. & 1.30 p.m. - 2.05 p.m.)**
+**GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. &amp; 1.30 p.m. - 2.05 p.m.)**
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate3_1.jpg)
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate3_2.jpg)
 

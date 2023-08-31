@@ -27,7 +27,8 @@ Please kindly call the school to confirm the services below are available on the
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s7de">Bookshop<br><br>Website:<br><a href="https://engsengbook.com/">https://engsengbook.com/</a><br>Email:<br><a href="mailto:ask@engsengbook.com"><span style="font-weight:500;color:#348A17">ask@engsengbook.com</span></a>Tel:<br>65655183</td>
+    <td class="tg-s7de">Bookshop<br><br>Website:<br><a href="https://engsengbook.com/">https://engsengbook.com/</a><br>Email:<br><a href="mailto:ask@engsengbook.com"><span style="font-weight:500;color:#348A17">ask@engsengbook.com</span></a>
+			Tel:<br>65655183</td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday – Friday</span><br><br>For Pupils<br><span style="font-weight:400;color:#0C2733">9.00 a.m. to 2.30 p.m.</span><br><br>For Parents<br><br><span style="font-weight:400;color:#0C2733">11 a.m. to 1.00 p.m.</span><br><span style="font-weight:400;color:#0C2733">2.00 p.m. to 2.30 p.m.</span></td>
   </tr>
   <tr>
