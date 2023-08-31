@@ -66,12 +66,12 @@ Field-based learning trip extend the learning of Social Studies beyond the class
 * Housing Development Board
 [http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc](http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc)
 * National Archives of Singapore
-http://www.s1942.org.sg/s1942/
+[http://www.s1942.org.sg/s1942/](http://www.s1942.org.sg/s1942/)
 * Singapore Civil Defence Force
 http://www.scdf.gov.sg/content/scdf_internet/en.html
 * National Parks Singapore
 http://www.nparks.gov.sg/cms/
 * Singapore Police Force
-http://www.spf.gov.sg/
+[http://www.spf.gov.sg/](http://www.spf.gov.sg/)
 * Singapore Tourism Board
-http://www.yoursingapore.com/content/traveller/en/experience.html
+[http://www.yoursingapore.com/content/traveller/en/experience.html](http://www.yoursingapore.com/content/traveller/en/experience.html)
