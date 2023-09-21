@@ -12,12 +12,12 @@ description: ""
 * We must obey and respect our teachers and elders.
 * We must queue up in an orderly manner.
 * We must conduct ourselves well to uphold the name of our school.
-* Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed.
-* Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart.
+* Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+* Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
 **SCHOOL SONG**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KqsfIdvSg1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KqsfIdvSg1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 * At West Grove, we march on with our peers
 * Together we achieve through the years
