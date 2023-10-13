@@ -2,9 +2,10 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Notification to Parents/.keep
+      - School Notification to Parents/2023 Term 4 Letters to Parents.md
       - School Notification to Parents/2023 Term 3 Letters to Parents.md
       - School Notification to Parents/2023 Term2 Letters to Parents.md
-      - School Notification to Parents/.keep
       - School Notification to Parents/2023 Term1 Letters to Parents.md
       - School Notification to Parents/2023 Assessment Plan.md
       - Briefing Slides.md
@@ -15,11 +16,12 @@ collections:
       - School Information/Educational Articles for Parents.md
       - School Information/Student Care Centre.md
       - School Information/Sexuality Education.md
-      - Newsletter/2023 (Semester 1).md
       - Newsletter/.keep
+      - Newsletter/2023 (Semester 1).md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
       - Parent Partnership/40 hour Parent Volunteer (PV).md
       - Parent Partnership/Parent Support Group.md
       - Useful Links to Students.md
       - Wait List Application Form.md
+      - 2023 Celebration Of Success.md
