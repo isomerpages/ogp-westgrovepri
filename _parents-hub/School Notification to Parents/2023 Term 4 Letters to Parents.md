@@ -4,3 +4,4 @@ permalink: /parents-hub/school-notification-to-parents/2023-term-4-letters-to-pa
 description: ""
 third_nav_title: School Notification to Parents
 ---
+[2023 Term 4 Principal's Letter](/files/2023%20term%204%20principal's%20letter.pdf)
