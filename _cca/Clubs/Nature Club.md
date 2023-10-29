@@ -1,6 +1,6 @@
 ---
-title: Environmental Club
-permalink: /cca/clubs/environmental-club/
+title: Nature Club
+permalink: /cca/clubs/nature-club/
 description: ""
 third_nav_title: Clubs
 ---
@@ -45,7 +45,7 @@ Your children will have opportunities to:
   </tr>
   <tr>
     <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td class="tg-eohv">Mdm. Mindy Neo, Mdm. Sabrina, <br>Mdm.   Liam  Huixian</td>
+    <td class="tg-eohv">Mdm. Neo, Ms. Kartini, <br>Ms. Aishah</td>
   </tr>
 </tbody>
 </table>
@@ -93,5 +93,9 @@ Your children will have opportunities to:
   </tr>
 </tbody>
 </table>
+
+[Padlet Link:]
+
+(https://padlet.com/mindymarieneo/nature-club-west-grove-primary-school-62f5tqoqjafksx60)
 
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThiJ5sBPAm2zeAjOKmAU2vdB_-HHwpLs1TBhF5xot-MdvP10cen5UfHOwEqXcKgZc_4_GpDl7jHAfM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
