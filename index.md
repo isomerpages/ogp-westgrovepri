@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENT
           description: Primary-1 Virtual Open House
-          url: https://sites.google.com/moe.edu.sg/wgps-2023-primary-1-virtual-op/home
+          url: ""
         - title: WE-STories
           description: WE-STories 2023
           url: https://go.gov.sg/westories-official
