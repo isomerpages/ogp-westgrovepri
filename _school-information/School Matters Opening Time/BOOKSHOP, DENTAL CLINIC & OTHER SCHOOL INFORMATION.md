@@ -42,7 +42,7 @@ Please kindly call the school to confirm the services below are available on the
   </tr>
   <tr>
     <td class="tg-s7de">Library</td>
-    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday to Friday</span><br><br><br><span style="font-weight:400;color:#0C2733">7 a.m. to 4 p.m.</span><br><span style="font-weight:400;color:#0C2733">Lunch - 12.30 p.m. to 12.30 p.m.</span></td>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday to Friday</span><br><br><br><span style="font-weight:400;color:#0C2733">7.30 a.m. to 4 p.m.</span><br><span style="font-weight:400;color:#0C2733">Lunch - 12.00 p.m. to 12.30 p.m.</span></td>
   </tr>
   <tr>
     <td class="tg-s7de">NASCANS<br><a></a></td>
