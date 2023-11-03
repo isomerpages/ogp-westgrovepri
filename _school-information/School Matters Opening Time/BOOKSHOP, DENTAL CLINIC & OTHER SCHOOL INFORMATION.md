@@ -3,6 +3,7 @@ title: BOOKSHOP, DENTAL CLINIC & OTHER SCHOOL INFORMATION
 permalink: /school-information/bookshop-dental-clinic-other-school-information/
 description: ""
 third_nav_title: School Matters Opening Time
+variant: markdown
 ---
 ### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC &amp; OTHER SCHOOL INFORMATION
 
@@ -28,7 +29,7 @@ Please kindly call the school to confirm the services below are available on the
 <tbody>
   <tr>
     <td class="tg-s7de">Bookshop<br><br>Website:<br><a href="https://engsengbook.com/">https://engsengbook.com/</a><br>Email:<br><a href="mailto:ask@engsengbook.com"><span style="font-weight:500;color:#348A17">ask@engsengbook.com</span></a>
-			Tel:<br>65655183</td>
+			Tel:<br>87577234</td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday – Friday</span><br><br>For Pupils<br><span style="font-weight:400;color:#0C2733">9.00 a.m. to 2.30 p.m.</span><br><br>For Parents<br><br><span style="font-weight:400;color:#0C2733">11 a.m. to 1.00 p.m.</span><br><span style="font-weight:400;color:#0C2733">2.00 p.m. to 2.30 p.m.</span></td>
   </tr>
   <tr>
@@ -41,7 +42,7 @@ Please kindly call the school to confirm the services below are available on the
   </tr>
   <tr>
     <td class="tg-s7de">Library</td>
-    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday to Friday</span><br><br><br><span style="font-weight:400;color:#0C2733">7 a.m. to 4 p.m.</span><br><span style="font-weight:400;color:#0C2733">Lunch - 12.30 p.m. to 12.30 p.m.</span></td>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday to Friday</span><br><br><br><span style="font-weight:400;color:#0C2733">7.30 a.m. to 4 p.m.</span><br><span style="font-weight:400;color:#0C2733">Lunch - 12.00 p.m. to 12.30 p.m.</span></td>
   </tr>
   <tr>
     <td class="tg-s7de">NASCANS<br><a></a></td>
@@ -125,7 +126,7 @@ Any inconvenience caused is much regretted.
 <tbody>
   <tr>
     <td class="tg-z01w">School Bus Information<br><br>The School bus serves mainly:<br>* Jurong West St 61 to 65, 71 to 75, 81, 82, 91 and 92<br>* Jurong West Ave 4 and 5<br>* Jurong West Central 1 and 2<br><br></td>
-    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Peng Yang Transport Pte Ltd</span><br><br><span style="font-weight:400;color:#0C2733">Contact Person: Ms Anna Siow (H/P: 91073366)</span><br><span style="font-weight:400;color:#0C2733">                             Mr tang (H/p: 81339730)</span></td>
+    <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">SAY GUAN TRANSPORT SERVICES</span><br><br><span style="font-weight:400;color:#0C2733">Contact Person: Ms Anna Siow (H/P: 91073366)</span><br><span style="font-weight:400;color:#0C2733">                             Mr tang (H/p: 81339730)</span></td>
   </tr>
   <tr>
     <td class="tg-z01w">Contact No.</td>
@@ -133,3 +134,4 @@ Any inconvenience caused is much regretted.
   </tr>
 </tbody>
 </table>
+Email address: sayguants@yahoo.com.sg
