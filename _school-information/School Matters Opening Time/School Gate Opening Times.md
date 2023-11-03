@@ -3,6 +3,7 @@ title: School Gate Opening Times
 permalink: /school-information/school-gate-opening-times/
 description: ""
 third_nav_title: School Matters Opening Time
+variant: markdown
 ---
 # School Gate Opening Times
 
@@ -42,10 +43,6 @@ third_nav_title: School Matters Opening Time
 
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_1.jpg)
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate1_2.jpg)
-
-**GATE 2 : (Nearest to Block 731 - Open from 6.45 a.m. - 7.20 a.m. &amp; 1.30 p.m. - 2.05 p.m.)**
-![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_1.jpg)
-![](/images/2023%20%20%20Jan%20to%20Dec/Gate2_2.jpg)
 
 **GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. &amp; 1.30 p.m. - 2.05 p.m.)**
 ![](/images/2023%20%20%20Jan%20to%20Dec/Gate3_1.jpg)
