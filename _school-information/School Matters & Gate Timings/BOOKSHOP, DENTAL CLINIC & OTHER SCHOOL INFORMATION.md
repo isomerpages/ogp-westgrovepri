@@ -39,8 +39,6 @@ Please kindly call the school to confirm the services below are available on the
 			
 https://www.myuniformshop.com.sg/
 			
-[My Uniform Shop - Letter to Parents (2023)](https://www.westgrovepri.moe.edu.sg/school-information/bookshop-dental-clinic-other-school-information/)
-			
   </span></a></td></tr><tr>
     <td class="tg-s7de">Dental Clinic<br><br></td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday – Thursday : 8:00 AM to 5:30 PM</span><br><span style="font-weight:400;color:#0C2733">Friday : 8:00 AM to 5:00 PM</span><br><br><span style="font-weight:400;color:#0C2733">Lunch - 1.00 p.m. to 2.00 p.m. (Closed)</span><br><br><br><span style="font-weight:400;color:#0C2733">Please call for appointment @</span> 91158370<span style="font-weight:400;color:#0C2733">,</span><br><br>(*Note:  Opening days are subjected to change without prior notice.)</td>
