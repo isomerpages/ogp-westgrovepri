@@ -20,8 +20,6 @@ Please kindly call the school to confirm the services below are available on the
 .tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
 </style>
 
-	
-[My Uniform Shop - WGPS 2023 Letter to Parents](/files/my%20uniform%20shop%20(asia)%20pte%20ltd%20-%20wgps%202023%20letter%20to%20parents.pdf)
   <table class="tg">
 <thead>
   <tr>
