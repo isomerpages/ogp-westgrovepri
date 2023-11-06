@@ -39,7 +39,6 @@ Please kindly call the school to confirm the services below are available on the
 			
 https://www.myuniformshop.com.sg/
 			
-[Letter to Parents (2023)](/files/my%20uniform%20shop%20(asia)%20pte%20ltd%20-%20wgps%202023%20letter%20to%20parents.pdf)
 			
   </span></a></td></tr><tr>
     <td class="tg-s7de">Dental Clinic<br><br></td>
