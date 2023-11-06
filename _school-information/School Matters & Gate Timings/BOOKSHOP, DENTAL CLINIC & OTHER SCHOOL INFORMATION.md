@@ -38,7 +38,8 @@ Please kindly call the school to confirm the services below are available on the
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">The School uniform Supplier is MY UNIFORM SHOP (ASIA) PTE LTD.</span><br><span style="font-weight:400;color:#0C2733">Orders are taken online</span><br><span style="font-weight:400;color:#0C2733">Email Address:</span> <a href="mailto:myuniformshopasia@gmail.com"><span style="font-weight:500;color:#348A17">myuniformshopasia@gmail.com</span></a><br><span style="font-weight:400;color:#0C2733">Website: </span><a href="https://www.myuniformshop.com.sg/"><span style="font-weight:500;color:#348A17">		
 			
 https://www.myuniformshop.com.sg/
-			[My Uniform Shop - WGPS 2023 Letter to Parents](/files/my%20uniform%20shop%20(asia)%20pte%20ltd%20-%20wgps%202023%20letter%20to%20parents.pdf)
+			
+[My Uniform - Letter to Parents](/files/my%20uniform%20shop%20(asia)%20pte%20ltd%20-%20wgps%202023%20letter%20to%20parents.pdf)
 			</span></a></td>
   </tr><tr>
     <td class="tg-s7de">Dental Clinic<br><br></td>
