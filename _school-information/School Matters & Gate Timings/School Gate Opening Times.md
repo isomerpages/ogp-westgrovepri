@@ -2,7 +2,7 @@
 title: School Gate Opening Times
 permalink: /school-information/school-gate-opening-times/
 description: ""
-third_nav_title: School Matters Opening Time
+third_nav_title: School Matters & Gate Timings
 variant: markdown
 ---
 # School Gate Opening Times

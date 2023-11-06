@@ -2,7 +2,7 @@
 title: BOOKSHOP, DENTAL CLINIC & OTHER SCHOOL INFORMATION
 permalink: /school-information/bookshop-dental-clinic-other-school-information/
 description: ""
-third_nav_title: School Matters Opening Time
+third_nav_title: School Matters & Gate Timings
 variant: markdown
 ---
 ### OPENING HOURS FOR BOOKSHOP, DENTAL CLINIC &amp; OTHER SCHOOL INFORMATION
@@ -19,7 +19,8 @@ Please kindly call the school to confirm the services below are available on the
 .tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+
+  <table class="tg">
 <thead>
   <tr>
     <th class="tg-s7de">Services</th>
@@ -34,9 +35,12 @@ Please kindly call the school to confirm the services below are available on the
   </tr>
   <tr>
     <td class="tg-s7de">Uniform &amp; Shoes<br><br>Tel:<br>62766689<br><br></td>
-    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">The School uniform Supplier is MY UNIFORM SHOP (ASIA) PTE LTD.</span><br><span style="font-weight:400;color:#0C2733">Orders are taken online</span><br><span style="font-weight:400;color:#0C2733">Email Address:</span> <a href="mailto:myuniformshopasia@gmail.com"><span style="font-weight:500;color:#348A17">myuniformshopasia@gmail.com</span></a><br><span style="font-weight:400;color:#0C2733">Website: </span><a href="https://www.myuniformshop.com.sg/"><span style="font-weight:500;color:#348A17">https://www.myuniformshop.com.sg/</span></a></td>
-  </tr>
-  <tr>
+    <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">The School uniform Supplier is MY UNIFORM SHOP (ASIA) PTE LTD.</span><br><span style="font-weight:400;color:#0C2733">Orders are taken online</span><br><span style="font-weight:400;color:#0C2733">Email Address:</span> <a href="mailto:myuniformshopasia@gmail.com"><span style="font-weight:500;color:#348A17">myuniformshopasia@gmail.com</span></a><br><span style="font-weight:400;color:#0C2733">Website: </span><a href="https://www.myuniformshop.com.sg/"><span style="font-weight:500;color:#348A17">		
+			
+https://www.myuniformshop.com.sg/
+			
+			
+  </span></a></td></tr><tr>
     <td class="tg-s7de">Dental Clinic<br><br></td>
     <td class="tg-eohv"><span style="font-weight:400;color:#0C2733">Monday – Thursday : 8:00 AM to 5:30 PM</span><br><span style="font-weight:400;color:#0C2733">Friday : 8:00 AM to 5:00 PM</span><br><br><span style="font-weight:400;color:#0C2733">Lunch - 1.00 p.m. to 2.00 p.m. (Closed)</span><br><br><br><span style="font-weight:400;color:#0C2733">Please call for appointment @</span> 91158370<span style="font-weight:400;color:#0C2733">,</span><br><br>(*Note:  Opening days are subjected to change without prior notice.)</td>
   </tr>
