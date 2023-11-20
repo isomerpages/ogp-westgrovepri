@@ -21,5 +21,5 @@ sections:
           url: https://go.gov.sg/westories-official
         - title: Newsletter
           description: 2023 Newsletter (Semester 1)
-          url: https://heyzine.com/flip-book/7739cf03fb.html
+          url: https://heyzine.com/flip-book/ce08f81053.html#page/10
 ---
