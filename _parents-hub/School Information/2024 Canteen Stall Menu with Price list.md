@@ -7,4 +7,4 @@ variant: markdown
 ---
 [[Canteen Menu & Pricelist (2024)](/files/Canteen_menu_2024_updated_Nov_2023__final_.pdf)
 
-(* Note: Items and prices are subject to changes)
+(* Note:  Items and prices are subject to changes)
