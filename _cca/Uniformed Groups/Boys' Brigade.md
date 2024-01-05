@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /cca/Uniformed-Groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### BB MOTTO
 <img src="/images/Until%202022_Pictures/Boys%20Brigade%20Logo.png" style="width:40%" align="center">
@@ -60,7 +61,7 @@ West Grove J95 Boys’ Brigade seeks to provide opportunities for boys to learn,
   line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Mr Jason Liu Ning, Mr Saw Jin Teik,</span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:16.8pt"><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Mrs Nancy Tan-Chan, Mr Lee Shi Hao</span></p></td></tr></tbody></table>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733">Mrs Nancy Tan-Chan</span></p></td></tr></tbody></table>
 	
 **Achievements**
 
