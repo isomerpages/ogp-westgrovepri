@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Information
 variant: markdown
 ---
-[[Canteen Menu & Pricelist (2024)](/files/Canteen_menu_2024_updated_Nov_2023__final_.pdf)
+
+[Canteen Stall Menu with Price list (2024)](/files/Canteen_menu_Jan_2024.pdf)
 
 (* Note - Items and prices are subject to changes)
