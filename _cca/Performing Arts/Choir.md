@@ -3,73 +3,50 @@ title: Choir
 permalink: /cca/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # Choir
 
-The West Grove Chorus, set up in 2002, consists of members ranging from age 8 to 12.  Presently under the choir instructress Ms Rose Loh, the choir has, besides performing for school events, taken part on competitive platforms- Singapore Youth Festivals, community events at the Garden by the Bay and National Day community events, as well as external choir accreditation examinations – London College of Music (LCM) Choir Ensemble and Singapore International Choral Festival (SICF) 2019.  
+**About Us**:
+
+Established in 2002, West Grove Choir is a vibrant musical ensemble comprised of talented members aged 8 to 12. Led by the dedicated choir instructress Ms. Rose Loh, the choir actively participates in various events and competitions, showcasing their passion for choral singing and musical excellence.
+
+**Activities and Achievements:**
+
+The choir has been actively involved in performing for school events and has gained recognition on competitive platforms such as the Singapore Youth Festivals, community events at the Garden by the Bay, and National Day community events.
+
+In addition to local events, the choir has participated in external choir accreditation examinations, including the London College of Music (LCM) Choir Ensemble and the prestigious Singapore International Choral Festival (SICF) in 2019 and 2023.
 
 **Objectives:**
 
-* To foster an appreciation and passion for choral singing. 
-* To develop develop good singing techniques and musicality. 
-* To nurture confidence in students and provide opportunities to hone showmanship skills while inculcating discipline and teamwork through performances in school events and competitions.
+*   _Foster Appreciation and Passion:_ The choir aims to instill a deep appreciation and passion for choral singing among its members.
+*   _Develop Singing Techniques_**:** The focus is on developing good singing techniques and musicality to enhance the overall musical experience.
+*   _Nurture Confidence:_ The choir seeks to nurture confidence in students by providing opportunities to hone showmanship skills through performances.
+*   _Inculcate Discipline and Teamwork:_ Through participation in school events and competitions, the choir aims to instill discipline and teamwork values in its members.
 
-**Achievements**
+We are committed to help our students develop 21st Century Competencies. Through the power of music, we aim to inspire creativity among our members, connect people, and contribute to the broader narrative of our interconnected global community.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pll1">2017</th>
-    <th class="tg-pll1">2018</th>
-    <th class="tg-pll1">2019</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-y7qa"><span style="color:#222">Music Performance (LCM) Ensemble(Coir)-Level 1:Distinction</span></td>
-    <td class="tg-ii8k">SYF: Accomplishment</td>
-    <td class="tg-ii8k">SICF: Silver</td>
-  </tr>
-</tbody>
-</table>
+**Achievements:**
 
-**PRACTICE DAYS:**
+2018: Singapore Youth Festival - Accomplishment
 
-Tuesdays and / or Thursdays
+2019: Singapore International Choral Festival - Silver
+
+2023: Singapore International Choral Festival - Gold
+
+**Practice Days:**
+
+Tuesdays and/or Thursdays
+
+**Teachers-in-charge:**
+
+Ms. Wu Xiaowei
+
+Ms. Ng Yang Xi
+
+Mdm. Seetha
+
+  
 
 
-**TEACHERS-IN-CHARGE:**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7wcr">Ms Wu Xiaowei</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7wcr">Ms Foon Siew Man<br></td>
-  </tr>
-  <tr>
-    <td class="tg-7wcr">Ms Ng Yang Xi</td>
-  </tr>
-</tbody>
-</table>
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKQaFFnpsw7mfK1HBwGiqkS0A8XRABFSxI11n5pmSnTPRLDfIsKdOjxOpNRZWrjsrhhkNrGjRDsT_Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

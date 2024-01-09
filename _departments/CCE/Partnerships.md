@@ -1,10 +1,11 @@
 ---
-title: Environment Education and Partnerships
-permalink: /departments/CandC-Education/environment-education-and-partnerships/
+title: Partnerships
+permalink: /departments/candc-education/partnerships/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-# Environment Education and Partnerships
+# Partnerships
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

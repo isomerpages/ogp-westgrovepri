@@ -3,10 +3,8 @@ title: Parent Support Group
 permalink: /parents-hub/parent-partnership/parent-support-group/
 description: ""
 third_nav_title: Parent Partnership
+variant: markdown
 ---
-
-
-
 ### The Role of the school’s Parent Support Group (PSG):
 
 * Provides support for activities conducted by the school which enhance students’ welfare and growth.
@@ -31,7 +29,7 @@ third_nav_title: Parent Partnership
 
 Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to&nbsp;[**wgps@moe.edu.sg**](mailto:wgps@moe.edu.sg).  
 
-**Click here for the&nbsp;[ParentSupport Group Membership Form](/files/PSG_Application_Form_updated.pdf)**
+**[Click here for the ParentSupport Group Membership Form]**(https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform)*
 
 You can also find us on facebook link&nbsp;[https://www.facebook.com/WGPSPSG/](https://www.facebook.com/WGPSPSG/)
 
