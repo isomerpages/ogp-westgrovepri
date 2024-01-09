@@ -82,13 +82,13 @@ variant: markdown
   padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;">Mr. Abdul Wahid</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
   1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Character and Citizenship Education</span></b><span style="font-size:12.0pt;font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Character and Citizenship Education (Covering)</span></b><span style="font-size:12.0pt;font-family:
   &quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
   border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   mso-border-top-alt:solid #AAAAAA .75pt;mso-border-top-alt:solid #AAAAAA .75pt;
   mso-border-bottom-alt:solid #AAAAAA .75pt;mso-border-right-alt:solid #AAAAAA .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt" width="377"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Mdm. Anisah Bte Muna Mohamed</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
+  &quot;Times New Roman&quot;">Ms. Munirah Bee Bte Md Haron</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:310.1pt;border:none;background:#DBDBDB;padding:
   1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">HOD, Aesthetics</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></p></td><td style="width:282.4pt;border-top:none;border-left:none;
@@ -141,7 +141,7 @@ variant: markdown
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
   border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">-</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mdm. Mindy Neo</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Level Head Mathematics</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
@@ -156,11 +156,11 @@ variant: markdown
   background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Mdm. Shariffah Haiezian</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:310.0pt;background:#DDDDDD;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, ICT &amp; MRL</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Partnership (Covering)</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
   border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">------</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Wu Xiaowei</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Discipline</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
@@ -192,7 +192,7 @@ variant: markdown
   background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Ms. Er Ka Hui</span><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td></tr><tr style="mso-yfti-irow:11"><td style="width:310.0pt;background:#DBDBDB;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="413"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Music</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
+  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Open Sans&quot;;color:#0C2733">Subject Head, Publicity</span></b><span style="font-size:12.0pt;font-family:&quot;Open Sans&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#0C2733"></span></p></td><td style="width:287.0pt;border-top:none;border-left:none;
   border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt;
   background:white;mso-background-themecolor:background1;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="383"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Catamaran&quot;,serif;mso-fareast-font-family:
