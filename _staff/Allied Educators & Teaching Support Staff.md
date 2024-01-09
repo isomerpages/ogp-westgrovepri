@@ -2,6 +2,7 @@
 title: Allied Educators & Teaching Support Staff
 permalink: /staff/allied-educators-and-teaching-support-staff/
 description: ""
+variant: markdown
 ---
 # Allied Educators &amp; Teaching Support Staff
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="493" style="width:369.7pt;background:white;border-collapse:collapse;mso-yfti-tbllook:
@@ -98,9 +99,6 @@ description: ""
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
   color:#0C2733;mso-font-kerning:0pt;mso-ligatures:none">Mrs. Jayanthi</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
-  color:#0C2733;mso-font-kerning:0pt;mso-ligatures:none">Ms. Tan Wan Teng</span><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#484848;
   mso-font-kerning:0pt;mso-ligatures:none"></span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Lato&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
