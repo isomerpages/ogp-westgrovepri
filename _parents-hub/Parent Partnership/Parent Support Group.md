@@ -22,7 +22,7 @@ variant: markdown
 * Provide assistance and support to members on programmes/activities.
 
 ### PSG Exco 2024
-![Picture1](/images/PSG%20Exco%20Committee%202023_Page_1.png)
+![](/images/PSG_Exco_Committee_2024_Page_1.png)
 ![pic2](/images/PSG%20Exco%20Committee%202023_Page_2.png)
 ![pic3](/images/PSG%20Exco%20Committee%202023_Page_3.png)
 ![pic4](/images/PSG%20Exco%20Committee%202023_Page_4.png)
