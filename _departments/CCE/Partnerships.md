@@ -18,26 +18,26 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ytt9">Head Of Department</th>
-    <th class="tg-s5dh">Mdm. Anisah Muna Mohamed<br></th>
+    <th class="tg-ytt9">Head Of CCE Department (Covering)</th>
+    <th class="tg-s5dh">Ms. Munirah Bee<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ytt9">Subject Head, Environmental Education &amp; Partnership<br></td>
-    <td class="tg-s5dh">Mdm. Mindy Neo<br></td>
+    <td class="tg-ytt9">Subject Head, Partnerships (Covering)<br></td>
+    <td class="tg-s5dh">Mdm. Wu Xiaowei<br></td>
   </tr>
   <tr>
-    <td class="tg-ytt9">Subject Head (Pupil Well-being)<br></td>
-    <td class="tg-s5dh">Mdm. Lee Nyuk Phing<br></td>
+    <td class="tg-ytt9">Subject Head (Student Well-being)<br></td>
+    <td class="tg-s5dh">Mr. Teo Jia Jun<br></td>
   </tr>
   <tr>
     <td class="tg-ytt9">Subject Head (Discipline &amp; Student Leadership)</td>
-    <td class="tg-s5dh">Mdm. Noor Afizah</td>
+    <td class="tg-s5dh">Mr Ong Chee Keong</td>
   </tr>
   <tr>
     <td class="tg-ytt9">Subject Head (NESS)</td>
-    <td class="tg-s5dh">Ms. Munirah Bee<br></td>
+    <td class="tg-s5dh">----<br></td>
   </tr>
   <tr>
     <td class="tg-ytt9">Senior Teacher (CCE)</td>
