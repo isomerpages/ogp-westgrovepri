@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Assessment Plan/Primary 1 Assessment Plan.md
       - Assessment Plan/.keep
       - English/.keep
       - English/English Language.md
