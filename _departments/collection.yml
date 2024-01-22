@@ -2,6 +2,13 @@ collections:
   departments:
     output: true
     order:
+      - WGPS Assessment Plan/.keep
+      - WGPS Assessment Plan/P1 Assessment Plan.md
+      - WGPS Assessment Plan/P2 Assessment Plan.md
+      - WGPS Assessment Plan/P3 Assessment Plan.md
+      - WGPS Assessment Plan/P4 Assessment Plan.md
+      - WGPS Assessment Plan/P5 Assessment Plan.md
+      - WGPS Assessment Plan/P6 Assessment Plan.md
       - English/.keep
       - English/English Language.md
       - English/Language Alive !.md

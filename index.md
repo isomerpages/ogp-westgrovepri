@@ -22,4 +22,7 @@ sections:
         - title: Newsletter
           description: 2023 Newsletter (Semester 2)
           url: https://heyzine.com/flip-book/ce08f81053.html#page/1
+        - title: School Calendar
+          description: 2024 School Calendar
+          url: https://calendar.google.com/calendar/embed?src=westgroveps1%40gmail.com&ctz=Asia%2FSingapore
 ---
