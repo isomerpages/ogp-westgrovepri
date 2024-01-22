@@ -22,4 +22,7 @@ sections:
         - title: Newsletter
           description: 2023 Newsletter (Semester 2)
           url: https://heyzine.com/flip-book/ce08f81053.html#page/1
+        - title: 2024 School Calendar
+          description: ""
+          url: https://calendar.google.com/calendar/u/0?cid=d2VzdGdyb3ZlcHMxQGdtYWlsLmNvbQ
 ---
