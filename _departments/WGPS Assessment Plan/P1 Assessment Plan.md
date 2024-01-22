@@ -1,6 +1,6 @@
 ---
 title: P1 Assessment Plan
-permalink: /departments/assessment-plan/permalink/
+permalink: /departments/assessment-plan/p1/
 variant: tiptap
 description: ""
 third_nav_title: WGPS Assessment Plan
