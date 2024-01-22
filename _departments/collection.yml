@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Assessment Plan/P5 Assessment Plan.md
       - Assessment Plan/P4 Assessment Plan.md
       - Assessment Plan/P3 Assessment Plan.md
       - Assessment Plan/P2 Assessment Plan.md
