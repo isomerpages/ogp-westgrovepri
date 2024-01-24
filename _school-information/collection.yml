@@ -1,0 +1,13 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Profile.md
+      - School Canteen.md
+      - School Bus.md
+      - School Rules & School Song.md
+      - School Matters & Gate Timings/.keep
+      - School Matters & Gate Timings/BOOKSHOP, DENTAL CLINIC & OTHER SCHOOL
+        INFORMATION.md
+      - School Matters & Gate Timings/School Gate Opening Times.md

@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Sports & Games/.keep
+      - Sports & Games/Badminton.md
+      - Sports & Games/Football.md
+      - Sports & Games/Rope Skipping.md
+      - Performing Arts/.keep
+      - Performing Arts/Dance.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Ukulele Ensemble.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Robotics Club.md
+      - Clubs/Nature Club.md
+      - Clubs/InfoMedia Club.md
+      - Clubs/Club Gazelle.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Cub Scouts.md
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Brownies.md
+      - Uniformed Groups/Girls Brigade.md

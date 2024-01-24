@@ -1,0 +1,35 @@
+collections:
+  departments:
+    output: true
+    order:
+      - WGPS Assessment Plan/.keep
+      - WGPS Assessment Plan/P1 Assessment Plan.md
+      - WGPS Assessment Plan/P2 Assessment Plan.md
+      - WGPS Assessment Plan/P3 Assessment Plan.md
+      - WGPS Assessment Plan/P4 Assessment Plan.md
+      - WGPS Assessment Plan/P5 Assessment Plan.md
+      - WGPS Assessment Plan/P6 Assessment Plan.md
+      - English/.keep
+      - English/English Language.md
+      - English/Language Alive !.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue Language.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - ICT & MRL/.keep
+      - ICT & MRL/ICT & MRL introduction.md
+      - ICT & MRL/MRL Programmes.md
+      - ICT & MRL/Cyber Wellness & Media Literacy.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Aesthetics Curriculum.md
+      - Aesthetics/Aesthetics Programmes.md
+      - CCE/.keep
+      - CCE/National Education & Social Studies.md
+      - CCE/Partnerships.md
+      - CCE/Discipline & Student Leadership.md
+      - CCE/Pupil Wellbeing.md
+      - PE, CCA & Health Management.md

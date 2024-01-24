@@ -1,0 +1,23 @@
+collections:
+  parents-hub:
+    output: true
+    order:
+      - 2024 School Calendar.md
+      - School Notification to Parents/.keep
+      - School Notification to Parents/2023 Term 4 Letters to Parents.md
+      - Briefing Slides.md
+      - School Information/.keep
+      - School Information/2024 Primary 1 Virtual Open House.md
+      - School Information/2024 Canteen Stall Menu with Price list.md
+      - School Information/SwimSafer Certificate User Guide for Parents.md
+      - School Information/Educational Articles for Parents.md
+      - School Information/Student Care Centre.md
+      - School Information/Sexuality Education.md
+      - Newsletter/2023 Semester 2.md
+      - Newsletter/.keep
+      - Newsletter/2023 (Semester 1).md
+      - Parent Partnership/.keep
+      - Parent Partnership/Parent Service Provider (PSP).md
+      - Parent Partnership/Parent Support Group.md
+      - Useful Links to Students.md
+      - Wait List Application Form.md
