@@ -1,5 +1,5 @@
 collections:
-  school-information:
+  about-west-grove:
     output: true
     order:
       - Principal's Message.md
