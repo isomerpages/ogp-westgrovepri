@@ -2,6 +2,7 @@ collections:
   about-west-grove:
     output: true
     order:
+      - Team West Grove/Form Teachers.md
       - Team West Grove/Lead & Senior Teachers.md
       - Team West Grove/Middle Management.md
       - Team West Grove/.keep
