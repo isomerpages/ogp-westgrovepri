@@ -2,7 +2,6 @@ collections:
   staff:
     output: true
     order:
-      - Middle Management.md
       - Lead & Senior Teachers.md
       - Form Teachers.md
       - Allied Educators & Teaching Support Staff.md
