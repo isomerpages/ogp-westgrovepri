@@ -4,11 +4,12 @@ collections:
     order:
       - School Profile.md
       - Principal's Message.md
-      - Middle Management.md
-      - Lead & Senior Teachers.md
-      - Form Teachers.md
-      - Allied Educators & Teaching Support Staff.md
-      - School Admin Team (SAT).md
+      - Team West Grove/.keep
+      - Team West Grove/Middle Management.md
+      - Team West Grove/Lead & Senior Teachers.md
+      - Team West Grove/Form Teachers.md
+      - Team West Grove/Allied Educators & Teaching Support Staff.md
+      - Team West Grove/School Admin Team (SAT).md
       - School Canteen.md
       - School Bus.md
       - School Rules & School Song.md

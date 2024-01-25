@@ -3,6 +3,7 @@ title: Middle Management
 permalink: /staff/middle-management/
 description: ""
 variant: markdown
+third_nav_title: Team West Grove
 ---
 # Middle Management
 

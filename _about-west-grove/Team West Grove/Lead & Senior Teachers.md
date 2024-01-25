@@ -2,6 +2,7 @@
 title: Lead & Senior Teachers
 permalink: /staff/lead-senior-teachers/
 description: ""
+third_nav_title: Team West Grove
 ---
 # Lead / Senior Teachers
 
