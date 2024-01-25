@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: West Grove Primary School
-      background: /images/Until 2022_Pictures/homepage.jpeg
+      background: /images/WGPS_Sch_Webpg_Banner_resized_compressed.png
       button: Contact Us
       url: /contact-us/
       subtitle: Wisdom and Grace
@@ -25,4 +25,5 @@ sections:
         - title: Parent Support Group
           description: Register to join PSG
           url: https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform
+      variant: image
 ---
