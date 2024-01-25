@@ -2,6 +2,5 @@ collections:
   staff:
     output: true
     order:
-      - Allied Educators & Teaching Support Staff.md
       - SCHOOL ADMIN TEAM (SAT).md
       - Useful Links for Staff.md
