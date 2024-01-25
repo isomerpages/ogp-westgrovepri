@@ -2,12 +2,12 @@ collections:
   about-west-grove:
     output: true
     order:
-      - Team West Grove/School Admin Team (SAT).md
-      - Team West Grove/Allied Educators & Teaching Support Staff.md
-      - Team West Grove/Form Teachers.md
-      - Team West Grove/Lead & Senior Teachers.md
-      - Team West Grove/Middle Management.md
       - Team West Grove/.keep
+      - Team West Grove/Middle Management.md
+      - Team West Grove/Lead & Senior Teachers.md
+      - Team West Grove/Form Teachers.md
+      - Team West Grove/Allied Educators & Teaching Support Staff.md
+      - Team West Grove/School Admin Team (SAT).md
       - School Profile.md
       - Principal's Message.md
       - School Canteen.md
