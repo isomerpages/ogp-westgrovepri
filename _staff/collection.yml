@@ -1,5 +1,4 @@
 collections:
   staff:
     output: true
-    order:
-      - Useful Links for Staff.md
+    order: []
