@@ -2,9 +2,9 @@ collections:
   about-west-grove:
     output: true
     order:
-      - Team WGPS.md
       - School Profile.md
       - Principal's Message.md
+      - Team WGPS.md
       - Middle Management.md
       - Lead & Senior Teachers.md
       - Form Teachers.md
