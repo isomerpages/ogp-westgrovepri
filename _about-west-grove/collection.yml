@@ -2,6 +2,7 @@ collections:
   about-west-grove:
     output: true
     order:
+      - Team West Grove/Middle Management.md
       - Team West Grove/.keep
       - School Profile.md
       - Principal's Message.md
