@@ -2,10 +2,10 @@ collections:
   parents-hub:
     output: true
     order:
-      - Primary 1 Virtual Open House.md
       - 2024 School Calendar.md
       - School Notification to Parents/.keep
       - School Notification to Parents/2023 Term 4 Letters to Parents.md
+      - Primary 1 Virtual Open House.md
       - Briefing Slides.md
       - School Information/.keep
       - School Information/2024 Primary 1 Virtual Open House.md
@@ -14,8 +14,8 @@ collections:
       - School Information/Educational Articles for Parents.md
       - School Information/Student Care Centre.md
       - School Information/Sexuality Education.md
-      - Newsletter/2023 Semester 2.md
       - Newsletter/.keep
+      - Newsletter/2023 Semester 2.md
       - Newsletter/2023 (Semester 1).md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
