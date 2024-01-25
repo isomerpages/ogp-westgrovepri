@@ -2,5 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - SCHOOL ADMIN TEAM (SAT).md
       - Useful Links for Staff.md
