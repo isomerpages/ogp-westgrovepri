@@ -2,15 +2,14 @@ collections:
   about-west-grove:
     output: true
     order:
-      - Useful Links for Staff.md
-      - SCHOOL ADMIN TEAM (SAT).md
-      - Allied Educators & Teaching Support Staff.md
-      - Form Teachers.md
-      - Lead & Senior Teachers.md
-      - Middle Management.md
+      - School Profile.md
       - All Staff.md
       - Principal's Message.md
-      - School Profile.md
+      - Middle Management.md
+      - Lead & Senior Teachers.md
+      - Form Teachers.md
+      - Allied Educators & Teaching Support Staff.md
+      - SCHOOL ADMIN TEAM (SAT).md
       - School Canteen.md
       - School Bus.md
       - School Rules & School Song.md
@@ -18,3 +17,4 @@ collections:
       - School Matters & Gate Timings/BOOKSHOP, DENTAL CLINIC & OTHER SCHOOL
         INFORMATION.md
       - School Matters & Gate Timings/School Gate Opening Times.md
+      - Useful Links for Staff.md
