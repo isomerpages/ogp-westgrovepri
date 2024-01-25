@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Profile.md
-      - All Staff.md
       - Principal's Message.md
       - Middle Management.md
       - Lead & Senior Teachers.md
