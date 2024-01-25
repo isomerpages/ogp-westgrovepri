@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Primary 1 Virtual Open House.md
       - 2024 School Calendar.md
       - School Notification to Parents/.keep
       - School Notification to Parents/2023 Term 4 Letters to Parents.md
