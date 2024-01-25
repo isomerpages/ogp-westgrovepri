@@ -3,8 +3,8 @@ title: Football
 permalink: /cca/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
-
 # Football 
 **Teacher In Charge**
 
@@ -28,10 +28,10 @@ third_nav_title: Sports & Games
     <td class="tg-s5dh">Mr. Lin Qiyue (i/c)<br></td>
   </tr>
 <tr>
-    <td class="tg-s5dh">Mr. Qairul<br></td>
+    <td class="tg-s5dh">Mdm. Angeline See Sui Chiat<br></td>
   </tr>
 	<tr>
-    <td class="tg-s5dh">Ms. Yao Ling Ling<br></td>
+    <td class="tg-s5dh">Ms. Phang Yun Xuan<br></td>
   </tr>
 </tbody>
 </table>
@@ -54,10 +54,10 @@ third_nav_title: Sports & Games
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s5dh">Tuesday, P2 (3 pm- 4 pm) ; P3 (4 pm - 5pm)<br></td>
+    <td class="tg-s5dh">Tuesday, Recreational Group, P3 &amp; 4 (3 pm- 4 pm) ; P5 &amp; 6 (4 pm - 5pm)<br></td>
   </tr>
   <tr>
-    <td class="tg-s5dh">Thursday, P4 (3 pm- 4 pm) ; P5 (4 pm - 5pm)</td>
+    <td class="tg-s5dh">Thursday, Competitive Group (3 pm- 5 pm)</td>
   </tr>
 </tbody>
 </table>
