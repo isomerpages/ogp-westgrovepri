@@ -2,10 +2,9 @@ collections:
   parents-hub:
     output: true
     order:
-      - WE Stories.md
       - 2024 School Calendar.md
-      - School Notification to Parents/2024 Letters to Parents.md
       - School Notification to Parents/.keep
+      - School Notification to Parents/2024 Letters to Parents.md
       - Primary 1 Virtual Open House.md
       - Briefing Slides.md
       - School Information/.keep
@@ -23,3 +22,4 @@ collections:
       - Parent Partnership/Parent Support Group.md
       - Useful Links to Students.md
       - Wait List Application Form.md
+      - WE Stories.md
