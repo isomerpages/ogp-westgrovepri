@@ -159,7 +159,5 @@ variant: tiptap
 </table>
 <p>General Office Operating Hours: 7:30 am to 5:30 pm (Monday to Friday).</p>
 <p><strong>Please call 1 day in advance should you want to make an appointment with our staff. </strong>
-    <br>
-</p>
-<p><strong>6267-9234.</strong>
+    <br><strong>6267-9234.</strong>
 </p>
