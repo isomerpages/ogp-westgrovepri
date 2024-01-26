@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - FAQs.md
       - 2024 School Calendar.md
       - 2024 School Letters to Parents.md
       - Primary 1 Virtual Open House.md
@@ -23,3 +22,4 @@ collections:
       - Useful Links to Students.md
       - Wait List Application Form.md
       - WE Stories.md
+      - FAQs.md
