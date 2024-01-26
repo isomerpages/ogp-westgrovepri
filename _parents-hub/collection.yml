@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - 2024 School Letters to Parents.md
       - 2024 School Calendar.md
       - School Notification to Parents/.keep
       - School Notification to Parents/2024 Letters to Parents.md
