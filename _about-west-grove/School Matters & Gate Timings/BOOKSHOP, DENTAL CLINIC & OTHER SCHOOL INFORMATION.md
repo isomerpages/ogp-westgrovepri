@@ -24,7 +24,7 @@ variant: tiptap
                 <p>Bookshop
                     <br>
                     <br>Website:
-                    <br><a href="https://engsengbook.com/" rel="noopener noreferrer nofollow" target="_blank">https://engsengbook.com/</a>
+                    <br><a href="https://engsengbook.com/" rel="noopener noreferrer nofollow" target="_blank">https://engsengbook.com/</a> 
                     <br>Email:
                     <br><strong><a href="mailto:ask@engsengbook.com" rel="noopener noreferrer nofollow" target="_blank">ask@engsengbook.com</a></strong> Tel:
                     <br>87577234</p>
@@ -54,7 +54,7 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p>The School uniform Supplier is MY UNIFORM SHOP (ASIA) PTE LTD.
                     <br>Orders are taken online
-                    <br>Email Address: <strong><a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a></strong>
+                    <br>Email Address: <strong><a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a></strong> 
                     <br>Website:</p>
                 <p>https://www.myuniformshop.com.sg/</p>
                 <p></p>
