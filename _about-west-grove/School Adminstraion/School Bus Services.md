@@ -16,12 +16,15 @@ third_nav_title: School Adminstraion
 <br>* Jurong West Central 1 and 2
 <br>
 </p>
+<p><strong>School Bus Fare</strong>
+</p>
+<p>[[School Bus Operator and NTE Price]](/files/awarded%20school%20bus%20operator%20and%20nte%20price.pdf)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SAY GUAN TRANSPORT SERVICES </strong>
 <br>
-<br>Contact Person: Ms Anna Siow (H/P: 91073366)
-<br>Mr tang (H/p: 81339730)</p>
+<br>Contact Person: Ms. Anna Siow (H/P: 91073366)
+<br>Mr. Tang (H/p: 81339730)</p>
 </td>
 </tr>
 <tr>
