@@ -3,86 +3,112 @@ title: Guzheng Ensemble
 permalink: /cca/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-# Guzheng Ensemble
-**The mission of Guzheng Ensemble:**
-
-* To groom students into virtuoso and graceful performers
-
-* To develop students as overall achievers through appreciation of Chinese music.
-
- 
-
-Guzheng Ensemble performs in major school events such as the Chinese New Year &amp; Non-Teaching Staff Day Concert. We have also performed in public upon invitation by external organizations. Music Appreciation Workshops and outings such as watching performances are also organized, so as to expose the members to Chinese Music.
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w"></th>
-    <th class="tg-z01w">Senior</th>
-    <th class="tg-baqh"><span style="font-weight:bold">Junior</span></th>
-  </tr>
-</thead>
+<h1>Guzheng Ensemble</h1>
+<p><strong>The mission of Guzheng Ensemble:</strong>
+</p>
+<ul>
+<li>
+<p>To groom students into virtuoso and graceful performers</p>
+</li>
+<li>
+<p>To develop students as overall achievers through appreciation of Chinese
+music.</p>
+</li>
+</ul>
+<p>Guzheng Ensemble performs in major school events such as the Chinese New
+Year &amp; Non-Teaching Staff Day Concert. We have also performed in public
+upon invitation by external organizations. Music Appreciation Workshops
+and outings such as watching performances are also organized, so as to
+expose the members to Chinese Music.</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-s7de">Day:</td>
-    <td class="tg-7wcr">Tuesday</td>
-    <td class="tg-7wcr">Thursday</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Time:</td>
-    <td class="tg-7wcr">2pm – 4.30pm</td>
-    <td class="tg-7wcr">2pm – 4.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Venue:</td>
-    <td colspan="2" class="tg-7wcr">Band Room</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td colspan="2" class="tg-7wcr">Mdm. Chua Ting Ting, Ms. Foong Yuk Yew, Mdm. Lin Weijun, Mdm. Tan Kok Teng</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Senior</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Junior</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm – 4.30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm – 4.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>PARTS room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-Charge:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms. Hoon Hui Min, Mr. Lee Shi Hao, Mr. Chuan Teik Ping, Mdm. Foon Siew
+Man</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**Achievements**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9bip{color:#0C2733;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-1lc2{color:#0C2733;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1lc2">2014</th>
-    <th class="tg-1lc2">2016</th>
-    <th class="tg-1lc2">2018</th>
-  </tr>
-</thead>
+<p><strong>Achievements</strong>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-9bip">Singapore Youth Festival Celebrations<br>(Certificate of Accomplishment)</td>
-    <td class="tg-9bip">Singapore Youth Festival Celebrations<br>(Certificate of Accomplishment)</td>
-    <td class="tg-9bip">Singapore Youth Festival Celebrations<br>(Certificate of Accomplishment)</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2014</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2016</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2018</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Celebrations
+<br>(Certificate of Accomplishment)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Celebrations
+<br>(Certificate of Accomplishment)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Celebrations
+<br>(Certificate of Accomplishment)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfRiWBG1If4pSFoP2lxT2LI9kk6yRaaemahISshZGVLaArSLlPnm1_4s8_80crvB3jvOidDcOmWfYq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="iframe-wrapper">
+<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfRiWBG1If4pSFoP2lxT2LI9kk6yRaaemahISshZGVLaArSLlPnm1_4s8_80crvB3jvOidDcOmWfYq/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
