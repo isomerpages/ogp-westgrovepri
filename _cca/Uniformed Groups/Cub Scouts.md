@@ -5,11 +5,34 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p><strong>Teacher ICs</strong>
+<p><strong>Teachers:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Teo Jia Jun</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Goh Ming Mei</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Germain Wong Xue Ying</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr. Teo Jia Jun (I/C)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms. Goh Ming Mei (I/C)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Germain Wong Xue Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Noor Afizah</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p><strong>Objectives</strong>
 </p>
