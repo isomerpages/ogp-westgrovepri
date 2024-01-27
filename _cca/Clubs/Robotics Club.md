@@ -3,102 +3,148 @@ title: Robotics Club
 permalink: /cca/Clubs/robotics-club/
 description: ""
 third_nav_title: Clubs
+variant: tiptap
 ---
-**OBJECTIVE**
-
-* To develop students’ robot construction and programming skills through exposure of a variety of robotics field
-* To equip and hone students’ problem solving skills
-
-  
-
-**TRAINING**
-
-* The competitions these members are exposed to centres around points gained by teams if their robot manages to achieve doing tasks and sub-tasks
-
-* Teams with the highest points gained by the end of the competition, wins
-
-* There is a research and presentation element where teams have to research on a theme that is usually based on technology and issues pertaining to the environment and innovation
-
-* Teams present their findings to a small group of judges
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7wcr{color:#0C2733;text-align:left;vertical-align:top}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-s7de{color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w"></th>
-    <th class="tg-z01w">P2 – P6</th>
-    <th class="tg-amwm">P3 – P6</th>
-  </tr>
-</thead>
+<p><strong>OBJECTIVE</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop students’ robot construction and programming skills through
+exposure of a variety of robotics field</p>
+</li>
+<li>
+<p>To equip and hone students’ problem solving skills</p>
+</li>
+</ul>
+<p><strong>TRAINING</strong>
+</p>
+<ul>
+<li>
+<p>The competitions these members are exposed to centres around points gained
+by teams if their robot manages to achieve doing tasks and sub-tasks</p>
+</li>
+<li>
+<p>Teams with the highest points gained by the end of the competition, wins</p>
+</li>
+<li>
+<p>There is a research and presentation element where teams have to research
+on a theme that is usually based on technology and issues pertaining to
+the environment and innovation</p>
+</li>
+<li>
+<p>Teams present their findings to a small group of judges</p>
+</li>
+</ul>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-s7de">Day:</td>
-    <td class="tg-7wcr">Tuesday</td>
-    <td class="tg-7wcr">Thursday</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Time:</td>
-    <td class="tg-7wcr">2pm – 4pm</td>
-    <td class="tg-7wcr">2pm – 4pm</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Venue:</td>
-    <td class="tg-7wcr">Computer Lab 4 / Teaching Lab / Computer Lab 2</td>
-    <td class="tg-7wcr">Computer Lab 4 / Teaching Lab</td>
-  </tr>
-  <tr>
-    <td class="tg-s7de">Teachers-in-Charge:</td>
-    <td colspan="2" class="tg-7wcr">Mdm. Nurhuda, Mr. Ong Chee Keong, Ms. Munirah Bee, Ms. Clarissa Cheong</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P2 – P6</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P3 – P6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2pm – 4pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 4 / Teaching Lab / Computer Lab 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Lab 4 / Teaching Lab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-Charge:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm. Nurhuda (I/C), Mr. Ong Chee Keong, Mdm. Sharifah Haiezian</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**Achievements**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z01w{color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-eohv{color:#0C2733;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-z01w">2017</th>
-    <th class="tg-z01w">2018</th>
-    <th class="tg-z01w">2019</th>
-  </tr>
-</thead>
+<p><strong>Achievements</strong>
+</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-eohv">First Lego League (FLL) Presentation Champions</td>
-    <td class="tg-eohv">Participated in NRC 2018</td>
-    <td class="tg-eohv"></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">First Lego League (FLL) Champions</td>
-    <td class="tg-eohv">NRC-WRO<br>REGULAR CATEGORY<br>Best Robot<br>Performance Award – 2nd Alpha Knights</td>
-    <td class="tg-eohv"></td>
-  </tr>
-  <tr>
-    <td class="tg-eohv">Represented Singapore in FLL (Texas)</td>
-    <td class="tg-eohv">Invitation to WRO 2018 Chiang Mai, Thailand</td>
-    <td class="tg-eohv"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2017</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2018</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>2019</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Lego League (FLL) Presentation Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participated in NRC 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First Lego League (FLL) Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NRC-WRO
+<br>REGULAR CATEGORY
+<br>Best Robot
+<br>Performance Award – 2nd Alpha Knights</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Represented Singapore in FLL (Texas)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Invitation to WRO 2018 Chiang Mai, Thailand</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkiZISIBriM-c53SJ0PdOa-AUl2g1svXDuPGp5ZemGMuJwHn6TCIJwIH04VytIvAvT8YkzYYgyadQk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="iframe-wrapper">
+<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkiZISIBriM-c53SJ0PdOa-AUl2g1svXDuPGp5ZemGMuJwHn6TCIJwIH04VytIvAvT8YkzYYgyadQk/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
