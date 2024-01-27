@@ -2,6 +2,7 @@ collections:
   about-west-grove:
     output: true
     order:
+      - School Adminstraion/School Sessions and Gates Opening Hours.md
       - School Adminstraion/School Bus.md
       - School Adminstraion/School Canteen.md
       - School Adminstraion/.keep
