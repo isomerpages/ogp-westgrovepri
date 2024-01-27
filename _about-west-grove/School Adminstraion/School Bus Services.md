@@ -10,9 +10,7 @@ third_nav_title: School Adminstraion
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Bus Information </strong>
-<br>
-<br>The School bus serves mainly:
+<p>The School bus serves mainly:
 <br>* Jurong West St 61 to 65, 71 to 75, 81, 82, 91 and 92
 <br>* Jurong West Ave 4 and 5
 <br>* Jurong West Central 1 and 2
@@ -20,7 +18,7 @@ third_nav_title: School Adminstraion
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAY GUAN TRANSPORT SERVICES
+<p><strong>SAY GUAN TRANSPORT SERVICES </strong>
 <br>
 <br>Contact Person: Ms Anna Siow (H/P: 91073366)
 <br>Mr tang (H/p: 81339730)</p>
