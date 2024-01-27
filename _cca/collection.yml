@@ -2,20 +2,20 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Kids Athletics.md
-      - Sports & Games/.keep
-      - Sports & Games/Badminton.md
-      - Sports & Games/Football.md
-      - Performing Arts/.keep
-      - Performing Arts/Choir.md
-      - Performing Arts/Dance.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Ukulele Ensemble.md
       - Clubs/.keep
       - Clubs/Art Club.md
       - Clubs/InfoMedia Club.md
       - Clubs/Robotics Club.md
       - Clubs/Nature Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Dance.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Ukulele Ensemble.md
+      - Sports & Games/.keep
+      - Sports & Games/Kids Athletics.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Football.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Cub Scouts.md
       - Uniformed Groups/Boys' Brigade.md
