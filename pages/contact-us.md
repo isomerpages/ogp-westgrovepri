@@ -15,12 +15,12 @@ contacts:
   - content:
       - phone: +65 6267 9234
       - email: wgps@moe.edu.sg
-      - other: "Fax : 6267 9235 <br><b>Directions</b> <br> Nearest MRT Station : Boon
-          Lay <br> Bus 242 (From Boon Lay Interchange) <br> Bus 99 (From
-          Clementi Interchange) <br><br><b> General Office Operating Hours: 7:30
-          am to 5:30 pm (Monday to Friday) </b> <br> Please call at least 3
-          working days in advance should you want to make an appointment with
-          our staff. "
+      - other: "Fax : 6267 9235 <br><br><b> General Office Operating Hours: 7:30 am to
+          5:30 pm (Monday to Friday) </b> <br> Please call at least 3 working
+          days in advance should you want to make an appointment with our staff.
+          <br><br> <b>Directions</b> <br> Nearest MRT Station : Boon Lay <br>
+          Bus 242 (From Boon Lay Interchange) <br> Bus 99 (From Clementi
+          Interchange)"
     title: General Enquiries & Feedback
 feedback: ""
 ---
