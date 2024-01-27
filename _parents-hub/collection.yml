@@ -4,8 +4,9 @@ collections:
     order:
       - 2024 School Calendar.md
       - 2024 School Letters to Parents.md
-      - Primary 1 Virtual Open House.md
-      - Briefing Slides.md
+      - Parent Partnership/.keep
+      - Parent Partnership/Parent Service Provider (PSP).md
+      - Parent Partnership/Parent Support Group.md
       - School Information/.keep
       - School Information/2024 Primary 1 Virtual Open House.md
       - School Information/2024 Canteen Stall Menu with Price list.md
@@ -16,9 +17,8 @@ collections:
       - Newsletter/.keep
       - Newsletter/2023 Semester 2.md
       - Newsletter/2023 (Semester 1).md
-      - Parent Partnership/.keep
-      - Parent Partnership/Parent Service Provider (PSP).md
-      - Parent Partnership/Parent Support Group.md
+      - Briefing Slides.md
+      - Primary 1 Virtual Open House.md
       - Useful Links to Students.md
       - Wait List Application Form.md
       - WE Stories.md
