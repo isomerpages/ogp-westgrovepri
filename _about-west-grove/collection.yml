@@ -2,12 +2,6 @@ collections:
   about-west-grove:
     output: true
     order:
-      - School Adminstraion/Bookshop, Uniform Supplier, Dental Clinic, Library &
-        Nascan Information.md
-      - School Adminstraion/School Sessions and Gates Opening Hours.md
-      - School Adminstraion/School Bus.md
-      - School Adminstraion/School Canteen.md
-      - School Adminstraion/.keep
       - School Profile.md
       - Principal's Message.md
       - Team West Grove/.keep
@@ -17,5 +11,11 @@ collections:
       - Team West Grove/Allied Educators & Teaching Support Staff.md
       - Team West Grove/School Admin Team (SAT).md
       - School Rules & School Song.md
+      - School Adminstraion/.keep
+      - School Adminstraion/Bookshop, Uniform Supplier, Dental Clinic, Library &
+        Nascan Information.md
+      - School Adminstraion/School Sessions and Gates Opening Hours.md
+      - School Adminstraion/School Bus.md
+      - School Adminstraion/School Canteen.md
       - School Matters & Gate Timings/.keep
       - Useful Links for Staff.md
