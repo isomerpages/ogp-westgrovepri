@@ -23,8 +23,9 @@ third_nav_title: School Adminstration
 <br>Website:
 <br><a href="https://engsengbook.com/" rel="noopener noreferrer nofollow" target="_blank">https://engsengbook.com/</a> 
 <br>Email:
-<br><strong><a href="mailto:ask@engsengbook.com" rel="noopener noreferrer nofollow" target="_blank">ask@engsengbook.com</a></strong> Tel:
-<br>87577234</p>
+<br><strong><a href="mailto:ask@engsengbook.com" rel="noopener noreferrer nofollow" target="_blank">ask@engsengbook.com</a></strong> 
+</p>
+<p>Tel: 87577234</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday – Friday
