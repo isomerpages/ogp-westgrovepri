@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PHE, CCA & Health Management/Educational Articles for Parents.md
       - PHE, CCA & Health Management/SwimSafer Certificate User Guide for
         Parents.md
       - PHE, CCA & Health Management/PHE, CCA & Health Management.md
