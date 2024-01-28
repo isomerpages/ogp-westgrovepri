@@ -18,7 +18,8 @@ third_nav_title: School Adminstration
 </p>
 <p><strong>School Bus Fare</strong>
 </p>
-<p>[[School Bus Operator and NTE Price]](/files/awarded%20school%20bus%20operator%20and%20nte%20price.pdf)</p>
+<p></p>
+<p>(<a href="/files/awarded%20school%20bus%20operator%20and%20nte%20price.pdf" rel="noopener noreferrer nofollow" target="_blank">School Bus Operator and NTE price</a>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SAY GUAN TRANSPORT SERVICES </strong>
