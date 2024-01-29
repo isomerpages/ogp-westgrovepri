@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - WGPS Assessment Plan/Assessment in WGPS.md
       - WGPS Assessment Plan/.keep
       - WGPS Assessment Plan/P1 Assessment Plan.md
       - WGPS Assessment Plan/P2 Assessment Plan.md
