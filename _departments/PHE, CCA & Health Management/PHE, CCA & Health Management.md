@@ -1,7 +1,9 @@
 ---
-title: PE, CCA & Health Management
-permalink: /departments/pe-cca-n-health-management/
+title: PHE, CCA & Health Management
+permalink: /departments/phe-cca-n-health-management/
 description: ""
+third_nav_title: PHE, CCA & Health Management
+variant: tiptap
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -96,7 +98,7 @@ To cultivate passion in physically fit pupils for sports and games.
 
 **PE Programme**
 
-*   P1 : Education Gymnastics (Term 2 & 3)  
+*   P1 : Education Gymnastics (Term 2 &amp; 3)  
     
 *   P2 : Learn-to-hold-a-racket Programme (Term 1 to 3)  
     
