@@ -3,6 +3,7 @@ title: ICT & MRL introduction
 permalink: /departments/ICT-and-MRL/
 description: ""
 third_nav_title: ICT & MRL
+variant: markdown
 ---
 # ICT/MRL
 <style type="text/css">
@@ -24,7 +25,7 @@ third_nav_title: ICT & MRL
 <tbody>
   <tr>
     <td class="tg-5y7r">Subject Head (ICT/MRL) </td>
-    <td class="tg-cly1">Mr. Matthew Sim<br></td>
+    <td class="tg-cly1">---<br></td>
   </tr>
 </tbody>
 </table>
@@ -39,10 +40,9 @@ third_nav_title: ICT & MRL
 * Every Child an ICT C.E.O
 * Opulent World of Learning
 
-**Information Communication & Technology**
+**Information Communication &amp; Technology**
 
-<img src="/images/Until%202022_Pictures/WGPS%20ICT%20Frame%20Work.jpg" 
-     style="width:65%">
+<img src="/images/Until%202022_Pictures/WGPS%20ICT%20Frame%20Work.jpg" style="width:65%">
 
 
 **Lessons**
