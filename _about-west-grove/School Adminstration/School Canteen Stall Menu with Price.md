@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p><a href="/files/Canteen_menu_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Stall Menu with Price List (2024)</a>
+<p><a href="/files/Canteen_menu_2024_updated_Feb_26_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Canteen Stall menu with Price list (From Feb 2024)</a>
 </p>
 <p>(* Note - Items and prices are subject to changes)</p>
