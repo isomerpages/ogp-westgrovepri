@@ -29,7 +29,7 @@ variant: markdown
 
 Parents interested in helping out with our school activities, please fill in the application form below and email the completed form to&nbsp;[**wgps@moe.edu.sg**](mailto:wgps@moe.edu.sg).  
 
-**[Click here for the ParentSupport Group Membership Form]**(https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform)
+[Click here for the Parent Support Group Membership Form](https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform)
 
 You can also find us on facebook link&nbsp;[https://www.facebook.com/WGPSPSG/](https://www.facebook.com/WGPSPSG/)
 
