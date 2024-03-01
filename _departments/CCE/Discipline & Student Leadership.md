@@ -10,10 +10,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Head Of Department</p>
+<p>Head Of Department (Covering)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm. Anisah Muna Mohamed
+<p>Ms. Munirah Bee
 <br>
 </p>
 </th>
