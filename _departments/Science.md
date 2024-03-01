@@ -57,12 +57,12 @@ activities and other e-learning resources.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3</strong>
+<p><strong>P3</strong> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4</strong>
+<p><strong>P4</strong> 
 <br>
 </p>
 </td>
@@ -71,14 +71,14 @@ activities and other e-learning resources.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6</strong>
+<p><strong>P6</strong> 
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Diversity</strong>
+<p><strong>Diversity</strong> 
 <br>
 </p>
 </td>
