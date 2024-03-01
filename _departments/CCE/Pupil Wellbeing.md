@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h1>Pupil Well-being</h1>
+<h1>Student Well-being</h1>
 <table>
 <tbody>
 <tr>
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Pupil Well-being)
+<p>Subject Head (Student Well-being)
 <br>
 </p>
 </td>
@@ -158,13 +158,13 @@ skills, adopting good reading skills, learning about Mindfulness etc.</p>
 of the workshops to understand themselves better and how they can contribute
 to the school and society.</p>
 <p>Some comments by our pupils</p>
-<p><em>“I learn to not compare myself to others because we are all different in our own ways. My favourite game is the price is right”</em>
+<p><em>“I learn to not compare myself to others because we are all different in our own ways. My favourite game is the price is right”</em> 
 <br><strong>Jolienne Peh, 3E</strong>
 </p>
-<p><em>“I learn to not waste money and be kind to others. I enjoy the price is right.”</em>
+<p><em>“I learn to not waste money and be kind to others. I enjoy the price is right.”</em> 
 <br><strong>Cheyenne Peh, 3A</strong>
 </p>
-<p><em>“I enjoyed the games and vidoes. I learnt not to waste money.”</em>
+<p><em>“I enjoyed the games and vidoes. I learnt not to waste money.”</em> 
 <br><strong>Dino Olivia, 3D</strong>
 </p>
 <p><em>“I learnt that I am valuable. I enjoyed the final chair.”</em>  <strong>Mikki Tai, 4B</strong>
