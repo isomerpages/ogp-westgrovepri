@@ -26,32 +26,27 @@ a higher level that will enable them to pursue Art Education in the future.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>AM</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Er Ka Hui (i/c)
-<br>
-</p>
+<p>Overall in-charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Asziah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Asziah
-<br>
-</p>
+<p>Level in-charge for P2 to P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Nicole Cheong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nicole Cheong</p>
+<p>Level in-charge for P4 to P6</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Nur Anisah</p>
+<p>Mdm. Asziah</p>
 </td>
 </tr>
 </tbody>
