@@ -3,6 +3,7 @@ title: Lead & Senior Teachers
 permalink: /staff/lead-senior-teachers/
 description: ""
 third_nav_title: Team West Grove
+variant: markdown
 ---
 # Lead / Senior Teachers
 
@@ -39,7 +40,7 @@ third_nav_title: Team West Grove
   </tr>
   <tr>
     <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Mrs. Shirin Ishar</span><br><a href="mailto:siti_shirin_omar@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#348A17">siti_shirin_omar@moe.edu.sg</span></a></td>
-    <td class="tg-7wcr">Senior Teacher for Educational Support</td>
+    <td class="tg-7wcr">Senior Teacher (Special Education Needs)</td>
   </tr>
   <tr>
     <td class="tg-7wcr"><span style="font-weight:400;color:#0C2733">Ms. Suneeta Kaur</span><br><a href="mailto:suneeta_kaur_balvinder_s@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#348A17">suneeta_kaur_balvinder_s@moe.edu.sg</span></a></td>
