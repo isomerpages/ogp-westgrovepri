@@ -5,7 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p></p>
+<p>Dear Parents/Guardians,</p>
+<p><strong>Selling of School Uniforms and Revised Bookshop Opening Hours </strong>
+</p>
+<p>Please be informed that our school bookshop, Eng Seng Book Store, will
+begin selling school uniforms onsite starting from <strong><u>2 April 2024 (Tuesday)</u></strong>,
+on behalf of our school uniform supplier, My Uniform Shop (ASIA) Pte Ltd.</p>
+<p>The opening hours for purchasing school uniforms and books at the school
+bookshop will be revised as follows, effective 2 April 2024.</p>
 <table>
 <tbody>
 <tr>
