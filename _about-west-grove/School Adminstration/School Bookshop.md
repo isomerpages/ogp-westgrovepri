@@ -59,4 +59,8 @@ bookshop will be revised as follows, effective 2 April 2024.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>You can still make purchases online through My Uniform Shop (ASIA) Ptd
+Ltd's website at <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>.
+Additionally, you can contact the uniform supplier at Tel: 62766689 or
+via email at <a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>,
+if you have any inquiries.</p>
