@@ -6,7 +6,7 @@ description: ""
 third_nav_title: School Adminstration
 ---
 <p>Dear Parents/Guardians,</p>
-<p><strong>Selling of School Uniforms and Revised Bookshop Opening Hours </strong>
+<p><strong>Selling of School Uniforms and Revised Bookshop Opening Hours</strong>
 </p>
 <p>Please be informed that our school bookshop, Eng Seng Book Store, will
 begin selling school uniforms onsite starting from <strong><u>2 April 2024 (Tuesday)</u></strong>,
@@ -16,34 +16,45 @@ bookshop will be revised as follows, effective 2 April 2024.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Services</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Opening Hours</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>For Parents:</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bookshop
-<br>
-<br>Website:
-<br><a href="https://engsengbook.com/" rel="noopener noreferrer nofollow" target="_blank">https://engsengbook.com/</a> 
-<br>Email:
-<br><strong><a href="mailto:ask@engsengbook.com" rel="noopener noreferrer nofollow" target="_blank">ask@engsengbook.com</a></strong>
-</p>
-<p>Tel: 87577234</p>
+<p>Monday to Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday – Friday
-<br>
-<br>For Pupils
-<br>9.00 a.m. to 2.30 p.m.
-<br>
-<br>For Parents
-<br>
-<br>11 a.m. to 1.00 p.m.
-<br>2.00 p.m. to 2.30 p.m.</p>
+<p>11 am to 1 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.45 pm to 2.45 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>For Students:</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 am to 2.45 pm</p>
 </td>
 </tr>
 </tbody>
