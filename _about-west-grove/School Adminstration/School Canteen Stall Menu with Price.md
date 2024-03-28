@@ -1,6 +1,6 @@
 ---
 title: School Canteen Stall Menu with Price
-permalink: /about-west-grove/school-adminstration/canteen-menu-price/
+permalink: /about-west-grove/school-administration/canteen-menu-price/
 variant: tiptap
 description: ""
 third_nav_title: School Adminstration

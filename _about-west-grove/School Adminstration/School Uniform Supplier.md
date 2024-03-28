@@ -1,6 +1,6 @@
 ---
 title: School Uniform Supplier
-permalink: /about-west-grove/school-adminstraion/school-uniform/
+permalink: /about-west-grove/school-administration/school-uniform/
 variant: tiptap
 description: ""
 third_nav_title: School Adminstration

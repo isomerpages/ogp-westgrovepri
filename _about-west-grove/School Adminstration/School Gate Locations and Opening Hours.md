@@ -1,6 +1,6 @@
 ---
 title: School Gate Locations and Opening Hours
-permalink: /about-west-grove/school-adminstraion/school-gate/
+permalink: /about-west-grove/school-administration/school-gate/
 variant: tiptap
 description: ""
 third_nav_title: School Adminstration

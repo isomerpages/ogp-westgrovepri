@@ -1,6 +1,6 @@
 ---
 title: School Sessions
-permalink: /about-west-grove/school-adminstraion/school-sessions/
+permalink: /about-west-grove/school-administration/school-sessions/
 variant: tiptap
 description: ""
 third_nav_title: School Adminstration
