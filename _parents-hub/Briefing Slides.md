@@ -6,18 +6,18 @@ variant: markdown
 ---
 **Middle Primary Math**
 Problem solving strategies and how to help support your child in Middle Primary math.
-
-[https://youtu.be/tsp3IrqhbyY](https://youtu.be/tsp3IrqhbyY)
+**
+[https://youtu.be/tsp3IrqhbyY](https://youtu.be/tsp3IrqhbyY)**
 
 **Upper Primary English**
 Support for the learning of the English Language
 
-[https://youtu.be/k8p7KFhCCfg](https://youtu.be/k8p7KFhCCfg)
+**[https://youtu.be/k8p7KFhCCfg](https://youtu.be/k8p7KFhCCfg)**
 
 **Upper Primary Math**
 Problem solving Strategies and how to help support your child in Upper Primary
 
-[https://youtu.be/b35BkGt7t8k](https://youtu.be/b35BkGt7t8k)
+**[https://youtu.be/b35BkGt7t8k](https://youtu.be/b35BkGt7t8k)**
 
 **Upper Primary Science**
 Strategies for Learning of Science
