@@ -4,28 +4,27 @@ permalink: /parents-hub/
 description: ""
 variant: markdown
 ---
-**Middle Primary Math**
+**Middle Primary Math :**
 Problem solving strategies and how to help support your child in Middle Primary math.
 
-**
-[https://youtu.be/tsp3IrqhbyY](https://youtu.be/tsp3IrqhbyY)**
+**[https://youtu.be/tsp3IrqhbyY](https://youtu.be/tsp3IrqhbyY)**
 
-**Upper Primary English**
+**Upper Primary English :**
 Support for the learning of the English Language
 
 **[https://youtu.be/k8p7KFhCCfg](https://youtu.be/k8p7KFhCCfg)**
 
-**Upper Primary Math**
+**Upper Primary Math :**
 Problem solving Strategies and how to help support your child in Upper Primary
 
 **[https://youtu.be/b35BkGt7t8k](https://youtu.be/b35BkGt7t8k)**
 
-**Upper Primary Science**
+**Upper Primary Science :**
 Strategies for Learning of Science
 
 **[https://youtu.be/6j9rc7Ubr8c](https://youtu.be/6j9rc7Ubr8c)**
 
-**Upper Primary Mother Tongue**
+**Upper Primary Mother Tongue :**
 Strategies to support your child/ward's MTL learning
 
 ML - **[https://youtu.be/GbRDKJaASsQ](https://youtu.be/GbRDKJaASsQ)**
