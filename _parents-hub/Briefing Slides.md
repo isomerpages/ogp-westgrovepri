@@ -6,6 +6,7 @@ variant: markdown
 ---
 **Middle Primary Math**
 Problem solving strategies and how to help support your child in Middle Primary math.
+
 **
 [https://youtu.be/tsp3IrqhbyY](https://youtu.be/tsp3IrqhbyY)**
 
@@ -22,7 +23,7 @@ Problem solving Strategies and how to help support your child in Upper Primary
 **Upper Primary Science**
 Strategies for Learning of Science
 
-[https://youtu.be/6j9rc7Ubr8c](https://youtu.be/6j9rc7Ubr8c)
+**[https://youtu.be/6j9rc7Ubr8c](https://youtu.be/6j9rc7Ubr8c)**
 
 **Upper Primary Mother Tongue**
 Strategies to support your child/ward's MTL learning
