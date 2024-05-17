@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Parent Partnership
 variant: tiptap
 ---
-<h4><strong><u>The Role of the school’s Parent Support Group (PSG):</u></strong></h4>
+<p><strong>The Role of the school’s Parent Support Group (PSG):</strong>
+</p>
 <ul>
 <li>
 <p>Provides support for activities conducted by the school which enhance
@@ -20,7 +21,8 @@ feedback on school policies and programmes; and</p>
 endeavor to ensure sustainability of home-school partnership.</p>
 </li>
 </ul>
-<h4><strong><u>The PSG Exco Team:&nbsp;</u></strong></h4>
+<p><strong>The PSG Exco Team:&nbsp;</strong>
+</p>
 <ul>
 <li>
 <p>Liaise with members on date and outline of programmes/activities.</p>
@@ -32,7 +34,8 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p>Provide assistance and support to members on programmes/activities.</p>
 </li>
 </ul>
-<h4><strong><u>PSG Exco 2024</u></strong></h4>
+<p><strong><u>PSG Exco 2024</u></strong>
+</p>
 <ul>
 <li>
 <p>Chairperson - Ms Phyllis Ramasamy</p>
