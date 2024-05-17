@@ -33,31 +33,19 @@ endeavour to ensure sustainability of home-school partnership.</p>
 </li>
 </ul>
 <h3>PSG Exco 2024</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_Exco_Committee_2024_Page_1.png">
-</div>
+<p>Chairperson - Ms Phyllis Ramasamy</p>
+<p>Vice-Chairperson - Ms Nicole Ng</p>
+<p>Secretary - Ms Carolyn Tan</p>
+<p>Asst. Secretary - Ms Jeanz Tan</p>
+<p>Treasurer - Ms Sherlyn Leow</p>
+<p>Social Media (Telegram) - Ms Joanne Pon</p>
+<p>Social Media (FB) - Mr Eamonn Wong</p>
+<p>Social Media (Instagram) - Mr Mohamed Fairoz Bin Shariff</p>
+<p>School Event Liaison - Mr Shankarapandian</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic2" src="/images/PSG%20Exco%20Committee%202023_Page_2.png">
-</div>
+<p>Click this link : <a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a> to register
+to be a Parent Support Group Member at West Grove Primary School.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic3" src="/images/PSG%20Exco%20Committee%202023_Page_3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="pic4" src="/images/PSG%20Exco%20Committee%202023_Page_4.png">
-</div>
-<p>Parents interested in helping out with our school activities, please fill
-in the application form below and email the completed form to&nbsp;<strong><a href="mailto:wgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wgps@moe.edu.sg</a></strong>.</p>
-<p>Scan the QR code below for the Parent Support Group (PSG) membership form.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_QR_code.jpg">
-</div>
-<p>You can also find us on facebook link&nbsp;<a href="https://www.facebook.com/WGPSPSG/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/WGPSPSG/</a>
-</p>
-<p>and Instagram page&nbsp;<a href="https://www.instagram.com/westgrovepsg/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/westgrovepsg/</a>
-</p>
 <p><strong>TREE PLANTING 2022:</strong>
 </p>
 <div class="iframe-wrapper">
