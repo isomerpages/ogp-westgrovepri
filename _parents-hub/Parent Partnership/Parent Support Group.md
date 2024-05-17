@@ -17,10 +17,10 @@ feedback on school policies and programmes; and</p>
 </li>
 <li>
 <p>Plays a part in recruiting and leading other parents to join this meaningful
-endeavour to ensure sustainability of home-school partnership.</p>
+endeavor to ensure sustainability of home-school partnership.</p>
 </li>
 </ul>
-<h3>The PSG ExCo Team:&nbsp;</h3>
+<h3>The PSG Exco Team:&nbsp;</h3>
 <ul>
 <li>
 <p>Liaise with members on date and outline of programmes/activities.</p>
@@ -33,17 +33,36 @@ endeavour to ensure sustainability of home-school partnership.</p>
 </li>
 </ul>
 <h3>PSG Exco 2024</h3>
+<ul>
+<li>
 <p>Chairperson - Ms Phyllis Ramasamy</p>
+</li>
+<li>
 <p>Vice-Chairperson - Ms Nicole Ng</p>
+</li>
+<li>
 <p>Secretary - Ms Carolyn Tan</p>
+</li>
+<li>
 <p>Asst. Secretary - Ms Jeanz Tan</p>
+</li>
+<li>
 <p>Treasurer - Ms Sherlyn Leow</p>
+</li>
+<li>
 <p>Social Media (Telegram) - Ms Joanne Pon</p>
+</li>
+<li>
 <p>Social Media (FB) - Mr Eamonn Wong</p>
+</li>
+<li>
 <p>Social Media (Instagram) - Mr Mohamed Fairoz Bin Shariff</p>
+</li>
+<li>
 <p>School Event Liaison - Mr Shankarapandian</p>
 <p></p>
-<p></p>
+</li>
+</ul>
 <p>Click this link : <a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a> to register
 to be a Parent Support Group Member at West Grove Primary School.</p>
 <p></p>
