@@ -4,7 +4,7 @@ permalink: /links-for-parents/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Refer to this links for:</u></strong>
+<p><strong><u>Refer to this links for Parents:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
