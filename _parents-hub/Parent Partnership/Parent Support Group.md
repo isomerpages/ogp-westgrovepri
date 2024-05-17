@@ -34,7 +34,7 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p>Provide assistance and support to members on programmes/activities.</p>
 </li>
 </ul>
-<p><strong><u>PSG Exco 2024</u></strong>
+<p><strong>PSG Exco 2024</strong>
 </p>
 <ul>
 <li>
