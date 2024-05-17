@@ -4,7 +4,8 @@ permalink: /links-for-parents/
 variant: tiptap
 description: ""
 ---
-<p>Refer to this links for:</p>
+<p><strong><u>Refer to this links for:</u></strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener noreferrer nofollow" target="_blank">Forging Positive Parent-Child Relationships</a>
