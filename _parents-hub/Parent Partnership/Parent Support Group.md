@@ -43,6 +43,7 @@ endeavour to ensure sustainability of home-school partnership.</p>
 <p>Social Media (Instagram) - Mr Mohamed Fairoz Bin Shariff</p>
 <p>School Event Liaison - Mr Shankarapandian</p>
 <p></p>
+<p></p>
 <p>Click this link : <a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a> to register
 to be a Parent Support Group Member at West Grove Primary School.</p>
 <p></p>
