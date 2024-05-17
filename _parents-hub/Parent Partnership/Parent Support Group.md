@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parent Partnership
 variant: tiptap
 ---
-<h3>The Role of the school’s Parent Support Group (PSG):</h3>
+<h4><strong><u>The Role of the school’s Parent Support Group (PSG):</u></strong></h4>
 <ul>
 <li>
 <p>Provides support for activities conducted by the school which enhance
@@ -20,7 +20,7 @@ feedback on school policies and programmes; and</p>
 endeavor to ensure sustainability of home-school partnership.</p>
 </li>
 </ul>
-<h3>The PSG Exco Team:&nbsp;</h3>
+<h4><strong><u>The PSG Exco Team:&nbsp;</u></strong></h4>
 <ul>
 <li>
 <p>Liaise with members on date and outline of programmes/activities.</p>
@@ -32,7 +32,7 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p>Provide assistance and support to members on programmes/activities.</p>
 </li>
 </ul>
-<h3>PSG Exco 2024</h3>
+<h4><strong><u>PSG Exco 2024</u></strong></h4>
 <ul>
 <li>
 <p>Chairperson - Ms Phyllis Ramasamy</p>
@@ -63,11 +63,9 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p></p>
 </li>
 </ul>
-<p>Click this link : <a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a> to register
-to be a Parent Support Group Member at West Grove Primary School.</p>
+<p>Click this link : <strong><a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a></strong> to
+register to be a Parent Support Group Member at West Grove Primary School.</p>
 <p></p>
-<p><strong>TREE PLANTING 2022:</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="569" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
