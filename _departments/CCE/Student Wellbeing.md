@@ -6,7 +6,11 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h1>Student Well-being</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,12 +100,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AED LBS (Allied Educator) (Learning Behaviour Support)
+<p>Special Education Needs Officer
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Yasmine and Mdm. Rohaya</p>
+<p>Ms. Yasmine</p>
+<p>Mdm. Rohaya</p>
+<p>Mr. Zul Afiq</p>
 </td>
 </tr>
 </tbody>
