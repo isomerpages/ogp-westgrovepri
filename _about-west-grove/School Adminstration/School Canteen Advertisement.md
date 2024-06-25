@@ -40,6 +40,9 @@ third_nav_title: School Adminstration
 </p>
 <p>1.&nbsp;&nbsp;&nbsp; Download and complete the application form. You may
 also request for a hardcopy from the School’s General Office.</p>
+<p><strong><a href="/files/Application_Form_For_Canteen.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form For Canteen Stall</a></strong>
+</p>
+<p></p>
 <p>2.&nbsp;&nbsp;&nbsp; Attached the following documents together with the
 application form:</p>
 <p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photocopy of the NRIC (front
