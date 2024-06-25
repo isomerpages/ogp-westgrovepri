@@ -16,8 +16,6 @@ variant: markdown
 
 [MOE website](http://intranet.moe.gov.sg/)
 
-[Cyber Wellness](https://ictconnection.moe.edu.sg/cyber-wellness)
-
 [Academy of Singapore Teachers ](https://www.academyofsingaporeteachers.moe.gov.sg/)
 
 [TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
