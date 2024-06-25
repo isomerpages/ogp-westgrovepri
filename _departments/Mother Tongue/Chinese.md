@@ -126,10 +126,6 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
-
-**口语互动平台 （iMTL portal）**
-[https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
-
 **嘟嘟华文自适应阅读系统 （Dudu Town**）
 [http://go.dudu.town/](http://go.dudu.town/)
 
