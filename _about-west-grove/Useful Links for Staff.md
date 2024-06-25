@@ -16,8 +16,6 @@ variant: markdown
 
 [MOE website](http://intranet.moe.gov.sg/)
 
-[Academy of Singapore Teachers ](https://www.academyofsingaporeteachers.moe.gov.sg/)
-
 [MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 
 [Koobits](https://member.koobits.com/)
