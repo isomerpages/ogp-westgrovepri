@@ -2,6 +2,7 @@
 title: Useful Links for Staff
 permalink: /staff/useful-links-for-staff/
 description: ""
+variant: markdown
 ---
 # Useful Links for Staff
 
@@ -25,7 +26,7 @@ description: ""
 
 [Koobits](https://member.koobits.com/)
 
-[Human Resource & Payroll Portal (HRP)](https://hrms.moe.gov.sg/)
+[Human Resource & Payroll Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
           
 [iExams](https://iexams.moe.gov.sg/xe/login.do)
 
