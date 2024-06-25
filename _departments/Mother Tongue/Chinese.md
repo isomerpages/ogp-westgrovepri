@@ -3,6 +3,7 @@ title: Chinese
 permalink: /departments/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 # Chinese 
 
@@ -121,11 +122,6 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
 **Resources:**
 
-**学乐网（课文录音）**
-
-[https://xuele.moe.edu.sg/xuele/slot/u107/index.html](https://xuele.moe.edu.sg/xuele/slot/u107/index.html)
-
-
 **知识报知识画报/新朋友电子版**
 
 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
@@ -136,11 +132,6 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
 **嘟嘟华文自适应阅读系统 （Dudu Town**）
 [http://go.dudu.town/](http://go.dudu.town/)
-
-
-**早报逗号网/大拇指**
-
-[http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87](http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87)
 
 **网上字典**
 
