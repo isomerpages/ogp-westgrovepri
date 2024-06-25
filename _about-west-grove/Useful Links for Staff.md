@@ -18,8 +18,6 @@ variant: markdown
 
 [Academy of Singapore Teachers ](https://www.academyofsingaporeteachers.moe.gov.sg/)
 
-[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
-
 [MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 
 [Koobits](https://member.koobits.com/)
