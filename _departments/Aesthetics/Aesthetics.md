@@ -3,6 +3,7 @@ title: Aesthetics
 permalink: /departments/Aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 # Aesthetics
 <style type="text/css">
@@ -54,46 +55,17 @@ Nurture every child to become a gracious and informed audience of the Arts.
 
 **Internet Resources**
 
-* West Grove Primary Art Museum
-www.westgrpveprimary.net.museum
-
-* Matisse 
-[https://makingartfun.com/htm/f-maf-art-library/henri-matisse-biography.htm](https://makingartfun.com/htm/f-maf-art-library/henri-matisse-biography.htm)
-
-* Hundertwasser
-[https://www.digitalpalette.org.uk/worcboxes/hundertwasser/index.html](https://www.digitalpalette.org.uk/worcboxes/hundertwasser/index.html)
-
-* Kandinsky
-[https://www.nga.gov/kids/kandinsky/](https://www.nga.gov/kids/kandinsky/)
-
-* Monet
-[https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm](https://www.metmuseum.org/toah/hd/cmon/hd_cmon.htm)
-
 * M.C. Escher
 [https://www.worldofescher.com/gallery/](https://www.worldofescher.com/gallery/)
 
 * Andy Warhol
 [https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html](https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html)
 
-* Art Glossary
-[https://www.ket.org/artstoolkit/visual/glossary.htm](https://www.ket.org/artstoolkit/visual/glossary.htm)
-
 **Within Singapore**
-
-[https://nationalartgallery.sg/](https://nationalartgallery.sg/)
-
-[https://www.singaporeartmuseum.sg/]([https://www.singaporeartmuseum.sg/])
-[https://www.singaporeartsfest.com/](https://www.singaporeartsfest.com/)
 
 [https://www.nationalmuseum.sg/](https://www.nationalmuseum.sg/)
 
-[https://yesterday.sg/museums/](https://yesterday.sg/museums/)
-
-[https://www.theartshouse.com.sg/](https://www.theartshouse.com.sg/)
 [https://www.thelittleartsacademy.com/](https://www.thelittleartsacademy.com/)
-[https://www.esplanade.com/community_engagement/young_audiences/index.jsp](https://www.esplanade.com/community_engagement/young_audiences/index.jsp)
-
-[https://www.nac.gov.sg/sta/sta02.asp](https://www.nac.gov.sg/sta/sta02.asp)
 
 **International**
 
@@ -101,6 +73,4 @@ www.westgrpveprimary.net.museum
 
 [https://kids.tate.org.uk/](https://kids.tate.org.uk/)
 
-[https://www.moma.org/interactives/artsafari/index.html](https://www.moma.org/interactives/artsafari/index.html)
 [https://www.ngv.vic.gov.au/learn/ngv-kids/ngv-kids-corner](https://www.ngv.vic.gov.au/learn/ngv-kids/ngv-kids-corner)
-[https://www.metmuseum.org/explore/index.asp?HomePageLink=explore_l](https://www.metmuseum.org/explore/index.asp?HomePageLink=explore_l)
