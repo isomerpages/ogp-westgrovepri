@@ -134,4 +134,8 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 * 在线汉语字典: [http://xh.5156edu.com/](http://xh.5156edu.com/)
 * 在线汉语字典（部首查字: [http://xh.5156edu.com/bs.html)](http://xh.5156edu.com/bs.html))
 
+ZB School 早报校园网
+
+[https://www.zbschools.sg/cos/o.x?c=/ca7_zbs/pageshrub&amp;func=home](https://www.zbschools.sg/cos/o.x?c=/ca7_zbs/pageshrub&amp;func=home)
+
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSl4orQhnZsiBATyqTGSqJ8vPP3GQfcMx_4QbYvbiWFMtIZOjTd9UqEFtteHDbCMoYx3K-L7VRui5FR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
