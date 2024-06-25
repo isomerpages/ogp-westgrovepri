@@ -3,6 +3,7 @@ title: Cyber Wellness & Media Literacy
 permalink: /departments/ICT-and-MRL/cyberwellness-n-media-literacy/
 description: ""
 third_nav_title: ICT & MRL
+variant: markdown
 ---
 # CyberWellness &amp; Media Literacy
 **INTRODUCTION:**
@@ -68,12 +69,5 @@ third_nav_title: ICT & MRL
 ![](/images/Until%202022_Pictures/image17.png)
 ![](/images/Until%202022_Pictures/image18.png)
 ![](/images/Until%202022_Pictures/image19.png)
-
-**Useful Links**
-
-* [Cyber Wellness 101](https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101)
-* [Cyber Wellness-For Educators](https://ictconnection.moe.edu.sg/cyber-wellness/for-educators)
-* [Cyber Wellness-For Students](https://ictconnection.moe.edu.sg/cyber-wellness/for-students)
-* [Cyber Wellness-For Parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
 
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtv5MOW2nYIqVxauAhjgeNWLNu2M4eItuRk33TVpAC_KvRF83NFHMPjDJY5dtZbYyhdTDebJwYvhlr/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
