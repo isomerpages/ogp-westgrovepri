@@ -3,6 +3,7 @@ title: Chinese
 permalink: /departments/Mother-Tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 # Chinese 
 
@@ -121,30 +122,20 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 
 **Resources:**
 
-**学乐网（课文录音）**
-
-[https://xuele.moe.edu.sg/xuele/slot/u107/index.html](https://xuele.moe.edu.sg/xuele/slot/u107/index.html)
-
-
 **知识报知识画报/新朋友电子版**
 
 [https://www.ezhishi.net/Contents/](https://www.ezhishi.net/Contents/)
 
-
-**口语互动平台 （iMTL portal）**
-[https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&amp;func=login)
-
 **嘟嘟华文自适应阅读系统 （Dudu Town**）
 [http://go.dudu.town/](http://go.dudu.town/)
-
-
-**早报逗号网/大拇指**
-
-[http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87](http://www.zbcomma.sg/archives/category/%E5%A4%A7%E6%8B%87%E6%8C%87)
 
 **网上字典**
 
 * 在线汉语字典: [http://xh.5156edu.com/](http://xh.5156edu.com/)
 * 在线汉语字典（部首查字: [http://xh.5156edu.com/bs.html)](http://xh.5156edu.com/bs.html))
+
+ZB School 早报校园网
+
+[https://www.zbschools.sg/cos/o.x?c=/ca7_zbs/pageshrub&amp;func=home](https://www.zbschools.sg/cos/o.x?c=/ca7_zbs/pageshrub&amp;func=home)
 
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSl4orQhnZsiBATyqTGSqJ8vPP3GQfcMx_4QbYvbiWFMtIZOjTd9UqEFtteHDbCMoYx3K-L7VRui5FR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

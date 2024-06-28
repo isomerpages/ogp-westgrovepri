@@ -2,6 +2,7 @@
 title: Useful Links for Staff
 permalink: /staff/useful-links-for-staff/
 description: ""
+variant: markdown
 ---
 # Useful Links for Staff
 
@@ -15,19 +16,13 @@ description: ""
 
 [MOE website](http://intranet.moe.gov.sg/)
 
-[Cyber Wellness](https://ictconnection.moe.edu.sg/cyber-wellness)
-
-[Academy of Singapore Teachers ](https://www.academyofsingaporeteachers.moe.gov.sg/)
-
-[TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
-
 [MConline](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 
 [Koobits](https://member.koobits.com/)
 
-[Human Resource & Payroll Portal (HRP)](https://hrms.moe.gov.sg/)
+[Human Resource & Payroll Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
           
-[iExams](https://iexams.moe.gov.sg/xe/login.do)
+[iExams2](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)
 
 [MOE Sports & Recreation Club (MESRC)](https://www.mesrc.net/)
 

@@ -3,6 +3,7 @@ title: National Education & Social Studies
 permalink: /departments/CandC-Education/national-education-n-social-studies/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 # National Education & Social Studies
 **INTRODUCTION:**
@@ -65,8 +66,6 @@ Field-based learning trip extend the learning of Social Studies beyond the class
 [http://heritagefest.sg/](http://heritagefest.sg/)
 * Housing Development Board
 [http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc](http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc)
-* National Archives of Singapore
-[http://www.s1942.org.sg/s1942/](http://www.s1942.org.sg/s1942/)
 * Singapore Civil Defence Force
 http://www.scdf.gov.sg/content/scdf_internet/en.html
 * National Parks Singapore
