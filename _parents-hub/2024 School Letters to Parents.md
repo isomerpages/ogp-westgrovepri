@@ -6,8 +6,6 @@ description: ""
 ---
 <p><a href="/files/2024_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Term 3_Letter to Parents</a>
 </p>
-<p><a href="/files/2024_Term_3_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Term 3_Letter to Parents</a>
-</p>
 <p></p>
 <p><a href="/files/2024_T2_Letter_to_Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">2024_Term 2_Letter to Parents</a>
 </p>
