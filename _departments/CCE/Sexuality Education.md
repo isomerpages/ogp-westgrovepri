@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>WEST GROVE PRIMARY SCHOOL</strong>
 </p>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 is about enabling students to understand the physiological, social and
