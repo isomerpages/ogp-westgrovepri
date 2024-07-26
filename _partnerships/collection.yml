@@ -2,4 +2,5 @@ collections:
   partnerships:
     output: true
     order:
+      - Registration Form to join WGPS Alumni.md
       - Registration Form to join PSG.md
