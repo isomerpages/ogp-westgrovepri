@@ -2,20 +2,20 @@ collections:
   parents-hub:
     output: true
     order:
-      - Form for PSG and Alumni.md
       - 2024 School Calendar.md
       - 2024 School Letters to Parents.md
       - Parent Partnership/.keep
       - Parent Partnership/Parent Service Provider (PSP).md
       - Parent Partnership/Parent Support Group.md
-      - Newsletter/2024 Semester 1.md
       - Newsletter/.keep
+      - Newsletter/2024 Semester 1.md
       - Newsletter/2023 Semester 2.md
       - Newsletter/2023 (Semester 1).md
       - Briefing Slides.md
       - Primary 1 Virtual Open House.md
       - Links for Parents.md
       - Useful Links to Students.md
+      - Form for PSG and Alumni.md
       - Wait List Application Form.md
       - WE Stories.md
       - FAQs.md
