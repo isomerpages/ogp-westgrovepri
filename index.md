@@ -24,6 +24,6 @@ sections:
           url: https://www.instagram.com/wgps_official/?hl=en
         - title: Partnerships
           description: Register to join PSG & Alumni
-          url: https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform
+          url: https://www.westgrovepri.moe.edu.sg/parents/Form-to-register-for-psg-and-alumni/
       variant: image
 ---
