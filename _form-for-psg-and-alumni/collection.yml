@@ -1,5 +1,5 @@
 collections:
-  partnerships:
+  form-for-psg-and-alumni:
     output: true
     order:
       - Registration to PSG and Alumni.md
