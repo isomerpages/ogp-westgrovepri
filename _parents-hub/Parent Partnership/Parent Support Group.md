@@ -66,8 +66,8 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p></p>
 </li>
 </ul>
-<p>Click this link : <strong><a href="https://shorturl.at/0IlVl" rel="noopener noreferrer nofollow" target="_blank">https://shorturl.at/0IlVl</a></strong> to
-register to be a Parent Support Group Member at West Grove Primary School.</p>
+<p>See the <strong><u>"Form for PSG and Alumni"</u></strong> Tab to register
+to be a PSG Group member at West Grove Primary School.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="569" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQO_htxzim6kQTThXcXIGQ_x_DSuzWsXL59BwI0OgZRbR__rX2OBKjDqpInWzbou_f--x0KDUHeajDd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
