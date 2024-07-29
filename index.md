@@ -22,8 +22,8 @@ sections:
         - title: WGPS Instagram Page
           description: Official WGPS IG page
           url: https://www.instagram.com/wgps_official/?hl=en
-        - title: Parent Support Group
-          description: Register to join PSG
-          url: https://docs.google.com/forms/d/e/1FAIpQLScYCWVpbTuo5y8twcJJnxUhCTlbLCVXISki_8GYJbizF8DOGA/viewform
+        - title: Partnerships
+          description: Register to join PSG & Alumni
+          url: https://www.westgrovepri.moe.edu.sg/form-for-psg-and-alumni/
       variant: image
 ---

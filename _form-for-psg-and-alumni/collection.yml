@@ -1,0 +1,5 @@
+collections:
+  form-for-psg-and-alumni:
+    output: true
+    order:
+      - Registration for PSG and Alumni.md
