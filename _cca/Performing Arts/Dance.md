@@ -29,7 +29,12 @@ and we recognize that every student has something to offer.</p>
 <p>Develop greater self-confidence and resilience</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,7 +101,12 @@ and we recognize that every student has something to offer.</p>
 </table>
 <p><strong>Achievements</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -126,5 +136,18 @@ and we recognize that every student has something to offer.</p>
 </p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>SYF 2024</strong>
+</p>
+<p>West Grove Primary dance troupe delivered an outstanding performance at
+the Singapore Youth Festival (SYF) Arts Presentation International Dance
+Competition 2024, securing a coveted Distinction award. Their routine,
+a compelling fusion of Thai Contemporary and Ballet Dance, was masterfully
+set to the moving song "Breathe." The troupe's exceptional artistry and
+technical prowess were highlighted in this unique and expressive performance,
+earning them high praise and recognition at the prestigious event. They
+had showcasing both their technical skill and artistic expression.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR5SyrWhT2cZHbQuNMxb5U4-fk9owaTpVNxAz9e7xQzEKGRAPHXkXJIHBFV8CPlkP6pCVosIw0ze0j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
