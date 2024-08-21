@@ -71,7 +71,8 @@ In July this year, West Grove Primary School welcomed a group of 29 P5 Chinese s
 
 优胜奖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding&nbsp; Winner
 
-![](/images/P1.jpg)
+<img src="/images/P1.jpg" style="width:30%" align="centre">	
+
 Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 **2** **第七届全国课文朗诵比赛National Text Recital Competition 2024**
