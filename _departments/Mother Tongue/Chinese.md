@@ -66,6 +66,105 @@ In July this year, West Grove Primary School welcomed a group of 29 P5 Chinese s
 在充满夏意的美丽季节，我校文化浸儒的师生来到了中国的首都—美丽的北京。学生们参观了著名的名胜古迹故宫，游览了闻名海外的鸟巢和水立方，登上了流传千古的万里长城。更重要的是，同学们与北京友好学校的朋友们建立了良好的友谊，促进了中新两国的文化交流。 
  
  In 2019, we came to the capital of China—Beijing for our overseas learning journey. The students visited the famous historical site of the Forbidden City and the Great Wall, visited the Beijing National Stadium(Bird’s Nest and Water Cube) . More importantly, the students have established a good friendship with friends from the Fengtai No.5 Elementary School of Beijing, which has promoted cultural communications between China and Singapore.
+ 
+**1** **全国华文大比拼National Chinese Challenge 2024**
+
+优胜奖&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Outstanding&nbsp; Winner
+
+![](/images/P1.jpg)
+Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+
+**2** **第七届全国课文朗诵比赛National Text Recital Competition 2024**
+
+孙若晏 Sun Ruoyan
+
+金奖 Gold Award
+
+麦恩琦 Elysia Beh En Qi
+
+铜奖 Bronze Award
+
+Abenzio Aidon Singh
+
+铜奖Bronze Award
+
+陈婉清 Elicia Chen Wan Qing
+
+铜奖Bronze Award
+
+陈婉扬 Elica Chen Wan Yang
+
+铜奖Bronze Award
+
+![A medal with red white and blue ribbon
+Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+
+**3**&nbsp; **第25****届国际小学生电脑创意写作比赛**
+
+**25th international Chinese Language Competition 2024-Creative Writing**
+
+陈梓涵 Chen Zihan
+
+新加坡\-金奖 ，国际奖\-金奖
+
+Singapore-Gold Award ，International-Gold Award
+
+刘熙哲Liu Xizhe
+
+新加坡\-银奖 ，国际奖\-铜奖
+
+Singapore-Silver Award ，International-Bronze Award
+
+**4** **第28****届（2024****）全国小学生现场华文创作比赛**
+
+**The 28th National Primary Schools On-The-Spot Chinese Creative Essay Writing** **Competition**
+
+梁芮欣 Liang Ruixin
+
+佳作奖Outstanding Award
+
+**5** **第三届新加坡茶乐轩华文诗歌朗诵比赛**
+
+**Happy Tea House Singapore: Chinese Poetry Recitation Competition 2024**
+
+孙若晏 Sun Ruoyan
+
+冠军 Champion
+
+涂语萱 Meghan Too Yu Xuan
+
+优胜奖 Commendation
+
+林楷晴 Genelle Lim Kai Qing
+
+优胜奖 Commendation
+
+王玮 Wang Wei
+
+优胜奖 Commendation
+
+![A group of girls standing on a stage
+Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+
+**6****《威德智海》全国硬笔书法比赛**
+
+肖叶暄 Xiao Yexuan
+
+优胜奖 Outstanding Award
+
+**7 2024****全国小学童诗创作比赛**
+
+**National Inter-Primary Chinese Poetry Writing Competition****（2024****）**
+
+戴嘉亿TRISHA TAI JIA YI
+
+优胜奖 Outstanding Award
+
+陈梓涵 Chen Zihan
+
+陈婉扬 Chen Wan Yang
+
+吴鸣和 Wu Minghe
 
 **Talent Development Programmes校内外比赛项目**
    
