@@ -97,8 +97,7 @@ Abenzio Aidon Singh
 
 铜奖Bronze Award
 
-![A medal with red white and blue ribbon
-Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+<img src="/images/P2.jpg" style="width:30%" align="centre">	
 
 **3**&nbsp; **第25****届国际小学生电脑创意写作比赛**
 
@@ -144,8 +143,7 @@ Singapore-Silver Award ，International-Bronze Award
 
 优胜奖 Commendation
 
-![A group of girls standing on a stage
-Description automatically generated](file:///C:/Users/S77632~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+<img src="/images/P3.jpg" style="width:50%" align="centre">	
 
 **6****《威德智海》全国硬笔书法比赛**
 
