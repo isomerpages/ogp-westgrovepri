@@ -31,7 +31,7 @@ third_nav_title: School Adminstration
 <p>Halal Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p>30 September 2024</p>
 </td>
 </tr>
 </tbody>
