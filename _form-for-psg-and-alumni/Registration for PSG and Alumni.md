@@ -6,6 +6,5 @@ description: ""
 ---
 <p><strong><a href="https://forms.moe.edu.sg/forms/eg32NM" rel="noopener noreferrer nofollow" target="_blank">Form to Register for Parent Support Group (PSG)</a></strong>
 </p>
-<p></p>
-<p><strong><a href="https://form.gov.sg/668b3efb3226d60dfa955e03" rel="noopener noreferrer nofollow" target="_blank"><u>Form to register and join WGPS Alumni</u></a></strong>
+<p><strong><a href="https://forms.moe.edu.sg/forms/vXRyBP" rel="noopener nofollow" target="_blank">Form to register and join WGPS Alumni</a></strong>
 </p>
