@@ -28,8 +28,8 @@ variant: markdown
     <td class="tg-s5dh">Mrs. Irene Chin<br></td>
   </tr>
   <tr>
-    <td class="tg-c1fh">Subject Head (Music)<br></td>
-    <td class="tg-s5dh">Mrs. Tang-Chew Pei Xi<br></td>
+    <td class="tg-c1fh">Subject Head (Publicity)<br></td>
+    <td class="tg-s5dh">Ms Chew Pei Xi<br></td>
   </tr>
   <tr>
     <td class="tg-c1fh">Subject Head (Art)</td>
