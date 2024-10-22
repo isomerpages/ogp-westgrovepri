@@ -42,7 +42,7 @@ HCL – **[https://youtu.be/dueY\_TyX9so](https://youtu.be/dueY_TyX9so)**
 **Primary 4:**
 Subject Based Banding details for Parents
 
-*   [P4 - Subject Based Banding for Parents](https://www.westgrovepri.moe.edu.sg/files/SBB%20Briefing%20for%20Parents%20(School%20website).pdf)
+[P4 - Subject Based Banding for Parents](/files/P4_SBB.pdf)
 
 **Primary 6:**
 PSLE & DSA Briefing for Parents
