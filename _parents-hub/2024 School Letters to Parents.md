@@ -16,5 +16,3 @@ description: ""
 <p></p>
 <p><a href="/files/2024_T1_Letter_to_Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Letter to Parents</a>
 </p>
-<p></p>
-<p></p>
