@@ -38,7 +38,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>Objectives</strong>
 </p>
 <p>West Grove Cub Scout Group develops students in an environment that is
