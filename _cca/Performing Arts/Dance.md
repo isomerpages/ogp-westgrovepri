@@ -8,15 +8,13 @@ variant: tiptap
 <h1>Dance</h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Objectives:</strong>
-</p>
-<p>The objective of our dance program is to foster a love for movement and
-creativity while building confidence and teamwork among participants. Through
-diverse styles of dance, we aim to enhance physical fitness, coordination,
-and self-expression, allowing dancers to explore their unique artistic
-voices. Additionally, we strive to create a supportive and inclusive environment
-where individuals of all skill levels can learn, grow, and celebrate the
-joy of dance together.</p>
+<p><strong>Objectives: </strong>The objective of our dance program is to
+foster a love for movement and creativity while building confidence and
+teamwork among participants. Through diverse styles of dance, we aim to
+enhance physical fitness, coordination, and self-expression, allowing dancers
+to explore their unique artistic voices. Additionally, we strive to create
+a supportive and inclusive environment where individuals of all skill levels
+can learn, grow, and celebrate the joy of dance together.</p>
 </li>
 <li>
 <p><strong>Current Teachers:</strong>
