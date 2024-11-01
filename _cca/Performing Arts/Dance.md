@@ -79,15 +79,8 @@ Ho Bee Auditorium.</p>
 </ul>
 <p>&nbsp;</p>
 <p>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
-<p></p>
-<p><strong>SYF 2018</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p><strong>SYF 2024</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSR5SyrWhT2cZHbQuNMxb5U4-fk9owaTpVNxAz9e7xQzEKGRAPHXkXJIHBFV8CPlkP6pCVosIw0ze0j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
+<p></p>
 <p></p>
