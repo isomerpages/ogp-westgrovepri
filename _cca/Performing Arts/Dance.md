@@ -6,6 +6,81 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h1>Dance</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Objectives: </strong>
+</p>
+<p>The objective of our dance program is to foster a love for movement and
+creativity while building confidence and teamwork among participants. Through
+diverse styles of dance, we aim to enhance physical fitness, coordination,
+and self-expression, allowing dancers to explore their unique artistic
+voices. Additionally, we strive to create a supportive and inclusive environment
+where individuals of all skill levels can learn, grow, and celebrate the
+joy of dance together.</p>
+</li>
+<li>
+<p><strong>Current Teachers:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Shariffah Affinda (I/C),</p>
+</li>
+<li>
+<p>Lin Weijun</p>
+</li>
+<li>
+<p>Jessica Xie Liling.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Meeting Days and Hours:</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Tuesday (P2-P3) and Thursday (P4-P6)</p>
+</li>
+<li>
+<p>2 hours 2 times a week.</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Programs:</strong> Upcoming dance competition for upper primary
+in 2025.</p>
+</li>
+<li>
+<p><strong>Achievements:</strong> Singapore Youth Festival Art Presentation
+(International Dance) 2024 and pupils have been awarded with a distinction
+for their beautiful Thai Dance (Breathe), venue: University Cultural Centre,
+Ho Bee Auditorium.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title: Dance CCA</p>
+</li>
+<li>
+<p>1 Instructor for both sessions – Mr Raz Frainn Bin Rozaly</p>
+</li>
+<li>
+<p>3 <strong>Teachers</strong>
+</p>
+</li>
+<li>
+<p>Members about<strong> 15</strong>  <strong>Juniors</strong> (P2 &amp; P3)
++ <strong>38</strong>  <strong>Seniors</strong> (P4 – P6)</p>
+</li>
+<li>
+<p>Meeting with teachers and students – The meeting is held every semester.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
+<p></p>
+<p></p>
 <p>Dancing is an art where coordination of mind and body transcends into
 beautiful poses. With focus on ballet and contemporary dance techniques,
 West Grove dance troupe strives to help our dancers develop and maintain
