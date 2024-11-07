@@ -79,7 +79,7 @@ school events/competitions.</p>
 or without music background to join us because we truly believe that the
 Ukulele is an instrument fit for anyone and everyone!</p>
 <p>Till date, we have participated in school events such as International
-Friendship Day, Teachers’ Day and National Day.</p>
+Friendship Day, Teachers’ Day and National Day Observance Ceremony.</p>
 <p>We hope that we can grow in number and have more pupils enjoy music-making
 with us!</p>
 <div class="iframe-wrapper">
