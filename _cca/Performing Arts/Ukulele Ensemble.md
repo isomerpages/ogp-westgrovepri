@@ -82,7 +82,7 @@ Ukulele is an instrument fit for anyone and everyone!</p>
 Friendship Day, Teachers’ Day and National Day Observance Ceremony.</p>
 <p>We hope that we can grow in number and have more pupils enjoy music-making
 with us!</p>
-<p><a href="/files/Ukulele_Club_Promo.pdf" rel="noopener nofollow" target="_blank">Ukulele Club Promo:</a>
+<p><a href="/files/Ukulele_Club_Promo.pdf" rel="noopener nofollow" target="_blank">Click for for Ukulele Club Promo:</a>
 </p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQSf-Nej5zXKHopLoJwmy8OZphO2RFcIqzMxwFYAmA07XMBEF8XRqzd_V6kZnbCnmehz7NtukT1f22/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
