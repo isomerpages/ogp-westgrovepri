@@ -56,23 +56,12 @@ third_nav_title: School Adminstration
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20%20%20Jan%20to%20Dec/Gate1_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20%20%20Jan%20to%20Dec/Gate1_2.jpg">
-</div>
-<p><strong>GATE 3 : (Nearest to Block 723 - Open from 6.45 a.m. - 7.20 a.m. &amp; 1.30 p.m. - 2.05 p.m.)</strong>
+<p><strong>GATE 3 : (Nearest to Block 723)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20%20%20Jan%20to%20Dec/Gate3_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20%20%20Jan%20to%20Dec/Gate3_2.jpg">
-</div>
 <p><strong>CLOSING HOURS FOR MAIN GATE</strong>
 </p>
 <table style="minWidth: 100px">
