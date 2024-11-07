@@ -20,7 +20,12 @@ school events/competitions.</p>
 </ul>
 <p><strong>TRAINING DAYS &amp; TIME</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,15 +55,20 @@ school events/competitions.</p>
 </table>
 <p><strong>TEACHERS-IN-CHARGE</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Mashita Chua (i/c)
-<br>Mrs. Tang-Chew Pei Xi
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Chua Mashita</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chai Ru Yi</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Chew Pei Xi
 <br>
 </p>
 </td>
