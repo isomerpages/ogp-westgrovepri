@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p><strong>OPENING HOURS FOR GATES</strong>
+<p><strong><u>OPENING HOURS FOR GATES</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -67,18 +67,18 @@ third_nav_title: School Adminstration
 </tr>
 </tbody>
 </table>
-<p><strong>GATE 1A &amp; 1 B : (Nearest to school power station)</strong>
+<p><strong><u>GATE 1A &amp; 1 B : (Nearest to school power station)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
 </div>
-<p><strong>GATE 3 : (Nearest to Block 723)</strong>
+<p><strong><u>GATE 3 : (Nearest to Block 723)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20%20%20Jan%20to%20Dec/Gate3_1.jpg">
 </div>
 <p></p>
-<p><strong>CLOSING HOURS FOR MAIN GATE</strong>
+<p><strong><u>CLOSING HOURS FOR MAIN GATE</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
