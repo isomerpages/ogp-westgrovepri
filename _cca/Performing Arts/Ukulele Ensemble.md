@@ -20,7 +20,12 @@ school events/competitions.</p>
 </ul>
 <p><strong>TRAINING DAYS &amp; TIME</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,15 +55,20 @@ school events/competitions.</p>
 </table>
 <p><strong>TEACHERS-IN-CHARGE</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Mashita Chua (i/c)
-<br>Mrs. Tang-Chew Pei Xi
+<p>1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mrs Chua Mashita</p>
+<p>2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ms Chai Ru Yi</p>
+<p>3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mdm Chew Pei Xi
 <br>
 </p>
 </td>
@@ -69,9 +79,11 @@ school events/competitions.</p>
 or without music background to join us because we truly believe that the
 Ukulele is an instrument fit for anyone and everyone!</p>
 <p>Till date, we have participated in school events such as International
-Friendship Day, Teachers’ Day and National Day.</p>
+Friendship Day, Teachers’ Day and National Day Observance Ceremony.</p>
 <p>We hope that we can grow in number and have more pupils enjoy music-making
 with us!</p>
+<p><a href="/files/Ukulele_Club_Promo.pdf" rel="noopener nofollow" target="_blank">Click for for Ukulele Club Promo:</a>
+</p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQSf-Nej5zXKHopLoJwmy8OZphO2RFcIqzMxwFYAmA07XMBEF8XRqzd_V6kZnbCnmehz7NtukT1f22/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
