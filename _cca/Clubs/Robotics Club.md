@@ -5,95 +5,66 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<p><strong>OBJECTIVE</strong>
+<p><strong>Objectives:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To develop students’ robot construction and programming skills through
-exposure of a variety of robotics field</p>
+<p>Enhance problem-solving abilities.</p>
 </li>
 <li>
-<p>To equip and hone students’ problem solving skills</p>
+<p>Foster teamwork and collaboration.</p>
+</li>
+<li>
+<p>Cultivate research and presentation skills.</p>
+</li>
+<li>
+<p>Develop students' robot construction and programming skills.</p>
 </li>
 </ul>
-<p><strong>TRAINING</strong>
+<p><strong>&nbsp;</strong>
 </p>
-<ul>
+<p><strong>Training Overview:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>The competitions these members are exposed to centres around points gained
-by teams if their robot manages to achieve doing tasks and sub-tasks</p>
+<p>Students will participate in competitions where robots perform tasks and
+sub-tasks to earn points.</p>
 </li>
 <li>
-<p>Teams with the highest points gained by the end of the competition, wins</p>
+<p>The team with the highest points at the end of the competition wins.</p>
 </li>
 <li>
-<p>There is a research and presentation element where teams have to research
-on a theme that is usually based on technology and issues pertaining to
-the environment and innovation</p>
+<p>Teams will research and present on topics related to technology, the environment,
+and innovation.</p>
 </li>
 <li>
-<p>Teams present their findings to a small group of judges</p>
+<p>Students will present their findings to judges, developing communication
+and critical thinking skills.</p>
 </li>
 </ul>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P2 – P6</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P3 – P6</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Day:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm – 4pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2pm – 4pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Venue:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 4 / Teaching Lab / Computer Lab 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Computer Lab 4 / Teaching Lab</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teachers-in-Charge:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm. Nurhuda (I/C), Mr. Ong Chee Keong, Mdm. Sharifah Haiezian</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Teachers:</strong>
+</p>
+<p>Mdm Huda (teacher-in-charge)</p>
+<p>Mdm Haiezian</p>
+<p>Mr Ong Chee Keong</p>
+<p>Ms Annabelle Woo</p>
+<p>&nbsp;<strong>CCA Days</strong>
+</p>
+<p>Time:<strong> </strong>2 p.m. to 4 p.m.</p>
+<p>Term 1 &amp; 4: Tues or Thurs</p>
+<p>Term 2 &amp; 3: Tues &amp; Thurs (in preparation of competitions)</p>
+<p>&nbsp;<strong>Competitions</strong>
+</p>
+<p>Term 2: IDE (only for Tuesday teams)</p>
+<p>Term 3: NRC</p>
 <p><strong>Achievements</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
