@@ -83,9 +83,9 @@ for holistic development.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mdm. Huang Wanxi (I/C)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mr. Huang Hongwei (IC)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ for holistic development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Jackie Huang</p>
+<p>Mdm. Huang Wanxi</p>
 </td>
 </tr>
 </tbody>
@@ -141,41 +141,33 @@ for holistic development.</p>
 <p>Events</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Month
+<p>Period
 <br>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone Competition
-<br>
-</p>
+<p>SPSSC senior division competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>January – April</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Competition:
-<br>
-</p>
+<p>SPSSC junior division competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>July – September</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friendly matches against other schools
-<br>
-</p>
+<p>Friendly matches with other schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>June and (or) December holiday</p>
 </td>
 </tr>
 </tbody>
