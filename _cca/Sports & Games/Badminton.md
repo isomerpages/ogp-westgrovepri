@@ -89,8 +89,7 @@ for holistic development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs. Ng Hwee Ching (I/C)</strong>
-</p>
+<p>Mrs. Ng Hwee Ching</p>
 </td>
 </tr>
 <tr>
