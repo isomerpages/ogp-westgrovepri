@@ -8,93 +8,88 @@ variant: tiptap
 <h1>Badminton</h1>
 <p><strong>OBJECTIVES</strong>
 </p>
-<p>To inculcate the spirit of teamwork and sportsmanship.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to learn to understand and apply
+the basic rules of badminton.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to learn and apply skills such
+as service, footwork, forehand and backhand shots.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to learn sportsmanship and values
+of fair play, teamwork and discipline.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students to have leadership opportunities
+for holistic development.</p>
 <p><strong>TRAINING DAYS &amp; TIME</strong>
 </p>
-<table>
+<p><strong>Training Time &amp; Venue:</strong>
+</p>
+<p><strong>2 p.m. to 4 p.m. at School Hall</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Day</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue
-<br>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday, Friday
-<br>
-</p>
+<p>Groups</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 5 p.m.
-<br>(Competitive Group 1)
-<br>(Selected Players Only)</p>
+<p>Training days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall
-<br>
-</p>
+<p>Total group size</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday
-<br>
-</p>
+<p>P4, P5 &amp; P6 Competitive group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 3 p.m.
-<br>(Recreation Group)
-<br>(P3 to P5)
-<br>3 p.m. to 4 p.m.
-<br>(P2 Boys)</p>
+<p>Mon, Wed &amp; Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall
-<br>
-</p>
+<p>Max. 30 students total</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday
-<br>
-</p>
+<p>P4 &amp; P5 Recreational group</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.
-<br>(P2 Boys)</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sports Hall
-<br>
-</p>
+<p>Max. 20 students per level</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P6 Recreational group</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Max. 20 students per level</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>TEACHERS-IN-CHARGE</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mdm. Huang Wanxi (I/C)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mr. Huang Hongwei (IC)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs. Ng Hwee Ching (I/C)</strong>
-</p>
+<p>Mrs. Ng Hwee Ching</p>
 </td>
 </tr>
 <tr>
@@ -109,14 +104,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Jackie Huang</p>
+<p>Mdm. Huang Wanxi</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Coach</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -132,48 +130,44 @@ variant: tiptap
 </table>
 <p><strong>Programme Schedule (to be updated)</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Events</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Month
+<p>Period
 <br>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>West Zone Competition
-<br>
-</p>
+<p>SPSSC senior division competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>January – April</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Competition:
-<br>
-</p>
+<p>SPSSC junior division competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
-<br>
-</p>
+<p>July – September</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friendly matches against other schools
-<br>
-</p>
+<p>Friendly matches with other schools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>June and (or) December holiday</p>
 </td>
 </tr>
 </tbody>
