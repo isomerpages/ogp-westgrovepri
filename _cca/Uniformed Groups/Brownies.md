@@ -37,7 +37,11 @@ Me</p>
 </ul>
 <p>Brownies enjoy working for interest badges and awards that will help them
 develop new skills.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,7 +56,7 @@ develop new skills.</p>
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm – 4pm</p>
+<p>2 pm – 3.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +64,7 @@ develop new skills.</p>
 <p>Venue:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2B Classroom</p>
+<p>1G Classroom</p>
 </td>
 </tr>
 <tr>
@@ -68,14 +72,21 @@ develop new skills.</p>
 <p>Teachers-in-Charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Samsia Sulaiman, Ms.Tan Lee Ping, Mdm. Lau Yee Fun</p>
+<p>Mdm. Samsia Sulaiman</p>
+<p>Ms. Tan Lee Ping</p>
+<p>Mdm. Lau Yee Fun</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Achievements</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
