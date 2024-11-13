@@ -48,9 +48,10 @@ connect people, and contribute to the broader narrative of our interconnected
 global community.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>2018: Singapore Youth Festival - Accomplishment</p>
-<p>2019: Singapore International Choral Festival - Silver</p>
+<p>2024: Singapore Youth Festival – Distinction</p>
 <p>2023: Singapore International Choral Festival - Gold</p>
+<p>2019: Singapore International Choral Festival - Silver</p>
+<p>2018: Singapore Youth Festival - Accomplishment</p>
 <p><strong>Practice Days:</strong>
 </p>
 <p>Tuesdays and/or Thursdays</p>
