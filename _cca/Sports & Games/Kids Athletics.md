@@ -5,9 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p><strong>Kids Athletics</strong>
+<p><strong>Objective:</strong>
 </p>
-<p>Training Days and Time (to be updated)</p>
+<p>Athletics aims to provide students with the skills and knowledge associated
+with running, such as warm-up and drills. They will be introduced to various
+events including jumping and throwing. We aim to develop mental toughness,
+discipline, friendship, and love for physical activity.</p>
+<p>&nbsp;</p>
+<p>Pupils who have met the standards for competition will be considered for
+National School Games in February to April.</p>
 <p></p>
 <p><strong>Teachers</strong>
 </p>
