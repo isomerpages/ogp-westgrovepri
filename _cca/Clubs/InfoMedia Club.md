@@ -20,9 +20,6 @@ beyond the school.&nbsp;</p>
 </li>
 <li>
 <p>Learn and practice coding on various platforms</p>
-</li>
-<li>
-<p>Share and facilitate activities for the rest of the school</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Micro: bits Block-based coding</p>
@@ -31,21 +28,18 @@ beyond the school.&nbsp;</p>
 <p>Scratch Block-based Coding</p>
 </li>
 <li>
-<p>Bits Box Text-based Coding</p>
+<p>AI and machine learning</p>
 </li>
 <li>
-<p>Ozobot</p>
+<p>Swift Programming Language</p>
 </li>
 <li>
-<p>Parrot Drones</p>
-</li>
-<li>
-<p>Makey Makeys</p>
-</li>
-<li>
-<p>More to come…&nbsp;</p>
+<p>More to come...</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Share and facilitate activities for the rest of the school</p>
 </li>
 <li>
 <p>Learn about various aspects of Cyber Wellness</p>
@@ -57,7 +51,11 @@ Student Ambassadors)</p>
 </ul>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
