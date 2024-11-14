@@ -27,7 +27,11 @@ objectives below:</p>
 <p>To train members to become loyal and responsible citizens.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -70,7 +74,14 @@ objectives below:</p>
 </table>
 <p><strong>Achievements</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -168,7 +179,17 @@ objectives below:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Our Boys in Action</strong>
+<p><strong><u>Click here for Our videos:</u></strong>
+</p>
+<p><a href="https://drive.google.com/file/d/1Zu0ow4K-Dx6s2-4qwfDczulXIy05XIIq/view?usp=sharing" rel="noopener nofollow" target="_blank">Boys’ Brigade Website SLS (online-video-cutter.com)</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1PrOqkwzwvmmnUeGpyogrHaAtNYBdH_w9/view?usp=sharing" rel="noopener nofollow" target="_blank">Boys Brigade 95J 2024 for Website</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1FeHjmmQTWZmXlh5xHZN_HqSMyU1M2F4f/view?usp=sharing" rel="noopener nofollow" target="_blank">Jovan Video</a>
+</p>
+<p></p>
+<p></p>
+<p><strong><u>Our Boys in Action</u></strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
