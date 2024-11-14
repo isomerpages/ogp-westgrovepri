@@ -179,7 +179,7 @@ objectives below:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Click here for Our videos:</strong>
+<p><strong><u>Click here for Our videos:</u></strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1Zu0ow4K-Dx6s2-4qwfDczulXIy05XIIq/view?usp=sharing" rel="noopener nofollow" target="_blank">Boys’ Brigade Website SLS (online-video-cutter.com)</a>
 </p>
@@ -189,7 +189,7 @@ objectives below:</p>
 </p>
 <p></p>
 <p></p>
-<p><strong>Our Boys in Action</strong>
+<p><strong><u>Our Boys in Action</u></strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
