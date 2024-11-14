@@ -28,5 +28,7 @@ Fast Food and Fuzz Camp and the school’s year end camp.</p>
 friendships, join the Girls' Brigade and be part of something special.
 Let's grow, learn, and make unforgettable memories together! It is catered
 for Primary 2 to Primary 6 girls.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRHY-dSYNHcOzJZ3Y2YQC2cpW1CenASaEzNSWopSmJFfIlw95NIw8z8JZkE5LDw5fi0YdVsq_wv7vG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
