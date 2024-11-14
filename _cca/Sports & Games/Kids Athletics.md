@@ -5,17 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p><strong>Objective:</strong>
+<p><strong><u>Objective:</u></strong>
 </p>
 <p>Athletics aims to provide students with the skills and knowledge associated
 with running, such as warm-up and drills. They will be introduced to various
 events including jumping and throwing. We aim to develop mental toughness,
 discipline, friendship, and love for physical activity.</p>
-<p>&nbsp;</p>
-<p>Pupils who have met the standards for competition will be considered for
-National School Games in February to April.</p>
-<p></p>
-<p><strong>Teachers</strong>
+<p>&nbsp;Pupils who have met the standards for competition will be considered
+for National School Games in February to April.</p>
+<p><strong><u>CCA Days:</u></strong>
+</p>
+<p>Every Tuesday and Thursday</p>
+<p>2 pm to 3.30 pm ( 1hr 30 min per training session)</p>
+<p><strong><u>Teachers</u></strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
