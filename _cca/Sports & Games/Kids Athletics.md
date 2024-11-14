@@ -41,8 +41,7 @@ for National School Games in February to April.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrzFsXCqzfwXg5purTVlgUagcQE8IDkKKQPkcAKD5K6TfjSu4dRlT69suOH9LwbDBqxMMJlJ2CScHe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrzFsXCqzfwXg5purTVlgUagcQE8IDkKKQPkcAKD5K6TfjSu4dRlT69suOH9LwbDBqxMMJlJ2CScHe/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
