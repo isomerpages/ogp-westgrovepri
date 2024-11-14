@@ -11,26 +11,24 @@ third_nav_title: Sports & Games
 <p></p>
 <p><strong>Teachers</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Mr. Qairul Izam (I/C)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mdm. Lau Yee Fun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Michelle Sim</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs. Clarissa Hue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Michelle Sim-Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Ng Siuk Geok</p>
 </td>
 </tr>
 </tbody>
