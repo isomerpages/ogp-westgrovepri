@@ -85,6 +85,8 @@ Booth at Nanyang National Day Carnival 2024</p>
 West Grove Reading Carnival</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Youth
 Festival participation</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjkaWX7z8OqCi6afmYDDmMKRq6ze21JVLhKQWpq97lsJ2IjtC7aQBsWogQYlIGH92wJ7jFl8yYYfzF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p></p>
