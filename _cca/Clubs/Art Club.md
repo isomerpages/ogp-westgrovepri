@@ -23,46 +23,53 @@ a higher level that will enable them to pursue Art Education in the future.</p>
 </ul>
 <p><strong>TEACHERS-IN-CHARGE</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overall in-charge</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm. Asziah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level in-charge for P2 to P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Nicole Cheong</p>
+<p>Ms. Er Ka Hui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level in-charge for P4 to P6</p>
+<p>Ms. Nicole Cheong</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Asziah</p>
+<p>Mdm. Nur Anisah</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>TRAINING DAYS &amp; TIME</strong>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Session</p>
+<p>Arts Club Sessions:</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday: 2.00 pm – 4.00 pm</p>
+<p>Every Tuesday: 2 pm – 4 pm (For Primary 2 Arts Club members)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Every Thursday: 2 pm – 4 pm (For Primary 3,4,5 &amp; 6 Arts Club members)</p>
 </td>
 </tr>
 </tbody>
