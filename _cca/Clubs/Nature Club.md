@@ -5,30 +5,35 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<p>The mission of the club is to increase the eco-consciousness and social
-responsibility of our students by providing them access to the natural
-world, educational programmes and resources. Through diverse collaborative
-partnerships, we will develop in our students the knowledge, passion and
-skills to work towards environmental sustainability.</p>
-<p>Your children will have opportunities to:</p>
-<ul>
-<li>
-<p>Learn and appreciate wildlife in Singapore&nbsp;</p>
-</li>
-<li>
-<p>Expand their eco-consciousness</p>
-</li>
-<li>
-<p>Develop leadership skills</p>
-</li>
-<li>
-<p>Participate in public outreach to sustain the planet</p>
-</li>
-<li>
-<p>&nbsp;Participate in Learning Journeys</p>
-</li>
-</ul>
-<table>
+<p><strong>Nature Club</strong>
+</p>
+<p>We aim to spark your child's curiosity, further their understanding and
+help them develop feelings of wonder and care for the natural world in
+Singapore and beyond.</p>
+<p><strong>&nbsp;Activities include:&nbsp;</strong>
+</p>
+<p>-Workshops</p>
+<p>-Storytelling</p>
+<p>-Gardening</p>
+<p>-Learning Journeys</p>
+<p>-Contests</p>
+<p>-Online activities</p>
+<p>-Nature-related presentations to the school and community.</p>
+<p>-Helping the community through Values in Action (VIA) eg. Tree planting</p>
+<p><strong>&nbsp;2024</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to Japanese Garden</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nature photography</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gardening</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Storytelling</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reflections</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Insect hunt / Games</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -67,65 +72,6 @@ skills to work towards environmental sustainability.</p>
 </table>
 <p><strong>Achievements</strong>
 </p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>2017</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2018</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2019</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Finalists at Global Youth Summit 2018</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participated in WWF Earth Hour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yellow Flame Award by SEC-StarHub School Green Awards (SGA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sustained Achievement Award South West CDC Green Schools</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Padlet Link: <a href="https://padlet.com/mindymarieneo/nature-club-west-grove-primary-school-62f5tqoqjafksx60" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com/mindymarieneo/nature-club-west-grove-primary-school-62f5tqoqjafksx60</a>
 </p>
 <div class="iframe-wrapper">
