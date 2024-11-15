@@ -74,4 +74,14 @@ a higher level that will enable them to pursue Art Education in the future.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Events</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Art &amp; Crafts
+Booth at Nanyang National Day Carnival 2024</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mural Place Making
+@ Jurong Region Line</p>
+<p>o&nbsp;&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/angweineng.mp/videos/many-thanks-to-the-students-from-west-grove-primary-school-and-juying-secondary-/887970652862643/</a> Event</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitators at
+West Grove Reading Carnival</p>
+<p>Singapore Youth Festival participation</p>
 <p></p>
