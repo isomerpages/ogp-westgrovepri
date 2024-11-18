@@ -22,17 +22,22 @@ Year &amp; Non-Teaching Staff Day Concert. We have also performed in public
 upon invitation by external organizations. Music Appreciation Workshops
 and outings such as watching performances are also organized, so as to
 expose the members to Chinese Music.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Senior</p>
+<p>Juniors</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Junior</strong>
+<p><strong>Seniors</strong>
 </p>
 </th>
 </tr>
@@ -52,10 +57,10 @@ expose the members to Chinese Music.</p>
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm – 4.30pm</p>
+<p>2 pm – 4 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2pm – 4.30pm</p>
+<p>2 pm – 4 pm</p>
 </td>
 </tr>
 <tr>
@@ -71,15 +76,21 @@ expose the members to Chinese Music.</p>
 <p>Teachers-in-Charge:</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms. Hoon Hui Min, Mr. Lee Shi Hao, Mr. Chuan Teik Ping, Mdm. Foon Siew
-Man</p>
+<p>Ms. Hoon Hui Min,</p>
+<p>Mr. Lee Shi Hao,</p>
+<p>Mdm. Foon Siew Man</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Achievements</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
