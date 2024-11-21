@@ -20,9 +20,5 @@ description: ""
 </p>
 <p><strong><a href="/files/P6_Fdn_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Foundation Booklist for 2025</a></strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><a href="/files/P5_Booklist.pdf" rel="noopener nofollow" target="_blank">P5 Booklist for 2025</a>
 </p>
