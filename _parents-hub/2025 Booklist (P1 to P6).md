@@ -4,7 +4,7 @@ permalink: /parents-hub/2025-booklist-p1-to-p6/
 variant: tiptap
 description: ""
 ---
-<p>Click the respective link for 2025 Booklist (P1 to P6)</p>
+<p>Click the respective link for 2025 to download the Booklist (P1 to P6)</p>
 <p></p>
 <p><strong><a href="/files/P1_Booklist__2025.pdf" rel="noopener nofollow" target="_blank">P1 Booklist for 2025</a></strong>
 </p>
