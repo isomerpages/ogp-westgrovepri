@@ -53,7 +53,7 @@ third_nav_title: Team West Grove
 <p>Teaching Assistants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Jayanthi /Mdm.Yong Joo Yee</p>
+<p>Mrs. Jayanthi / Mdm. Yong Joo Yee</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ third_nav_title: Team West Grove
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Hasidah</p>
+<p>Ms. Rusyda Binti Aris</p>
 </td>
 </tr>
 <tr>
