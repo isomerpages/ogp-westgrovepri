@@ -51,6 +51,8 @@ third_nav_title: School Adminstration
 </td>
 <td rowspan="1" colspan="5">
 <p>7.15 a.m. – 7.25 a.m.</p>
+<p>For Mondays to Wednesdays: English language Story Book</p>
+<p>For Thursdays and Fridays: Mother Tongue Story Book</p>
 </td>
 </tr>
 <tr>
