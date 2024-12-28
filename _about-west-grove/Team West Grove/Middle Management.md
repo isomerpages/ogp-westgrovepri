@@ -18,7 +18,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Chandler Jay Siva</p>
+<p>Mdm. Mabel Goh</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head Mathematics</strong>
+<p><strong>Level Head, Mathematics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -268,7 +268,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Tang-Chew Pei Xi</p>
+<p>Mdm. Chew Pei Xi</p>
 </td>
 </tr>
 <tr>
