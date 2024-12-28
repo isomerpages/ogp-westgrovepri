@@ -15,14 +15,21 @@ for Life Programme (LLP) in the Arts in 2014 and transited to Single-Session
 in 2016.</p>
 <p><strong>Principals of West Grove Primary School:</strong>
 </p>
-<p>• Mr Eugene Ong (2001 to 2007)</p>
-<p>• Mrs Teresa Kelly Pang (2007 to 2014)</p>
-<p>• Mrs Chandler Jay Siva (2014 to 2024)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mdm Mabel Goh (2025 to present)</p>
+<p>Mr Eugene Ong (2001 to 2007)</p>
+</li>
+<li>
+<p>Mrs Teresa Kelly Pang (2007 to 2014)</p>
+</li>
+<li>
+<p>Mrs Chandler Jay Siva (2014 to 2024)</p>
+</li>
+<li>
+<p>Mdm Mabel Goh (2024 to present)</p>
 </li>
 </ul>
+<p></p>
 <p><strong>School Motto</strong>
 </p>
 <p><em>Wisdom and Grace</em>
