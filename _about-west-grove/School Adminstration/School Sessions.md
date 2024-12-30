@@ -5,9 +5,19 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p><strong>School Sessions</strong>
+<p><strong>School Sessions for 2025</strong>
 </p>
-<table>
+<p></p>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,6 +51,8 @@ third_nav_title: School Adminstration
 </td>
 <td rowspan="1" colspan="5">
 <p>7.15 a.m. – 7.25 a.m.</p>
+<p>For Mondays to Wednesdays: English language Story Book</p>
+<p>For Thursdays and Fridays: Mother Tongue Story Book</p>
 </td>
 </tr>
 <tr>
@@ -68,11 +80,20 @@ third_nav_title: School Adminstration
 <p>Dismissal Time
 <br>(End of Last Period)</p>
 </td>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="1">
+<p><strong>For Mondays:</strong>
+</p>
+<p>12.25 p.m. (P1)</p>
+<p>12.30 p.m. (P2 to P6)</p>
+</td>
+<td rowspan="1" colspan="4">
+<p><strong>For Tuesdays to Fridays:</strong>
+</p>
 <p>1.25 p.m. (P1)
 <br>1.30 p.m. (P2 to P6)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

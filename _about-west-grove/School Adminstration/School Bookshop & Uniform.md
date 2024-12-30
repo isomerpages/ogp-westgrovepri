@@ -5,15 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p>Dear Parents/Guardians,</p>
-<p><strong>Selling of School Uniforms and Revised Bookshop Opening Hours</strong>
+<p><strong>Bookshop Opening Hours</strong>
 </p>
-<p>Please be informed that our school bookshop, Eng Seng Book Store, will
-begin selling school uniforms onsite starting from <strong><u>2 April 2024 (Tuesday)</u></strong>,
-on behalf of our school uniform supplier, My Uniform Shop (ASIA) Pte Ltd.</p>
-<p>The opening hours for purchasing school uniforms and books at the school
-bookshop will be revised as follows, effective 2 April 2024.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -59,8 +57,13 @@ bookshop will be revised as follows, effective 2 April 2024.</p>
 </tr>
 </tbody>
 </table>
-<p>You can still make purchases online through My Uniform Shop (ASIA) Ptd
-Ltd's website at <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>.
+<p><strong>Sales of School Uniforms</strong>
+</p>
+<p>Please make school uniform purchases online through My Uniform Shop (ASIA)
+Ptd Ltd's website at <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>.
 Additionally, you can contact the uniform supplier at Tel: 62766689 or
 via email at <a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>,
 if you have any inquiries.</p>
+<p>You can collect purchased school uniforms at our school bookshop during
+the school bookshop's opening hours. Please check with the school uniform
+vendor on the delivery date before collection.</p>
