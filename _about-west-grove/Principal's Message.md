@@ -14,6 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<p></p>
+<p></p>
 <h3>Celebrating 25 years of Nurturing Active Minds &amp; Gracious Hearts</h3>
 </th>
 <th rowspan="1" colspan="1">
