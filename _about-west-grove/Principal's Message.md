@@ -5,14 +5,26 @@ description: ""
 variant: tiptap
 ---
 <h1>Principal's Message</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h3>Celebrating 25 years of Nurturing Active Minds &amp; Gracious Hearts</h3>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh.png">
 </div>
-<p><strong>Celebrating 25 years of Nurturing Active Minds &amp; Gracious Hearts</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="3">
 <p>This year marks a significant milestone in our school's history - West
 Grove Primary School's 25th anniversary. Since the founding of the school,
 we have been dedicated to nurturing <strong><em>Active Minds and Gracious Hearts</em></strong>,
@@ -55,3 +67,9 @@ of West Grovians!</p>
 <p>Best regards,</p>
 <p>Mdm Mabel Goh</p>
 <p>Principal, West Grove Primary School</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
