@@ -2,26 +2,76 @@
 title: Principal's Message
 permalink: /school-information/principals-message/
 description: ""
+variant: tiptap
 ---
-# Principal's Message
-
-<img src="/images/2023%20%20%20Jan%20to%20Dec/Principal.png" 
-     style="width:40%" align="right">	 
-
-*The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of education. Martin Luther King Jr.*
-
-This quote resonates so well with our school vision – ‘Active Minds, Gracious Hearts’.  At West Grove Primary, we aspire to grow our children in a holistic manner – pupils to be actively engaged in their learning and to be pupils of exemplary character who can confidently meet the challenges of the changing global landscape. We strive to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future, while keeping them anchored on our core values of Respect, Responsibility, Resilience, Integrity, Commitment and Kindness (R3ICK)
-
-*"Education is not the filling of a bucket, but the lighting of a fire." - William Butler Yeats*
-
-As a school, we believe in every child’s potential and proactively seek to create a wide range of opportunities for them to learn and grow in an enriching and safe environment.   We must ignite the passion for learning in them and not just fill the bucket. We must teach them how to fish and not just feed them the fish. We should not see our efforts to be flavours of the month but as consistent and sustained initiatives to bring teaching and learning to a higher dimension where our children get closer to achieving their aspirations and dreams.  Thus, our teachers will continue to grow in their instructional leadership so that learning is both engaging and meaningful for the pupils. At the same time, our pupils must always remember their purpose and presence in school.  They must aspire for a future they want for themselves and strive hard towards achieving their ambitions.  I recall Walt Disney once said –‘ If you can dream it, you can do it!’
-
-Apart from academic excellence and achieving their potential, our children must have good character – knowing and doing what is right, having a heart for others and being confident that they will succeed despite all odds. Both teachers and parents must continue to play an active role in moulding the character of our children and be the catalyst and inspiration for them. Hence, this journey will be a collaborative one where both the school and the home, together with other stakeholders, must work hand in hand to bring out the best in our children. We must continue to cultivate positive relationships amongst us and keep in regular communications with one another. It takes a village to raise a child (African proverb). This will enable our children to grow up as competent and confident learners with Active Minds and Gracious Hearts.
-
-I look forward to a synergistic relationship with all of you to bring out the best in our children!
-
-*I do the very best I know how – the very best I can; and I mean to keep on doing so until the end- Abraham Lincoln
-*
-
-Best Wishes  
-Mrs Chandler Jay Siva
+<h1>Principal's Message</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p></p>
+<p></p>
+<h3>Celebrating 25 years of Nurturing Active Minds &amp; Gracious Hearts</h3>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh_Bee_Lim_website.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="3">
+<p>This year marks a significant milestone in our school's history - West
+Grove Primary School's 25th anniversary. Since the founding of the school,
+we have been dedicated to nurturing <strong><em>Active Minds and Gracious Hearts</em></strong>,
+and this year we celebrate this remarkable journey.</p>
+<p>As we reflect on our past, we are filled with gratitude for all who have
+contributed to making West Grove what it is today. Our heartfelt thanks
+go to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our past school leaders for their visionary guidance. Special thanks to
+my predecessor, Mrs Chandler Jay Siva, for her steadfast leadership the
+past 10 years.</p>
+</li>
+<li>
+<p>Our dedicated staff, united in their commitment to positively impact every
+West Grovian.</p>
+</li>
+<li>
+<p>Our supportive parents and partners for their unwavering trust and collaboration.</p>
+</li>
+<li>
+<p>Our School Advisory Committee and alumni for their continued involvement
+and support.</p>
+</li>
+</ul>
+<p>West Grove Primary School has grown from strength to strength over the
+years, fostering an environment to bring out the joy of learning. Our focus
+on holistic, all-round development has prepared countless pupils to face
+the world with <strong><em>Wisdom and Grace</em></strong>.</p>
+<p>As we look to the future, we reaffirm our commitment to being a caring
+and supportive school that brings out the best in every pupil. Our hope
+is that all West Grovians will continue to embody our school values of <strong>Respect, Responsibility, Resilience, Integrity, Commitment, and Kindness (R3ICK)</strong>.</p>
+<p>This 25th anniversary is not just a celebration of our past achievements,
+but also a stepping stone towards an even more memorable future. We invite
+all members of our school community - staff, pupils, parents, alumni, and
+partners - to join us in commemorating this special occasion this year.</p>
+<p>Here's to many more years of inspiring and empowering the next generation
+of West Grovians!</p>
+<p>&nbsp;</p>
+<p>Best regards,</p>
+<p>Mdm Mabel Goh</p>
+<p>Principal, West Grove Primary School</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p></p>
