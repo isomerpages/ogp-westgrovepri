@@ -21,7 +21,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh_Bee_Lim_website.jpg">
 </div>
 </th>
 </tr>
