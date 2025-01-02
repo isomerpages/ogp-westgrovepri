@@ -73,7 +73,7 @@ third_nav_title: School Adminstration
 </tr>
 </tbody>
 </table>
-<p><strong>Sales of School Uniforms</strong>
+<p><strong>Sales of School Uniforms:</strong>
 </p>
 <p>Please make school uniform purchases online through My Uniform Shop (ASIA)
 Ptd Ltd's website at <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/</a>.
