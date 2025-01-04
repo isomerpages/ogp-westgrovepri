@@ -102,34 +102,10 @@ third_nav_title: Team West Grove
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms.&nbsp; Siti Amirah Binte Arman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_amirah_arman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms.&nbsp; Chai Ru Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chai_ru_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1E</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm. Neliwati Binte Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neliwati_hamzah@moe.edu.sg</a>
+<p><a href="neliwati_hamzah@moe.edu.sg" rel="noopener nofollow" target="_blank">neliwati_hamzah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -141,7 +117,31 @@ third_nav_title: Team West Grove
 <p>Mrs. Thangaraj Alagumeenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">alagu_meenal_thamodaran@moe.edu.sg</a>
+<p><a href="alagu_meenal_thamodaran@moe.edu.sg" rel="noopener nofollow" target="_blank">alagu_meenal_thamodaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.&nbsp; Siti Amirah Binte Arman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_amirah_arman@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_amirah_arman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms.&nbsp; Chai Ru Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>chai_ru_yi@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
