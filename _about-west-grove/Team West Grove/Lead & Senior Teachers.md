@@ -52,16 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs. Shirin Ishar
-<br><strong><a href="mailto:siti_shirin_omar@moe.edu.sg" rel="noopener noreferrer" target="_blank">siti_shirin_omar@moe.edu.sg</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher (Special Education Needs)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms. Suneeta Kaur
 <br><strong><a href="mailto:suneeta_kaur_balvinder_s@moe.edu.sg" rel="noopener noreferrer" target="_blank">suneeta_kaur_balvinder_s@moe.edu.sg</a></strong>
 </p>
