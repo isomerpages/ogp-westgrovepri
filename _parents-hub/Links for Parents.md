@@ -4,7 +4,7 @@ permalink: /links-for-parents/
 variant: tiptap
 description: ""
 ---
-<p><strong><u>Refer to this links for Parents:</u></strong>
+<p><strong>Refer to this links for Parents:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -24,24 +24,28 @@ description: ""
 </p>
 </li>
 </ul>
-<p>Schoolbag : <a rel="noopener noreferrer nofollow" target="_blank">http://schoolbag.edu.sg</a> &nbsp;</p>
-<p>Parents Kit: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+<p><strong>Schoolbag :</strong>  <a rel="noopener noreferrer nofollow" target="_blank">http://schoolbag.edu.sg</a> &nbsp;</p>
+<p><strong>Parents Kit: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
 </p>
-<p>Instagram – Parenting with MOE: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
+<p><strong>Instagram – Parenting with MOE: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
 </p>
-<p>HealthHub – Parent Hub: <a rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub</a>
+<p><strong>HealthHub – Parent Hub:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub</a>
 </p>
-<p>SingTeach - <em>Assessment beyond tests and examinations: </em><a rel="noopener noreferrer nofollow" target="_blank">https://singteach.nie.edu.sg/2019/04/25/issue68-bigidea/</a>
+<p><strong>SingTeach </strong>- <em>Assessment beyond tests and examinations: </em>
+<a rel="noopener noreferrer nofollow" target="_blank">https://singteach.nie.edu.sg/2019/04/25/issue68-bigidea/</a>
 </p>
-<p>CNA (Channel News Asia)</p>
-<p><em>Why I’m easing up on pushing my kids to excel in their studies:  </em>
+<p><strong>CNA (Channel News Asia)</strong>
+</p>
+<p><em>Why I’m easing up on pushing my kids to excel in their studies: </em>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/today/voices/how-hard-push-child-excel-studies-4687176?cid=internal_sharetool_ipad_20102024_cna</a>
 </p>
-<p>The Straits Times</p>
+<p><strong>The Straits Times</strong>
+</p>
 <p><em>Taking leave to help your child study for year-end exams? Support them in these ways instead: </em>
 <a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/parenting-education/taking-leave-to-help-your-child-study-for-year-end-exams-support-them-in-these-ways-instead</a>
 </p>
-<p>The Straits Times</p>
+<p><strong>The Straits Times</strong>
+</p>
 <p><em>There is more to exams than just the end results: </em><a rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/opinion/there-is-more-to-exams-than-just-the-end-result</a>
 </p>
 <p></p>
