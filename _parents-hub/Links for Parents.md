@@ -24,6 +24,8 @@ description: ""
 </p>
 </li>
 </ul>
+<p>Nutrition Ebooklet to Parents: <a href="/files/Nutrition_WG_Parents_Ebooklet.pdf" rel="noopener nofollow" target="_blank">Nutrition_WG_Parents_Ebooklet</a>
+</p>
 <p><strong>Schoolbag :</strong>  <a href="http://schoolbag.edu.sg" rel="noopener nofollow" target="_blank">http://schoolbag.edu.sg</a> &nbsp;</p>
 <p><strong>Parents Kit: </strong><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
 </p>
