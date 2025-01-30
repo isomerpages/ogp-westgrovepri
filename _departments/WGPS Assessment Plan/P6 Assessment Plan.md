@@ -5,4 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: WGPS Assessment Plan
 ---
-<p>2024 Primary 6 Assessment Plan</p><div class="iframe-wrapper"><iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2r1CuwbwFcfUP4MtTNjsCbkmHxwr49-Mn7XvO-DhWYuzi4Z5ET2cym8NNCt6B9w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><p></p>
+<p>2025 Primary 6 Assessment Plan</p>
+<div class="iframe-wrapper">
+<iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRt8ncZfS0e4jDT4M-2t7Y4WkkMpWC1dZURdREyz9932rkvQsH9nx9iw1bkXRnrMA/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
