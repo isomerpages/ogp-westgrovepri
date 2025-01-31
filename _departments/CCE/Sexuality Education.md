@@ -50,7 +50,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of West Grove Primary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2023</strong>
+<p><strong>Overview of West Grove Primary</strong>  <strong>School’s</strong>  <strong>Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -83,9 +83,9 @@ with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters.</p>
 <p><strong>At West Grove Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="At West Grove Primary School, the following Sexuality Education lessons will be taught in 2023:" src="/images/SEd%201.jpg">
-</div>
+<h4><strong>For Primary 5</strong></h4>
+<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -175,9 +175,9 @@ and how to seek help for themselves and their friends.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Education picture 3" src="/images/SEd%203.jpg">
-</div>
+<h4><strong>For Primary 6</strong></h4>
+<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
