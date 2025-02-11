@@ -103,7 +103,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD, Character and Citizenship Education (Covering)</strong>
+<p><strong>HOD, Character and Citizenship Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
