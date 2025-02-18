@@ -34,35 +34,32 @@ endeavor to ensure sustainability of home-school partnership.</p>
 <p>Provide assistance and support to members on programmes/activities.</p>
 </li>
 </ul>
-<p><strong>PSG Exco 2024</strong>
+<p><strong>PSG Exco 2025</strong>
 </p>
 <ul>
 <li>
-<p>Chairperson - Ms Phyllis Ramasamy</p>
+<p>Chairperson / School Event Liaison - Mr Eamonn Wong</p>
 </li>
 <li>
-<p>Vice-Chairperson - Ms Nicole Ng</p>
+<p>Vice-Chairperson / School Event Liaison - Mr Mhmd Fairoz Bin Shariff</p>
 </li>
 <li>
 <p>Secretary - Ms Carolyn Tan</p>
 </li>
 <li>
-<p>Asst. Secretary - Ms Jeanz Tan</p>
+<p>Asst. Secretary - Mdm Aliffah Rosman</p>
 </li>
 <li>
 <p>Treasurer - Ms Sherlyn Leow</p>
 </li>
 <li>
-<p>Social Media (Telegram) - Ms Joanne Pon</p>
+<p>Social Media (Telegram) - Mr Matthew Cheong</p>
 </li>
 <li>
-<p>Social Media (FB) - Mr Eamonn Wong</p>
+<p>Social Media (FB) - Mdm Geetha</p>
 </li>
 <li>
-<p>Social Media (Instagram) - Mr Mohamed Fairoz Bin Shariff</p>
-</li>
-<li>
-<p>School Event Liaison - Mr Shankarapandian</p>
+<p>Social Media (Instagram) - Mdm Vanitha Shanmugam</p>
 <p></p>
 </li>
 </ul>
