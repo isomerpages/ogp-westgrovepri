@@ -2,8 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Photography and Videography at School Events, Publication of Students’
-        Work.md
       - 2025 Booklist (P1 to P6).md
       - 2025 School Uniform Info Sheet.md
       - 2025 School Calendar.md
@@ -22,4 +20,6 @@ collections:
       - Useful Links for Students.md
       - Wait List Application Form.md
       - WE Stories.md
+      - Photography and Videography at School Events, Publication of Students’
+        Work.md
       - FAQs.md
