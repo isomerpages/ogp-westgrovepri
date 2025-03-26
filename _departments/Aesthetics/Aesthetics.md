@@ -63,8 +63,6 @@ Nurture every child to become a gracious and informed audience of the Arts.
 
 **Within Singapore**
 
-[https://www.nationalmuseum.sg/](https://www.nationalmuseum.sg/)
-
 [https://www.thelittleartsacademy.com/](https://www.thelittleartsacademy.com/)
 
 **International**
