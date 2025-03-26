@@ -47,30 +47,16 @@ Our ‘Memory Lane’ aims to provide opportunities for students to learn about 
 National Day is a pinnacle celebration to round off all NE commemorative days. Looking at various aspects of Singapore’s history and future growth, it is clearly a celebration of the past present and future. Students’ experience various activities including the NE show which brings about a sense of belonging and national pride.
 
 
-**Field Based Learning Trips**
+**Museum Based Learning**
 
-Field-based learning trip extend the learning of Social Studies beyond the classroom. To ensure a holistic programme, a collaboration between departments was planned, allowing students to make links between subjects as well as developing SEL competencies.
+Museum-based learning is a key component of students extended learning experience. This learning journey has a clear objective: to help students link their Social Studies lessons to real-world experiences, highlighting how historical events continue to impact our lives today. The visit will deepen their understanding of history and offer valuable insights into how past events have shaped the world we live in.  
+  
+**Links:**  
+**Kreta Ayer Heritage Gallery:**
+[https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery](https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery)
 
-**NE/SS RESOURCES**
+**Geylang Serai Heritage Gallery:** [https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery](https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery)
 
-**Useful Websites:**
+**Asian Civilisations Museum:** [https://www.nhb.gov.sg/acm](https://www.nhb.gov.sg/acm)
 
-* NEXUS
-[http://www.connexion.sg/](http://www.connexion.sg/)
-
-* OnePeople.sg
-[http://www.onepeople.sg/](http://www.onepeople.sg/) ;; [http://app.www.sg/](http://app.www.sg/)
-* Singapore for kids
-[http://www.singaporeforkids.com/](http://www.singaporeforkids.com/)
-* Singapore Heritage Fest
-[http://heritagefest.sg/](http://heritagefest.sg/)
-* Housing Development Board
-[http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc](http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/CNOverview?OpenDoc)
-* Singapore Civil Defence Force
-http://www.scdf.gov.sg/content/scdf_internet/en.html
-* National Parks Singapore
-http://www.nparks.gov.sg/cms/
-* Singapore Police Force
-[http://www.spf.gov.sg/](http://www.spf.gov.sg/)
-* Singapore Tourism Board
-[http://www.yoursingapore.com/content/traveller/en/experience.html](http://www.yoursingapore.com/content/traveller/en/experience.html)
+**National Education:** [https://www.moe.gov.sg/education-in-sg/our-programmes/national-education](https://www.moe.gov.sg/education-in-sg/our-programmes/national-education)
