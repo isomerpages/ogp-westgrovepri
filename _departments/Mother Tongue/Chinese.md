@@ -227,10 +227,6 @@ W3 Cluster On-the-spot Chinese Essay Writing Competition 2019
 **嘟嘟华文自适应阅读系统 （Dudu Town**）
 [http://go.dudu.town/](http://go.dudu.town/)
 
-**网上字典**
-
-* 在线汉语字典: [http://xh.5156edu.com/](http://xh.5156edu.com/)
-* 在线汉语字典（部首查字: [http://xh.5156edu.com/bs.html)](http://xh.5156edu.com/bs.html))
 
 ZB School 早报校园网
 
