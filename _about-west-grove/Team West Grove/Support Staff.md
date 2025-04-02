@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Team West Grove
 ---
-<h1>Teaching Support Staff</h1>
+<h1>Support Staff</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
