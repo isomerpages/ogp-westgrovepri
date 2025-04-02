@@ -1,11 +1,11 @@
 ---
-title: Allied Educators & Teaching Support Staff
-permalink: /staff/allied-educators-and-teaching-support-staff/
+title: Support Staff
+permalink: /staff/support-staff/
 description: ""
 variant: tiptap
 third_nav_title: Team West Grove
 ---
-<h1>Allied Educators &amp; Teaching Support Staff</h1>
+<h1>Support Staff</h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,11 +40,11 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Learning &amp; Behavioural Support)</p>
+<p>Special Education Needs Officer (SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Yasmine Hatnam Lin Yue
-<br>Mdm. Siti Rohaya</p>
+<p>Ms. Yasmine Hatnam Lin Yue</p>
+<p>Mdm. Siti Rohaya</p>
 <p>Mr. Zul Afiq Bin Zuhri</p>
 </td>
 </tr>
