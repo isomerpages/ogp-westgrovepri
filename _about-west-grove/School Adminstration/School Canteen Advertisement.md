@@ -30,15 +30,7 @@ third_nav_title: School Adminstration
 <p>Chinese Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 April 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Halal Rice / Western Food</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 April 2025</p>
+<p>31 July 2025</p>
 </td>
 </tr>
 </tbody>
