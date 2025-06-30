@@ -21,8 +21,6 @@ variant: markdown
 
 Our annual Mother Tongue Languages and Cultures Programme is designed to create an immersive and meaningful environment for students to learn and appreciate their linguistic and cultural heritage. This initiative supports the holistic development of students by connecting language learning with cultural experiences that foster identity, pride, and curiosity.
 
-        
-
 **Curriculum-Time Cultural Activities (Term 2, Weeks 3 &amp; 4)**
 
 This year, students across all levels participated in a wide range of engaging, hands-on activities during curriculum time. These experiences were thoughtfully curated to deepen their understanding of their respective cultures while reinforcing the relevance and beauty of their Mother Tongue languages.
@@ -50,9 +48,7 @@ This year, students across all levels participated in a wide range of engaging, 
 *   **P4**: Basket Designing
 *   **P5**: Traditional Doll-making
 *   **P6**: Sand Art Rangoli
-
-        
-
+      
 **P3 Mother Tongue Language Camp**
 
 In addition to in-class activities, our P3 students took part in a dedicated Mother Tongue Language &amp; Cultural Camp, where they rotated through a series of immersive learning stations focused on cultural arts and traditions.
