@@ -208,10 +208,10 @@ third_nav_title: Team West Grove
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Clarissa Hue-Cheong Wei Lin</p>
+<p>Mdm. Nur Anisah Bte Syed Maideen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_anisah_syed_maideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarissa_cheong_wei_lin@moe.edu.sg</a>
+<p><a href="mailto:nur_anisah_syed_maideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_anisah_syed_maideen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
