@@ -24,10 +24,11 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>School Counsellors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Indahiryana</p>
+<p>Ms. Ong Se Ya Zuriel</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +46,6 @@ third_nav_title: Team West Grove
 <td rowspan="1" colspan="1">
 <p>Ms. Yasmine Hatnam Lin Yue</p>
 <p>Mdm. Siti Rohaya</p>
-<p>Mr. Zul Afiq Bin Zuhri</p>
 </td>
 </tr>
 <tr>
