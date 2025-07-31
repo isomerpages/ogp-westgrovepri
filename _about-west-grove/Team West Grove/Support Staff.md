@@ -45,7 +45,6 @@ third_nav_title: Team West Grove
 <td rowspan="1" colspan="1">
 <p>Ms. Yasmine Hatnam Lin Yue</p>
 <p>Mdm. Siti Rohaya</p>
-<p>Mr. Zul Afiq Bin Zuhri</p>
 </td>
 </tr>
 <tr>
