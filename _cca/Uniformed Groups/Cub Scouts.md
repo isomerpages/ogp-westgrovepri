@@ -19,19 +19,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm. Goh Ming Mei</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Ms. Germain Wong Xue Ying</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm. Noor Afizah Bte Rusli</strong>
+<p><strong>Ms. Chai Ru Yi</strong>
 </p>
 </td>
 </tr>
@@ -53,7 +47,7 @@ experience.</p>
 Scouting skills (Progress badges), personal skills (Proficiency badges)
 as well as commemorative badges for key area events.</p>
 <p>As the first line of the Scout Promise reads, “I promise to do my best”
-– West Grove Cub Scouts endeavour to overcome difficulties and do their
+– West Grove Cub Scouts endeavor to overcome difficulties and do their
 very best in all things and at all times.</p>
 <p></p>
 <p><strong>Programme</strong>
@@ -62,7 +56,8 @@ very best in all things and at all times.</p>
 <p></p>
 <p><strong>Achievements</strong>
 </p>
-<p>Frank Cooper Sands Award 2022 – Bronze Award (Cub Scout Section)</p>
+<p>Frank Cooper Sands Award 2023</p>
+<p>Frank Cooper Sands Award 2024</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyCLBlDYFIG_eTnIoRru5wCDMADpa-ofh7hCZwiXBYP-Ne4AL-F922GPxLBofy5z2uQ40ldFIgV9RV/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
