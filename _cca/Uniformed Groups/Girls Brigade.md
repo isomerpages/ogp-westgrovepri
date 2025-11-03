@@ -5,15 +5,13 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<p><strong><u>CCA Promotion</u></strong>
-</p>
-<p><strong><u>Girls Brigade (80<sup>th</sup> Company)</u></strong>
+<p><strong>Girls Brigade (80<sup>th</sup> Company)</strong>
 </p>
 <p><strong>Teachers in charge:</strong>
 </p>
 <p>Ms Joanne Ching</p>
 <p>Mdm. Meenal</p>
-<p>Ms. Gildabella</p>
+<p>Ms. Sewa Duu Jong</p>
 <p>Are you ready for fun, friendships, and fantastic new skills? Join the
 Girls' Brigade (GB) Singapore at our school! As part of this exciting CCA,
 you will go on adventures, build strong teamwork, and discover how to make
