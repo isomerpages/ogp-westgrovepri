@@ -9,9 +9,28 @@ variant: tiptap
 </p>
 <p><strong>Teachers in charge:</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Ms Joanne Ching</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Meenal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Sewa Duu Jong</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Are you ready for fun, friendships, and fantastic new skills? Join the
 Girls' Brigade (GB) Singapore at our school! As part of this exciting CCA,
 you will go on adventures, build strong teamwork, and discover how to make
