@@ -35,20 +35,35 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Are you ready for fun, friendships, and fantastic new skills? Join the
-Girls' Brigade (GB) Singapore at our school! As part of this exciting CCA,
-you will go on adventures, build strong teamwork, and discover how to make
-a positive difference in your school and community.</p>
-<p>In GB, you will enjoy a range of activities like arts and crafts, outdoor
-sports, cooking, and helping others through community service projects.
-Get ready for awesome team-building games, exciting field trips, and memorable
-camps, where you will make friends, gain confidence, and learn new skills.
-The girls will get to participate in the Junior Leadership Training Camp,
-Fast Food and Fuzz Camp and the school’s year end camp.</p>
-<p>If you are looking for a CCA that builds character, teamwork, and lasting
-friendships, join the Girls' Brigade and be part of something special.
-Let's grow, learn, and make unforgettable memories together! It is catered
-for Primary 2 to Primary 6 girls.</p>
+<p>The Girls' Brigade (GB) is a premier uniformed youth organisation dedicated
+to developing every girl to her fullest potential. Recognised by the Ministry
+of Education (MOE), GB focuses on holistic development through a structured
+programme that builds character, leadership, and a spirit of community
+service.</p>
+<p>&nbsp;</p>
+<p>As a GB girl, you will be engaged in a wide spectrum of activities, from
+learning practical life skills through badge work (like arts and crafts
+and cooking) to participating in outdoor sports, team-building games, and
+meaningful community projects. Our activities are designed to instil values
+like discipline, responsibility, and empathy, equipping them with the confidence
+to lead and serve in both the school and the wider community. GB is more
+than just a CCA; it's a supportive environment where lasting friendships
+are forged, and every girl is empowered to become a thoughtful, capable,
+and resilient young woman.</p>
+<p>&nbsp;</p>
+<p><strong>Recruitment Call: Primary 3 Girls (Class of 2026)</strong>
+</p>
+<p>Are you ready to truly level up your primary school experience? We are
+actively seeking enthusiastic Primary 3 girls to join our ranks in 2026!
+You can be part of the squad training for the highly anticipated National
+Drill Competition to showcase your discipline and teamwork. You also get
+to attend exciting school camps for fun, challenges, and deep bonding.
+Plus, we are proud to offer workshops (such as on cooking, self-defense
+skills) conducted by volunteers from the GB Headquarters, ensuring you
+learn practical skills to boost your confidence and personal safety. If
+you want a CCA that delivers adventure, valuable skills, and unforgettable
+memories, then look no further—join the Girls' Brigade and start your leadership
+journey today!</p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRHY-dSYNHcOzJZ3Y2YQC2cpW1CenASaEzNSWopSmJFfIlw95NIw8z8JZkE5LDw5fi0YdVsq_wv7vG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
