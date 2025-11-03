@@ -61,4 +61,12 @@ These authentic learning experiences not only enhanced students’ language skil
 
 At the heart of this programme lies our belief: Language is not only spoken — it is lived, felt, and celebrated.
 
+2025 Little Reporters Programme: Nurturing Digital-Age Journalists
+
+West Grove Primary School's Mother Tongue Languages Department successfully conducted our Little Reporters programme during the March Holiday, where students enhanced their mother tongue language skills through hands-on journalism experiences.
+
+Our students participated in specialised workshops where Tamil and Chinese Language learners mastered Moo-V technology, while Malay Language students created news content using Canva. A key highlight of this programme included getting &nbsp;our young reporters to interview our school leaders, including our Principal, where they prepared their questions in English and completed reflections in their mother tongue languages.
+
+All student-created content has been showcased on our dedicated Little Reporters microsite, where the school community can access news stories, interviews, and creative content produced by our budding journalists. This innovative programme demonstrated our commitment to meaningful ICT integration in mother tongue language learning.
+
 <iframe allowfullscreen="true" height="560" width="560" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSl4orQhnZsiBATyqTGSqJ8vPP3GQfcMx_4QbYvbiWFMtIZOjTd9UqEFtteHDbCMoYx3K-L7VRui5FR/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
