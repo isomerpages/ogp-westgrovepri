@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<p><strong>Robotix Club</strong>
-</p>
+<h3><strong>Robotix Club</strong></h3>
 <p><strong>Introduction</strong>
 </p>
 <p>Our club is a place where imagination meets technology. Students learn
@@ -24,14 +23,14 @@ build, and program robots to complete tasks in competitions such as the
 National Robotics Competition and hackathons. Through research and presentations
 on topics related to technology, the environment, and innovation, students
 will also develop critical thinking, communication, and presentation skills.</p>
-<p><strong>Teachers:</strong> 
+<p><strong>Teachers:</strong>
 </p>
 <p>Mdm Huda (teacher-in-charge)</p>
 <p>Mr Qiu Zhaoxiang</p>
 <p>Mdm Palanivelu Seetha</p>
 <p>Ms Annabelle Woo</p>
 <p>Ms Siti Jaliah Jamal</p>
-<p><strong>CCA Days:</strong> 
+<p><strong>CCA Days:</strong>
 </p>
 <p>Time: 2 p.m. to 4 p.m.</p>
 <p>Venue: Computer Lab 3 &amp; 4</p>
