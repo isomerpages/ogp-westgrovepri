@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p><strong>Girls Brigade (80<sup>th</sup> Company)</strong>
 </p>
-<p><strong>Teachers in charge:</strong>
-</p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -16,8 +15,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Ms Joanne Ching</p>
+<p>Teachers In-Charge:</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Joanne Ching</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
