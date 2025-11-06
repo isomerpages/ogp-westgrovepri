@@ -86,7 +86,7 @@ Student Ambassadors)</p>
 <p>Teachers-in-Charge:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Fang Swee Sian (I/C), Ms. Aishwarya (I/C), Ms Nursheela, Ms. Jaliah</p>
+<p>Mdm. Fang Swee Sian (I/C), Ms. Aishwarya, Mdm Hani</p>
 </td>
 </tr>
 </tbody>

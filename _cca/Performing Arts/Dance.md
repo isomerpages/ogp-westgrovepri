@@ -5,78 +5,67 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1>Dance</h1>
+<h1><strong>DANCE TROUPE (CCA)</strong></h1>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Objectives: </strong>The objective of our dance program is to
-foster a love for movement and creativity while building confidence and
-teamwork among participants. Through diverse styles of dance, we aim to
-enhance physical fitness, coordination, and self-expression, allowing dancers
-to explore their unique artistic voices. Additionally, we strive to create
-a supportive and inclusive environment where individuals of all skill levels
-can learn, grow, and celebrate the joy of dance together.</p>
+<p><strong>&nbsp;Objectives:&nbsp;</strong>The objective of our dance program
+is to cultivate an enduring appreciation for movement and artistic expression
+while fostering confidence, discipline, and collaboration among participants.
+Through the study of diverse dance forms, we seek to enhance physical fitness,
+coordination, and creativity, enabling dancers to develop and refine their
+individual artistic identities. Furthermore, the program is dedicated to
+maintaining an inclusive and supportive environment in which individuals
+of all backgrounds and skill levels can engage in meaningful learning,
+personal growth, and the shared celebration of dance.</p>
 </li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Current Teachers:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Shariffah Affinda (I/C),</p>
-</li>
-<li>
-<p>Lin Weijun</p>
-</li>
-<li>
-<p>Jessica Xie Liling.</p>
 </li>
 </ul>
-</li>
+<p>o&nbsp;&nbsp; Shariffah Affinda (I/C)</p>
+<p>o&nbsp;&nbsp; Lin Weijun</p>
+<p>o&nbsp;&nbsp; Farhana</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Meeting Days and Hours:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Every Tuesday (P2-P3) and Thursday (P4-P6)</p>
 </li>
 <li>
-<p>2 hours 2 times a week.</p>
+<p>Every Tuesday (P3) and Thursday (P4-P6)</p>
+</li>
+<li>
+<p>Time @2pm – 4pm</p>
+</li>
+<li>
+<p>2 hours 2 times a week</p>
+<p></p>
+</li>
+<li>
+<p><strong>Programs:</strong>&nbsp;</p>
+<p>Upcoming dance competition for upper primary in (SYAP 2026).</p>
+</li>
+<li>
+<p>&nbsp;<strong>Achievements:</strong>&nbsp;Our pupils achieved a Distinction
+at the Singapore Youth Festival Art Presentation (International Dance)
+2024 for their captivating Thai dance performance, Breathe, showcased at
+the University Cultural Centre, Ho Bee Auditorium.</p>
 </li>
 </ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Programs:</strong> Upcoming dance competition for upper primary
-in 2025.</p>
-</li>
-<li>
-<p><strong>Achievements:</strong> Singapore Youth Festival Art Presentation
-(International Dance) 2024 and pupils have been awarded with a distinction
-for their beautiful Thai Dance (Breathe), venue: University Cultural Centre,
-Ho Bee Auditorium.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Title: Dance CCA</p>
-</li>
-<li>
-<p>1 Instructor for both sessions – Mr Raz Frainn Bin Rozaly</p>
-</li>
-<li>
-<p>3 <strong>Teachers</strong>
+<p>&nbsp;o&nbsp;&nbsp; Dance CCA</p>
+<p>o&nbsp;&nbsp; 1 Instructor for both sessions – Mr Raz Frainn Bin Rozaly</p>
+<p>o&nbsp;&nbsp; 3&nbsp;<strong>Teachers</strong>
 </p>
-</li>
-<li>
-<p>Members about<strong> 15</strong>  <strong>Juniors</strong> (P2 &amp; P3)
-+ <strong>38</strong>  <strong>Seniors</strong> (P4 – P6)</p>
-</li>
-<li>
-<p>Meeting with teachers and students – The meeting is held every semester.</p>
-</li>
-</ul>
-</li>
-</ul>
-<p>&nbsp;</p>
-<p>::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</p>
+<p>o&nbsp;&nbsp; Members about<strong>&nbsp;15</strong>&nbsp;<strong>Juniors</strong>&nbsp;(P3)
++&nbsp;<strong>35</strong>&nbsp;<strong>Seniors</strong>&nbsp;(P4 – P6)</p>
+<p>o&nbsp;&nbsp; Meeting with teachers and students – The meeting is held
+once per semester.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC844lRVqVmu_yCgMOGG0fI6__ikU0_yViBOGTyf-9ionxViqcDEhJuTUIL7M9q8KzVxTp4PyGOv8z/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
