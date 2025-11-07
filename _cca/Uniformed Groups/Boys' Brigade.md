@@ -181,8 +181,6 @@ objectives below:</p>
 </table>
 <p><strong><u>Click here for Our videos:</u></strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1Zu0ow4K-Dx6s2-4qwfDczulXIy05XIIq/view?usp=sharing" rel="noopener nofollow" target="_blank">Boys’ Brigade Website SLS (online-video-cutter.com)</a>
-</p>
 <p><a href="https://drive.google.com/file/d/1PrOqkwzwvmmnUeGpyogrHaAtNYBdH_w9/view?usp=sharing" rel="noopener nofollow" target="_blank">Boys Brigade 95J 2024 for Website</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1FeHjmmQTWZmXlh5xHZN_HqSMyU1M2F4f/view?usp=sharing" rel="noopener nofollow" target="_blank">Jovan Video</a>
