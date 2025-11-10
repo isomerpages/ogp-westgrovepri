@@ -5,18 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Sports & Games
 ---
-<p><strong><u>Objective:</u></strong>
+<p><strong><u>Objectives:</u></strong>
 </p>
-<p>Athletics aims to provide students with the skills and knowledge associated
-with running, such as warm-up and drills. They will be introduced to various
-events including jumping and throwing. We aim to develop mental toughness,
-discipline, friendship, and love for physical activity.</p>
-<p>&nbsp;Pupils who have met the standards for competition will be considered
-for National School Games in February to April.</p>
+<p>Athletics CCA aims to develop students’ all-round athletic abilities through
+running, jumping, and throwing activities supported by structured warm-ups
+and drills. Our goal is to foster mental toughness, discipline, teamwork,
+and a lifelong appreciation for physical activity. Based on students’ performance
+and potential across these multi-skill areas, individuals will be selected
+to represent the school at the National School Games.</p>
 <p><strong><u>CCA Days:</u></strong>
 </p>
 <p>Every Tuesday and Thursday</p>
-<p>2 pm to 3.30 pm ( 1hr 30 min per training session)</p>
+<p>2 pm to 4 pm ( 2hrs per training session)</p>
 <p><strong><u>Teachers</u></strong>
 </p>
 <table style="minWidth: 25px">
@@ -32,11 +32,6 @@ for National School Games in February to April.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs. Michelle Sim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs. Clarissa Hue</p>
 </td>
 </tr>
 </tbody>
