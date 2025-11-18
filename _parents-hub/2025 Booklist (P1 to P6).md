@@ -8,17 +8,17 @@ description: ""
 <p></p>
 <p><strong><a href="/files/2026_P1_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P2_Booklist.pdf" rel="noopener nofollow" target="_blank">P2 Booklist for 2026</a>
+<p><strong><a href="/files/2026_P2_Booklist.pdf" rel="noopener nofollow" target="_blank">P2 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P3_Booklist.pdf" rel="noopener nofollow" target="_blank">P3 Booklist for 2026</a>
+<p><strong><a href="/files/2026_P3_Booklist.pdf" rel="noopener nofollow" target="_blank">P3 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P4_Booklist.pdf" rel="noopener nofollow" target="_blank">P4 Booklist for 2026</a>
+<p><strong><a href="/files/2026_P4_Booklist.pdf" rel="noopener nofollow" target="_blank">P4 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P5_Booklist.pdf" rel="noopener nofollow" target="_blank">P5 Booklist for 2026</a>
+<p><strong><a href="/files/2026_P5_Booklist.pdf" rel="noopener nofollow" target="_blank">P5 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P6_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Booklist for 2026</a>
+<p><strong><a href="/files/2026_P6_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Booklist for 2026</a></strong>
 </p>
-<p><a href="/files/2026_P6_Foundation_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Foundation Booklist for 2026</a>
+<p><strong><a href="/files/2026_P6_Foundation_Booklist.pdf" rel="noopener nofollow" target="_blank">P6 Foundation Booklist for 2026</a></strong>
 </p>
 <p></p>
 <p></p>
