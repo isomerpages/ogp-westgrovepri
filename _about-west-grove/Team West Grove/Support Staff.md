@@ -46,6 +46,7 @@ third_nav_title: Team West Grove
 <td rowspan="1" colspan="1">
 <p>Ms. Yasmine Hatnam Lin Yue</p>
 <p>Mdm. Siti Rohaya</p>
+<p>Mr. Muhammad Firdaus Bin Bahrin</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +54,8 @@ third_nav_title: Team West Grove
 <p>Teaching Assistants</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Jayanthi / Mdm. Yong Joo Yee</p>
+<p>Mrs. Jayanthi</p>
+<p>Mdm. Yong Joo Yee</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +63,8 @@ third_nav_title: Team West Grove
 <p>Desktop Engineers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Calvin Wong / Ms. Jessie</p>
+<p>Mr. Calvin Wong</p>
+<p>Ms. Kuganeswari</p>
 </td>
 </tr>
 <tr>
