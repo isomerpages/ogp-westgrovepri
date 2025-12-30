@@ -6,7 +6,6 @@ variant: tiptap
 third_nav_title: Team West Grove
 ---
 <p>Form Teachers 2026</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
