@@ -230,10 +230,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms.&nbsp; Tan Lee Peng Natasha</p>
+<p>Mrs. Thangaraj Alagumeenal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_lee_peng_b@moe.edu.sg</a>
+<p><a href="mailto:alagu_meenal_thamodaran@moe.edu.sg" rel="noopener nofollow" target="_blank">alagu_meenal_thamodaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -278,10 +278,22 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms.&nbsp; Shariffah Affinda</p>
+<p>Mr. Lee Shi Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shariffah_affinda_isa@moe.edu.sg</a>
+<p><a href="mailto:lee_shi_hao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shi_hao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Ng Yan Ting Cheryl</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Yan_Ting_Cheryl_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Yan_Ting_Cheryl_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -302,11 +314,12 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Thangaraj Alagumeenal</p>
+<p>Ms. Foon Siew Man /
+<br>Mdm. Ong Siok Har (FAJT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="alagu_meenal_thamodaran@moe.edu.sg" rel="noopener nofollow" target="_blank">alagu_meenal_thamodaran@moe.edu.sg</a>
-</p>
+<p>foon_siew_man@moe.edu.sg /
+<br>Ong_Siok_Har@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -338,10 +351,10 @@ third_nav_title: Team West Grove
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Nicole Chua-Nai Miao Pei</p>
+<p>Mdm. Chew Pei Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nai_miao_pei_nicole@moe.edu.sg</a>
+<p><a href="mailto:chew_pei_xi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pei_xi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -360,6 +373,18 @@ third_nav_title: Team West Grove
 <tr>
 <td rowspan="1" colspan="1">
 <p>2G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Annabelle Woo Xue Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:annabelle_woo_xue_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annabelle_woo_xue_qi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Shariffah Haiezian</p>
@@ -382,7 +407,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P2</strong>
+<p><strong>P3</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
