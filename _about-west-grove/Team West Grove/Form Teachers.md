@@ -16,7 +16,8 @@ third_nav_title: Team West Grove
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1</p>
+<p><strong>P1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
