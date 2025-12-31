@@ -723,10 +723,10 @@ third_nav_title: Team West Grove
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Rachael Fang Swee Sian</p>
+<p>Mrs. Clarissa Hue-Cheong Wei Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fang_swee_sian@moe.edu.sg</a>
+<p><a href="mailto:clarissa_cheong_wei_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clarissa_cheong_wei_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -735,10 +735,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Annabelle Woo Xue Qi</p>
+<p>Mr. Lin Qi Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">annabelle_woo_xue_qi@moe.edu.sg</a>
+<p><a href="mailto:lin_qi_yue@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_qi_yue@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -747,10 +747,10 @@ third_nav_title: Team West Grove
 <p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Abdul Wahid B Badron</p>
+<p>Mdm. Saheeta Nisvaan D/O Syed Maidin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_wahid_b_badron@moe.edu.sg</a>
+<p><a href="mailto:saheeta_nisvaan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saheeta_nisvaan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -759,10 +759,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Noor Afizah Bte Rusli</p>
+<p>Ms. Kartini Bte Khairi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_afizah_rusli@moe.edu.sg</a>
+<p><a href="mailto:kartini_khairi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kartini_khairi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -771,10 +771,10 @@ third_nav_title: Team West Grove
 <p>5C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Saleha Raj</p>
+<p>Mr. Christopher Wong Zai Fa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">saleha_raj@moe.edu.sg</a>
+<p><a href="mailto:christopher_wong_zai_fa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_wong_zai_fa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -783,10 +783,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Germain Wong Xue Ying</p>
+<p>Mrs. Chen Pei Ai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">germain_wong_xue_ying@moe.edu.sg</a>
+<p><a href="mailto:chen_pei_ai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_pei_ai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -795,58 +795,10 @@ third_nav_title: Team West Grove
 <p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Joanne Ching Goik Peng</p>
+<p>Mdm. Lau Yee Fun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ching_goik_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Er Ka Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">er_ka_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Yusnita Bte Md Taib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yusnita_mohd_taib@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Hoon Hui Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hoon_hui_min@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Teo Jia Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_jia_jun@moe.edu.sg</a>
+<p><a href="mailto:lau_yee_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_yee_fun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -858,13 +810,62 @@ third_nav_title: Team West Grove
 <p>Mdm. Sarifah Azlin Bte Syed Md</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sarifah_azlin@moe.edu.sg</a>
+<p><a href="mailto:sarifah_azlin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarifah_azlin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p>5E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Michelle Sim-Koh Shi Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_shi_hui_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shi_hui_michelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Ang-Goh Ming Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ming_mei_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ming_mei_goh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Rachael Fang Swee Sian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fang_swee_sian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_swee_sian@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Tan Poh Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_poh_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -890,10 +891,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Lin Weijun</p>
+<p>Ms Ng Yang Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lin_weijun@moe.edu.sg</a>
+<p><a href="mailto:ng_yang_xi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yang_xi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -902,10 +903,10 @@ third_nav_title: Team West Grove
 <p>6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Tay Yee Teng</p>
+<p>Mr. Teo Jia Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tay_yee_teng@moe.edu.sg</a>
+<p><a href="mailto:teo_jia_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jia_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -914,10 +915,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Irene Chin-Chan Mei Yin</p>
+<p>Mdm. Tay Yee Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_mei_yin_irene@moe.edu.sg</a>
+<p><a href="mailto:tay_yee_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yee_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -926,10 +927,10 @@ third_nav_title: Team West Grove
 <p>6C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Samsia Bte Sulaiman</p>
+<p>Mdm. Yusnita Bte Md Taib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">samsia_sulaiman@moe.edu.sg</a>
+<p><a href="mailto:yusnita_mohd_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yusnita_mohd_taib@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -938,10 +939,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Nursheela Bte Rustamaji</p>
+<p>Mr. Tee Kar Yeow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rustamaji_nursheela@moe.edu.sg</a>
+<p><a href="mailto:tee_kar_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tee_kar_yeow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -953,7 +954,7 @@ third_nav_title: Team West Grove
 <p>Ms. Munirah Bee Bte Md Haron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">munirah_bee_mohd_haron@moe.edu.sg</a>
+<p><a href="mailto:munirah_bee_mohd_haron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">munirah_bee_mohd_haron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -962,10 +963,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Si Hua</p>
+<p>Ms. Er Ka Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_si_hua@moe.edu.sg</a>
+<p><a href="mailto:er_ka_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">er_ka_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -977,7 +978,7 @@ third_nav_title: Team West Grove
 <p>Mdm. Nurhuda Md Amin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurhuda_mohd_amin@moe.edu.sg</a>
+<p><a href="mailto:nurhuda_mohd_amin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_mohd_amin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -986,10 +987,10 @@ third_nav_title: Team West Grove
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Huang Wanxi</p>
+<p>Mr. Abdul Wahid B Badron</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_wanxi@moe.edu.sg</a>
+<p><a href="mailto:abdul_wahid_b_badron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_wahid_b_badron@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1001,7 +1002,7 @@ third_nav_title: Team West Grove
 <p>Mr. Jackie Huang Hongwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">huang_hongwei@moe.edu.sg</a>
+<p><a href="mailto:huang_hongwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_hongwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1013,7 +1014,7 @@ third_nav_title: Team West Grove
 <p>Mrs. Vishnu Aishwarya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aishwarya_durga_nalamthamby@moe.edu.sg</a>
+<p><a href="mailto:aishwarya_durga_nalamthamby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aishwarya_durga_nalamthamby@moe.edu.sg</a>
 </p>
 </td>
 </tr>
