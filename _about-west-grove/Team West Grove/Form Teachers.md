@@ -708,7 +708,8 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p><strong>P5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -719,7 +720,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4A</p>
+<p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Rachael Fang Swee Sian</p>
@@ -743,7 +744,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4B</p>
+<p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Abdul Wahid B Badron</p>
@@ -767,7 +768,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4C</p>
+<p>5C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs. Saleha Raj</p>
@@ -791,7 +792,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4D</p>
+<p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Joanne Ching Goik Peng</p>
@@ -815,7 +816,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4E</p>
+<p>5E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Yusnita Bte Md Taib</p>
@@ -839,7 +840,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4F</p>
+<p>5F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Teo Jia Jun</p>
@@ -863,18 +864,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5</p>
+<p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -885,7 +875,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5A</p>
+<p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Suneeta Kaur d/o Balvinder S</p>
@@ -909,7 +899,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5B</p>
+<p>6B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Tay Yee Teng</p>
@@ -933,7 +923,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C</p>
+<p>6C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Samsia Bte Sulaiman</p>
@@ -957,7 +947,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5D</p>
+<p>6D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Munirah Bee Bte Md Haron</p>
@@ -981,7 +971,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5E</p>
+<p>6E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Nurhuda Md Amin</p>
@@ -1005,7 +995,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5F</p>
+<p>6F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Jackie Huang Hongwei</p>
@@ -1024,148 +1014,6 @@ third_nav_title: Team West Grove
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">aishwarya_durga_nalamthamby@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Chen Pei Ai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chen_pei_ai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Saw Jin Teik</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">saw_jin_teik@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Jessica Lai-Xie Liling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xie_liling_jessica@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Tan Poh Ching</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_ching@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Nicole Cheong Jia Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nicole_cheong_jia_qi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Lau Yee Fun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lau_yee_fun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Ong Chee Keong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_chee_keong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Michelle Sim-Koh Shi Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_shi_hui_michelle@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Tee Kar Yeow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tee_kar_yeow@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Qiu Zhaoxiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">qiu_zhaoxiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
