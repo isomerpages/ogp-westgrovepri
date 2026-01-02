@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 # Mathematics
 
@@ -17,21 +18,17 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ytt9">Head of Department </th>
-    <th class="tg-s5dh">Mrs. Nicole Chua<br></th>
+    <th class="tg-ytt9">Head of Department (Covering) </th>
+    <th class="tg-s5dh">Mrs. Michelle Sim<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ytt9">Level Head (Mathematics)<br></td>
-    <td class="tg-s5dh">Mrs. Michelle Sim<br></td>
+    <td class="tg-s5dh">Mr. Teo Jia Jun<br></td>
   </tr>
-  <tr>
-    <td class="tg-ytt9">LSM Coordinator(s):<br>(Learning Support Mathematics)</td>
-    <td class="tg-s5dh">Mdm. Hani<br>Mdm. Nurhazlinda</td>
-  </tr>
-</tbody>
-</table>
+  
+</tbody></table>
 
 **INTRODUCTION**
 
