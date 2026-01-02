@@ -3,6 +3,7 @@ title: English Language
 permalink: /departments/English/english-language/
 description: ""
 third_nav_title: English
+variant: markdown
 ---
 # English Language
 
@@ -18,8 +19,8 @@ third_nav_title: English
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c1fh">Head of Department</th>
-    <th class="tg-s5dh">Mdm. Nithiyah d/o Subramaniam<br></th>
+    <th class="tg-c1fh">Head of Department (Covering)</th>
+    <th class="tg-s5dh">Mdm. Sarifah Azlin<br></th>
   </tr>
 </thead>
 <tbody>
@@ -31,16 +32,7 @@ third_nav_title: English
     <td class="tg-c1fh">Lead Teacher<br></td>
     <td class="tg-s5dh">Mdm. Yusnita Mohd Taib<br></td>
   </tr>
-  <tr>
-    <td class="tg-c1fh">Senior Teacher (Educational Support)<br></td>
-    <td class="tg-s5dh">Mrs. Shirin Ishar</td>
-  </tr>
-  <tr>
-    <td class="tg-c1fh">Learning Support Coordinators</td>
-    <td class="tg-s5dh">Mrs. Shirin Ishar, Mdm. Neliwati</td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 **INTRODUCTION:**
 
