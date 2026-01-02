@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Mindy Neo</p>
+<p>Mr. Christopher Wong Zai Fa</p>
 </td>
 </tr>
 <tr>
