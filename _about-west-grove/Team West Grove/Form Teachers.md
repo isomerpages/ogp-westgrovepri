@@ -25,9 +25,9 @@ third_nav_title: Team West Grove
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1A</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Nur Anisah Bte Syed Maideen</p>
 </td>

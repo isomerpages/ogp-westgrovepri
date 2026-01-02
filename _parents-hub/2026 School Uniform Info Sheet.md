@@ -1,6 +1,6 @@
 ---
-title: 2025 School Uniform Info Sheet
-permalink: /parents-hub/2025-school-uniform-info-sheet/
+title: 2026 School Uniform Info Sheet
+permalink: /parents-hub/2026-school-uniform-info-sheet/
 variant: tiptap
 description: ""
 ---

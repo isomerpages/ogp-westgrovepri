@@ -1,10 +1,10 @@
 ---
-title: 2025 School Calendar
+title: 2026 School Calendar
 permalink: /parents-hub/school-calendar/
 variant: tiptap
 description: ""
 ---
-<h1><strong>2025 School Calendar</strong></h1>
+<h1><strong>2026 School Calendar</strong></h1>
 <hr>
 <p>Add <a href="https://calendar.google.com/calendar/ical/westgroveps1%40gmail.com/public/basic.ics" rel="noopener noreferrer nofollow" target="_blank">this calendar</a> to
 your personal device.</p>
