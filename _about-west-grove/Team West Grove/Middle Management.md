@@ -264,7 +264,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head, Environmental Education &amp; Partnership</strong>
+<p><strong>Subject Head, Environmental Education</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
