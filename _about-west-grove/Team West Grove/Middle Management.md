@@ -85,11 +85,11 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD, Mathematics</strong>
+<p><strong>HOD, Mathematics (Covering)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Nicole Chua</p>
+<p>Mrs. Michelle Sim-Koh Shi Hui</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Si Hua</p>
+<p>Ms. Farah Nadiah Binte Jamil</p>
 </td>
 </tr>
 <tr>
@@ -164,6 +164,33 @@ third_nav_title: Team West Grove
 <p>Mr. David Chong</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assist. Year Head (P1/2)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Chew Pei Xi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assist. Year Head (P3/4)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Tan Lee Peng Natasha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assist. Year Head (P5/6)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Ang-Goh Ming Mei</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -187,7 +214,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Mindy Neo</p>
+<p>Mr. Christopher Wong Zai Fa</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +223,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Michelle Sim</p>
+<p>Mr. Teo Jia Jun</p>
 </td>
 </tr>
 <tr>
@@ -219,11 +246,11 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head, Partnership</strong>
+<p><strong>Subject Head, Partnership &amp; Comms</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Wu Xiaowei</p>
+<p>Mrs. Sidart-Wu Xiaowei</p>
 </td>
 </tr>
 <tr>
@@ -246,25 +273,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head, Student Well-being</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Teo Jia Jun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head, National Education &amp; Social Studies</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Munirah Bee Bte Haron</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head, Art</strong>
+<p><strong>Subject Head, ICT &amp; MRL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,16 +282,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head, Publicity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Chew Pei Xi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head, Physical Health Education</strong>
+<p><strong>Subject Head, Physical Health Education &amp; CCA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
