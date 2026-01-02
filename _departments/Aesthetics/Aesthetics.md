@@ -27,16 +27,7 @@ variant: markdown
     <td class="tg-c1fh">Lead Teacher (Music)<br></td>
     <td class="tg-s5dh">Mrs. Irene Chin<br></td>
   </tr>
-  <tr>
-    <td class="tg-c1fh">Subject Head (Publicity)<br></td>
-    <td class="tg-s5dh">Ms Chew Pei Xi<br></td>
-  </tr>
-  <tr>
-    <td class="tg-c1fh">Subject Head (Art)</td>
-    <td class="tg-s5dh">Ms. Er Ka Hui</td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 **INTRODUCTION:**
 
