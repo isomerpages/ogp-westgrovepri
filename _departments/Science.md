@@ -12,14 +12,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Head of Department</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Mr. Tee Kar Yeow
-<br>
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Tee Kar Yeow</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -28,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Mindy Neo</p>
+<p>Mr. Christopher Wong Zai Fa</p>
 </td>
 </tr>
 <tr>

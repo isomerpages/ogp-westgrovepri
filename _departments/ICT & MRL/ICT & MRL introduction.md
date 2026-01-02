@@ -19,13 +19,13 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-5y7r">Head of Department</th>
-    <th class="tg-cly1">Ms. Tan Si Hua<br></th>
+    <th class="tg-cly1">Ms. Farah Nadiah Binte Jamil<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-5y7r">Subject Head (ICT/MRL) </td>
-    <td class="tg-cly1">---<br></td>
+    <td class="tg-cly1">Ms. Er Ka Hui<br></td>
   </tr>
 </tbody>
 </table>
