@@ -14,7 +14,7 @@ sections:
       subtitle: Wisdom and Grace
       key_highlights:
         - title: School Calendar
-          description: 2025 School Calendar
+          description: 2026 School Calendar
           url: https://calendar.google.com/calendar/embed?src=westgroveps1%40gmail.com&ctz=Asia%2FSingapore
         - title: WGPS Facebook Page
           description: Official WGPS FB site
