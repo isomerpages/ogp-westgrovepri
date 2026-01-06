@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - P1 Orientation Slides 2026.md
       - 2026 Booklist (P1 to P6).md
       - 2026 School Uniform Info Sheet.md
       - 2026 School Calendar.md
