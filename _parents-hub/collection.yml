@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - P1 Orientation Slides 2026.md
       - 2026 Booklist (P1 to P6).md
       - 2026 School Uniform Info Sheet.md
       - 2026 School Calendar.md
@@ -17,6 +16,7 @@ collections:
       - Newsletter/2023 (Semester 1).md
       - Briefing Slides.md
       - Primary 1 Virtual Open House.md
+      - P1 Orientation Slides 2026.md
       - Links for Parents.md
       - Useful Links for Students.md
       - Wait List Application Form.md
