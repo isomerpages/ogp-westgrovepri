@@ -9,6 +9,8 @@ West Grove Primary School is partnering with Thye Hua Kwan (THK) Family Services
 
 [THKMC FFLC Calendar 2026 (Primary)](/files/FFLC_Calendar_2026__hyperlink__Primary.pdf)
 
+![](/images/FFLC_Calendar_2026_Primary.jpg)
+
 ![](/images/Until%202022_Pictures/THK%20PSP%20-%20How%20Is%20Your%20Child%20Doing%20Questionnaire.jpg)
 
 
