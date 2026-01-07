@@ -4,7 +4,7 @@ permalink: /school-information/principals-message/
 description: ""
 variant: tiptap
 ---
-<h1>Principal's Message</h1>
+<h4><strong>Principal's Message</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -15,20 +15,14 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="2">
 <p></p>
-<p></p>
-<h3>Celebrating 25 years of Nurturing Active Minds &amp; Gracious Hearts</h3>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mdm_Mabel_Goh_Bee_Lim_website.jpg">
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="2" colspan="3">
-<p><strong>Principal’s Message</strong>
-</p>
+<p></p>
 <p><strong>&nbsp;</strong>Welcome to West Grove Primary School, where our
 commitment to holistic, all-round development has prepared students to
 face life with&nbsp;<strong><em>Wisdom and Grace</em></strong>.</p>
