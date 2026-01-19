@@ -70,6 +70,36 @@ variant: tiptap
 <p>Senior Teacher for Malay Language</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Nurhuda Md Amin
+<br><strong><a href="nurhuda_amin@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhuda_amin@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Huang Wanxi
+<br><strong><a href="huang_wanxi@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_wanxi@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Angeline See Sui Chiat
+<br><strong><a href="see_sui_chiat@moe.edu.sg" rel="noopener nofollow" target="_blank">see_sui_chiat@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Physical Education</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
