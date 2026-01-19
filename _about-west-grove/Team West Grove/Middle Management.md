@@ -246,7 +246,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head, Partnership &amp; Comms</strong>
+<p><strong>Subject Head, Partnerships &amp; Comms.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
