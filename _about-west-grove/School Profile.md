@@ -40,8 +40,15 @@ in 2016.</p>
 </p>
 <p><strong>School Mission</strong>
 </p>
-<p>We aspire to create a conducive environment where pupils learn from the
-past, appreciate the present and prepare for the future.</p>
+<p><strong>Innovation : Dare to Try</strong>
+</p>
+<p><strong>Excellence : Better Beats Best</strong>
+</p>
+<p><strong>Care : We Before Me</strong>
+</p>
+<p>Creating a culture of <strong>innovation</strong> and <strong>excellence</strong> in
+our <strong>caring</strong> learning community, where collaboration among
+school, family and partners empowers every child to flourish.</p>
 <p><strong>Strategic Thrust</strong>
 </p>
 <p>ST1 - Quality Staff</p>
