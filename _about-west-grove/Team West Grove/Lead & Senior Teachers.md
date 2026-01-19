@@ -70,6 +70,36 @@ variant: tiptap
 <p>Senior Teacher for Malay Language</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm. Nurhuda Md Amin
+<br><strong><a href="nurhuda_amin@moe.edu.sg" rel="noopener nofollow" target="_blank">nurhuda_amin@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Kartini Bte Khairi
+<br><strong><a href="mailto:kartini_khairi@moe.edu.sg" rel="noopener noreferrer" target="_blank">kartini_khairi@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Kartini Bte Khairi
+<br><strong><a href="mailto:kartini_khairi@moe.edu.sg" rel="noopener noreferrer" target="_blank">kartini_khairi@moe.edu.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher for Malay Language</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
