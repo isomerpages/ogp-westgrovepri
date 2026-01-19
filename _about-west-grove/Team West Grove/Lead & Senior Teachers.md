@@ -82,22 +82,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Kartini Bte Khairi
-<br><strong><a href="mailto:kartini_khairi@moe.edu.sg" rel="noopener noreferrer" target="_blank">kartini_khairi@moe.edu.sg</a></strong>
+<p>Mdm. Huang Wanxi
+<br><strong><a href="huang_wanxi@moe.edu.sg" rel="noopener nofollow" target="_blank">huang_wanxi@moe.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher for Malay Language</p>
+<p>Senior Teacher for Chinese Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Kartini Bte Khairi
-<br><strong><a href="mailto:kartini_khairi@moe.edu.sg" rel="noopener noreferrer" target="_blank">kartini_khairi@moe.edu.sg</a></strong>
+<p>Mdm. Angeline See Sui Chiat
+<br><strong><a href="see_sui_chiat@moe.edu.sg" rel="noopener nofollow" target="_blank">see_sui_chiat@moe.edu.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher for Malay Language</p>
+<p>Senior Teacher for Physical Education</p>
 </td>
 </tr>
 </tbody>
