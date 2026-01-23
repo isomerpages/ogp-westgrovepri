@@ -22,7 +22,7 @@ third_nav_title: School Adminstration
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Period</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Levels</p>
