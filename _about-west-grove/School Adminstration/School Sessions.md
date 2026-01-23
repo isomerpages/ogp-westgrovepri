@@ -5,14 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: School Adminstration
 ---
-<p><strong>School Sessions for 2025</strong>
+<p><strong>School Sessions for 2026</strong>
 </p>
-<p></p>
-<table style="minWidth: 175px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -21,78 +17,131 @@ third_nav_title: School Adminstration
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Session</p>
+<p>Sessions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time/Day</p>
+<p>Levels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mon</p>
+<p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Wed</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Thu</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Tuesday to Friday</p>
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
-<p>All Levels</p>
+<td rowspan="2" colspan="1">
+<p>Silent Reading</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silent Reading</p>
+<p>All</p>
 </td>
-<td rowspan="1" colspan="5">
-<p>7.15 a.m. – 7.25 a.m.</p>
-<p>Even Weeks: English language Story Books</p>
-<p>Odd Weeks: Mother Tongue Story Books</p>
+<td rowspan="1" colspan="1">
+<p>7.20 a.m. to 7.30 a.m. (Monday morning check-in<strong> in the classrooms</strong>)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.20 a.m. to 7.30 a.m. <strong>(in the hall)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong><em>Odd weeks</em></strong><em>: Mother Tongue books, </em><strong><em>Even weeks</em></strong><em>: English books</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WE-Grow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Every Tuesday </strong>7.20 a.m. to 7.30 a.m. <strong>(in the hall)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Start of 1st Period</p>
 </td>
-<td rowspan="1" colspan="5">
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>7.30 a.m.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>same</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Recess</p>
 </td>
-<td rowspan="1" colspan="5">
-<p>9.30 a.m. – 10.00 a.m. (P1 and P4)
-<br>10.00 a.m. - 10.30 a.m. (P2 and P5)
-<br>10.30 a.m. - 11.00 a.m. (P3 and P6)
-<br>
-</p>
+<td rowspan="1" colspan="1">
+<p>Pri. 1 &amp; 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30 a.m. to 10.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>same</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dismissal Time
-<br>(End of Last Period)</p>
+<p>Pri. 2 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>For Mondays:</strong>
-</p>
-<p>12.25 p.m. (P1)</p>
-<p>12.30 p.m. (P2 to P6)</p>
+<p>10.00 a.m. to 10.30 a.m.</p>
 </td>
-<td rowspan="1" colspan="4">
-<p><strong>For Tuesdays to Fridays:</strong>
-</p>
-<p>1.25 p.m. (P1)
-<br>1.30 p.m. (P2 to P6)</p>
+<td rowspan="1" colspan="1">
+<p>same</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pri. 3 &amp; 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 a.m. to 11.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>same</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Dismissal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pri. 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.25 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.25 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Pri. 2 to 6</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>12.30 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1.30 p.m.</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
