@@ -68,18 +68,16 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p><strong>At West Grove Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
-<p></p>
-<p></p>
-<h4><strong>For Primary 5</strong></h4>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
+<h4><strong>PRIMARY 5</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5___Sexuality_Edu.png">
 </div>
-<h4><strong>For Primary 6</strong></h4>
-<p><strong>2025 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
+<h4><strong>PRIMARY 6</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
