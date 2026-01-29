@@ -83,14 +83,14 @@ themselves safe from sexuality-related risks.</p>
 </div>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
-out of Sexuality Education lessons, and/or supplementary Sexuality Education
-programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the Sexuality Education lessons need to complete an opt-out form.
-This form is accessible @ <a href="https://form.gov.sg/67918d223943ec900898c845" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/67918d223943ec900898c845</u></a>.
-The completed opt-out form is to be submitted by 21 Feb 2025 (P5) and 10
-Oct 2025 (P6).</p>
+<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9.&nbsp;Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete an opt-out form. This form will be communicated
+to parents at the start of the year and is also available <a href="https://form.gov.sg/697074ca13157b46da7e15e9" rel="noopener noreferrer nofollow" target="_blank">here</a> The
+completed opt-out form is to be submitted by 03/04/2026 (P5) or 25/09/2026
+(P6).</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (6267
 9234 or wgps@moe.edu.sg) for discussion or to seek clarification about
 the school’s Sexuality Education programme.</p>
