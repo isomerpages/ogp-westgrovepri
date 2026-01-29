@@ -92,5 +92,6 @@ to parents at the start of the year and is also available <a href="https://form.
 completed opt-out form is to be submitted by 03/04/2026 (P5) or 25/09/2026
 (P6).</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at (6267
-9234 or wgps@moe.edu.sg) for discussion or to seek clarification about
-the school’s Sexuality Education programme.</p>
+9234 or <a href="wgps@moe.edu.sg" rel="noopener nofollow" target="_blank">wgps@moe.edu.sg</a>)
+for discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
