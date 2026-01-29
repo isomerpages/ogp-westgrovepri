@@ -70,14 +70,10 @@ themselves safe from sexuality-related risks.</p>
 </p>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
-<h4><strong>PRIMARY 5</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5___Sexuality_Edu.png">
 </div>
 <p><strong>2026 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>PRIMARY 6</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6___Sexuality_Edu.png">
