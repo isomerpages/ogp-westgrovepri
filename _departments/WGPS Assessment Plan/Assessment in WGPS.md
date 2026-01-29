@@ -34,5 +34,7 @@ than weighted assessments. These assessments do not contribute to an overall
 score. Students’ learning progress and achievement are captured using qualitative
 descriptors in the Holistic Development Profile at the end of each semester.</p>
 <p></p>
+<p></p>
+<p></p>
 <p><em>For detailed assessment schedules and updates, parents are advised to refer to Parents Gateway.</em>
 </p>
