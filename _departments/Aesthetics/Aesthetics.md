@@ -52,10 +52,6 @@ Nurture every child to become a gracious and informed audience of the Arts.
 * Andy Warhol
 [https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html](https://artsmarts4kids.blogspot.com/2008/09/andy-warhol.html)
 
-**Within Singapore**
-
-[https://www.thelittleartsacademy.com/](https://www.thelittleartsacademy.com/)
-
 **International**
 
 [https://www.artsonia.com/](https://www.artsonia.com/)
