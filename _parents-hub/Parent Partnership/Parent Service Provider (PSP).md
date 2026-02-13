@@ -48,14 +48,6 @@ West Grove Primary School is partnering with Thye Hua Kwan (THK) Family Services
 
 &nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take care of yourself &nbsp;&nbsp;
 
-  
-
-For parents who may wish to register with us directly, they could register via this link.  
-
-[https://forms.gle/7m4iJcp17T6JEicG9](https://forms.gle/7m4iJcp17T6JEicG9)
-
-  
-
 &nbsp;If you have queries, kindly contact, Ms Lynette Stephen at 6747 7514 or&nbsp;
 
 [PSP\_Jurong@thkmc.org.sg](mailto:PSP_Jurong@thkmc.org.sg)
