@@ -16,11 +16,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
 </p>
 </li>
 </ul>
@@ -30,6 +30,8 @@ description: ""
 <p><strong>Parents Kit: </strong><a href="https://www.moe.gov.sg/parentkit" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
 </p>
 <p><strong>Instagram – Parenting with MOE: </strong><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
+</p>
+<p><strong>Instagram – ECG: </strong><a href="https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy" rel="noopener nofollow" target="_blank">https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy</a>
 </p>
 <p><strong>HealthHub – Parent Hub:</strong>  <a href="https://www.healthhub.sg/programmes/parent-hub" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub</a>
 </p>
