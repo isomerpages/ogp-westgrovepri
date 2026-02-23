@@ -31,6 +31,12 @@ description: ""
 </p>
 <p><strong>Instagram – Parenting with MOE: </strong><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/parentingwith.moesg/</a>
 </p>
+<p><strong>Instagram – ECG: </strong><a href="https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy" rel="noopener nofollow" target="_blank">https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy</a>
+</p>
+<p><strong>Instagram - ECG:</strong>
+</p>
+<p><a href="https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy" rel="noopener nofollow" target="_blank">https://www.instagram.com/explore.ecg?igsh=M2VsamZyNDF4NTUy</a>
+</p>
 <p><strong>HealthHub – Parent Hub:</strong>  <a href="https://www.healthhub.sg/programmes/parent-hub" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub</a>
 </p>
 <p><strong>SingTeach </strong>- <em>Assessment beyond tests and examinations: </em>
