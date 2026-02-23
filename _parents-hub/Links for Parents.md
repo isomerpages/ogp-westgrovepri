@@ -16,11 +16,11 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
 </p>
 </li>
 </ul>
