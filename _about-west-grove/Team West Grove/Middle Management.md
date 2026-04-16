@@ -27,15 +27,6 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Chermaine Chong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice–Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm. Sng Charmaine</p>
 </td>
 </tr>
