@@ -80,3 +80,13 @@ Our annual Mother Tongue Languages and Cultures Programme provides an immersive 
 **Chinese Language: _Return of the Great Sage_** (**大圣归来)**
 
 The Primary 4 Chinese Language students watched the stage play “_Return of the Great Sage”_, which tells a story about finding courage and persistence. The performance combined traditional elements like Chinese Opera, martial arts, and dance into a modern show. By watching these cultural arts in action, students enjoyed the beauty of the Mandarin language in a fun and exciting way, helping them see how the language stays relevant today.
+
+![](/images/Picture1_MT.png)
+
+![](/images/Picture2_MT.png)
+         
+
+**Malay Language: _Wow Wayang_**&nbsp;
+
+The Primary 4 Malay Language students took part in _Wow Wayang_, a shadow puppet show and workshop. During this session, students did more than just watch; they participated in a hands-on workshop to learn how these traditional puppets are used to tell stories. This experience helped them understand Malay folklore and heritage better, building their pride in the Malay language and its traditions.
+![](/images/Picture3_MT.png)
