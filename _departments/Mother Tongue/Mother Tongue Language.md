@@ -392,9 +392,7 @@ Our students have brought home numerous accolades, demonstrating that dedication
   border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
   mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
   padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>3CL2 DING MUHAN (Silver), 4A/4CL1 SUN RUOYAN (Recitation Award)</b></p></td></tr></tbody></table>
-	
-	         
-
+	      
 <table style="width:473.25pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="631" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.5pt;mso-row-margin-right:
   46.0pt"><td style="width:427.25pt;border:solid #1F1F1F 1.0pt;
   mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;
