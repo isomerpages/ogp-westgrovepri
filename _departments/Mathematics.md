@@ -104,7 +104,61 @@ real-world contexts and hands-on experiences, students learn Mathematics
 in engaging and meaningful ways.</p>
 <p><strong>KEY PROGRAMMES:</strong>
 </p>
-<p><strong>1.&nbsp;&nbsp; AuthentiCity + Koobits</strong>
-</p>
+<h4><strong>1.&nbsp;&nbsp; AuthentiCity + Koobits</strong></h4>
 <p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
 </p>
+<p></p>
+<p></p>
+<p>At West Grove, we build strong mathematical foundations through meaningful
+and engaging learning experiences. <strong>AuthentiCity</strong>, supported
+by <strong>Koobits</strong>, helps students develop conceptual understanding,
+confidence and fluency in Mathematics.</p>
+<p>Through AuthentiCity, students learn Mathematics in <strong>authentic and real-world contexts</strong>,
+helping them see its relevance beyond the classroom. Lessons encourage
+curiosity, exploration and sense-making, allowing students to understand <em>why</em> mathematical
+ideas work, not just <em>how</em> to apply them.</p>
+<p>Koobits complements classroom learning by providing <strong>personalised practice and immediate feedback</strong>,
+enabling students to learn at an appropriate pace while taking greater
+ownership of their learning.</p>
+<p>Together, these approaches nurture <strong>Passionate Lifelong Learners</strong> who
+enjoy learning Mathematics, build strong foundations and develop confidence
+to take on new challenges.</p>
+<hr>
+<h4><strong>2.&nbsp;Making Thinking Visible (MTV) / Open-Ended (OE) Tasks</strong></h4>
+<p><strong>Building Reasoning and Mathematical Thinking</strong>
+</p>
+<p></p>
+<p>Reasoning and thinking are central to Mathematics learning at West Grove.
+Through <strong>Making Thinking Visible (MTV)</strong> routines and <strong>Open-Ended (OE) Tasks</strong>,
+students are encouraged to explain, justify and reflect on their mathematical
+thinking.</p>
+<p>MTV routines support students in <strong>articulating their ideas clearly</strong>,
+making their thinking visible through discussion, representations and reflection.
+Students learn from one another and gain deeper understanding by comparing
+different strategies.</p>
+<p>Open-Ended Tasks allow for <strong>multiple approaches and solutions</strong>,
+shifting the focus from simply getting the correct answer to explaining
+reasoning and problem-solving processes.</p>
+<p>Through feedback from self, peers and teachers, students refine their
+thinking and develop confidence in communicating mathematical ideas, strengthening
+their critical and reflective thinking skills.</p>
+<p></p>
+<h4><strong>3.&nbsp;&nbsp;E2K + HP Programme</strong></h4>
+<p><strong>Stretching Thinking for STEM+ Innovators<br><em>(Higher Ability Learners Programme)</em></strong>
+</p>
+<p></p>
+<p>The <strong>E2K + HP Programme</strong> provides enriched learning opportunities
+for students with strong interest and aptitude in Mathematics. It aims
+to stretch thinking and nurture <strong>STEM+ Innovators</strong> who enjoy
+challenge and inquiry.</p>
+<p>Students engage in <strong>non-routine and higher-order tasks</strong> that
+require deep thinking, creativity and perseverance. Learning experiences
+emphasise exploration, making connections and solving complex problems.</p>
+<p>Through these experiences, students learn to approach challenges systematically,
+test ideas and learn from mistakes. They are encouraged to communicate
+their thinking clearly and collaborate with peers.</p>
+<p>The programme supports students in developing confidence, resilience and
+a passion for Mathematics, preparing them to take on advanced learning
+and future STEM-related challenges.</p>
+<p></p>
+<p></p>
