@@ -4,7 +4,7 @@ permalink: /departments/mathematics/
 description: ""
 variant: markdown
 ---
-**Mathematics**
+# **Mathematics**
 
 <table style="width:309.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
