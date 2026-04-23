@@ -111,6 +111,9 @@ in engaging and meaningful ways.</p>
 <p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2_3.png">
+</div>
 <p></p>
 <p>At West Grove, we build strong mathematical foundations through meaningful
 and engaging learning experiences. <strong>AuthentiCity</strong>, supported
@@ -131,6 +134,9 @@ to take on new challenges.</p>
 <p><strong>Building Reasoning and Mathematical Thinking</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4_5_6.png">
+</div>
 <p>Reasoning and thinking are central to Mathematics learning at West Grove.
 Through <strong>Making Thinking Visible (MTV)</strong> routines and <strong>Open-Ended (OE) Tasks</strong>,
 students are encouraged to explain, justify and reflect on their mathematical
