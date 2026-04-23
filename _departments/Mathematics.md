@@ -104,5 +104,5 @@ real-world contexts and hands-on experiences, students learn Mathematics
 in engaging and meaningful ways.</p>
 <p><strong>KEY PROGRAMMES:</strong>
 </p>
-<p><strong>Building Strong Foundations through Enriched Learning Experiences<br>_</strong><em>(Passionate Lifelong Learners)</em>
+<p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
 </p>
