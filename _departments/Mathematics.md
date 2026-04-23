@@ -102,8 +102,7 @@ clearly.</p>
 in mathematical concepts and problem-solving skills. Through exposure to
 real-world contexts and hands-on experiences, students learn Mathematics
 in engaging and meaningful ways.</p>
-<p><strong>KEY PROGRAMMES:</strong>
-</p>
+<h4><strong>KEY PROGRAMMES:</strong></h4>
 <h4><strong>1.&nbsp;&nbsp; AuthentiCity + Koobits</strong></h4>
 <p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
 </p>
