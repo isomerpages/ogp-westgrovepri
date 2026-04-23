@@ -392,3 +392,122 @@ Our students have brought home numerous accolades, demonstrating that dedication
   border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
   mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
   padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>3CL2 DING MUHAN (Silver), 4A/4CL1 SUN RUOYAN (Recitation Award)</b></p></td></tr></tbody></table>
+	
+	         
+
+<table style="width:473.25pt;border-collapse:collapse;mso-yfti-tbllook:1184" width="631" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:20.5pt;mso-row-margin-right:
+  46.0pt"><td style="width:427.25pt;border:solid #1F1F1F 1.0pt;
+  mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:20.5pt" valign="top" colspan="3" width="570"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">W3 CLUSTER LEVEL ML COMPETITION 2025</span></b></p></td><td width="61" style="mso-cell-special:placeholder;border:none;border-bottom:solid #1F1F1F 1.0pt"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="mso-yfti-irow:1;height:16.9pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:16.9pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Level</span></b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:16.9pt" valign="top" width="65"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Class</span></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:16.9pt" valign="top" width="442"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Student Name</span></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:16.9pt" valign="top" width="61"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Award</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:22.3pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:22.3pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P1</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  22.3pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">1C<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  22.3pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">ERIC ROZARIO S/O SARAVANAN<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  22.3pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr><tr style="mso-yfti-irow:3;height:27.0pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P2</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">2E<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">MUHAMMAD NUR HASHAAM BIN HASHIM<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr><tr style="mso-yfti-irow:4;height:27.0pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P3</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">3D<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">NAURA AZZAHRA BINTI AZAHARIE<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr><tr style="mso-yfti-irow:5;height:26.8pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:26.8pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P4</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  26.8pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">4D<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  26.8pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">NAWAL HUSNI BIN WAN TERUNA<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  26.8pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Silver<b></b></p></td></tr><tr style="mso-yfti-irow:6;height:14.65pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:14.65pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P4</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  14.65pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">4D<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  14.65pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">NYRA QALESYA BINTE SYFUL BAQTIAR<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  14.65pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr><tr style="mso-yfti-irow:7;height:40.5pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:40.5pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P5</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  40.5pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">5A<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  40.5pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">AQILAH ADRIANA BINTE MUHAMMAD FIRDAUS ANIL HAKIM<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  40.5pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:27.0pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:27.0pt" valign="top"><p style="line-height:normal" class="MsoNormal"><b>P5</b></p></td><td style="width:48.95pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="65"><p style="line-height:normal" class="MsoNormal">5A<b></b></p></td><td style="width:331.4pt;border-top:none;border-left:
+  none;border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="442"><p style="line-height:normal" class="MsoNormal">NUR KHAIRIYAH BINTE KAMSANI<b></b></p></td><td style="width:46.0pt;border-top:none;border-left:none;
+  border-bottom:solid #1F1F1F 1.0pt;border-right:solid #1F1F1F 1.0pt;
+  mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
+  mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
+  27.0pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr></tbody></table>
