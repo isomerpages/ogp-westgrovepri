@@ -511,3 +511,10 @@ Our students have brought home numerous accolades, demonstrating that dedication
   mso-border-top-alt:solid #1F1F1F .5pt;mso-border-left-alt:solid #1F1F1F .5pt;
   mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:
   27.0pt" valign="top" width="61"><p style="line-height:normal" class="MsoNormal">Bronze<b></b></p></td></tr></tbody></table>
+	
+	         
+
+**7\. Mother Tongue Reading Programme**
+
+The goal of our reading programme is to cultivate a genuine interest in Mother Tongue literature and increase the overall reading rate among our students. We aim to help students build a regular reading habit through a structured curriculum that allows them to appreciate various literary works. This foundation is further strengthened through active participation in platforms such as text recital, poetry, and riddles guessing competitions, which allow students to engage with the language in a fun and meaningful way. Our 2025 review shows that this tiered reading approach has been very successful. By exploring a wide range of materials from traditional texts to modern digital content students are developing a strong command of the language and becoming more confident communicators.
+![](/images/Picture15_MT.png)
