@@ -51,6 +51,10 @@ to deepen their understanding of mathematical concepts.</p>
 clearly.</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <p><strong>Syllabus Organisation from P1 - 6</strong>
 </p>
 <table style="minWidth: 75px">
