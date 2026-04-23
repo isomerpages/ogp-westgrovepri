@@ -187,3 +187,208 @@ The primary objective of our Mother Tongue Department is to foster a deep-seated
 **Highlights of 2024–2025**
 
 Our students have brought home numerous accolades, demonstrating that dedication and curiosity lead to remarkable results:
+
+         
+
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:40.5pt"><td style="border:solid #1F1F1F 1.0pt;mso-border-alt:solid #1F1F1F .5pt;
+  background:#EFEFEF;padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Year</span></b></p></td><td style="border:solid #1F1F1F 1.0pt;border-left:none;mso-border-left-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">SN</span></b></p></td><td style="border:solid #1F1F1F 1.0pt;border-left:none;mso-border-left-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Competition Name (English/Chinese)</span></b></p></td><td style="border:solid #1F1F1F 1.0pt;border-left:none;mso-border-left-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;background:#EFEFEF;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Winners &amp; Awards</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:40.5pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:40.5pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b>1</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b>National hard-tipped calligraphy competition 2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:40.5pt" valign="top"><p class="MsoNormal"><b>CHUA BOYA, XIAO YEXUAN</b></p></td></tr><tr style="mso-yfti-irow:2;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>2</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>National Chinese Challenge / 2024</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">年全国华文大比拼</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>6th National Place: HE XING YI, WANG WEI, XIAO YEXUAN, TEO ZI YI</b></p></td></tr><tr style="mso-yfti-irow:3;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>3</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>International Chinese Language Competition / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">国际小学生电脑创意写作比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>CHEN ZIHAN, LIU XIZHE</b></p></td></tr><tr style="mso-yfti-irow:4;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>4</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>7th National Text Recital Competition (Primary) / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第七届全国课文朗诵比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>SUN RUOYAN (Gold Award / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:
+  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;
+  mso-hansi-theme-font:minor-latin" lang="ZH-CN">金奖</span>)</b></p></td></tr><tr style="mso-yfti-irow:5;height:68.25pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:68.25pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>5</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>Happy Teahouse Singapore: Chinese Poetry Competition 2024 / 2024</b><b><span style="font-family:DengXian;mso-ascii-font-family:
+  Aptos;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第三届新加坡茶乐轩华文诗歌朗诵比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>SUN RUOYAN (Champion), GENELLE LIM KAI QING, WANG WEI, MEGHAN TOO YU XUAN</b></p></td></tr><tr style="mso-yfti-irow:6;height:81.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:81.75pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>6</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>28th National Primary Schools On-The-Spot Chinese Creative Essay Writing Competition / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:
+  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;
+  mso-hansi-theme-font:minor-latin" lang="ZH-CN">第二十八届全国小学现场华文创作比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>LIANG RUIXIN (</b><b><span style="font-family:
+  DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:
+  minor-latin" lang="ZH-CN">梁芮欣</span>)</b></p></td></tr><tr style="mso-yfti-irow:7;height:68.25pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:68.25pt" valign="top"><p class="MsoNormal"><b>2024</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>7</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>15th National Inter-Primary School Chinese Poetry / 2024</b><b><span style="font-family:DengXian;mso-ascii-font-family:
+  Aptos;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第十五届全国小学生童诗创作比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>WU MINGHE (</b><b><span style="font-family:
+  DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:
+  minor-latin" lang="ZH-CN">吴鸣和</span>), CHEN WANYANG (</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:
+  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;
+  mso-hansi-theme-font:minor-latin" lang="ZH-CN">陈婉扬</span>), CHEN ZIHAN, SUN RUOYAN</b></p></td></tr><tr style="mso-yfti-irow:8;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>1</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>National Chinese Calligraphy Competition / 2025</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">年全国书法大赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>6CL1 CHUA BOYA (</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:
+  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;
+  mso-hansi-theme-font:minor-latin" lang="ZH-CN">蔡博雅</span>) - 1st Prize Hard-pen Primary</b></p></td></tr><tr style="mso-yfti-irow:9;height:81.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:81.75pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>2</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>National Chinese Challenge / 2025</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">年全国华文大比拼</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>6th National Place: 5CL1 ZHAO ZHEN, 6CL1 CHEN WANYANG, 6CL1 LIN JUN TENG (Top 30 Individual), 6CL1 ZHANG ZIYI</b></p></td></tr><tr style="mso-yfti-irow:10;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>3</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>International Chinese Language Competition / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">国际小学生电脑创意写作比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>6CL1 CHEN ZIHAN (Bronze), 5CL1 ZHAO ZHEN (Bronze)</b></p></td></tr><tr style="mso-yfti-irow:11;height:54.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:54.75pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>4</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>8th National Text Recital Competition (Primary) / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第八届全国课文朗诵比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:54.75pt" valign="top"><p class="MsoNormal"><b>Upper Pri Group: 4CL1 SUN RUOYAN + 4CL1 ZHOU JIAXUAN (Silver)</b></p></td></tr><tr style="mso-yfti-irow:12;height:74.5pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:74.5pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:74.5pt" valign="top"><p class="MsoNormal"><b>5</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:74.5pt" valign="top"><p class="MsoNormal"><b>Happy Teahouse Singapore: Chinese Poetry Competition 2025 / 2025</b><b><span style="font-family:DengXian;mso-ascii-font-family:
+  Aptos;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第四届新加坡茶乐轩华文诗歌朗诵比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:74.5pt" valign="top"><p class="MsoNormal"><b>Junior: 3CL1 ZHAN YIQIAN (Merit); Upper Pri: 4CL1 SUN RUOYAN (Champion), 4CL1 ZHOU JIAXUAN (Merit)</b></p></td></tr><tr style="mso-yfti-irow:13;height:81.75pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:81.75pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>6</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>29th National Primary Schools On-The-Spot Chinese Creative Essay Writing Competition / </b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;mso-ascii-theme-font:
+  minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Aptos;
+  mso-hansi-theme-font:minor-latin" lang="ZH-CN">第二十九届全国小学现场华文创作比赛</span></b><b><span style="mso-ansi-language:EN-SG" lang="EN-SG"></span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:81.75pt" valign="top"><p class="MsoNormal"><b>Group B: 5CL1 LIANG RUIXIN (Commendation/</b><b><span style="font-family:DengXian;mso-ascii-font-family:Aptos;
+  mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">佳作奖</span>)</b></p></td></tr><tr style="mso-yfti-irow:14;mso-yfti-lastrow:yes;height:68.25pt"><td style="border:solid #1F1F1F 1.0pt;border-top:none;mso-border-top-alt:
+  solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;padding:6.0pt 9.0pt 6.0pt 9.0pt;
+  height:68.25pt" valign="top"><p class="MsoNormal"><b>2025</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>7</b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>16th National Inter-Primary School Chinese Poetry Writing Competition / 2025</b><b><span style="font-family:DengXian;
+  mso-ascii-font-family:Aptos;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:Aptos;mso-hansi-theme-font:minor-latin" lang="ZH-CN">第十六届全国小学生童诗创作比赛</span></b></p></td><td style="border-top:none;border-left:none;border-bottom:solid #1F1F1F 1.0pt;
+  border-right:solid #1F1F1F 1.0pt;mso-border-top-alt:solid #1F1F1F .5pt;
+  mso-border-left-alt:solid #1F1F1F .5pt;mso-border-alt:solid #1F1F1F .5pt;
+  padding:6.0pt 9.0pt 6.0pt 9.0pt;height:68.25pt" valign="top"><p class="MsoNormal"><b>3CL2 DING MUHAN (Silver), 4A/4CL1 SUN RUOYAN (Recitation Award)</b></p></td></tr></tbody></table>
