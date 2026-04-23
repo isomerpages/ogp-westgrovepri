@@ -156,6 +156,9 @@ their critical and reflective thinking skills.</p>
 <p><strong>Stretching Thinking for STEM+ Innovators<br><em>(Higher Ability Learners Programme)</em></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
+</div>
 <p>The <strong>E2K + HP Programme</strong> provides enriched learning opportunities
 for students with strong interest and aptitude in Mathematics. It aims
 to stretch thinking and nurture <strong>STEM+ Innovators</strong> who enjoy
