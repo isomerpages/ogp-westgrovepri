@@ -42,7 +42,7 @@ At West Grove, we aim to provide programmes that build strong foundations in mat
 
 **KEY PROGRAMMES:**
 
-**_1._**&nbsp;&nbsp; **_AuthentiCity + Koobits_**
+
 
 **_Building Strong Foundations through Enriched Learning Experiences  
 _**_(Passionate Lifelong Learners)_
