@@ -29,3 +29,20 @@ At West Grove, we strive to provide a rich variety of learning experiences that 
 *   To provide students with concrete and meaningful learning experiences to deepen their understanding of mathematical concepts.
 *   To empower students to reason mathematically and communicate their thinking clearly.
 
+
+         
+
+**Syllabus Organisation from P1 - 6**
+
+<table style="border-collapse:collapse;mso-yfti-tbllook:1184" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:.1in"><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:.1in" valign="top" colspan="3"><p class="MsoNormal"><b>3 Content Strands + 1 Process Strand</b></p></td></tr><tr style="mso-yfti-irow:1;height:37.8pt"><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.8pt" valign="top"><p class="MsoNormal">Number &amp; Algebra</p></td><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.8pt" valign="top"><p class="MsoNormal">Measurement &amp; Geometry</p></td><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.8pt" valign="top"><p class="MsoNormal">Statistics</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:79.0pt"><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:79.0pt" valign="top"><p class="MsoNormal">Example of Topics:<br>Whole numbers, Fractions, Money,<br>Decimals, Percentage, Ratio, Algebra, etc.</p></td><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:79.0pt" valign="top"><p class="MsoNormal">Example of Topics:<br>Shapes, Length, Mass,<br>Volume, Area, Time, Angles, etc.</p></td><td style="padding:5.0pt 5.0pt 5.0pt 5.0pt;height:79.0pt" valign="top"><p class="MsoNormal">Example of Topics:<br>Interpreting Picture Graphs, Bar Graphs,<br>Line Graphs, Tables, Pie Charts, etc.</p></td></tr></tbody></table>
+
+**PROGRAMMES OVERVIEW:**
+
+At West Grove, we aim to provide programmes that build strong foundations in mathematical concepts and problem-solving skills. Through exposure to real-world contexts and hands-on experiences, students learn Mathematics in engaging and meaningful ways.
+
+**KEY PROGRAMMES:**
+
+**_1._**&nbsp;&nbsp; **_AuthentiCity + Koobits_**
+
+**_Building Strong Foundations through Enriched Learning Experiences  
+_**_(Passionate Lifelong Learners)_
