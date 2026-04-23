@@ -5,30 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Mathematics</strong></h1>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Michelle Sim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Teo Jia Jun</p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/math_table_11.png">
+</div>
 <p><strong>INTRODUCTION</strong>
 </p>
 <p>Mathematics is the study of patterns and relationships, and it plays a
