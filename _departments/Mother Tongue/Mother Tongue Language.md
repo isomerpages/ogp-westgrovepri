@@ -90,3 +90,71 @@ The Primary 4 Chinese Language students watched the stage play “_Return of the
 
 The Primary 4 Malay Language students took part in _Wow Wayang_, a shadow puppet show and workshop. During this session, students did more than just watch; they participated in a hands-on workshop to learn how these traditional puppets are used to tell stories. This experience helped them understand Malay folklore and heritage better, building their pride in the Malay language and its traditions.
 ![](/images/Picture3_MT.png)
+         
+
+**Mother Tongue Languages and Cultures Programme 2025**
+
+Our annual Mother Tongue Languages and Cultures Programme is designed to create an immersive and meaningful environment for students to learn and appreciate their linguistic and cultural heritage. This initiative supports the holistic development of students by connecting language learning with cultural experiences that foster identity, pride, and curiosity.
+
+**Curriculum-Time Cultural Activities (2025, Term 2, Weeks 3 &amp; 4)**
+
+This year, students across all levels participated in a wide range of engaging, hands-on activities during curriculum time. These experiences were thoughtfully curated to deepen their understanding of their respective cultures while reinforcing the relevance and beauty of their Mother Tongue languages.
+
+**Chinese Language Activities**
+
+*   P1: Learning about traditional hand drums
+*   P2: Story-based reading and crafting Hanfu clay figurines
+*   P3: Storytelling and clay modelling of Chinese cuisine
+*   P4: Ink-wash fan painting
+*   P5: Bamboo slip creation
+*   P6: Traditional seal carving
+
+**Malay Language Activities**
+
+*   P1 &amp; P2: Designing traditional Wau kites
+*   P3 &amp; P4: Crafting Bunga decorations
+*   P5 &amp; P6: Batik Painting
+
+**Tamil Language Activities**
+
+*   P1: Exploration of ancient household items
+*   P2: Handmade Kudai (traditional umbrellas)
+*   P3: Crafting Poonthotti (flower baskets)
+*   P4: Basket Designing
+*   P5: Traditional Doll-making
+*   P6: Sand Art Rangoli
+
+**2\. P3 Mother Tongue Language Camp 2025**
+
+In addition to in-class activities, our P3 students took part in a dedicated Mother Tongue Language &amp; Cultural Camp, where they rotated through a series of immersive learning stations focused on cultural arts and traditions.
+
+*   Chinese Language: Traditional Fan Design (中国扇) and Blue-and-White Porcelain (中国青花瓷)
+*   Malay Language: Seni Anyaman (Weaving Art) and Seni Tembikar (Pottery Art)
+*   Tamil Language: Making Pallanguzhi, a traditional game using seeds or shells
+
+These authentic learning experiences not only enhanced students’ language skills but also ignited a joy for cultural discovery. By engaging in traditional arts and crafts, students developed a deeper sense of identity and pride in their heritage.
+
+At the heart of this programme lies our belief: Language is not only spoken — it is lived, felt, and celebrated.
+
+**3\. 2025 Little Reporters Programme: Nurturing Digital-Age Journalists**
+
+West Grove Primary School’s Mother Tongue Languages Department successfully conducted our Little Reporters programme during the March Holiday, where students enhanced their mother tongue language skills through hands-on journalism experiences.
+
+Our students participated in specialised workshops where Tamil and Chinese Language learners mastered Moo-V technology, while Malay Language students created news content using Canva. A key highlight of this programme included getting&nbsp; our young reporters to interview our school leaders, including our Principal, where they prepared their questions in English and completed reflections in their mother tongue languages.
+
+All student-created content has been showcased on our dedicated Little Reporters microsite, where the school community can access news stories, interviews, and creative content produced by our budding journalists. This innovative programme demonstrated our commitment to meaningful ICT integration in mother tongue language learning.
+
+Students enrolled in this programme also go on yearly learning journey trips.
+![](/images/Picture4_MT.png)
+
+         
+
+&nbsp;**4.China Immersion Trip**
+
+&nbsp;The P5 Overseas Immersion Trip is in line with the school’s focus on Teaching &amp; Learning and the WGPS School-wide Pedagogy, emphasising authentic learning experiences, student-centric approaches and the development of 21st Century Competencies (21CC).
+
+Through pre-trip preparation, cultural immersion and post-trip sharing, students experienced innovative practices that integrate language learning, cross-cultural awareness, and environmental education.
+
+The programme also complements National Education outcomes by nurturing rootedness to Singapore while fostering global perspectives.
+
+![](/images/Picture12_MT.png)
