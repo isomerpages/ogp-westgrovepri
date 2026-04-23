@@ -9,8 +9,6 @@ variant: markdown
 
 ![](/images/MT_table_11.png)
 
-         
-
 **MISSION:**
 
 (1) To create a conducive MTL learning environment
@@ -79,6 +77,6 @@ Through these authentic experiences, students do more than just study a language
 
 Our annual Mother Tongue Languages and Cultures Programme provides an immersive way for students to learn about their heritage. To complement our Mother Tongue Fortnight in Term 2, West Grove Primary School organized learning journeys to watch cultural performances for our Primary 4 students, connecting their lessons to real-life cultural experiences.
 
-**Chinese Language: _Return of the Great Sage_ (****大圣归来)**
+**Chinese Language: _Return of the Great Sage_** (**大圣归来)**
 
 The Primary 4 Chinese Language students watched the stage play “_Return of the Great Sage”_, which tells a story about finding courage and persistence. The performance combined traditional elements like Chinese Opera, martial arts, and dance into a modern show. By watching these cultural arts in action, students enjoyed the beauty of the Mandarin language in a fun and exciting way, helping them see how the language stays relevant today.
