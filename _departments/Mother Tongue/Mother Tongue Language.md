@@ -158,3 +158,32 @@ Through pre-trip preparation, cultural immersion and post-trip sharing, students
 The programme also complements National Education outcomes by nurturing rootedness to Singapore while fostering global perspectives.
 
 ![](/images/Picture12_MT.png)
+         
+
+**5\. Conversational Chinese/Malay Programme (CCM)**&nbsp;
+
+Conversational Chinese/Malay is an MOE initiated programme which aims to strengthen Singapore’s multi-racial compact and to enable students to have some grounding of the language so that they could more easily pick up the language should they need it for economic or other reasons in adult life.
+
+In West Grove Primary School, this module is being offered as an enrichment programme to our Primary 3 and 4 students who are interested in learning the Chinese / Malay language and culture, other than their own mother tongue language.&nbsp; The CCM programme comprises of two 20-hour modules (Beginner Module and Basic Module). Upon completion of the Beginner Module in Primary 3, students will advance to Basic Module 1 in Primary 4. Students who have completed each module will be awarded with a certificate of completion.
+
+Based on the survey conducted after each module, students generally enjoyed the lessons and agreed that they had learnt more about the Chinese/Malay language &amp; culture. Moreover, students also mentioned that this programme provided them the opportunity to understand their peers of another race better as they are now better equipped to converse in their peers’ own mother tongue language to some extent.
+
+**Mother Tongue Flipped Classroom**
+![](/images/Picture13_MT.jpg)
+         
+
+Mother Tongue classes have adopted the flipped classroom model to promote active learning, increase student engagement, and improve student performance by allowing more opportunities for collaboration and interaction with peers.
+
+While the flipped classroom model offers many potential benefits, there are also some challenges to consider. Flipped classrooms rely on technology, such as access to the internet, computers, and mobile devices. Not all students may have access to these resources, which can create a digital divide and limit the effectiveness of the flipped classroom approach. Besides that, flipped classrooms require students to take responsibility for their own learning and manage their time effectively to complete the required pre-class assignments. Some students may struggle with motivation or time management skills. In addition, students who are used to a more passive learning style may struggle with the increased level of responsibility and independence required in a flipped classroom.
+![](/images/Picture14_MT.jpg)
+         
+
+Thus, at this stage, teachers still create time and space for students to access their Student Learning Space (SLS) to complete their pre-class assignments so that all students benefit from this teaching approach.
+
+**6\. External Competitions**&nbsp;
+
+The primary objective of our Mother Tongue Department is to foster a deep-seated passion for the Mother Tongue language and culture, empowering students to communicate with confidence, creativity, and excellence on both national and global platforms.
+
+**Highlights of 2024–2025**
+
+Our students have brought home numerous accolades, demonstrating that dedication and curiosity lead to remarkable results:
