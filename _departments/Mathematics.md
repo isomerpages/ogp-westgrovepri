@@ -4,8 +4,6 @@ permalink: /departments/mathematics/
 description: ""
 variant: markdown
 ---
-         
-
 **Mathematics**
 
 <table style="width:309.7pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
