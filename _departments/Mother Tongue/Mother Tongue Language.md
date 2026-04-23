@@ -523,8 +523,7 @@ The goal of our reading programme is to cultivate a genuine interest in Mother T
 ![](/images/Picture18_MT.png)
 ![](/images/Picture19_MT.png)
 ![](/images/Picture20_MT.png)
-         
-
+        
 **Useful Links:**
 
 Singapore Examinations and Assessment Board Approved Dictionary
