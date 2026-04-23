@@ -28,3 +28,4 @@ At West Grove, we strive to provide a rich variety of learning experiences that 
 
 *   To provide students with concrete and meaningful learning experiences to deepen their understanding of mathematical concepts.
 *   To empower students to reason mathematically and communicate their thinking clearly.
+
