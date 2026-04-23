@@ -527,3 +527,7 @@ The goal of our reading programme is to cultivate a genuine interest in Mother T
 Singapore Examinations and Assessment Board Approved Dictionary
 
 [https://www.seab.gov.sg/docs/default-source/documents/list\_of\_dictionaries\_for\_examination.pdf](https://www.seab.gov.sg/docs/default-source/documents/list_of_dictionaries_for_examination.pdf)
+
+# **Mother Tongue Level Representatives**
+
+![](/images/Table_Reps___MT.png)
