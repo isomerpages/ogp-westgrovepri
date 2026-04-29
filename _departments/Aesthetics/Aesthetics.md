@@ -77,17 +77,17 @@ Most importantly, they discover the joy of learning and the power of self-expres
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
 <p><strong>Museum Experience</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture6_Aes.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture6_Aes.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
 <p><strong>Our Students' works</strong>
 </p>
