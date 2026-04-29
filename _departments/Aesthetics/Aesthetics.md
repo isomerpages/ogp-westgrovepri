@@ -68,5 +68,11 @@ Most importantly, they discover the joy of learning and the power of self-expres
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Classroom Lessons" src="/images/Picture1_Aes.png">
 </div>
+<p><strong>Recess Talent Showcase</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_in1___Aes_pic.png">
+</div>
 <p></p>
 <p></p>
