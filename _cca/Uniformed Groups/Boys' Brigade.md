@@ -66,8 +66,9 @@ objectives below:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Liu Ning, Mr Saw Jin Teik,</p>
-<p>Mrs Nancy Tan-Chan</p>
+<p>Mr. Liu Ning,</p>
+<p>Mrs. Nancy Tan-Chan</p>
+<p>Mdm. Charlotte Ong</p>
 </td>
 </tr>
 </tbody>
@@ -88,6 +89,6 @@ objectives below:</p>
 <p><strong><u>Our Boys in Action</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7u3jXePI1MxmC9r0dI6FZWcKhhJ6d-_8Z7HlAiEnm2GXXdO4qNphhdj33QgUpCjAwo_wgM0cmSP7A/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
