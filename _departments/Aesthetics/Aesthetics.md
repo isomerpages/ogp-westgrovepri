@@ -92,6 +92,6 @@ Most importantly, they discover the joy of learning and the power of self-expres
 <p><strong>Our Students' works</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_in1___pic.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/4_in1___pic.png">
 </div>
 <p></p>
