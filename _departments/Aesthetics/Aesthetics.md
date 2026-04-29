@@ -71,7 +71,7 @@ Most importantly, they discover the joy of learning and the power of self-expres
 <p><strong>Recess Talent Showcase</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3_in1___Aes_pic.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/3_in1___Aes_pic.png">
 </div>
 <p><strong>Recess Activities</strong>
 </p>
