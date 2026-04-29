@@ -75,8 +75,9 @@ objectives below:</p>
 </table>
 <p><strong>Achievements</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Achievements" src="/images/BB_2026_Achievements.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Boys_Brigade_Achievements.png">
 </div>
 <p><strong><u>Click here for Our videos:</u></strong>
 </p>
