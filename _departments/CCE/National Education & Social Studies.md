@@ -19,7 +19,7 @@ It emphasises cultivating a sense of belonging and emotional rootedness
 to Singapore. NE aims to develop national cohesion, cultivate the instinct
 for survival as a nation and instill confidence in our nation’s future
 in our students by:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>fostering a sense of identity, pride and self-respect as Singaporeans;</p>
 </li>
@@ -47,7 +47,7 @@ that ensures our continued success and well-being.</p>
 <p>NE begins with Me</p>
 <p><strong>PROGRAMMES OVERVIEW:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Memory Lane Activity</p>
 </li>
