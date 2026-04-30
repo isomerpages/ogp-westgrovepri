@@ -2,9 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics.md
-      - WGPS Assessment Plan/Assessment in WGPS.md
       - WGPS Assessment Plan/.keep
+      - WGPS Assessment Plan/Assessment in WGPS.md
       - English/.keep
       - English/English Language.md
       - English/Language Alive !.md
@@ -21,6 +20,7 @@ collections:
       - PHE, CCA & Health Management/Educational Articles for Parents.md
       - PHE, CCA & Health Management/SwimSafer Certificate User Guide for
         Parents.md
+      - Aesthetics.md
       - CCE/.keep
       - CCE/Sexuality Education.md
       - CCE/National Education & Social Studies.md
