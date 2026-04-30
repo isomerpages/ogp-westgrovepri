@@ -86,11 +86,11 @@ how past events have shaped the world we live in.</p>
 <p><strong>Kreta Ayer Heritage Gallery:</strong>
 <br><a href="https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery</a>
 </p>
-<p><strong>Geylang Serai Heritage Gallery:</strong> 
+<p><strong>Geylang Serai Heritage Gallery:</strong>
 </p>
 <p><a href="https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery</a>
 </p>
-<p><strong>Asian Civilisations Museum:</strong> 
+<p><strong>Asian Civilisations Museum:</strong>
 </p>
 <p><a href="https://www.nhb.gov.sg/acm" rel="noopener nofollow" target="_blank">https://www.nhb.gov.sg/acm</a>
 </p>
