@@ -82,11 +82,15 @@ how historical events continue to impact our lives today. The visit will
 deepen their understanding of history and offer valuable insights into
 how past events have shaped the world we live in.</p>
 <p><strong>Links:</strong>
-<br><strong>Kreta Ayer Heritage Gallery:</strong><a href="https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery</a>
 </p>
-<p><strong>Geylang Serai Heritage Gallery:</strong>  <a href="https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery</a>
+<p><strong>Kreta Ayer Heritage Gallery:</strong>
+<br><a href="https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Kreta-Ayer-Heritage-Gallery</a>
 </p>
-<p><strong>Asian Civilisations Museum:</strong>  <a href="https://www.nhb.gov.sg/acm" rel="noopener noreferrer nofollow" target="_blank">https://www.nhb.gov.sg/acm</a>
+<p><strong>Geylang Serai Heritage Gallery:</strong> 
 </p>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/national-education" rel="noopener noreferrer nofollow" target="_blank">ucation</a>
+<p><a href="https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery" rel="noopener noreferrer nofollow" target="_blank">https://www.roots.gov.sg/stories-landing/stories/Geylang-Serai-Heritage-Gallery</a>
+</p>
+<p><strong>Asian Civilisations Museum:</strong> 
+</p>
+<p><a href="https://www.nhb.gov.sg/acm" rel="noopener nofollow" target="_blank">https://www.nhb.gov.sg/acm</a>
 </p>
