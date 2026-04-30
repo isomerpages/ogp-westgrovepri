@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - WGPS Assessment Plan/.keep
       - WGPS Assessment Plan/Assessment in WGPS.md
       - English/.keep
@@ -22,8 +21,9 @@ collections:
       - PHE, CCA & Health Management/SwimSafer Certificate User Guide for
         Parents.md
       - Aesthetics.md
-      - CCE/Cyber Wellness.md
+      - Applied Learning Programme (ALP).md
       - CCE/.keep
+      - CCE/Cyber Wellness.md
       - CCE/Student Well Being.md
       - CCE/National Education & Social Studies.md
       - CCE/Growing Years.md
