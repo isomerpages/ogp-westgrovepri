@@ -5,7 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3>National Education &amp; Social Studies</h3>
 <p><strong>INTRODUCTION:</strong>
 </p>
 <p>Social Studies (SS) is a subject that encompasses the study of history,
