@@ -61,9 +61,9 @@ with perseverance, wisdom, and grace — true innovators who can make a positive
 difference in the world.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1_ALP.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_1_ALP.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_2_ALP.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Pic_2_ALP.png">
 </div>
 <p></p>
