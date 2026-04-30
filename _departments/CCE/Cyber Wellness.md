@@ -23,106 +23,12 @@ and Communication Technology (ICT) for positive purposes.</p>
 <p>be safe and responsible users of ICT.</p>
 </li>
 </ul>
-<p>Through the curriculum, your child learns knowledge and skills to
-<br>&nbsp;have balanced screen use, be safe online, and exhibit positive online
-behaviours.</p>
+<p>Through the curriculum, your child learns knowledge and skills to have
+balanced screen use, be safe online, and exhibit positive online behaviours.</p>
 <p>The Cyber Wellness curriculum is organised into 5 topics:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Topics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>What students will learn about</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber use</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Maintaining a healthy balance of online and offline activities</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber identity</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Developing a healthy online identity</p>
-</li>
-<li>
-<p>Appropriate online expression</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber relationships</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Netiquette</p>
-</li>
-<li>
-<p>Cyber bullying</p>
-</li>
-<li>
-<p>Developing safe, respectful and meaningful online relationships</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Citizenship</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Understanding the cyber world</p>
-</li>
-<li>
-<p>Handling online content and behaviour</p>
-</li>
-<li>
-<p>Having a positive presence in the cyber community</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cyber Ethics</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Creating and sharing of online content in a responsible manner</p>
-</li>
-<li>
-<p>Respecting copyright</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic_1_Cyber_wellness.png">
+</div>
 <p>&nbsp;</p>
 <p>For more information on MOE’s Cyber Wellness curriculum, please scan here.&nbsp;&nbsp;</p>
 <p></p>
