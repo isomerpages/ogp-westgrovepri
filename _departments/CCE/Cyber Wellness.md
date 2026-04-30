@@ -31,6 +31,10 @@ balanced screen use, be safe online, and exhibit positive online behaviours.</p>
 </div>
 <p>&nbsp;For more information on MOE’s Cyber Wellness curriculum, please
 scan here.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Pic_2_Cyber_wellness.png">
+</div>
 <p><a href="https://go.gov.sg/moe-cw-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-cw-education</a>
 </p>
 <p><strong>School Programmes&nbsp;</strong>
@@ -70,3 +74,4 @@ and deepfake content, practicing the habit of “Stop &amp; Check” before
 clicking or sharing. Importantly, they are encouraged to seek help from
 trusted adults whenever they feel unsure, reinforcing a supportive environment
 for navigating the digital space safely.</p>
+<p></p>
