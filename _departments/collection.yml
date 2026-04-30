@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics.md
       - WGPS Assessment Plan/Assessment in WGPS.md
       - WGPS Assessment Plan/.keep
       - English/.keep
