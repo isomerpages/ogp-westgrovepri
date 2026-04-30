@@ -71,7 +71,7 @@ their critical and reflective thinking skills.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
 </div>
 <p>The <strong>E2K + HP Programme</strong> provides enriched learning opportunities
 for students with strong interest and aptitude in Mathematics. It aims
