@@ -2,115 +2,89 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# Mathematics
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
-.tg .tg-ytt9{background-color:#DBDBDB;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ytt9">Head of Department (Covering) </th>
-    <th class="tg-s5dh">Mrs. Michelle Sim<br></th>
-  </tr>
-</thead>
+<h1><strong>Mathematics</strong></h1>
+<table style="width: 0px">
+<colgroup></colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ytt9">Level Head (Mathematics)<br></td>
-    <td class="tg-s5dh">Mr. Teo Jia Jun<br></td>
-  </tr>
-  
-</tbody></table>
-
-**INTRODUCTION**
-
-Mathematics is the study of patterns and relationships. It is an excellent tool for the development of one’s intellectual competence in logical reasoning, spatial visualization, analysis and abstract thinking. Pupils develop numeracy, reasoning, thinking skills and problem-solving skills through learning and application of mathematics concepts taught in class.
-
-In West Grove, we aim to provide a variety of learning experiences to help pupils develop and explore Mathematics concepts and apply them in a wide range of real-world problems.
-
-**MISSION / VISION**
-
-* To provide our students with concrete experiences to learn Mathematics concepts meaningfully.
-* To inculcate our students in mathematical reasoning and communication.
-
-![](/images/Until%202022_Pictures/Mission%20&amp;%20Vision.jpg)
-
-**Syllabus Organisation from P1 - 6**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wkil{background-color:#BAB6B6;color:#0C2733;text-align:center;vertical-align:middle}
-.tg .tg-o88e{background-color:#BAB6B6;color:#0C2733;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-g2u8{background-color:#BAB6B6;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9y7l{background-color:#BAB6B6;color:#0C2733;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-o88e" colspan="3">3 Content Strands + 1 Process Strand</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-g2u8">Number &amp; Algebra<br></td>
-    <td class="tg-g2u8">Measurement &amp; Geometry<br></td>
-    <td class="tg-g2u8">Statistics</td>
-  </tr>
-  <tr>
-    <td class="tg-9y7l">Example of Topics:<br>Whole numbers, Fractions, Money,<br>Decimals, Percentage, Ratio, Algebra, etc. </td>
-    <td class="tg-9y7l">Example of Topics:<br>Shapes, Length, Mass,<br>Volume, Area, Time, Angles, etc. </td>
-    <td class="tg-9y7l">Example of Topics:<br>Interpreting Picture Graphs, Bar Graphs,<br>Line Graphs, Tables, Pie Charts, etc.</td>
-  </tr>
-  <tr>
-    <td class="tg-o88e" colspan="3">Mathematical Processes<br></td>
-  </tr>
-  <tr>
-    <td class="tg-wkil" colspan="3">Example of Process Skills: Reasoning, Communication, Connections, Thinking, Heuristics, etc.</td>
-  </tr>
+<tr></tr>
 </tbody>
 </table>
-
-**PROGRAMMES OVERVIEW:**
-
-In West Grove, we aim to provide programmes which will help our students to develop strong basics in Mathematics concepts and skills in problem-solving. Besides, students will be exposed to real-world problems and hands-on experiences to learn Mathematics in an interesting manner.
-
-**KEY PROGRAMMES:**
-
-**1. Laugh**
-
-This programme is held from Term 1 to Term 3 which aims to support the selected Primary Six pupils to learn Mathematics. Our school alumni who are currently in Secondary One will provide peer-tutoring to them.
-
-**2. ACE**
-
-In West Grove, we provide opportunities to potential students who are good in Mathematics to extend their cognitive abilities in mathematical problem solving.
-
-**3. GOLD**
-
-GOLD stands for **G**ame **O**riented **L**earning **D**evelopment in Mathematics which aims to motivate young Mathematics learners through games in the learning of Mathematics. It is held termly during recess and it involves all Primary 1 to Primary 6 students. Our students also get to collect stamps for their participation and exchange the stamps for tokens.
-
-**4. ICAN**
-
-
-ICAN programme aims to provide additional support to the selected students from Primary 1 to Primary 4 to help them to close the learning gaps in Mathematics.
-
-**5.E2K**
-
-E2K programme aims to develop critical thinking skills in top-performing Mathematics students to solve the problems.
-
-**6.P1, P3 and P5 Mathematics Workshop for Parents**
-
-Mathematics workshops will be organised yearly for parents of our Primary 1, Primary 3 and Primary 5 to brief them on the Mathematics syllabus and assessment. Resources used during Primary 1 lessons will be shared with the parents to give them an idea how the children learn Mathematics in West Grove. As for Primary 3 and Primary 5 workshop, parents will learn how to solve Mathematics problems through model drawing and heuristics. Parents will also be briefed on the use of calculators during the P5 workshop.
-
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQbC0iq3Nqw6ESEAyGxOWtmYDxhNR1CtJvFZ8Y4nIwlRZyRAbF-pRt6wJwb9QYYQZDeL1xxge0oe2P9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math_table_11.png">
+</div>
+<p><strong>PROGRAMMES OVERVIEW:</strong>
+</p>
+<p>At West Grove, we aim to provide programmes that build strong foundations
+in mathematical concepts and problem-solving skills. Through exposure to
+real-world contexts and hands-on experiences, students learn Mathematics
+in engaging and meaningful ways.</p>
+<h4><strong>KEY PROGRAMMES:</strong></h4>
+<h4><strong>1.&nbsp;&nbsp; AuthentiCity + Koobits</strong></h4>
+<p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2_3.png">
+</div>
+<p></p>
+<p>At West Grove, we build strong mathematical foundations through meaningful
+and engaging learning experiences. <strong>AuthentiCity</strong>, supported
+by <strong>Koobits</strong>, helps students develop conceptual understanding,
+confidence and fluency in Mathematics.</p>
+<p>Through AuthentiCity, students learn Mathematics in <strong>authentic and real-world contexts</strong>,
+helping them see its relevance beyond the classroom. Lessons encourage
+curiosity, exploration and sense-making, allowing students to understand <em>why</em> mathematical
+ideas work, not just <em>how</em> to apply them.</p>
+<p>Koobits complements classroom learning by providing <strong>personalised practice and immediate feedback</strong>,
+enabling students to learn at an appropriate pace while taking greater
+ownership of their learning.</p>
+<p>Together, these approaches nurture <strong>Passionate Lifelong Learners</strong> who
+enjoy learning Mathematics, build strong foundations and develop confidence
+to take on new challenges.</p>
+<hr>
+<h4><strong>2.&nbsp;Making Thinking Visible (MTV) / Open-Ended (OE) Tasks</strong></h4>
+<p><strong>Building Reasoning and Mathematical Thinking</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_4_5_6.png">
+</div>
+<p>Reasoning and thinking are central to Mathematics learning at West Grove.
+Through <strong>Making Thinking Visible (MTV)</strong> routines and <strong>Open-Ended (OE) Tasks</strong>,
+students are encouraged to explain, justify and reflect on their mathematical
+thinking.</p>
+<p>MTV routines support students in <strong>articulating their ideas clearly</strong>,
+making their thinking visible through discussion, representations and reflection.
+Students learn from one another and gain deeper understanding by comparing
+different strategies.</p>
+<p>Open-Ended Tasks allow for <strong>multiple approaches and solutions</strong>,
+shifting the focus from simply getting the correct answer to explaining
+reasoning and problem-solving processes.</p>
+<p>Through feedback from self, peers and teachers, students refine their
+thinking and develop confidence in communicating mathematical ideas, strengthening
+their critical and reflective thinking skills.</p>
+<p></p>
+<h4><strong>3.&nbsp;&nbsp;E2K + HP Programme</strong></h4>
+<p><strong>Stretching Thinking for STEM+ Innovators<br><em>(Higher Ability Learners Programme)</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Picture8.png">
+</div>
+<p>The <strong>E2K + HP Programme</strong> provides enriched learning opportunities
+for students with strong interest and aptitude in Mathematics. It aims
+to stretch thinking and nurture <strong>STEM+ Innovators</strong> who enjoy
+challenge and inquiry.</p>
+<p>Students engage in <strong>non-routine and higher-order tasks</strong> that
+require deep thinking, creativity and perseverance. Learning experiences
+emphasise exploration, making connections and solving complex problems.</p>
+<p>Through these experiences, students learn to approach challenges systematically,
+test ideas and learn from mistakes. They are encouraged to communicate
+their thinking clearly and collaborate with peers.</p>
+<p>The programme supports students in developing confidence, resilience and
+a passion for Mathematics, preparing them to take on advanced learning
+and future STEM-related challenges.</p>
+<p></p>
+<p></p>

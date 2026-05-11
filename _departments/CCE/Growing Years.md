@@ -1,6 +1,6 @@
 ---
-title: Sexuality Education
-permalink: /departments/candc-education/sexuality-education/
+title: Growing Years
+permalink: /departments/candc-education/growing-years/
 description: ""
 third_nav_title: CCE
 variant: tiptap
