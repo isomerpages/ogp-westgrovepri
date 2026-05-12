@@ -14,6 +14,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math_table_11.png">
 </div>
+<p><strong>MISSION / VISION</strong>
+</p>
+<ul>
+<li>
+<p>To provide students with concrete and meaningful learning experiences
+to deepen their understanding of mathematical concepts.</p>
+</li>
+<li>
+<p>To empower students to reason mathematically and communicate their thinking
+clearly.</p>
+</li>
+</ul>
 <p><strong>PROGRAMMES OVERVIEW:</strong>
 </p>
 <p>At West Grove, we aim to provide programmes that build strong foundations
