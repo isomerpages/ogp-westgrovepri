@@ -5,46 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h1>Science</h1>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Tee Kar Yeow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head, Science
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Christopher Wong Zai Fa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher, Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Nurhuda Mohd. Amin</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_peersonnels_pic.png">
+</div>
 <p><strong>Mission</strong>
 </p>
 <p>To nurture each individual to respect and love the environment</p>
-<p>&nbsp;</p>
-<p><strong>Vision</strong>
+<p>&nbsp;<strong>Vision</strong>
 </p>
 <p>To arouse pupil’s interest in Science through first-hand experiences.</p>
 <p>&nbsp;</p>
@@ -64,8 +32,7 @@ attitudes for scientific inquiry.</p>
 <p>Appreciate how Science influences people and the environment</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Key Programmes:</strong>
+<p>&nbsp;<strong>Key Programmes:</strong>
 </p>
 <p><strong>E-pedagogy lessons</strong>
 </p>
@@ -135,15 +102,6 @@ communication, collaboration and information skills.&nbsp;&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Hydroponics (P3)</strong>
-</p>
-<p>This is a programme where P3 students will get to plant a seed and monitor
-its growth using a hydroponics machine in school. The objectives include
-the reinforcement of science concepts learnt in the life cycle topic and
-a development of their global literacy to understand real world challenges
-in the agriculture world in Singapore and the region beyond.</p>
-<p>&nbsp;</p>
 <p><strong>Enrichment programmes:</strong>
 </p>
 <p><strong>E2K Science</strong>
