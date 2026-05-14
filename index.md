@@ -16,12 +16,6 @@ sections:
         - title: School Calendar
           description: 2026 School Calendar
           url: https://calendar.google.com/calendar/embed?src=westgroveps1%40gmail.com&ctz=Asia%2FSingapore
-        - title: WGPS Facebook Page
-          description: Official WGPS FB site
-          url: https://www.facebook.com/profile.php?id=61555276950602
-        - title: WGPS Instagram Page
-          description: Official WGPS IG page
-          url: https://www.instagram.com/wgps_official/?hl=en
         - title: Guided School Tour for P1 2027 Parents
           description: Register by 29 May 2026
           url: https://form.gov.sg/6a0085d494219e66c4637a46
