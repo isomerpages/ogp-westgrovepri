@@ -72,7 +72,7 @@ reading, and classroom libraries, students develop strong reading habits,
 improve comprehension skills, and cultivate a love for reading.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_3.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_3.png">
 </div>
 <p><strong>3) Enrichment Programmes</strong>
 </p>
