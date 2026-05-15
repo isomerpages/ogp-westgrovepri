@@ -44,13 +44,6 @@ and NewsBuzz activities. Assessment for Learning (AfL) and Assessment of
 Learning (AoL) are used to monitor pupils’ progress and support improvement.
 ICT is also meaningfully infused, particularly in the lower primary levels,
 to enhance engagement and support independent learning.</p>
-<p>The curriculum is anchored on the MOE STELLAR framework and strengthened
-by school-based programmes such as spelling and dictation, Show &amp; Tell,
-writing programmes, comprehension and synthesis &amp; transformation packages,
-and NewsBuzz activities. Assessment for Learning (AfL) and Assessment of
-Learning (AoL) are used to monitor pupils’ progress and support improvement.
-ICT is also meaningfully infused, particularly in the lower primary levels,
-to enhance engagement and support independent learning.</p>
 <p>Through this integrated approach, pupils develop strong literacy skills,
 confidence in using the English language, and a love for learning.</p>
 <p></p>
