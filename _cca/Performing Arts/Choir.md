@@ -48,10 +48,10 @@ connect people, and contribute to the broader narrative of our interconnected
 global community.</p>
 <p><strong>Achievements:</strong>
 </p>
+<p>2026: Singapore Youth Festival – Distinction</p>
+<p>2025: Singapore International Choral Festival - Silver</p>
 <p>2024: Singapore Youth Festival – Distinction</p>
-<p>2023: Singapore International Choral Festival - Gold</p>
-<p>2019: Singapore International Choral Festival - Silver</p>
-<p>2018: Singapore Youth Festival - Accomplishment</p>
+<p></p>
 <p><strong>Practice Days:</strong>
 </p>
 <p>Tuesdays and/or Thursdays</p>
@@ -59,8 +59,8 @@ global community.</p>
 </p>
 <p>Ms. Wu Xiaowei</p>
 <p>Ms. Ng Yang Xi</p>
-<p>Mdm. Seetha</p>
+<p>Ms. Kartini</p>
 <div class="iframe-wrapper">
-<iframe height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKQaFFnpsw7mfK1HBwGiqkS0A8XRABFSxI11n5pmSnTPRLDfIsKdOjxOpNRZWrjsrhhkNrGjRDsT_Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="560" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTKQaFFnpsw7mfK1HBwGiqkS0A8XRABFSxI11n5pmSnTPRLDfIsKdOjxOpNRZWrjsrhhkNrGjRDsT_Y/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
