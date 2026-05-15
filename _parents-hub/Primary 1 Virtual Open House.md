@@ -4,7 +4,7 @@ permalink: /parents-hub/permalink/p1virtualorientation/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://sites.google.com/moe.edu.sg/wgps-2025primary-1virtualopenh/home" rel="noopener nofollow" target="_blank">Primary 1 Virtual Open House:</a>
+<p><a href="https://sites.google.com/moe.edu.sg/wgps-2026primary-1virtualopenh/home" rel="noopener nofollow" target="_blank">Primary 1 Virtual Open House:</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
