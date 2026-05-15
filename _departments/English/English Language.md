@@ -14,9 +14,6 @@ variant: markdown
          
 
 **KEY / SIGNATURE PROGRAMMES:**  
-The English Language Department is committed to providing meaningful and engaging learning experiences that nurture confident communicators, passionate readers, and thoughtful learners. Our key signature programmes are carefully designed to support students across different levels and learning needs through authentic experiences, reading initiatives, enrichment opportunities, and targeted support programmes.
-         
-
-**1.  Language Experience (P1–P4)**
-
+The English Language Department is committed to providing meaningful and engaging learning experiences that nurture confident communicators, passionate readers, and thoughtful learners. Our key signature programmes are carefully designed to support students across different levels and learning needs through authentic experiences, reading initiatives, enrichment opportunities, and targeted support programmes.     
+**1.  Language Experience (P1–P4)**  
 Students participate in hands-on and authentic learning experiences that integrate speaking, writing, observation, and collaboration. These programmes build confidence, strengthen language skills, and help students communicate with clarity and purpose.
