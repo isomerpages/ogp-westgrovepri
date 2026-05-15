@@ -47,14 +47,9 @@ to enhance engagement and support independent learning.</p>
 <p>Through this integrated approach, pupils develop strong literacy skills,
 confidence in using the English language, and a love for learning.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_PIC_2.png">
+</div>
 <p><strong>KEY / SIGNATURE PROGRAMMES:</strong>
 <br>The English Language Department is committed to providing meaningful and
 engaging learning experiences that nurture confident communicators, passionate
