@@ -89,6 +89,6 @@ interest in English.</p>
 RRP are implemented to help students strengthen their literacy skills and
 build confidence in using the English language.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_5alt.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_5alt.png">
 </div>
 <p></p>
