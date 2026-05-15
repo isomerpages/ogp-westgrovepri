@@ -62,7 +62,6 @@ and targeted support programmes.
 integrate speaking, writing, observation, and collaboration. These programmes
 build confidence, strengthen language skills, and help students communicate
 with clarity and purpose.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_2.png">
 </div>
