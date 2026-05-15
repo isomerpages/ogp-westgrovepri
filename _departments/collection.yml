@@ -4,9 +4,7 @@ collections:
     order:
       - WGPS Assessment Plan/.keep
       - WGPS Assessment Plan/Assessment in WGPS.md
-      - English/.keep
-      - English/English Language.md
-      - English/Language Alive !.md
+      - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
