@@ -81,7 +81,7 @@ Critical Thinking and Effective Communication, and Spell Bee provide opportuniti
 for students to further develop their language abilities and deepen their
 interest in English.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_4.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_4.png">
 </div>
 <p><strong>4) Support Programmes</strong>
 </p>
