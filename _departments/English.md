@@ -90,4 +90,14 @@ build confidence in using the English language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_5alt.png">
 </div>
-<p></p>
+<p><strong>Language Alive!</strong> is an online platform to enhance students’
+learning experiences in school and at home, showcasing students' work and
+performances. It aims to create a culture of sharing and learning amongst
+students, to excite and ignite in them a love for the English language.</p>
+<p>Visit Language Alive! at</p>
+<p>[<a href="https://sites.google.com/moe.edu.sg/wgpslanguagealive/home](https://sites.google.com/moe.edu.sg/wgpslanguagealive/home)" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/wgpslanguagealive/home](https://sites.google.com/moe.edu.sg/wgpslanguagealive/home)</a>
+</p>
+<p>with your Student ICON.</p>
+<p>
+<br>
+</p>
