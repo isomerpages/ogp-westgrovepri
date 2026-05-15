@@ -6,33 +6,7 @@ third_nav_title: English
 variant: markdown
 ---
 # English Language
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s5dh{color:#0C2733;text-align:left;vertical-align:middle}
-.tg .tg-c1fh{background-color:#AEAAAA;color:#0C2733;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1fh">Head of Department (Covering)</th>
-    <th class="tg-s5dh">Mdm. Sarifah Azlin<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c1fh">Level Head<br></td>
-    <td class="tg-s5dh">Mrs. Chen Pei Ai<br></td>
-  </tr>
-  <tr>
-    <td class="tg-c1fh">Lead Teacher<br></td>
-    <td class="tg-s5dh">Mdm. Yusnita Mohd Taib<br></td>
-  </tr>
-</tbody></table>
+![](/images/English_Dept_Pic.png)
 
 **INTRODUCTION:**
 
