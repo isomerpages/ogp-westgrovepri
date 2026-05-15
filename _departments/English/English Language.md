@@ -74,4 +74,13 @@ improve comprehension skills, and cultivate a love for reading.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_3.png">
 </div>
+<p><strong>3) Enrichment Programmes</strong>
+</p>
+<p>Selected programmes such as Reading Circles, Creative Writing Workshops,
+Critical Thinking and Effective Communication, and Spell Bee provide opportunities
+for students to further develop their language abilities and deepen their
+interest in English.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_4.png">
+</div>
 <p></p>
