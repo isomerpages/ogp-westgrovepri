@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - English.md
       - WGPS Assessment Plan/.keep
       - WGPS Assessment Plan/Assessment in WGPS.md
+      - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue/.keep
