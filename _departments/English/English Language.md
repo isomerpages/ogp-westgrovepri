@@ -7,10 +7,8 @@ variant: markdown
 ---
 # English Language
 ![](/images/English_Dept_Pic.png)
-
-**INTRODUCTION:**
-
-* Literacy is the ability to read and use written information and to write appropriately in a range of contexts. It also involves the integration of speaking, listening and critical thinking with reading and writing and includes the cultural knowledge that enables the speaker, writer or reader to recognize and use language appropriate to the social situation.
+**VISION &amp; MISSION**
+* Literacy is more than the ability to read and write—it is the capacity to understand, communicate, and think critically across a range of contexts. It encompasses the integration of speaking, listening, reading, and writing, alongside the cultural awareness that allows individuals to use language appropriately in different social situations.
 * With this in mind, the English department's main objective is to ensure the optimum development of our children. We believe that all children have a right to develop, grow and learn in a society where each individual is valued and respected; where each individual in turn, values, respects and contributes positively to others and the environment which we all share.
 
 **MISSION:**
