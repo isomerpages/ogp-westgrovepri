@@ -4,7 +4,7 @@ permalink: /departments/English/english-language/
 description: ""
 variant: tiptap
 ---
-<h1>English Language</h1>
+<h1>English</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_PIC_3.png">
 </div>
