@@ -65,4 +65,9 @@ with clarity and purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English_Dept_Pic_2.png">
 </div>
+<p><strong>2) Reading Programmes – Bridges through Books Initiatives</strong>
+</p>
+<p>Through structured reading initiatives such as Moo-O, myON, newspaper
+reading, and classroom libraries, students develop strong reading habits,
+improve comprehension skills, and cultivate a love for reading.</p>
 <p></p>
