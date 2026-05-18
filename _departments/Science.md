@@ -5,10 +5,49 @@ description: ""
 variant: tiptap
 ---
 <h1>Science</h1>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Head of Department</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Mr. Tee Kar Yeow</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Level Head</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr. Christopher Wong Zai Fa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Subject Head</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm. Mindy Marie Neo Mae Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm. Nurhuda Amin</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_peersonnels_pic.png">
-</div>
 <p><strong>Mission</strong>
 </p>
 <p>To nurture each individual to respect and love the environment</p>
@@ -30,9 +69,10 @@ attitudes for scientific inquiry.</p>
 </li>
 <li>
 <p>Appreciate how Science influences people and the environment</p>
+<hr>
 </li>
 </ul>
-<p>&nbsp;<strong>Key Programmes:</strong>
+<p><strong>Key Programmes:</strong>
 </p>
 <p><strong>E-pedagogy lessons</strong>
 </p>
