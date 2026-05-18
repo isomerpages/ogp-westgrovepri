@@ -15,29 +15,33 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<td rowspan="1" colspan="2">
 <p><strong>Head of Department (Covering)</strong>
 </p>
-</th>
-<th rowspan="1" colspan="2">
+</td>
+<td rowspan="1" colspan="2">
 <p><strong>Mdm. Sarifah Azlin</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Level Head</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs. Chen Pei Ai</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Lead Teacher</p>
+<p><strong>Level Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm. Yusnita Mohd Taib</p>
+<p><strong>Mrs. Chen Pei Ai</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Lead Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mdm. Yusnita Mohd Taib</strong>
+</p>
 </td>
 </tr>
 </tbody>
