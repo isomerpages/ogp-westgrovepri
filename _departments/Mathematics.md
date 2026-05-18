@@ -5,15 +5,41 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Mathematics</strong></h1>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Head of Department (Covering)</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Mrs. Michelle Sim</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Level Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mr. Teo Jia Jun</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/math_table_11.png">
-</div>
 <p><strong>MISSION / VISION</strong>
 </p>
 <ul>
