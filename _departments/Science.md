@@ -23,26 +23,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Level Head</p>
+<p><strong>Level Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr. Christopher Wong Zai Fa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Subject Head</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm. Mindy Marie Neo Mae Li</p>
+<p><strong>Mr. Christopher Wong Zai Fa</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Senior Teacher</p>
+<p><strong>Subject Head</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm. Nurhuda Amin</p>
+<p><strong>Mdm. Mindy Marie Neo Mae Li</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Senior Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mdm. Nurhuda Amin</strong>
+</p>
 </td>
 </tr>
 </tbody>
