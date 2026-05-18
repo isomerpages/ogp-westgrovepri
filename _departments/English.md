@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Head of Department (Covering)        </strong>
+<p><strong>Head of Department (Covering)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="2">
