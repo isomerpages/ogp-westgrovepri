@@ -50,6 +50,7 @@ to deepen their understanding of mathematical concepts.</p>
 <li>
 <p>To empower students to reason mathematically and communicate their thinking
 clearly.</p>
+<hr>
 </li>
 </ul>
 <p><strong>PROGRAMMES OVERVIEW:</strong>
@@ -58,9 +59,15 @@ clearly.</p>
 in mathematical concepts and problem-solving skills. Through exposure to
 real-world contexts and hands-on experiences, students learn Mathematics
 in engaging and meaningful ways.</p>
-<h4><strong>KEY PROGRAMMES:</strong></h4>
-<h4><strong>1.&nbsp;&nbsp; AuthentiCity + Koobits</strong></h4>
-<p><strong>Building Strong Foundations through Enriched Learning Experiences<br></strong><em>(Passionate Lifelong Learners)</em>
+<p></p>
+<p><strong>KEY PROGRAMMES:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>AuthentiCity + Koobits</p>
+</li>
+</ol>
+<p><strong><u>Building Strong Foundations through Enriched Learning Experiences</u><br></strong><em>(Passionate Lifelong Learners)</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -82,8 +89,9 @@ ownership of their learning.</p>
 enjoy learning Mathematics, build strong foundations and develop confidence
 to take on new challenges.</p>
 <hr>
-<h4><strong>2.&nbsp;Making Thinking Visible (MTV) / Open-Ended (OE) Tasks</strong></h4>
-<p><strong>Building Reasoning and Mathematical Thinking</strong>
+<p><strong>2.&nbsp;Making Thinking Visible (MTV) / Open-Ended (OE) Tasks</strong>
+</p>
+<p><strong><u>Building Reasoning and Mathematical Thinking</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -104,8 +112,9 @@ reasoning and problem-solving processes.</p>
 thinking and develop confidence in communicating mathematical ideas, strengthening
 their critical and reflective thinking skills.</p>
 <p></p>
-<h4><strong>3.&nbsp;&nbsp;E2K + HP Programme</strong></h4>
-<p><strong>Stretching Thinking for STEM+ Innovators<br><em>(Higher Ability Learners Programme)</em></strong>
+<p><strong>3.&nbsp;&nbsp;E2K + HP Programme</strong>
+</p>
+<p><strong><u>Stretching Thinking for STEM+ Innovators</u><br>(Higher Ability Learners Programme)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
