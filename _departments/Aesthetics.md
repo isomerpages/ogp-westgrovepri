@@ -5,9 +5,35 @@ description: ""
 variant: tiptap
 ---
 <h1>Aesthetics</h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aes_IC.png">
-</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Head of Department</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Ms. Betty Chan</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Lead Teacher (Music)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mrs. Irene Chin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>INTRODUCTION:</strong>
 </p>
 <p>With the advent of the new media, increasingly, the Arts have been given
