@@ -16,8 +16,8 @@ sections:
         - title: School Calendar
           description: 2026 School Calendar
           url: https://calendar.google.com/calendar/embed?src=westgroveps1%40gmail.com&ctz=Asia%2FSingapore
-        - title: Guided School Tour for P1 2027 Parents
-          description: Register by 29 May 2026
+        - title: Guided School Tour
+          description: for P1 2027 Parents
           url: https://form.gov.sg/6a0085d494219e66c4637a46
       variant: image
 ---
