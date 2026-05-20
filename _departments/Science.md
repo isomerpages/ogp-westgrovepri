@@ -54,10 +54,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Mission</strong>
+<p><strong>MISSION:</strong>
 </p>
 <p>To nurture each individual to respect and love the environment</p>
-<p>&nbsp;<strong>Vision</strong>
+<p><strong>VISION:</strong>
 </p>
 <p>To arouse pupil’s interest in Science through first-hand experiences.</p>
 <p>&nbsp;</p>
