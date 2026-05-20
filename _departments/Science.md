@@ -157,7 +157,7 @@ in Science. In this programme, students engage in scientific inquiry to
 innovate experiments and/or solutions to problems. Through the process,
 students can gain and develop 21st century competencies such as critical
 and inventive thinking and effective communication and collaboration skills.</p>
-<p>&nbsp;<strong>Science High Progress (HP) programme</strong>
+<p><strong>Science High Progress (HP) programme</strong>
 </p>
 <p>This programme is for a selected group of P4 and P5 students who have
 exhibit good attitude, aptitude and ability in Science. The objective is
