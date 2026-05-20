@@ -40,7 +40,7 @@ variant: tiptap
 <tr></tr>
 </tbody>
 </table>
-<p><strong>MISSION / VISION</strong>
+<p><strong>MISSION / VISION:</strong>
 </p>
 <ul>
 <li>
