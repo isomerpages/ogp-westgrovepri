@@ -5,14 +5,59 @@ description: ""
 variant: tiptap
 ---
 <h1>Science</h1>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Head of Department</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Mr. Tee Kar Yeow</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Level Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mr. Christopher Wong Zai Fa</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Subject Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mdm. Mindy Marie Neo Mae Li</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Senior Teacher</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Mdm. Nurhuda Amin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_peersonnels_pic.png">
-</div>
-<p><strong>Mission</strong>
+<p><strong>MISSION:</strong>
 </p>
 <p>To nurture each individual to respect and love the environment</p>
-<p>&nbsp;<strong>Vision</strong>
+<p><strong>VISION:</strong>
 </p>
 <p>To arouse pupil’s interest in Science through first-hand experiences.</p>
 <p>&nbsp;</p>
@@ -30,9 +75,10 @@ attitudes for scientific inquiry.</p>
 </li>
 <li>
 <p>Appreciate how Science influences people and the environment</p>
+<hr>
 </li>
 </ul>
-<p>&nbsp;<strong>Key Programmes:</strong>
+<p><strong>Key Programmes:</strong>
 </p>
 <p><strong>E-pedagogy lessons</strong>
 </p>
@@ -111,7 +157,6 @@ in Science. In this programme, students engage in scientific inquiry to
 innovate experiments and/or solutions to problems. Through the process,
 students can gain and develop 21st century competencies such as critical
 and inventive thinking and effective communication and collaboration skills.</p>
-<p>&nbsp;</p>
 <p><strong>Science High Progress (HP) programme</strong>
 </p>
 <p>This programme is for a selected group of P4 and P5 students who have
