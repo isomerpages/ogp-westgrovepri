@@ -30,10 +30,10 @@ in 2016.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Motto_Wisdom_and_Grace_School_Vision_Active_Minds__Gracious_Hearts__School_Mission_Innovation__Dare_to_Try_Excellence__Better_Beats_Best_Care__We_Before_Me_Creating_a_culture_of_innovation___4_.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Motto_Wisdom_and_Grace_School_Vision_Active_Minds__Gracious_Hearts__School_Mission_Innovation__Dare_to_Try_Excellence__Better_Beats_Best_Care__We_Before_Me_Creating_a_culture_of_innovation___3_.png">
 </div>
@@ -46,5 +46,3 @@ in 2016.</p>
 for the school. BLACK Outline demonstrates boldness in taking on challenges.
 GREEN Signifies freshness of mind and body towards learning. Like pages
 of an open book, BLUE shows learning with an open mind.</p>
-<p></p>
-<p></p>
