@@ -41,6 +41,13 @@ third_nav_title: Team West Grove
 </tr>
 </tbody>
 </table>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<hr>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,7 +65,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD, English (Covering)</strong>
+<p><strong>HOD, English</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
