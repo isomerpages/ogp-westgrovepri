@@ -20,4 +20,34 @@ sections:
           description: for P1 2027 Parents
           url: https://form.gov.sg/6a0085d494219e66c4637a46
       variant: image
+  - announcements:
+      title: Our Achievements
+      id: announcements
+      subtitle: Celebrating
+      announcement_items:
+        - title: SYF 2026
+          date: 30 April 2026
+          announcement: Guzheng Assemble & Choir - Distinction , Dance - Accomplishment
+          link_text: ""
+          link_url: ""
+        - title: National Chinese Challenge 2026
+          date: 25 April 2026
+          announcement: Top 6 Primary Schools
+          link_text: ""
+          link_url: ""
+        - title: YMCA National Chinese Speech Competition 2026
+          date: 19 March 2026
+          announcement: First Prize
+          link_text: ""
+          link_url: ""
+        - title: The Boys’ Brigade JM Fraser Award For Excellence
+          date: 02 January 2026
+          announcement: High Distinction
+          link_text: ""
+          link_url: ""
+        - title: The Girls’ Brigade Company Award
+          date: 02 January 2026
+          announcement: Bronze Award, Junior Brigader Brooch
+          link_text: ""
+          link_url: ""
 ---
