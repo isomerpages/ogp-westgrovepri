@@ -33,7 +33,9 @@ in 2016.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Motto_Wisdom_and_Grace_School_Vision_Active_Minds__Gracious_Hearts__School_Mission_Innovation__Dare_to_Try_Excellence__Better_Beats_Best_Care__We_Before_Me_Creating_a_culture_of_innovation___4_.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Motto_Wisdom_and_Grace_School_Vision_Active_Minds__Gracious_Hearts__School_Mission_Innovation__Dare_to_Try_Excellence__Better_Beats_Best_Care__We_Before_Me_Creating_a_culture_of_innovation___5_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_Motto_Wisdom_and_Grace_School_Vision_Active_Minds__Gracious_Hearts__School_Mission_Innovation__Dare_to_Try_Excellence__Better_Beats_Best_Care__We_Before_Me_Creating_a_culture_of_innovation___3_.png">
 </div>
