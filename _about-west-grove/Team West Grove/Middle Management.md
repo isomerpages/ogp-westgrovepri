@@ -27,7 +27,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Charmaine Sng</p>
+<p>Mdm. Charmaine Lee</p>
 </td>
 </tr>
 <tr>
