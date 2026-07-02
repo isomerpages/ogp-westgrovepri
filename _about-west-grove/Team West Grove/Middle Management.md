@@ -27,7 +27,7 @@ third_nav_title: Team West Grove
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Charmaine Sng</p>
+<p>Mrs. Charmaine Lee</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assist. Year Head (P1/2)</strong>
+<p><strong>Asst. Year Head (P1/2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +182,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assist. Year Head (P3/4)</strong>
+<p><strong>Asst. Year Head (P3/4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -191,7 +191,7 @@ third_nav_title: Team West Grove
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assist. Year Head (P5/6)</strong>
+<p><strong>Asst. Year Head (P5/6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
